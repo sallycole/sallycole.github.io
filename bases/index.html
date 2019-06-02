@@ -2,12 +2,18 @@
 layout: page
 ---
 
-{% for base in site.bases %}
-<li>
-  <h3>
-    <a class="post-link" href="{{ base.url | relative_url }}">
-      {{ base.title | escape }}
-    </a>
-  </h3>
-</li>
+{% assign bases_by_letter = site.bases | group_by_exp: "base", "base.title | slice: 0, 1" %}
+{% for letter in bases_by_letter %}
+  <h3>{{ letter.name | upcase }}</h3>
+  <ul>
+  {% for base in letter.items %}
+  <li>
+    <h4>
+      <a class="post-link" href="{{ base.url | relative_url }}">
+        {{ base.title | escape }}
+      </a>
+    </h4>
+  </li>
+  {% endfor %}
+  </ul>
 {% endfor %}
