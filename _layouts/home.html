@@ -1,0 +1,27 @@
+---
+layout: default
+---
+
+<div class="home">
+  {%- if page.title -%}
+    <h1 class="page-heading">{{ page.title }}</h1>
+  {%- endif -%}
+
+  {{ content }}
+
+  {%- if site.bases.size > 0 -%}
+    <h2 class="post-list-heading">{{ page.list_title | default: "Bases" }}</h2>
+    <ul class="post-list">
+      {%- for base in site.bases -%}
+      <li>
+        <h3>
+          <a class="post-link" href="{{ base.url | relative_url }}">
+            {{ base.title | escape }}
+          </a>
+        </h3>
+      </li>
+      {%- endfor -%}
+    </ul>
+  {%- endif -%}
+
+</div>

@@ -1,0 +1,21 @@
+---
+layout: page
+---
+
+<h3>Base information:</h3>
+<ul>
+  <li>Root: {{page.root_name}}</li>
+  <li>Root Language: {{page.root_language}}</li>
+  <li>Denotation: {{page.denotation}}</li>
+  {% if page.reference_link %}
+  <li><a href="{{page.reference_link}}">Reference Link</a></li>
+  {% endif %}
+</ul>
+
+<h3>Word Sums</h3>
+
+<ul>
+{% for word_sum in page.word_sums %}
+  <li>{{word_sum.sum}} -> {{word_sum.respelling}}</li>
+{% endfor %}
+</ul>

@@ -1,0 +1,13 @@
+---
+layout: page
+---
+
+{% for base in site.bases %}
+<li>
+  <h3>
+    <a class="post-link" href="{{ base.url | relative_url }}">
+      {{ base.title | escape }}
+    </a>
+  </h3>
+</li>
+{% endfor %}
