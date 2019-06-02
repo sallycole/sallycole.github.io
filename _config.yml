@@ -23,6 +23,8 @@ url: "http://swi.storyhouracademy.com" # the base hostname & protocol for your s
 twitter_username: lolfuture
 github_username:  sallycole
 
+google_analytics: UA-77731289-2
+
 # Build settings
 markdown: kramdown
 theme: minima
