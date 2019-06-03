@@ -8,7 +8,7 @@ denotation: "life"
 word_sums:
 - sum: 'Aut + o + Bi + o + Graph + y'
   respelling: autobiography
-- sum: 'Bi + o + Spher'
+- sum: 'Bi + o + Sphere'
   respelling: biosphere
 - sum: 'Bi + ome'
   respelling: biome
