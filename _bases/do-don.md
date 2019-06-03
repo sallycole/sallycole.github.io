@@ -79,7 +79,7 @@ word_sums:
 - sum: 'for + Do'
   respelling: fordo
 - sum: 'for + Do + ne'
-  respelling: 'fo + Do + ne'
+  respelling: fordone
 - sum: 'for + Do + ing'
   respelling: fordoing
 - sum: 'for + Do + es'
