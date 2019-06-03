@@ -12,6 +12,6 @@ word_sums:
   respelling: donned
 - sum: 'Do + n + ing'
   respelling: donning
-- sum: 'Do + n't'
+- sum: 'Do + n'/t'
   respelling: dont
 ---
