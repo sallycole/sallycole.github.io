@@ -50,6 +50,7 @@ Anyone can contribute to this project using the following tools.
 1. A GitHub account. Get yours at [github.com/join](https://github.com/join).
 2. GitHub Desktop. Download it at [desktop.github.com](https://desktop.github.com).
 3. The Atom text editor. Download it at [atom.io](https://atom.io).
+4. The project files. The project homepage is [here](https://github.com/sallycole/sallycole.github.io).
 
 # How to format your contributions prior to committing them
 
