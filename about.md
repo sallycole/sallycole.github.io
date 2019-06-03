@@ -61,23 +61,41 @@ You can contribute by making new .md files for bases not yet contributed. Or, by
 When you make a new .md file, mimic the format here while replacing the data values with the relevant information for the base that you are working with.
 
 `---
+
 name: vide
+
 title: vide
+
 reference_link: https://www.etymonline.com/word/vide#etymonline_v_7775
+
 root_name: videre
+
 root_language: Latin
+
 denotation: "see"
+
 word_sums:
+
 - sum: 'e + Vide + ence'
+
   respelling: evidence
+
 - sum: 'pro + vide + ed'
+
   respelling: provided
+
 - sum: 'pro + vide'
+
   respelling: provide
+
 - sum: 'e + Vide + ent'
+
   respelling: evident
+
 - sum: 'e + Vide + ent + ly'
+
   respelling: evidently
+
 ---`
 
 Please note that if you are putting a contraction such as the n't of don't into the value for a sum, you must type the apostrophe twice instead of once so as to adhere to the YAML code specification. For the respelling, you can type the apostrophe once per usual.
