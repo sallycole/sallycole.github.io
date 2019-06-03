@@ -1,7 +1,7 @@
 ---
 name: do
 title: do
-reference_link: https://www.etymonline.com/word/do?ref=etymonline_crossreference#etymonline_v_13867
+reference_link: null
 root_name: don
 root_language: Old English
 denotation: "make, act, perform, cause, put, place"
