@@ -35,9 +35,9 @@ Examples:
 cute + er -> cuter
 house + ing -> housing
 
-3. With the y to i convention, any suffix (vowel or consonant) can change a <y> to <i>. You can only keep a <y> inside a polymorphemic word if you have a good reason. There are only 3 good reasons.
+3. With the y to i convention, any suffix (vowel or consonant) can change a <y> at the end of a morpheme to <i>. You can only keep a final <y> inside a polymorphemic word if you have a good reason. There are only 3 good reasons.
 
-  * If changing a <y> to <i> forces an <ii> letter string, keep the <y>, and add the suffix. Example: cry + ing -> crying (not criing)
+  * If changing a <y> at the end of a morpheme to <i> forces an <ii> letter string, keep the <y>, and add the suffix. Example: cry + ing -> crying (not criing)
   * If the letter before the <y> is a vowel letter, keep the <y> and add the suffix. Example: stay + s -> stays
   * If the element on the right side of the join is another base, keep the <y> and add the base. Example: play + mate -> playmate
 
