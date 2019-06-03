@@ -60,6 +60,7 @@ You can contribute by making new .md files for bases not yet contributed. Or, by
 
 When you make a new .md file, mimic the format below while replacing the data values with the relevant information for the base that you are working with.
 
+```YAML
 ---
 name: vide
 title: vide
@@ -79,8 +80,14 @@ word_sums:
 - sum: 'e + Vide + ent + ly'
   respelling: evidently
 ---
+```
 
-Please note that if you are putting a contraction such as the n't of don't into the value for a sum, you must type the apostrophe twice instead of once so as to adhere to the YAML code specification. For the respelling, you can type the apostrophe once per usual.
+Please note that if you are putting a contraction such as the n't of don't into the value for a sum, you must type the apostrophe twice instead of once so as to adhere to the YAML code specification. For the respelling, you can type the apostrophe once per usual. Here is an example of that:
+
+```YAML
+  - sum: 'do + n''t'
+    respelling: don't
+```
 
 If you've made a .md file and are not yet familiar enough with GitHub to check it in, feel free to put it in a .zip file and email it to sallycole at gmail dot com.
 
