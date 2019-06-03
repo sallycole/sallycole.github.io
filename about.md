@@ -80,6 +80,8 @@ word_sums:
   respelling: evidently
 ---`
 
+Please note that if you are putting a contraction such as the n't of don't into the value for a sum, you must type the apostrophe twice instead of once so as to adhere to the YAML code specification. For the respelling, you can type the apostrophe once per usual.
+
 If you've made a .md file and are not yet familiar enough with GitHub to check it in, feel free to put it in a .zip file and email it to sallycole at gmail dot com.
 
 # Using word sums from this project to make word matrices
