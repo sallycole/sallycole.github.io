@@ -20,7 +20,7 @@ A word sum is a hypothesis about the morphemic structure of a word. One way this
 
   * There is a suffix on the right side of the join that begins with a vowel letter.
   * There is a morpheme on the left side of the join that is either a single monosyllabic form or the stressed part of a polysyllabic form.
-  * The morpheme on the left side of the join ends with a vowel letter grapheme followed by a consonant letter grapheme, but not <w> or <x>.
+  * The morpheme on the left side of the join ends with a vowel letter grapheme followed by a consonant letter grapheme, but not \<w\> or \<x\>.
 
 Examples:
 cut + ing -> cutting
