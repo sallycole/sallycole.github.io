@@ -36,10 +36,6 @@ word_sums:
   respelling: doffed
 - sum: 'Do + ff + ing'
   respelling: doffing
-- sum: 'Do + no + thing'
-  respelling: do-nothing
-- sum: 'Do + no + thing + ism'
-  respelling: do-nothingism
 - sum: 'Do + able'
   respelling: doable
 - sum: 'un + Do'
@@ -68,14 +64,8 @@ word_sums:
   respelling: redoing
 - sum: 're + Do + es'
   respelling: redoes
-- sum: 'To + Do'
-  respelling: to-do
-- sum: 'To + Do + s'
-  respelling: to-dos
 - sum: 'a + Do'
   respelling: ado
-- sum: 'Derring + Do'
-  respelling: derring-do
 - sum: 'for + Do'
   respelling: fordo
 - sum: 'for + Do + ne'
