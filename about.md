@@ -10,7 +10,7 @@ This is an open source project designed to collect word sums for all free and bo
 
 # What is a base?
 
-A base is a morpheme to which affixes, connecting vowel letters, or other bases may be added. A free base can stand alone as a word in English whereas a bound base can not. For example, <do> is a free base while <pter> is a bound base.
+A base is a morpheme to which affixes, connecting vowel letters, or other bases may be added. A free base can stand alone as a word in English whereas a bound base can not. For example, 'do' is a free base while 'pter' is a bound base.
 
 # What is a word sum?
 
