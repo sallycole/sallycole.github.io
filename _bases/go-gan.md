@@ -48,7 +48,7 @@ word_sums:
   respelling: ago
 - sum: 'on + Go + ing'
   respelling: ongoing
-- sum: 'Woe + be + Gone'
+- sum: 'Woe + be + Go + ne'
   respelling: woebegone
 - sum: 'Go + er + s'
   respelling: goers
