@@ -10,7 +10,7 @@ This is an open source project designed to collect word sums for all free and bo
 
 # What is a base?
 
-A base is a morpheme to which affixes, connecting vowel letters, or other bases may be added. A free base can stand alone as a word in English whereas a bound base can not. For example, 'do' is a free base while 'pter' is a bound base.
+A base is a morpheme to which affixes, connecting vowel letters, or other bases may be added. A free base can stand alone as a word in English whereas a bound base can not. For example, <\do>\ is a free base while <\pter>\ is a bound base.
 
 # What is a word sum?
 
@@ -43,7 +43,14 @@ house + ing -> housing
 
 If you contribute to this project, please be sure to check the joins of your words sums and share the most accurate representation of morphemic structure as possible.
 
-# Getting ready to contribute a word sum
+# Other considerations for building this knowledge base
+
+The following best practices should be kept in mind when contributing a new base and its related word sums.
+
+ * In the sum part of the equation where you're using the addition sign, use initial caps for all base elements while keeping prefixes, suffixes, and connecting vowel letters in all lowercase letters. This makes the word sums compatible with Neil Ramsden's Mini-Matrix Maker.
+ * Do not include hyphenated words in any list of word sums. Hyphenated words belong in the etymological family for a base, not in the morphological family for a base. This is because a hyphenated word is closer to two words than to a single word.
+
+# Getting ready to contribute
 
 Anyone can contribute to this project using the following tools.
 
