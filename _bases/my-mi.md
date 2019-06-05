@@ -8,4 +8,6 @@ denotation: "belonging to me"
 word_sums:
 - sum: 'My + Self'
   respelling: myself
+- sum: 'My + Selve + s'
+  respelling: myselves
 ---
