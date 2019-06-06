@@ -68,4 +68,6 @@ word_sums:
   respelling: runabout
 - sum: 'Run + About + s'
   respelling: runabouts
+- sum: 'Run + Around'
+  respelling: runaround
 ---
