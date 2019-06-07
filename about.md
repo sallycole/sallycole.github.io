@@ -49,6 +49,7 @@ The following best practices should be kept in mind when contributing a new base
 
  * In the sum part of the equation where you're using the addition sign, use initial caps for all base elements while keeping prefixes, suffixes, and connecting vowel letters in all lowercase letters. This makes the word sums compatible with Neil Ramsden's Mini-Matrix Maker.
  * Do not include hyphenated words in any list of word sums. Hyphenated words belong in the etymological family for a base, not in the morphological family for a base. This is because a hyphenated word is closer to two words than to a single word.
+ * Pairs like \<wolf\> and \<wolve\>, \<self\> and \<selve\>, \<loaf\> and \<loave\> are alternant morphemic forms. If one of these forms is the base that you are studying, its pair should have a separate morphological family.
 
 # Getting ready to contribute
 
