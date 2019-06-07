@@ -4,7 +4,7 @@ title: kin
 reference_link: https://parentingpatch.com/word-matrix-kin/
 root_name: cynn
 root_language: Old English
-denotation: "family; race; kind, sort, rank; nature"
+denotation: "family, race; kind, sort, rank, nature"
 word_sums:
 - sum: 'a + Kin'
   respelling: akin
