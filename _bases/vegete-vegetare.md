@@ -16,7 +16,7 @@ word_sums:
   respelling: vegetary
 - sum: 'Vegete + ar + y + an'
   respelling: vegetarian
-- sum: 'Vegete + ar + y + an + s
+- sum: 'Vegete + ar + y + an + s'
   respelling: vegetarians
 - sum: 'Vegete + ar + y + an + ism'
   respelling: vegetarianism
