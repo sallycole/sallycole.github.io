@@ -16,10 +16,18 @@ word_sums:
   respelling: pissants
 - sum: 'Ant + Eat + er'
   respelling: anteater
+- sum: 'Ant + Eat + er + s'
+  respelling: anteaters
 - sum: 'Ant + Lion'
   respelling: antlion
+- sum: 'Ant + Lion + s'
+  respelling: antlions
 - sum: 'Ant + Bird'
   respelling: antbird
+- sum: 'Ant + Bird+ s'
+  respelling: antbirds
 - sum: 'Ant + Hill'
   respelling: anthill
+- sum: 'Ant + Hill + s'
+  respelling: anthills
 ---
