@@ -61,6 +61,8 @@ Anyone can contribute to this project using the following tools.
 4. The project files. The project homepage is [here](https://github.com/sallycole/sallycole.github.io).
 5. Permission to commit code to the project. To request this, contact Sally Cole via email or Twitter.
 
+A tutorial video about getting setup with these tools is available [here on YouTube](https://youtu.be/sfIoTHWTkk8).
+
 # How to format your contributions prior to committing them
 
 This project stores data about English bases in a markdown file format that ends with .md. We use only one .md file per English base. Then, we use a human-readable data-serialization language called YAML within the file to store detailed information about each individual base. This includes the base's oldest known root, this root's language of origin, a denotation or primary meaning of the base, and all the word sums and words that can be built by adding affixes and connecting vowel letters to the base.
