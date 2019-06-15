@@ -26,9 +26,9 @@ Examples:
 cut + ing -> cutting
 per + mit + ed -> permitted
 
-2. With the final e convention, you must replace the final <e> in the morpheme on the left side of a join if the following conditions are met:
+2. With the final e convention, you must replace the final \<e\> in the morpheme on the left side of a join if the following conditions are met:
 
-  * The final <e> is an orthographic marker and does not represent a phoneme.
+  * The final \<e\> is an orthographic marker and does not represent a phoneme.
   * The suffix on the right side of the join begins with a vowel letter.
 
 Examples:
