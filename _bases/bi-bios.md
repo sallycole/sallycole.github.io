@@ -4,7 +4,7 @@ title: bi
 reference_link: null
 root_name: bios
 root_language: Greek
-denotation: "life"
+denotation: life
 word_sums:
 - sum: 'Aut + o + Bi + o + Graph + y'
   respelling: autobiography

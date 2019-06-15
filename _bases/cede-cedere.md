@@ -4,7 +4,7 @@ title: cede
 reference_link: https://twitter.com/sjw19952/status/1139565775151337473
 root_name: cedere
 root_language: Latin
-denotation: "go, yield"
+denotation: go, yield
 word_sums:
 - sum: 'pre + Cede'
   respelling: precede
