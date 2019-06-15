@@ -4,7 +4,7 @@ title: run
 reference_link: null
 root_name: rinnan
 root_language: Old English
-denotation: "run, flow, run together"
+denotation: run, flow, run together
 word_sums:
 - sum: 'Out + Run'
   respelling: outrun

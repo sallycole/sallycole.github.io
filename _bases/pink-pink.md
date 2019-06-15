@@ -4,7 +4,7 @@ title: pink
 reference_link: https://parentingpatch.com/word-matrix-pink/
 root_name: pink
 root_language: English
-denotation: "pale red color, small"
+denotation: pale red color, small
 word_sums:
 - sum: 'Pink + s'
   respelling: pinks

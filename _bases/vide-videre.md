@@ -4,7 +4,7 @@ title: vide
 reference_link: https://www.etymonline.com/word/vide#etymonline_v_7775
 root_name: videre
 root_language: Latin
-denotation: "see"
+denotation: see
 word_sums:
 - sum: 'e + Vide + ence'
   respelling: evidence

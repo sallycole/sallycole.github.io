@@ -4,7 +4,7 @@ title: do
 reference_link: https://www.etymonline.com/word/do#etymonline_v_13867
 root_name: don
 root_language: Old English
-denotation: "make, act, perform, cause, put, place"
+denotation: make, act, perform, cause, put, place
 word_sums:
 - sum: 'Do + n'
   respelling: don

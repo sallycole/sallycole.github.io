@@ -4,7 +4,7 @@ title: view
 reference_link: null
 root_name: videre
 root_language: Latin
-denotation: "see"
+denotation: see
 word_sums:
 - sum: 'inter + View'
   respelling: interview

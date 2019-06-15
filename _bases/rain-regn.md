@@ -4,7 +4,7 @@ title: rain
 reference_link: https://parentingpatch.com/word-matrix-rain/
 root_name: regn
 root_language: Old English
-denotation: "water from clouds"
+denotation: water from clouds
 word_sums:
 - sum: 'Rain + s'
   respelling: rains

@@ -4,7 +4,7 @@ title: vegete
 reference_link: https://parentingpatch.com/word-matrix-vegete/
 root_name: vegetare
 root_language: Latin
-denotation: "enliven"
+denotation: enliven
 word_sums:
 - sum: 'Vegete + able'
   respelling: vegetable

@@ -4,7 +4,7 @@ title: pter
 reference_link: https://parentingpatch.com/word-matrix-pter/
 root_name: pteron
 root_language: Greek
-denotation: "wing"
+denotation: wing
 word_sums:
 - sum: 'Pter + ide + ine'
   respelling: pteridine

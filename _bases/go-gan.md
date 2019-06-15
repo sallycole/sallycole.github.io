@@ -4,7 +4,7 @@ title: go
 reference_link: https://www.etymonline.com/word/go
 root_name: gan
 root_language: Old English
-denotation: "advance, walk, depart, happen, conquer, observe, practice, exercise"
+denotation: advance, walk, depart, happen, conquer, observe, practice, exercise
 word_sums:
 - sum: 'Go + ne'
   respelling: gone
