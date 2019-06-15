@@ -12,4 +12,6 @@ word_sums:
   respelling: ablest
 - sum: 'Able + y'
   respelling: ably
+- sum: 'dis + Able'
+  respelling: disable
 ---
