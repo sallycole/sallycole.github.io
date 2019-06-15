@@ -2,8 +2,8 @@
 name: able
 title: able
 reference_link: https://www.etymonline.com/word/able
-root name: habere
-root language: Latin
+root_name: habere
+root_language: Latin
 denotation: to hold
 word_sums:
 - sum: 'Able + er'
