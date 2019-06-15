@@ -2,8 +2,8 @@
 name: but
 title: but
 reference_link: https://www.etymonline.com/word/abut
-root name: bouter
-root language: a Germanic source
+root_name: bouter
+root_language: a Germanic source
 denotation: to strike, push
 word_sums:
 - sum: 'a + But'
