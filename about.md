@@ -26,7 +26,7 @@ A word sum is a hypothesis about the morphemic structure of a word. One way this
   cut + ing -> cutting  
   per + mit + ed -> permitted
 
-1. With the **final e convention**, you must replace the final \<e\> in the morpheme on the left side of a join if the following conditions are met:
+2. With the **final e convention**, you must replace the final \<e\> in the morpheme on the left side of a join if the following conditions are met:
 
   * The final \<e\> is an orthographic marker and does not represent a phoneme.
   * The suffix on the right side of the join begins with a vowel letter.  
@@ -35,7 +35,7 @@ A word sum is a hypothesis about the morphemic structure of a word. One way this
   cute + er -> cuter  
   house + ing -> housing
 
-1. With the **y to i convention**, any suffix (vowel or consonant) can change a \<y\> at the end of a morpheme to \<i\>. You can only keep a final \<y\> inside a polymorphemic word if you have a good reason. There are only 3 good reasons.
+3. With the **y to i convention**, any suffix (vowel or consonant) can change a \<y\> at the end of a morpheme to \<i\>. You can only keep a final \<y\> inside a polymorphemic word if you have a good reason. There are only 3 good reasons.
 
   * If changing a \<y\> at the end of a morpheme to \<i\> forces an \<ii\> letter string, keep the \<y\>, and add the suffix. Example: cry + ing -> crying (not criing)
   * If the letter before the \<y\> is a vowel letter, keep the \<y\> and add the suffix. Example: stay + s -> stays
