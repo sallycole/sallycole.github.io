@@ -22,22 +22,22 @@ A word sum is a hypothesis about the morphemic structure of a word. One way this
   * There is a morpheme on the left side of the join that is either a single monosyllabic form or the stressed part of a polysyllabic form.
   * The morpheme on the left side of the join ends with a vowel letter grapheme followed by a consonant letter grapheme, but not \<w\> or \<x\>.
 
-Examples:
+  Examples:
 
-cut + ing -> cutting
+  cut + ing -> cutting
 
-per + mit + ed -> permitted
+  per + mit + ed -> permitted
 
 2. With the **final e convention**, you must replace the final \<e\> in the morpheme on the left side of a join if the following conditions are met:
 
   * The final \<e\> is an orthographic marker and does not represent a phoneme.
   * The suffix on the right side of the join begins with a vowel letter.
 
-Examples:
+  Examples:
 
-cute + er -> cuter
+  cute + er -> cuter
 
-house + ing -> housing
+  house + ing -> housing
 
 3. With the **y to i convention**, any suffix (vowel or consonant) can change a \<y\> at the end of a morpheme to \<i\>. You can only keep a final \<y\> inside a polymorphemic word if you have a good reason. There are only 3 good reasons.
 
