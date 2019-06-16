@@ -59,7 +59,7 @@ Anyone can contribute to this project using the following tools.
 2. GitHub Desktop. Download it at [desktop.github.com](https://desktop.github.com).
 3. The Atom text editor. Download it at [atom.io](https://atom.io).
 4. The project files. The project homepage is [here](https://github.com/sallycole/sallycole.github.io).
-5. Permission to commit code to the project. To request this, contact Sally Cole via email or Twitter.
+5. Permission to commit code to the project. To request this, contact Sally Cole via email at sallycole at gmail dot com or via Twitter.
 
 A tutorial video about getting setup with these tools is available [here on YouTube](https://youtu.be/sfIoTHWTkk8).
 
