@@ -1,6 +1,7 @@
 ---
 name: pink
 title: pink
+type: free
 reference_link: https://parentingpatch.com/word-matrix-pink/
 root_name: pink
 root_language: English

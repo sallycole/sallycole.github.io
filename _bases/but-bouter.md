@@ -1,6 +1,7 @@
 ---
 name: but
 title: but
+type: bound
 reference_link: https://www.etymonline.com/word/abut
 root_name: bouter
 root_language: a Germanic source

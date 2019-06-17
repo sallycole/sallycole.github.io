@@ -1,6 +1,7 @@
 ---
 name: aeon
 title: aeon
+type: free
 reference_link: https://www.etymonline.com/word/aeon
 root_name: aion
 root_language: Greek

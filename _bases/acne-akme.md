@@ -1,6 +1,7 @@
 ---
 name: acne
 title: acne
+type: free
 reference_link: https://www.etymonline.com/word/acne
 root_name: akme
 root_language: Greek

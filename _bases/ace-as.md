@@ -1,6 +1,7 @@
 ---
 name: ace
 title: ace
+type: free
 reference_link: https://www.etymonline.com/word/ace
 root name: as
 root language: Latin

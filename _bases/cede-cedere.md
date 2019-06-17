@@ -1,6 +1,7 @@
 ---
 name: cede
 title: cede
+type: free
 reference_link: https://twitter.com/sjw19952/status/1139565775151337473
 root_name: cedere
 root_language: Latin

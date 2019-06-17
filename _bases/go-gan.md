@@ -1,6 +1,7 @@
 ---
 name: go
 title: go
+type: free
 reference_link: https://www.etymonline.com/word/go
 root_name: gan
 root_language: Old English

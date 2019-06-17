@@ -1,6 +1,7 @@
 ---
 name: run
 title: run
+type: free
 reference_link: null
 root_name: rinnan
 root_language: Old English

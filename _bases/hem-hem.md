@@ -1,6 +1,7 @@
 ---
 name: hem
 title: hem
+type: free
 reference_link: https://www.etymonline.com/word/hem
 root_name: hem
 root_language: English

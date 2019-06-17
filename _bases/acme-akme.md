@@ -1,6 +1,7 @@
 ---
 name: acme
 title: acme
+type: free
 reference_link: https://www.etymonline.com/word/acme
 root_name: akme
 root_language: Greek

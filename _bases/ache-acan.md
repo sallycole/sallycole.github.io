@@ -1,6 +1,7 @@
 ---
 name: ache
 title: ache
+type: free
 reference_link: https://www.etymonline.com/word/ache
 root_name: acan
 root_language: Old English

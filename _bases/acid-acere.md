@@ -1,6 +1,7 @@
 ---
 name: acid
 title: acid
+type: free
 reference_link: https://www.etymonline.com/word/acid
 root name: acere
 root language: Latin

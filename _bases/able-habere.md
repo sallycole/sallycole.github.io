@@ -1,6 +1,7 @@
 ---
 name: able
 title: able
+type: free
 reference_link: https://www.etymonline.com/word/able
 root_name: habere
 root_language: Latin

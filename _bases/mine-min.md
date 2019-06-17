@@ -1,6 +1,7 @@
 ---
 name: mine
 title: mine
+type: free
 reference_link: https://www.etymonline.com/word/mine
 root_name: min
 root_language: Old English

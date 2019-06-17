@@ -1,6 +1,7 @@
 ---
 name: vide
 title: vide
+type: free
 reference_link: https://www.etymonline.com/word/vide#etymonline_v_7775
 root_name: videre
 root_language: Latin

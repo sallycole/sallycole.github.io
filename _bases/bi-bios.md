@@ -1,6 +1,7 @@
 ---
 name: bi
 title: bi
+type: bound
 reference_link: null
 root_name: bios
 root_language: Greek

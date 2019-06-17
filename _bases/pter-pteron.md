@@ -1,6 +1,7 @@
 ---
 name: pter
 title: pter
+type: bound
 reference_link: https://parentingpatch.com/word-matrix-pter/
 root_name: pteron
 root_language: Greek

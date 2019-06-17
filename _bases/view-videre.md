@@ -1,6 +1,7 @@
 ---
 name: view
 title: view
+type: free
 reference_link: null
 root_name: videre
 root_language: Latin

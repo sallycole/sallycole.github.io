@@ -1,6 +1,7 @@
 ---
 name: do
 title: do
+type: free
 reference_link: https://www.etymonline.com/word/do#etymonline_v_13867
 root_name: don
 root_language: Old English

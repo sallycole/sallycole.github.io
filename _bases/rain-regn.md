@@ -1,6 +1,7 @@
 ---
 name: rain
 title: rain
+type: free
 reference_link: https://parentingpatch.com/word-matrix-rain/
 root_name: regn
 root_language: Old English

@@ -1,6 +1,7 @@
 ---
 name: act
 title: act
+type: free
 reference_link: https://www.etymonline.com/word/act
 root name: agere
 root language: Latin

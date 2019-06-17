@@ -1,6 +1,7 @@
 ---
 name: kin
 title: kin
+type: free
 reference_link: https://parentingpatch.com/word-matrix-kin/
 root_name: cynn
 root_language: Old English

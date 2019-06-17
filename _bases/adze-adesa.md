@@ -1,6 +1,7 @@
 ---
 name: adze
 title: adze
+type: free
 reference_link: https://www.etymonline.com/word/adze
 root_name: adesa
 root_language: Old English

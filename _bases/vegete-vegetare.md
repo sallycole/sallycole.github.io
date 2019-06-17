@@ -1,6 +1,7 @@
 ---
 name: vegete
 title: vegete
+type: bound
 reference_link: https://parentingpatch.com/word-matrix-vegete/
 root_name: vegetare
 root_language: Latin
