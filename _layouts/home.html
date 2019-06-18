@@ -12,7 +12,7 @@ layout: default
 
   {%- if site.bases.size > 0 -%}
     <h2 class="post-list-heading">{{ page.list_title | default: "Bases" }}</h2>
-      {% assign bases_by_letter = site.bases | group_by_exp: "base", "base.title | slice: 0, 1" %}
+      {% assign bases_by_letter = site.bases | group_by_exp: "base", "base.title | slice: 0, 1 | upcase" %}
       {% for letter in bases_by_letter %}
         <h3>{{ letter.name | upcase }}</h3>
         <ul>

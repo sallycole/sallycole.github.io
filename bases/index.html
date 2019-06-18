@@ -2,7 +2,7 @@
 layout: page
 ---
 
-{% assign bases_by_letter = site.bases | group_by_exp: "base", "base.title | slice: 0, 1" %}
+{% assign bases_by_letter = site.bases | group_by_exp: "base", "base.title | slice: 0, 1 | upcase" %}
 {% for letter in bases_by_letter %}
   <h3>{{ letter.name | upcase }}</h3>
   <ul>
