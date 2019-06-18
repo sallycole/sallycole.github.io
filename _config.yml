@@ -34,7 +34,7 @@ plugins:
 collections:
   bases:
     output: true
-    permalink: /bases/:path/
+    permalink: /bases/:name/
 
 defaults:
   - scope:
