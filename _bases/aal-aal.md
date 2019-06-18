@@ -7,6 +7,6 @@ root_name: aal
 root_language: East Indian
 denotation: shrub
 word_sums:
-- sum: 'Aal + '
+- sum: 'Aal'
   respelling: aal
 ---
