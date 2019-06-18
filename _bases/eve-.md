@@ -1,0 +1,12 @@
+---
+name: eve
+type: free
+title: eve
+reference_link: https://www.etymonline.com/word/eve
+root_name: 
+root_language: 
+denotation: 
+word_sums:
+- sum: 'Eve + '
+  respelling: eve
+---

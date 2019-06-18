@@ -1,0 +1,12 @@
+---
+name: nan
+type: free
+title: nan
+reference_link: https://www.etymonline.com/word/nan
+root_name: 
+root_language: 
+denotation: 
+word_sums:
+- sum: 'Nan + '
+  respelling: nan
+---

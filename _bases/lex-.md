@@ -1,0 +1,12 @@
+---
+name: lex
+type: free
+title: lex
+reference_link: https://www.etymonline.com/word/lex
+root_name: 
+root_language: 
+denotation: 
+word_sums:
+- sum: 'Lex + '
+  respelling: lex
+---

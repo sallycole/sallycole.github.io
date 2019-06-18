@@ -1,0 +1,12 @@
+---
+name: dak
+type: free
+title: dak
+reference_link: https://www.etymonline.com/word/dak
+root_name: 
+root_language: 
+denotation: 
+word_sums:
+- sum: 'Dak + '
+  respelling: dak
+---

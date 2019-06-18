@@ -1,0 +1,12 @@
+---
+name: dor
+type: free
+title: dor
+reference_link: https://www.etymonline.com/word/dor
+root_name: 
+root_language: 
+denotation: 
+word_sums:
+- sum: 'Dor + '
+  respelling: dor
+---

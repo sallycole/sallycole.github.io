@@ -1,0 +1,12 @@
+---
+name: yip
+type: free
+title: yip
+reference_link: https://www.etymonline.com/word/yip
+root_name: 
+root_language: 
+denotation: 
+word_sums:
+- sum: 'Yip + '
+  respelling: yip
+---
