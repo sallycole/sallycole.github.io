@@ -1,0 +1,12 @@
+---
+name: dike
+type: free
+title: dike
+reference_link: https://www.etymonline.com/word/dike
+root_name: 
+root_language: 
+denotation: 
+word_sums:
+- sum: 'Dike + '
+  respelling: dike
+---

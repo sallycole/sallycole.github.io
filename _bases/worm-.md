@@ -1,0 +1,12 @@
+---
+name: worm
+type: free
+title: worm
+reference_link: https://www.etymonline.com/word/worm
+root_name: 
+root_language: 
+denotation: 
+word_sums:
+- sum: 'Worm + '
+  respelling: worm
+---

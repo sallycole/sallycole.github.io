@@ -1,0 +1,12 @@
+---
+name: dire
+type: free
+title: dire
+reference_link: https://www.etymonline.com/word/dire
+root_name: 
+root_language: 
+denotation: 
+word_sums:
+- sum: 'Dire + '
+  respelling: dire
+---

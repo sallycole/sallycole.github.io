@@ -1,0 +1,12 @@
+---
+name: prim
+type: free
+title: prim
+reference_link: https://www.etymonline.com/word/prim
+root_name: 
+root_language: 
+denotation: 
+word_sums:
+- sum: 'Prim + '
+  respelling: prim
+---

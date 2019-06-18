@@ -1,0 +1,12 @@
+---
+name: rare
+type: free
+title: rare
+reference_link: https://www.etymonline.com/word/rare
+root_name: 
+root_language: 
+denotation: 
+word_sums:
+- sum: 'Rare + '
+  respelling: rare
+---

@@ -1,0 +1,12 @@
+---
+name: leak
+type: free
+title: leak
+reference_link: https://www.etymonline.com/word/leak
+root_name: 
+root_language: 
+denotation: 
+word_sums:
+- sum: 'Leak + '
+  respelling: leak
+---
