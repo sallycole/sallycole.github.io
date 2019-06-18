@@ -1,12 +1,12 @@
 ---
 name: aba
-type: free
 title: aba
+type: free
 reference_link: https://www.etymonline.com/word/aba
-root_name: 
-root_language: 
-denotation: 
+root_name: aba
+root_language: Arabic
+denotation: outer garment
 word_sums:
-- sum: 'Aba + '
+- sum: 'Aba'
   respelling: aba
 ---
