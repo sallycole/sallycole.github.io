@@ -1,6 +1,6 @@
 ---
 name: aal
-title:
+title: aal
 type: free
 reference_link: https://www.etymonline.com/word/aal
 root_name: aal
