@@ -1,12 +1,12 @@
 ---
-name: off
+name: "off"
 type: free
-title: off
+title: "off"
 reference_link: https://www.etymonline.com/word/off
-root_name: 
-root_language: 
-denotation: 
+root_name:
+root_language:
+denotation:
 word_sums:
 - sum: 'Off + '
-  respelling: off
+  respelling: "off"
 ---
