@@ -51,6 +51,7 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - s3_website.yml
+  - deploy.sh
   - node_modules
   - vendor/bundle/
   - vendor/cache/
