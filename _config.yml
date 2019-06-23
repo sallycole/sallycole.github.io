@@ -50,6 +50,7 @@ exclude:
   - .gitignore
   - Gemfile
   - Gemfile.lock
+  - s3_website.yml
   - node_modules
   - vendor/bundle/
   - vendor/cache/
