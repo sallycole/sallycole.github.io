@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: monk
-type: free
-title: monk
 reference_link: https://www.etymonline.com/word/monk
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: monk
+type: free
 word_sums:
-- sum: 'Monk + '
-  respelling: monk
+- respelling: monk
+  sum: 'Monk + '
 ---

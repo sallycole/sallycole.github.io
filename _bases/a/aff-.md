@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: aff
-type: free
-title: aff
 reference_link: https://www.etymonline.com/word/aff
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: aff
+type: free
 word_sums:
-- sum: 'Aff + '
-  respelling: aff
+- respelling: aff
+  sum: 'Aff + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: rob
-type: free
-title: rob
 reference_link: https://www.etymonline.com/word/rob
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: rob
+type: free
 word_sums:
-- sum: 'Rob + '
-  respelling: rob
+- respelling: rob
+  sum: 'Rob + '
 ---

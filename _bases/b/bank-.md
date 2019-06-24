@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: bank
-type: free
-title: bank
 reference_link: https://www.etymonline.com/word/bank
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: bank
+type: free
 word_sums:
-- sum: 'Bank + '
-  respelling: bank
+- respelling: bank
+  sum: 'Bank + '
 ---

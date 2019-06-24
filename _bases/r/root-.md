@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: root
-type: free
-title: root
 reference_link: https://www.etymonline.com/word/root
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: root
+type: free
 word_sums:
-- sum: 'Root + '
-  respelling: root
+- respelling: root
+  sum: 'Root + '
 ---

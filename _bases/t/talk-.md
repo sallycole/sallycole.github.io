@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: talk
-type: free
-title: talk
 reference_link: https://www.etymonline.com/word/talk
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: talk
+type: free
 word_sums:
-- sum: 'Talk + '
-  respelling: talk
+- respelling: talk
+  sum: 'Talk + '
 ---

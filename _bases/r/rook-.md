@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: rook
-type: free
-title: rook
 reference_link: https://www.etymonline.com/word/rook
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: rook
+type: free
 word_sums:
-- sum: 'Rook + '
-  respelling: rook
+- respelling: rook
+  sum: 'Rook + '
 ---

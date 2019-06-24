@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: vast
-type: free
-title: vast
 reference_link: https://www.etymonline.com/word/vast
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: vast
+type: free
 word_sums:
-- sum: 'Vast + '
-  respelling: vast
+- respelling: vast
+  sum: 'Vast + '
 ---

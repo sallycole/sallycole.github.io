@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: nuff
-type: free
-title: nuff
 reference_link: https://www.etymonline.com/word/nuff
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: nuff
+type: free
 word_sums:
-- sum: 'Nuff + '
-  respelling: nuff
+- respelling: nuff
+  sum: 'Nuff + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: lire
-type: free
-title: lire
 reference_link: https://www.etymonline.com/word/lire
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: lire
+type: free
 word_sums:
-- sum: 'Lire + '
-  respelling: lire
+- respelling: lire
+  sum: 'Lire + '
 ---

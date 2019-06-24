@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: love
-type: free
-title: love
 reference_link: https://www.etymonline.com/word/love
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: love
+type: free
 word_sums:
-- sum: 'Love + '
-  respelling: love
+- respelling: love
+  sum: 'Love + '
 ---

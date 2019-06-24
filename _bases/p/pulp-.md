@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: pulp
-type: free
-title: pulp
 reference_link: https://www.etymonline.com/word/pulp
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: pulp
+type: free
 word_sums:
-- sum: 'Pulp + '
-  respelling: pulp
+- respelling: pulp
+  sum: 'Pulp + '
 ---

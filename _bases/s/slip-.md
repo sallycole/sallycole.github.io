@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: slip
-type: free
-title: slip
 reference_link: https://www.etymonline.com/word/slip
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: slip
+type: free
 word_sums:
-- sum: 'Slip + '
-  respelling: slip
+- respelling: slip
+  sum: 'Slip + '
 ---

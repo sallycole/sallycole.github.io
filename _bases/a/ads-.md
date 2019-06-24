@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: ads
-type: free
-title: ads
 reference_link: https://www.etymonline.com/word/ads
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: ads
+type: free
 word_sums:
-- sum: 'Ads + '
-  respelling: ads
+- respelling: ads
+  sum: 'Ads + '
 ---

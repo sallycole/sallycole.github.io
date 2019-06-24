@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: meat
-type: free
-title: meat
 reference_link: https://www.etymonline.com/word/meat
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: meat
+type: free
 word_sums:
-- sum: 'Meat + '
-  respelling: meat
+- respelling: meat
+  sum: 'Meat + '
 ---

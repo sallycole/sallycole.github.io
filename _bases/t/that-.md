@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: that
-type: free
-title: that
 reference_link: https://www.etymonline.com/word/that
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: that
+type: free
 word_sums:
-- sum: 'That + '
-  respelling: that
+- respelling: that
+  sum: 'That + '
 ---

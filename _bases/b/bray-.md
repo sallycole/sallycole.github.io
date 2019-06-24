@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: bray
-type: free
-title: bray
 reference_link: https://www.etymonline.com/word/bray
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: bray
+type: free
 word_sums:
-- sum: 'Bray + '
-  respelling: bray
+- respelling: bray
+  sum: 'Bray + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: iff
-type: free
-title: iff
 reference_link: https://www.etymonline.com/word/iff
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: iff
+type: free
 word_sums:
-- sum: 'Iff + '
-  respelling: iff
+- respelling: iff
+  sum: 'Iff + '
 ---

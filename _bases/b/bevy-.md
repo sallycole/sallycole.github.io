@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: bevy
-type: free
-title: bevy
 reference_link: https://www.etymonline.com/word/bevy
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: bevy
+type: free
 word_sums:
-- sum: 'Bevy + '
-  respelling: bevy
+- respelling: bevy
+  sum: 'Bevy + '
 ---

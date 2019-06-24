@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: wise
-type: free
-title: wise
 reference_link: https://www.etymonline.com/word/wise
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: wise
+type: free
 word_sums:
-- sum: 'Wise + '
-  respelling: wise
+- respelling: wise
+  sum: 'Wise + '
 ---

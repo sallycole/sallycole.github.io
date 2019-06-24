@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: boob
-type: free
-title: boob
 reference_link: https://www.etymonline.com/word/boob
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: boob
+type: free
 word_sums:
-- sum: 'Boob + '
-  respelling: boob
+- respelling: boob
+  sum: 'Boob + '
 ---

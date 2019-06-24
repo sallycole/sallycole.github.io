@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: gat
-type: free
-title: gat
 reference_link: https://www.etymonline.com/word/gat
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: gat
+type: free
 word_sums:
-- sum: 'Gat + '
-  respelling: gat
+- respelling: gat
+  sum: 'Gat + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: goy
-type: free
-title: goy
 reference_link: https://www.etymonline.com/word/goy
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: goy
+type: free
 word_sums:
-- sum: 'Goy + '
-  respelling: goy
+- respelling: goy
+  sum: 'Goy + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: tutu
-type: free
-title: tutu
 reference_link: https://www.etymonline.com/word/tutu
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: tutu
+type: free
 word_sums:
-- sum: 'Tutu + '
-  respelling: tutu
+- respelling: tutu
+  sum: 'Tutu + '
 ---

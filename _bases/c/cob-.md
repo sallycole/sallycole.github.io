@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: cob
-type: free
-title: cob
 reference_link: https://www.etymonline.com/word/cob
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: cob
+type: free
 word_sums:
-- sum: 'Cob + '
-  respelling: cob
+- respelling: cob
+  sum: 'Cob + '
 ---

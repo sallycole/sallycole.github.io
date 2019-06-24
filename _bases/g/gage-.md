@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: gage
-type: free
-title: gage
 reference_link: https://www.etymonline.com/word/gage
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: gage
+type: free
 word_sums:
-- sum: 'Gage + '
-  respelling: gage
+- respelling: gage
+  sum: 'Gage + '
 ---

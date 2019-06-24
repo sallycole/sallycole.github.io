@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: flak
-type: free
-title: flak
 reference_link: https://www.etymonline.com/word/flak
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: flak
+type: free
 word_sums:
-- sum: 'Flak + '
-  respelling: flak
+- respelling: flak
+  sum: 'Flak + '
 ---

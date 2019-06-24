@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: rush
-type: free
-title: rush
 reference_link: https://www.etymonline.com/word/rush
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: rush
+type: free
 word_sums:
-- sum: 'Rush + '
-  respelling: rush
+- respelling: rush
+  sum: 'Rush + '
 ---

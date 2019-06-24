@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: sash
-type: free
-title: sash
 reference_link: https://www.etymonline.com/word/sash
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: sash
+type: free
 word_sums:
-- sum: 'Sash + '
-  respelling: sash
+- respelling: sash
+  sum: 'Sash + '
 ---

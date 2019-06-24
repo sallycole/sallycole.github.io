@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: dif
-type: free
-title: dif
 reference_link: https://www.etymonline.com/word/dif
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: dif
+type: free
 word_sums:
-- sum: 'Dif + '
-  respelling: dif
+- respelling: dif
+  sum: 'Dif + '
 ---

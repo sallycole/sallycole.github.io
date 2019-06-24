@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: next
-type: free
-title: next
 reference_link: https://www.etymonline.com/word/next
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: next
+type: free
 word_sums:
-- sum: 'Next + '
-  respelling: next
+- respelling: next
+  sum: 'Next + '
 ---

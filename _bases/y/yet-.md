@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: yet
-type: free
-title: yet
 reference_link: https://www.etymonline.com/word/yet
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: yet
+type: free
 word_sums:
-- sum: 'Yet + '
-  respelling: yet
+- respelling: yet
+  sum: 'Yet + '
 ---

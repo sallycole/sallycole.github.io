@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: jig
-type: free
-title: jig
 reference_link: https://www.etymonline.com/word/jig
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: jig
+type: free
 word_sums:
-- sum: 'Jig + '
-  respelling: jig
+- respelling: jig
+  sum: 'Jig + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: frig
-type: free
-title: frig
 reference_link: https://www.etymonline.com/word/frig
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: frig
+type: free
 word_sums:
-- sum: 'Frig + '
-  respelling: frig
+- respelling: frig
+  sum: 'Frig + '
 ---

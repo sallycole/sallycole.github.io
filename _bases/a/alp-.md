@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: alp
-type: free
-title: alp
 reference_link: https://www.etymonline.com/word/alp
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: alp
+type: free
 word_sums:
-- sum: 'Alp + '
-  respelling: alp
+- respelling: alp
+  sum: 'Alp + '
 ---

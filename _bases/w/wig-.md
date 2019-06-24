@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: wig
-type: free
-title: wig
 reference_link: https://www.etymonline.com/word/wig
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: wig
+type: free
 word_sums:
-- sum: 'Wig + '
-  respelling: wig
+- respelling: wig
+  sum: 'Wig + '
 ---

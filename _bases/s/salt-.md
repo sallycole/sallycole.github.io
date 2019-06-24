@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: salt
-type: free
-title: salt
 reference_link: https://www.etymonline.com/word/salt
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: salt
+type: free
 word_sums:
-- sum: 'Salt + '
-  respelling: salt
+- respelling: salt
+  sum: 'Salt + '
 ---

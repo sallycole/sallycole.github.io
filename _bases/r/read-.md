@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: read
-type: free
-title: read
 reference_link: https://www.etymonline.com/word/read
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: read
+type: free
 word_sums:
-- sum: 'Read + '
-  respelling: read
+- respelling: read
+  sum: 'Read + '
 ---

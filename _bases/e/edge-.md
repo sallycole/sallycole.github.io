@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: edge
-type: free
-title: edge
 reference_link: https://www.etymonline.com/word/edge
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: edge
+type: free
 word_sums:
-- sum: 'Edge + '
-  respelling: edge
+- respelling: edge
+  sum: 'Edge + '
 ---

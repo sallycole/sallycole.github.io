@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: roar
-type: free
-title: roar
 reference_link: https://www.etymonline.com/word/roar
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: roar
+type: free
 word_sums:
-- sum: 'Roar + '
-  respelling: roar
+- respelling: roar
+  sum: 'Roar + '
 ---

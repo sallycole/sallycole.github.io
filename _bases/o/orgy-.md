@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: orgy
-type: free
-title: orgy
 reference_link: https://www.etymonline.com/word/orgy
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: orgy
+type: free
 word_sums:
-- sum: 'Orgy + '
-  respelling: orgy
+- respelling: orgy
+  sum: 'Orgy + '
 ---

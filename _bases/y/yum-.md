@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: yum
-type: free
-title: yum
 reference_link: https://www.etymonline.com/word/yum
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: yum
+type: free
 word_sums:
-- sum: 'Yum + '
-  respelling: yum
+- respelling: yum
+  sum: 'Yum + '
 ---

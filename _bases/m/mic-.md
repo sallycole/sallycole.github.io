@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: mic
-type: free
-title: mic
 reference_link: https://www.etymonline.com/word/mic
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: mic
+type: free
 word_sums:
-- sum: 'Mic + '
-  respelling: mic
+- respelling: mic
+  sum: 'Mic + '
 ---

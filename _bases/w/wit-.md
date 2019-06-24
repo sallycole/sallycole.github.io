@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: wit
-type: free
-title: wit
 reference_link: https://www.etymonline.com/word/wit
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: wit
+type: free
 word_sums:
-- sum: 'Wit + '
-  respelling: wit
+- respelling: wit
+  sum: 'Wit + '
 ---

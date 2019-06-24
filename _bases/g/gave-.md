@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: gave
-type: free
-title: gave
 reference_link: https://www.etymonline.com/word/gave
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: gave
+type: free
 word_sums:
-- sum: 'Gave + '
-  respelling: gave
+- respelling: gave
+  sum: 'Gave + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: ogre
-type: free
-title: ogre
 reference_link: https://www.etymonline.com/word/ogre
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: ogre
+type: free
 word_sums:
-- sum: 'Ogre + '
-  respelling: ogre
+- respelling: ogre
+  sum: 'Ogre + '
 ---

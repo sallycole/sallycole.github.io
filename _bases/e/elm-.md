@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: elm
-type: free
-title: elm
 reference_link: https://www.etymonline.com/word/elm
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: elm
+type: free
 word_sums:
-- sum: 'Elm + '
-  respelling: elm
+- respelling: elm
+  sum: 'Elm + '
 ---

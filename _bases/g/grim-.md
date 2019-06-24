@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: grim
-type: free
-title: grim
 reference_link: https://www.etymonline.com/word/grim
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: grim
+type: free
 word_sums:
-- sum: 'Grim + '
-  respelling: grim
+- respelling: grim
+  sum: 'Grim + '
 ---

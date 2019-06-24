@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: tao
-type: free
-title: tao
 reference_link: https://www.etymonline.com/word/tao
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: tao
+type: free
 word_sums:
-- sum: 'Tao + '
-  respelling: tao
+- respelling: tao
+  sum: 'Tao + '
 ---

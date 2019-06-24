@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: shot
-type: free
-title: shot
 reference_link: https://www.etymonline.com/word/shot
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: shot
+type: free
 word_sums:
-- sum: 'Shot + '
-  respelling: shot
+- respelling: shot
+  sum: 'Shot + '
 ---

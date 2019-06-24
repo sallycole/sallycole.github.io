@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: cosh
-type: free
-title: cosh
 reference_link: https://www.etymonline.com/word/cosh
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: cosh
+type: free
 word_sums:
-- sum: 'Cosh + '
-  respelling: cosh
+- respelling: cosh
+  sum: 'Cosh + '
 ---

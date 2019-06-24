@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: peh
-type: free
-title: peh
 reference_link: https://www.etymonline.com/word/peh
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: peh
+type: free
 word_sums:
-- sum: 'Peh + '
-  respelling: peh
+- respelling: peh
+  sum: 'Peh + '
 ---

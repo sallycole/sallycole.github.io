@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: all
-type: free
-title: all
 reference_link: https://www.etymonline.com/word/all
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: all
+type: free
 word_sums:
-- sum: 'All + '
-  respelling: all
+- respelling: all
+  sum: 'All + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: flea
-type: free
-title: flea
 reference_link: https://www.etymonline.com/word/flea
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: flea
+type: free
 word_sums:
-- sum: 'Flea + '
-  respelling: flea
+- respelling: flea
+  sum: 'Flea + '
 ---

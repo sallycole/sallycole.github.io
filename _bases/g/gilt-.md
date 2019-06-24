@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: gilt
-type: free
-title: gilt
 reference_link: https://www.etymonline.com/word/gilt
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: gilt
+type: free
 word_sums:
-- sum: 'Gilt + '
-  respelling: gilt
+- respelling: gilt
+  sum: 'Gilt + '
 ---

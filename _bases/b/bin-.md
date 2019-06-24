@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: bin
-type: free
-title: bin
 reference_link: https://www.etymonline.com/word/bin
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: bin
+type: free
 word_sums:
-- sum: 'Bin + '
-  respelling: bin
+- respelling: bin
+  sum: 'Bin + '
 ---

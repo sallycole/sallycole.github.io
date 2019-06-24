@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: cape
-type: free
-title: cape
 reference_link: https://www.etymonline.com/word/cape
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: cape
+type: free
 word_sums:
-- sum: 'Cape + '
-  respelling: cape
+- respelling: cape
+  sum: 'Cape + '
 ---

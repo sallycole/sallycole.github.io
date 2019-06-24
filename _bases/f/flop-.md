@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: flop
-type: free
-title: flop
 reference_link: https://www.etymonline.com/word/flop
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: flop
+type: free
 word_sums:
-- sum: 'Flop + '
-  respelling: flop
+- respelling: flop
+  sum: 'Flop + '
 ---

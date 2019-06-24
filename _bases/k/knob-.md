@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: knob
-type: free
-title: knob
 reference_link: https://www.etymonline.com/word/knob
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: knob
+type: free
 word_sums:
-- sum: 'Knob + '
-  respelling: knob
+- respelling: knob
+  sum: 'Knob + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: hurl
-type: free
-title: hurl
 reference_link: https://www.etymonline.com/word/hurl
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: hurl
+type: free
 word_sums:
-- sum: 'Hurl + '
-  respelling: hurl
+- respelling: hurl
+  sum: 'Hurl + '
 ---

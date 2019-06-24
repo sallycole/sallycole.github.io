@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: miss
-type: free
-title: miss
 reference_link: https://www.etymonline.com/word/miss
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: miss
+type: free
 word_sums:
-- sum: 'Miss + '
-  respelling: miss
+- respelling: miss
+  sum: 'Miss + '
 ---

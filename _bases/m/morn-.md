@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: morn
-type: free
-title: morn
 reference_link: https://www.etymonline.com/word/morn
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: morn
+type: free
 word_sums:
-- sum: 'Morn + '
-  respelling: morn
+- respelling: morn
+  sum: 'Morn + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: ers
-type: free
-title: ers
 reference_link: https://www.etymonline.com/word/ers
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: ers
+type: free
 word_sums:
-- sum: 'Ers + '
-  respelling: ers
+- respelling: ers
+  sum: 'Ers + '
 ---

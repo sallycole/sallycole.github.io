@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: rump
-type: free
-title: rump
 reference_link: https://www.etymonline.com/word/rump
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: rump
+type: free
 word_sums:
-- sum: 'Rump + '
-  respelling: rump
+- respelling: rump
+  sum: 'Rump + '
 ---

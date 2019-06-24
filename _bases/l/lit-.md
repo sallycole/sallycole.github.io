@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: lit
-type: free
-title: lit
 reference_link: https://www.etymonline.com/word/lit
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: lit
+type: free
 word_sums:
-- sum: 'Lit + '
-  respelling: lit
+- respelling: lit
+  sum: 'Lit + '
 ---

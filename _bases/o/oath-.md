@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: oath
-type: free
-title: oath
 reference_link: https://www.etymonline.com/word/oath
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: oath
+type: free
 word_sums:
-- sum: 'Oath + '
-  respelling: oath
+- respelling: oath
+  sum: 'Oath + '
 ---

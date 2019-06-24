@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: loo
-type: free
-title: loo
 reference_link: https://www.etymonline.com/word/loo
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: loo
+type: free
 word_sums:
-- sum: 'Loo + '
-  respelling: loo
+- respelling: loo
+  sum: 'Loo + '
 ---

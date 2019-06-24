@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: heap
-type: free
-title: heap
 reference_link: https://www.etymonline.com/word/heap
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: heap
+type: free
 word_sums:
-- sum: 'Heap + '
-  respelling: heap
+- respelling: heap
+  sum: 'Heap + '
 ---

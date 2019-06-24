@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: lady
-type: free
-title: lady
 reference_link: https://www.etymonline.com/word/lady
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: lady
+type: free
 word_sums:
-- sum: 'Lady + '
-  respelling: lady
+- respelling: lady
+  sum: 'Lady + '
 ---

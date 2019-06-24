@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: gag
-type: free
-title: gag
 reference_link: https://www.etymonline.com/word/gag
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: gag
+type: free
 word_sums:
-- sum: 'Gag + '
-  respelling: gag
+- respelling: gag
+  sum: 'Gag + '
 ---

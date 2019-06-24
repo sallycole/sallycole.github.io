@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: dug
-type: free
-title: dug
 reference_link: https://www.etymonline.com/word/dug
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: dug
+type: free
 word_sums:
-- sum: 'Dug + '
-  respelling: dug
+- respelling: dug
+  sum: 'Dug + '
 ---

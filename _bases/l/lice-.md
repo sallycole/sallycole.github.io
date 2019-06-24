@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: lice
-type: free
-title: lice
 reference_link: https://www.etymonline.com/word/lice
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: lice
+type: free
 word_sums:
-- sum: 'Lice + '
-  respelling: lice
+- respelling: lice
+  sum: 'Lice + '
 ---

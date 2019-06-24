@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: nowt
-type: free
-title: nowt
 reference_link: https://www.etymonline.com/word/nowt
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: nowt
+type: free
 word_sums:
-- sum: 'Nowt + '
-  respelling: nowt
+- respelling: nowt
+  sum: 'Nowt + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: aqua
-type: free
-title: aqua
 reference_link: https://www.etymonline.com/word/aqua
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: aqua
+type: free
 word_sums:
-- sum: 'Aqua + '
-  respelling: aqua
+- respelling: aqua
+  sum: 'Aqua + '
 ---

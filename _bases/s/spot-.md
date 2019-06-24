@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: spot
-type: free
-title: spot
 reference_link: https://www.etymonline.com/word/spot
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: spot
+type: free
 word_sums:
-- sum: 'Spot + '
-  respelling: spot
+- respelling: spot
+  sum: 'Spot + '
 ---

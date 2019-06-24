@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: pec
-type: free
-title: pec
 reference_link: https://www.etymonline.com/word/pec
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: pec
+type: free
 word_sums:
-- sum: 'Pec + '
-  respelling: pec
+- respelling: pec
+  sum: 'Pec + '
 ---

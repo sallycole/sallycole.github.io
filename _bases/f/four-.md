@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: four
-type: free
-title: four
 reference_link: https://www.etymonline.com/word/four
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: four
+type: free
 word_sums:
-- sum: 'Four + '
-  respelling: four
+- respelling: four
+  sum: 'Four + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: sped
-type: free
-title: sped
 reference_link: https://www.etymonline.com/word/sped
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: sped
+type: free
 word_sums:
-- sum: 'Sped + '
-  respelling: sped
+- respelling: sped
+  sum: 'Sped + '
 ---

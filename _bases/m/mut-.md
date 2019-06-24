@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: mut
-type: free
-title: mut
 reference_link: https://www.etymonline.com/word/mut
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: mut
+type: free
 word_sums:
-- sum: 'Mut + '
-  respelling: mut
+- respelling: mut
+  sum: 'Mut + '
 ---

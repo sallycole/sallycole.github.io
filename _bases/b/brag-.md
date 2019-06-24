@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: brag
-type: free
-title: brag
 reference_link: https://www.etymonline.com/word/brag
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: brag
+type: free
 word_sums:
-- sum: 'Brag + '
-  respelling: brag
+- respelling: brag
+  sum: 'Brag + '
 ---

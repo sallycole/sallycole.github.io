@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: kif
-type: free
-title: kif
 reference_link: https://www.etymonline.com/word/kif
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: kif
+type: free
 word_sums:
-- sum: 'Kif + '
-  respelling: kif
+- respelling: kif
+  sum: 'Kif + '
 ---

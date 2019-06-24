@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: pray
-type: free
-title: pray
 reference_link: https://www.etymonline.com/word/pray
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: pray
+type: free
 word_sums:
-- sum: 'Pray + '
-  respelling: pray
+- respelling: pray
+  sum: 'Pray + '
 ---

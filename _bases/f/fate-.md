@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: fate
-type: free
-title: fate
 reference_link: https://www.etymonline.com/word/fate
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: fate
+type: free
 word_sums:
-- sum: 'Fate + '
-  respelling: fate
+- respelling: fate
+  sum: 'Fate + '
 ---

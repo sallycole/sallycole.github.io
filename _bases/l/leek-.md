@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: leek
-type: free
-title: leek
 reference_link: https://www.etymonline.com/word/leek
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: leek
+type: free
 word_sums:
-- sum: 'Leek + '
-  respelling: leek
+- respelling: leek
+  sum: 'Leek + '
 ---

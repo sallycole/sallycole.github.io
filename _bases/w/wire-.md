@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: wire
-type: free
-title: wire
 reference_link: https://www.etymonline.com/word/wire
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: wire
+type: free
 word_sums:
-- sum: 'Wire + '
-  respelling: wire
+- respelling: wire
+  sum: 'Wire + '
 ---

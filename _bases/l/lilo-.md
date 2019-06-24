@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: lilo
-type: free
-title: lilo
 reference_link: https://www.etymonline.com/word/lilo
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: lilo
+type: free
 word_sums:
-- sum: 'Lilo + '
-  respelling: lilo
+- respelling: lilo
+  sum: 'Lilo + '
 ---

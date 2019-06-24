@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: mag
-type: free
-title: mag
 reference_link: https://www.etymonline.com/word/mag
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: mag
+type: free
 word_sums:
-- sum: 'Mag + '
-  respelling: mag
+- respelling: mag
+  sum: 'Mag + '
 ---

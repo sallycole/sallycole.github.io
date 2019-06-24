@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: nick
-type: free
-title: nick
 reference_link: https://www.etymonline.com/word/nick
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: nick
+type: free
 word_sums:
-- sum: 'Nick + '
-  respelling: nick
+- respelling: nick
+  sum: 'Nick + '
 ---

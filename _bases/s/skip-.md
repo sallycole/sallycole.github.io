@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: skip
-type: free
-title: skip
 reference_link: https://www.etymonline.com/word/skip
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: skip
+type: free
 word_sums:
-- sum: 'Skip + '
-  respelling: skip
+- respelling: skip
+  sum: 'Skip + '
 ---

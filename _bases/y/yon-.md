@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: yon
-type: free
-title: yon
 reference_link: https://www.etymonline.com/word/yon
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: yon
+type: free
 word_sums:
-- sum: 'Yon + '
-  respelling: yon
+- respelling: yon
+  sum: 'Yon + '
 ---

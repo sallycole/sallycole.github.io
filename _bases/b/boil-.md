@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: boil
-type: free
-title: boil
 reference_link: https://www.etymonline.com/word/boil
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: boil
+type: free
 word_sums:
-- sum: 'Boil + '
-  respelling: boil
+- respelling: boil
+  sum: 'Boil + '
 ---

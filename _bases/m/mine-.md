@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: mine
-type: free
-title: mine
 reference_link: https://www.etymonline.com/word/mine
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: mine
+type: free
 word_sums:
-- sum: 'Mine + '
-  respelling: mine
+- respelling: mine
+  sum: 'Mine + '
 ---

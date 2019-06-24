@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: twa
-type: free
-title: twa
 reference_link: https://www.etymonline.com/word/twa
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: twa
+type: free
 word_sums:
-- sum: 'Twa + '
-  respelling: twa
+- respelling: twa
+  sum: 'Twa + '
 ---

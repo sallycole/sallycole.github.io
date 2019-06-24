@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: arid
-type: free
-title: arid
 reference_link: https://www.etymonline.com/word/arid
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: arid
+type: free
 word_sums:
-- sum: 'Arid + '
-  respelling: arid
+- respelling: arid
+  sum: 'Arid + '
 ---

@@ -1,94 +1,95 @@
 ---
+category: 4-letters
+denotation: pale red color, small
 name: pink
+reference_link: https://parentingpatch.com/word-matrix-pink/
+root_language: English
+root_name: pink
 title: pink
 type: free
-reference_link: https://parentingpatch.com/word-matrix-pink/
-root_name: pink
-root_language: English
-denotation: pale red color, small
 word_sums:
-- sum: 'Pink + s'
-  respelling: pinks
-- sum: 'Pink + ed'
-  respelling: pinked
-- sum: 'Pink + ing'
-  respelling: pinking
-- sum: 'Pink + en'
-  respelling: pinken
-- sum: 'Pink + en + s'
-  respelling: pinkens
-- sum: 'Pink + en + ed'
-  respelling: pinkened
-- sum: 'Pink + en + ing'
-  respelling: pinkening
-- sum: 'Pink + er'
-  respelling: pinker
-- sum: 'Pink + est'
-  respelling: pinkest
-- sum: 'Pink + ly'
-  respelling: pinkly
-- sum: 'Pink + ish'
-  respelling: pinkish
-- sum: 'Pink + ish + ly'
-  respelling: pinkishly
-- sum: 'Pink + ish + ness'
-  respelling: pinkishness
-- sum: 'Pink + ish + ness + es'
-  respelling: pinkishnesses
-- sum: 'Pink + ness'
-  respelling: pinkness
-- sum: 'Pink + ness + es'
-  respelling: pinknesses
-- sum: 'Pink + y'
-  respelling: pinky
-- sum: 'Pink + y + es'
-  respelling: pinkies
-- sum: 'Pink + y + er'
-  respelling: pinkier
-- sum: 'Pink + y + est'
-  respelling: pinkiest
-- sum: 'Pink + ie'
-  respelling: pinkie
-- sum: 'Pink + ie + s'
-  respelling: pinkies
-- sum: 'Pink + o'
-  respelling: pinko
-- sum: 'Pink + o + s'
-  respelling: pinkos
-- sum: 'Pink + o + es'
-  respelling: pinkoes
-- sum: 'Pink + Eye'
-  respelling: pinkeye
-- sum: 'Pink + Eye + s'
-  respelling: pinkeyes
-- sum: 'Pink + Root'
-  respelling: pinkroot
-- sum: 'Pink + Root + s'
-  respelling: pinkroots
-- sum: 'Fire + Pink'
-  respelling: firepink
-- sum: 'Fire + Pink + s'
-  respelling: firepinks
-- sum: 'Pink + a + Lice + i + ous'
-  respelling: pinkalicious
-- sum: 'Pink + a + Lice + i + ous + ly'
-  respelling: pinkaliciously
-- sum: 'Pink + er + Ton'
-  respelling: pinkerton
-- sum: 'Pink + er + Ton + s'
-  respelling: pinkertons
-- sum: 'Pink + Ville'
-  respelling: pinkville
-- sum: 'Pink + Ville + s'
-  respelling: pinkvilles
-- sum: 'Pink + er + rific'
-  respelling: pinkerrific
-- sum: 'Pink + a + tastic'
-  respelling: pinkatastic
-- sum: 'Pink + ite + itis'
-  respelling: pinkititis
-- sum: 'Pink + a + Doodle'
-  respelling: pinkadoodle
-- sum: 'Pink + a + Doodle + s'
-  respelling: pinkadoodles
+- respelling: pinks
+  sum: Pink + s
+- respelling: pinked
+  sum: Pink + ed
+- respelling: pinking
+  sum: Pink + ing
+- respelling: pinken
+  sum: Pink + en
+- respelling: pinkens
+  sum: Pink + en + s
+- respelling: pinkened
+  sum: Pink + en + ed
+- respelling: pinkening
+  sum: Pink + en + ing
+- respelling: pinker
+  sum: Pink + er
+- respelling: pinkest
+  sum: Pink + est
+- respelling: pinkly
+  sum: Pink + ly
+- respelling: pinkish
+  sum: Pink + ish
+- respelling: pinkishly
+  sum: Pink + ish + ly
+- respelling: pinkishness
+  sum: Pink + ish + ness
+- respelling: pinkishnesses
+  sum: Pink + ish + ness + es
+- respelling: pinkness
+  sum: Pink + ness
+- respelling: pinknesses
+  sum: Pink + ness + es
+- respelling: pinky
+  sum: Pink + y
+- respelling: pinkies
+  sum: Pink + y + es
+- respelling: pinkier
+  sum: Pink + y + er
+- respelling: pinkiest
+  sum: Pink + y + est
+- respelling: pinkie
+  sum: Pink + ie
+- respelling: pinkies
+  sum: Pink + ie + s
+- respelling: pinko
+  sum: Pink + o
+- respelling: pinkos
+  sum: Pink + o + s
+- respelling: pinkoes
+  sum: Pink + o + es
+- respelling: pinkeye
+  sum: Pink + Eye
+- respelling: pinkeyes
+  sum: Pink + Eye + s
+- respelling: pinkroot
+  sum: Pink + Root
+- respelling: pinkroots
+  sum: Pink + Root + s
+- respelling: firepink
+  sum: Fire + Pink
+- respelling: firepinks
+  sum: Fire + Pink + s
+- respelling: pinkalicious
+  sum: Pink + a + Lice + i + ous
+- respelling: pinkaliciously
+  sum: Pink + a + Lice + i + ous + ly
+- respelling: pinkerton
+  sum: Pink + er + Ton
+- respelling: pinkertons
+  sum: Pink + er + Ton + s
+- respelling: pinkville
+  sum: Pink + Ville
+- respelling: pinkvilles
+  sum: Pink + Ville + s
+- respelling: pinkerrific
+  sum: Pink + er + rific
+- respelling: pinkatastic
+  sum: Pink + a + tastic
+- respelling: pinkititis
+  sum: Pink + ite + itis
+- respelling: pinkadoodle
+  sum: Pink + a + Doodle
+- respelling: pinkadoodles
+  sum: Pink + a + Doodle + s
 ---

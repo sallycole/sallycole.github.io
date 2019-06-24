@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: mart
-type: free
-title: mart
 reference_link: https://www.etymonline.com/word/mart
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: mart
+type: free
 word_sums:
-- sum: 'Mart + '
-  respelling: mart
+- respelling: mart
+  sum: 'Mart + '
 ---

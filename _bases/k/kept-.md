@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: kept
-type: free
-title: kept
 reference_link: https://www.etymonline.com/word/kept
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: kept
+type: free
 word_sums:
-- sum: 'Kept + '
-  respelling: kept
+- respelling: kept
+  sum: 'Kept + '
 ---

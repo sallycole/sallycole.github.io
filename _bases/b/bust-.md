@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: bust
-type: free
-title: bust
 reference_link: https://www.etymonline.com/word/bust
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: bust
+type: free
 word_sums:
-- sum: 'Bust + '
-  respelling: bust
+- respelling: bust
+  sum: 'Bust + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: wine
-type: free
-title: wine
 reference_link: https://www.etymonline.com/word/wine
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: wine
+type: free
 word_sums:
-- sum: 'Wine + '
-  respelling: wine
+- respelling: wine
+  sum: 'Wine + '
 ---

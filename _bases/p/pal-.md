@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: pal
-type: free
-title: pal
 reference_link: https://www.etymonline.com/word/pal
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: pal
+type: free
 word_sums:
-- sum: 'Pal + '
-  respelling: pal
+- respelling: pal
+  sum: 'Pal + '
 ---

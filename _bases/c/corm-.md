@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: corm
-type: free
-title: corm
 reference_link: https://www.etymonline.com/word/corm
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: corm
+type: free
 word_sums:
-- sum: 'Corm + '
-  respelling: corm
+- respelling: corm
+  sum: 'Corm + '
 ---

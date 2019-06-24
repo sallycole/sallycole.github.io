@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: kid
-type: free
-title: kid
 reference_link: https://www.etymonline.com/word/kid
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: kid
+type: free
 word_sums:
-- sum: 'Kid + '
-  respelling: kid
+- respelling: kid
+  sum: 'Kid + '
 ---

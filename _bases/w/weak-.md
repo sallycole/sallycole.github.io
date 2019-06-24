@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: weak
-type: free
-title: weak
 reference_link: https://www.etymonline.com/word/weak
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: weak
+type: free
 word_sums:
-- sum: 'Weak + '
-  respelling: weak
+- respelling: weak
+  sum: 'Weak + '
 ---

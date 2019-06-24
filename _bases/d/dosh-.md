@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: dosh
-type: free
-title: dosh
 reference_link: https://www.etymonline.com/word/dosh
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: dosh
+type: free
 word_sums:
-- sum: 'Dosh + '
-  respelling: dosh
+- respelling: dosh
+  sum: 'Dosh + '
 ---

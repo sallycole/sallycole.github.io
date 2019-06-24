@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: elf
-type: free
-title: elf
 reference_link: https://www.etymonline.com/word/elf
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: elf
+type: free
 word_sums:
-- sum: 'Elf + '
-  respelling: elf
+- respelling: elf
+  sum: 'Elf + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: quit
-type: free
-title: quit
 reference_link: https://www.etymonline.com/word/quit
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: quit
+type: free
 word_sums:
-- sum: 'Quit + '
-  respelling: quit
+- respelling: quit
+  sum: 'Quit + '
 ---

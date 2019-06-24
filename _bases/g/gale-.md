@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: gale
-type: free
-title: gale
 reference_link: https://www.etymonline.com/word/gale
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: gale
+type: free
 word_sums:
-- sum: 'Gale + '
-  respelling: gale
+- respelling: gale
+  sum: 'Gale + '
 ---

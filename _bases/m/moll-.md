@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: moll
-type: free
-title: moll
 reference_link: https://www.etymonline.com/word/moll
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: moll
+type: free
 word_sums:
-- sum: 'Moll + '
-  respelling: moll
+- respelling: moll
+  sum: 'Moll + '
 ---

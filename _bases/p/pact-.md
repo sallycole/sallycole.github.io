@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: pact
-type: free
-title: pact
 reference_link: https://www.etymonline.com/word/pact
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: pact
+type: free
 word_sums:
-- sum: 'Pact + '
-  respelling: pact
+- respelling: pact
+  sum: 'Pact + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: hard
-type: free
-title: hard
 reference_link: https://www.etymonline.com/word/hard
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: hard
+type: free
 word_sums:
-- sum: 'Hard + '
-  respelling: hard
+- respelling: hard
+  sum: 'Hard + '
 ---

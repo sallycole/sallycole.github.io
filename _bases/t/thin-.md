@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: thin
-type: free
-title: thin
 reference_link: https://www.etymonline.com/word/thin
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: thin
+type: free
 word_sums:
-- sum: 'Thin + '
-  respelling: thin
+- respelling: thin
+  sum: 'Thin + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: sung
-type: free
-title: sung
 reference_link: https://www.etymonline.com/word/sung
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: sung
+type: free
 word_sums:
-- sum: 'Sung + '
-  respelling: sung
+- respelling: sung
+  sum: 'Sung + '
 ---

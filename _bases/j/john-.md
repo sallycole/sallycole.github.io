@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: john
-type: free
-title: john
 reference_link: https://www.etymonline.com/word/john
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: john
+type: free
 word_sums:
-- sum: 'John + '
-  respelling: john
+- respelling: john
+  sum: 'John + '
 ---

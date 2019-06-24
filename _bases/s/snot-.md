@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: snot
-type: free
-title: snot
 reference_link: https://www.etymonline.com/word/snot
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: snot
+type: free
 word_sums:
-- sum: 'Snot + '
-  respelling: snot
+- respelling: snot
+  sum: 'Snot + '
 ---

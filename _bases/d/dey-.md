@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: dey
-type: free
-title: dey
 reference_link: https://www.etymonline.com/word/dey
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: dey
+type: free
 word_sums:
-- sum: 'Dey + '
-  respelling: dey
+- respelling: dey
+  sum: 'Dey + '
 ---

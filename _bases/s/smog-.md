@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: smog
-type: free
-title: smog
 reference_link: https://www.etymonline.com/word/smog
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: smog
+type: free
 word_sums:
-- sum: 'Smog + '
-  respelling: smog
+- respelling: smog
+  sum: 'Smog + '
 ---

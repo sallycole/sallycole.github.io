@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: ward
-type: free
-title: ward
 reference_link: https://www.etymonline.com/word/ward
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: ward
+type: free
 word_sums:
-- sum: 'Ward + '
-  respelling: ward
+- respelling: ward
+  sum: 'Ward + '
 ---

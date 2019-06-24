@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: sake
-type: free
-title: sake
 reference_link: https://www.etymonline.com/word/sake
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: sake
+type: free
 word_sums:
-- sum: 'Sake + '
-  respelling: sake
+- respelling: sake
+  sum: 'Sake + '
 ---

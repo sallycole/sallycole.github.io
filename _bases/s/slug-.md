@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: slug
-type: free
-title: slug
 reference_link: https://www.etymonline.com/word/slug
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: slug
+type: free
 word_sums:
-- sum: 'Slug + '
-  respelling: slug
+- respelling: slug
+  sum: 'Slug + '
 ---

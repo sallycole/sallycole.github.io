@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: ban
-type: free
-title: ban
 reference_link: https://www.etymonline.com/word/ban
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: ban
+type: free
 word_sums:
-- sum: 'Ban + '
-  respelling: ban
+- respelling: ban
+  sum: 'Ban + '
 ---

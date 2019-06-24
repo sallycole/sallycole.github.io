@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: gift
-type: free
-title: gift
 reference_link: https://www.etymonline.com/word/gift
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: gift
+type: free
 word_sums:
-- sum: 'Gift + '
-  respelling: gift
+- respelling: gift
+  sum: 'Gift + '
 ---

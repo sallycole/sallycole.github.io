@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: foe
-type: free
-title: foe
 reference_link: https://www.etymonline.com/word/foe
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: foe
+type: free
 word_sums:
-- sum: 'Foe + '
-  respelling: foe
+- respelling: foe
+  sum: 'Foe + '
 ---

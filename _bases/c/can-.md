@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: can
-type: free
-title: can
 reference_link: https://www.etymonline.com/word/can
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: can
+type: free
 word_sums:
-- sum: 'Can + '
-  respelling: can
+- respelling: can
+  sum: 'Can + '
 ---

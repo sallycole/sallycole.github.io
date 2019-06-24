@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: rue
-type: free
-title: rue
 reference_link: https://www.etymonline.com/word/rue
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: rue
+type: free
 word_sums:
-- sum: 'Rue + '
-  respelling: rue
+- respelling: rue
+  sum: 'Rue + '
 ---

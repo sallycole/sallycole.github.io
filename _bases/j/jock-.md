@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: jock
-type: free
-title: jock
 reference_link: https://www.etymonline.com/word/jock
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: jock
+type: free
 word_sums:
-- sum: 'Jock + '
-  respelling: jock
+- respelling: jock
+  sum: 'Jock + '
 ---

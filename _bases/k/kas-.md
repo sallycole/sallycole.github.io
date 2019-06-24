@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: kas
-type: free
-title: kas
 reference_link: https://www.etymonline.com/word/kas
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: kas
+type: free
 word_sums:
-- sum: 'Kas + '
-  respelling: kas
+- respelling: kas
+  sum: 'Kas + '
 ---

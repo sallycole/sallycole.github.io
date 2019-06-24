@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: curb
-type: free
-title: curb
 reference_link: https://www.etymonline.com/word/curb
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: curb
+type: free
 word_sums:
-- sum: 'Curb + '
-  respelling: curb
+- respelling: curb
+  sum: 'Curb + '
 ---

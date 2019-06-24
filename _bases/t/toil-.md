@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: toil
-type: free
-title: toil
 reference_link: https://www.etymonline.com/word/toil
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: toil
+type: free
 word_sums:
-- sum: 'Toil + '
-  respelling: toil
+- respelling: toil
+  sum: 'Toil + '
 ---

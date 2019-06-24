@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: chat
-type: free
-title: chat
 reference_link: https://www.etymonline.com/word/chat
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: chat
+type: free
 word_sums:
-- sum: 'Chat + '
-  respelling: chat
+- respelling: chat
+  sum: 'Chat + '
 ---

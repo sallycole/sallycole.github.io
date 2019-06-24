@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: ream
-type: free
-title: ream
 reference_link: https://www.etymonline.com/word/ream
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: ream
+type: free
 word_sums:
-- sum: 'Ream + '
-  respelling: ream
+- respelling: ream
+  sum: 'Ream + '
 ---

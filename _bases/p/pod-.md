@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: pod
-type: free
-title: pod
 reference_link: https://www.etymonline.com/word/pod
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: pod
+type: free
 word_sums:
-- sum: 'Pod + '
-  respelling: pod
+- respelling: pod
+  sum: 'Pod + '
 ---

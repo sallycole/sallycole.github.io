@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: glad
-type: free
-title: glad
 reference_link: https://www.etymonline.com/word/glad
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: glad
+type: free
 word_sums:
-- sum: 'Glad + '
-  respelling: glad
+- respelling: glad
+  sum: 'Glad + '
 ---

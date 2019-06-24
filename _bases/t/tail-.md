@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: tail
-type: free
-title: tail
 reference_link: https://www.etymonline.com/word/tail
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: tail
+type: free
 word_sums:
-- sum: 'Tail + '
-  respelling: tail
+- respelling: tail
+  sum: 'Tail + '
 ---

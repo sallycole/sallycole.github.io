@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: fly
-type: free
-title: fly
 reference_link: https://www.etymonline.com/word/fly
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: fly
+type: free
 word_sums:
-- sum: 'Fly + '
-  respelling: fly
+- respelling: fly
+  sum: 'Fly + '
 ---

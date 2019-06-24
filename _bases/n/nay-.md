@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: nay
-type: free
-title: nay
 reference_link: https://www.etymonline.com/word/nay
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: nay
+type: free
 word_sums:
-- sum: 'Nay + '
-  respelling: nay
+- respelling: nay
+  sum: 'Nay + '
 ---

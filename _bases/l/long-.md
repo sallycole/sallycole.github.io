@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: long
-type: free
-title: long
 reference_link: https://www.etymonline.com/word/long
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: long
+type: free
 word_sums:
-- sum: 'Long + '
-  respelling: long
+- respelling: long
+  sum: 'Long + '
 ---

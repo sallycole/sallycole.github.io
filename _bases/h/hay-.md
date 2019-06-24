@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: hay
-type: free
-title: hay
 reference_link: https://www.etymonline.com/word/hay
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: hay
+type: free
 word_sums:
-- sum: 'Hay + '
-  respelling: hay
+- respelling: hay
+  sum: 'Hay + '
 ---

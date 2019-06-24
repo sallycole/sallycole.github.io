@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: laud
-type: free
-title: laud
 reference_link: https://www.etymonline.com/word/laud
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: laud
+type: free
 word_sums:
-- sum: 'Laud + '
-  respelling: laud
+- respelling: laud
+  sum: 'Laud + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: jeep
-type: free
-title: jeep
 reference_link: https://www.etymonline.com/word/jeep
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: jeep
+type: free
 word_sums:
-- sum: 'Jeep + '
-  respelling: jeep
+- respelling: jeep
+  sum: 'Jeep + '
 ---

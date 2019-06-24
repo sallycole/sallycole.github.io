@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: luv
-type: free
-title: luv
 reference_link: https://www.etymonline.com/word/luv
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: luv
+type: free
 word_sums:
-- sum: 'Luv + '
-  respelling: luv
+- respelling: luv
+  sum: 'Luv + '
 ---

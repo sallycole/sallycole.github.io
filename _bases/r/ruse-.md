@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: ruse
-type: free
-title: ruse
 reference_link: https://www.etymonline.com/word/ruse
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: ruse
+type: free
 word_sums:
-- sum: 'Ruse + '
-  respelling: ruse
+- respelling: ruse
+  sum: 'Ruse + '
 ---

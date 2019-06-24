@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: ewe
-type: free
-title: ewe
 reference_link: https://www.etymonline.com/word/ewe
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: ewe
+type: free
 word_sums:
-- sum: 'Ewe + '
-  respelling: ewe
+- respelling: ewe
+  sum: 'Ewe + '
 ---

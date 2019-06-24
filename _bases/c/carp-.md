@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: carp
-type: free
-title: carp
 reference_link: https://www.etymonline.com/word/carp
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: carp
+type: free
 word_sums:
-- sum: 'Carp + '
-  respelling: carp
+- respelling: carp
+  sum: 'Carp + '
 ---

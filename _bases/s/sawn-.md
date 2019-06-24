@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: sawn
-type: free
-title: sawn
 reference_link: https://www.etymonline.com/word/sawn
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: sawn
+type: free
 word_sums:
-- sum: 'Sawn + '
-  respelling: sawn
+- respelling: sawn
+  sum: 'Sawn + '
 ---

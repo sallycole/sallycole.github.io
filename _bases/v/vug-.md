@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: vug
-type: free
-title: vug
 reference_link: https://www.etymonline.com/word/vug
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: vug
+type: free
 word_sums:
-- sum: 'Vug + '
-  respelling: vug
+- respelling: vug
+  sum: 'Vug + '
 ---

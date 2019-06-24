@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: damp
-type: free
-title: damp
 reference_link: https://www.etymonline.com/word/damp
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: damp
+type: free
 word_sums:
-- sum: 'Damp + '
-  respelling: damp
+- respelling: damp
+  sum: 'Damp + '
 ---

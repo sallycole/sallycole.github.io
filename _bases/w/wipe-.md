@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: wipe
-type: free
-title: wipe
 reference_link: https://www.etymonline.com/word/wipe
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: wipe
+type: free
 word_sums:
-- sum: 'Wipe + '
-  respelling: wipe
+- respelling: wipe
+  sum: 'Wipe + '
 ---

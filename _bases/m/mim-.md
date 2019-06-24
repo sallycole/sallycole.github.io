@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: mim
-type: free
-title: mim
 reference_link: https://www.etymonline.com/word/mim
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: mim
+type: free
 word_sums:
-- sum: 'Mim + '
-  respelling: mim
+- respelling: mim
+  sum: 'Mim + '
 ---

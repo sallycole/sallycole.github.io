@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: gad
-type: free
-title: gad
 reference_link: https://www.etymonline.com/word/gad
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: gad
+type: free
 word_sums:
-- sum: 'Gad + '
-  respelling: gad
+- respelling: gad
+  sum: 'Gad + '
 ---

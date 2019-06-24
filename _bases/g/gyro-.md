@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: gyro
-type: free
-title: gyro
 reference_link: https://www.etymonline.com/word/gyro
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: gyro
+type: free
 word_sums:
-- sum: 'Gyro + '
-  respelling: gyro
+- respelling: gyro
+  sum: 'Gyro + '
 ---

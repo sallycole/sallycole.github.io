@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: wand
-type: free
-title: wand
 reference_link: https://www.etymonline.com/word/wand
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: wand
+type: free
 word_sums:
-- sum: 'Wand + '
-  respelling: wand
+- respelling: wand
+  sum: 'Wand + '
 ---

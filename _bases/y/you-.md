@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: you
-type: free
-title: you
 reference_link: https://www.etymonline.com/word/you
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: you
+type: free
 word_sums:
-- sum: 'You + '
-  respelling: you
+- respelling: you
+  sum: 'You + '
 ---

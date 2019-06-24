@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: lulu
-type: free
-title: lulu
 reference_link: https://www.etymonline.com/word/lulu
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: lulu
+type: free
 word_sums:
-- sum: 'Lulu + '
-  respelling: lulu
+- respelling: lulu
+  sum: 'Lulu + '
 ---

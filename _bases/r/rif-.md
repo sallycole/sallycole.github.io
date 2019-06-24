@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: rif
-type: free
-title: rif
 reference_link: https://www.etymonline.com/word/rif
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: rif
+type: free
 word_sums:
-- sum: 'Rif + '
-  respelling: rif
+- respelling: rif
+  sum: 'Rif + '
 ---

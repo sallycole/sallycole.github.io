@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: dam
-type: free
-title: dam
 reference_link: https://www.etymonline.com/word/dam
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: dam
+type: free
 word_sums:
-- sum: 'Dam + '
-  respelling: dam
+- respelling: dam
+  sum: 'Dam + '
 ---

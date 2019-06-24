@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: bat
-type: free
-title: bat
 reference_link: https://www.etymonline.com/word/bat
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: bat
+type: free
 word_sums:
-- sum: 'Bat + '
-  respelling: bat
+- respelling: bat
+  sum: 'Bat + '
 ---

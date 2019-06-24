@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: fuzz
-type: free
-title: fuzz
 reference_link: https://www.etymonline.com/word/fuzz
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: fuzz
+type: free
 word_sums:
-- sum: 'Fuzz + '
-  respelling: fuzz
+- respelling: fuzz
+  sum: 'Fuzz + '
 ---

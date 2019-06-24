@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: town
-type: free
-title: town
 reference_link: https://www.etymonline.com/word/town
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: town
+type: free
 word_sums:
-- sum: 'Town + '
-  respelling: town
+- respelling: town
+  sum: 'Town + '
 ---

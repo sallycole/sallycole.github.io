@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: pro
-type: free
-title: pro
 reference_link: https://www.etymonline.com/word/pro
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: pro
+type: free
 word_sums:
-- sum: 'Pro + '
-  respelling: pro
+- respelling: pro
+  sum: 'Pro + '
 ---

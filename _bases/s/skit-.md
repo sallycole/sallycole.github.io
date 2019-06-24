@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: skit
-type: free
-title: skit
 reference_link: https://www.etymonline.com/word/skit
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: skit
+type: free
 word_sums:
-- sum: 'Skit + '
-  respelling: skit
+- respelling: skit
+  sum: 'Skit + '
 ---

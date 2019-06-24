@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: rope
-type: free
-title: rope
 reference_link: https://www.etymonline.com/word/rope
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: rope
+type: free
 word_sums:
-- sum: 'Rope + '
-  respelling: rope
+- respelling: rope
+  sum: 'Rope + '
 ---

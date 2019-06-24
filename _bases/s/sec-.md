@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: sec
-type: free
-title: sec
 reference_link: https://www.etymonline.com/word/sec
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: sec
+type: free
 word_sums:
-- sum: 'Sec + '
-  respelling: sec
+- respelling: sec
+  sum: 'Sec + '
 ---

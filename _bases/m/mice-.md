@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: mice
-type: free
-title: mice
 reference_link: https://www.etymonline.com/word/mice
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: mice
+type: free
 word_sums:
-- sum: 'Mice + '
-  respelling: mice
+- respelling: mice
+  sum: 'Mice + '
 ---

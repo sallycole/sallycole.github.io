@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: kiss
-type: free
-title: kiss
 reference_link: https://www.etymonline.com/word/kiss
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: kiss
+type: free
 word_sums:
-- sum: 'Kiss + '
-  respelling: kiss
+- respelling: kiss
+  sum: 'Kiss + '
 ---

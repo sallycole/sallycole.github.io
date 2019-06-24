@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: lev
-type: free
-title: lev
 reference_link: https://www.etymonline.com/word/lev
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: lev
+type: free
 word_sums:
-- sum: 'Lev + '
-  respelling: lev
+- respelling: lev
+  sum: 'Lev + '
 ---

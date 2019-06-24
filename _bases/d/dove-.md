@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: dove
-type: free
-title: dove
 reference_link: https://www.etymonline.com/word/dove
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: dove
+type: free
 word_sums:
-- sum: 'Dove + '
-  respelling: dove
+- respelling: dove
+  sum: 'Dove + '
 ---

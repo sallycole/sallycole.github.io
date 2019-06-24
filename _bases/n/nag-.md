@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: nag
-type: free
-title: nag
 reference_link: https://www.etymonline.com/word/nag
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: nag
+type: free
 word_sums:
-- sum: 'Nag + '
-  respelling: nag
+- respelling: nag
+  sum: 'Nag + '
 ---

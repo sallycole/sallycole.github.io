@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: zinc
-type: free
-title: zinc
 reference_link: https://www.etymonline.com/word/zinc
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: zinc
+type: free
 word_sums:
-- sum: 'Zinc + '
-  respelling: zinc
+- respelling: zinc
+  sum: 'Zinc + '
 ---

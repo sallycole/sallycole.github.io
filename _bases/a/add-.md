@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: add
-type: free
-title: add
 reference_link: https://www.etymonline.com/word/add
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: add
+type: free
 word_sums:
-- sum: 'Add + '
-  respelling: add
+- respelling: add
+  sum: 'Add + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: wye
-type: free
-title: wye
 reference_link: https://www.etymonline.com/word/wye
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: wye
+type: free
 word_sums:
-- sum: 'Wye + '
-  respelling: wye
+- respelling: wye
+  sum: 'Wye + '
 ---

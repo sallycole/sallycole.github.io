@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: gul
-type: free
-title: gul
 reference_link: https://www.etymonline.com/word/gul
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: gul
+type: free
 word_sums:
-- sum: 'Gul + '
-  respelling: gul
+- respelling: gul
+  sum: 'Gul + '
 ---

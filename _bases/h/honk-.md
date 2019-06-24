@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: honk
-type: free
-title: honk
 reference_link: https://www.etymonline.com/word/honk
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: honk
+type: free
 word_sums:
-- sum: 'Honk + '
-  respelling: honk
+- respelling: honk
+  sum: 'Honk + '
 ---

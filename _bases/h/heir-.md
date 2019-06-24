@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: heir
-type: free
-title: heir
 reference_link: https://www.etymonline.com/word/heir
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: heir
+type: free
 word_sums:
-- sum: 'Heir + '
-  respelling: heir
+- respelling: heir
+  sum: 'Heir + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: pore
-type: free
-title: pore
 reference_link: https://www.etymonline.com/word/pore
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: pore
+type: free
 word_sums:
-- sum: 'Pore + '
-  respelling: pore
+- respelling: pore
+  sum: 'Pore + '
 ---

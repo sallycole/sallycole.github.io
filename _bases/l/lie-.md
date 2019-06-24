@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: lie
-type: free
-title: lie
 reference_link: https://www.etymonline.com/word/lie
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: lie
+type: free
 word_sums:
-- sum: 'Lie + '
-  respelling: lie
+- respelling: lie
+  sum: 'Lie + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: crud
-type: free
-title: crud
 reference_link: https://www.etymonline.com/word/crud
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: crud
+type: free
 word_sums:
-- sum: 'Crud + '
-  respelling: crud
+- respelling: crud
+  sum: 'Crud + '
 ---

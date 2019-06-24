@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: dote
-type: free
-title: dote
 reference_link: https://www.etymonline.com/word/dote
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: dote
+type: free
 word_sums:
-- sum: 'Dote + '
-  respelling: dote
+- respelling: dote
+  sum: 'Dote + '
 ---

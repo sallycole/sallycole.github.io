@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: ear
-type: free
-title: ear
 reference_link: https://www.etymonline.com/word/ear
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: ear
+type: free
 word_sums:
-- sum: 'Ear + '
-  respelling: ear
+- respelling: ear
+  sum: 'Ear + '
 ---

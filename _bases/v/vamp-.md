@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: vamp
-type: free
-title: vamp
 reference_link: https://www.etymonline.com/word/vamp
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: vamp
+type: free
 word_sums:
-- sum: 'Vamp + '
-  respelling: vamp
+- respelling: vamp
+  sum: 'Vamp + '
 ---

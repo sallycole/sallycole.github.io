@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: lead
-type: free
-title: lead
 reference_link: https://www.etymonline.com/word/lead
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: lead
+type: free
 word_sums:
-- sum: 'Lead + '
-  respelling: lead
+- respelling: lead
+  sum: 'Lead + '
 ---

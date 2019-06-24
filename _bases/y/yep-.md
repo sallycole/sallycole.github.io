@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: yep
-type: free
-title: yep
 reference_link: https://www.etymonline.com/word/yep
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: yep
+type: free
 word_sums:
-- sum: 'Yep + '
-  respelling: yep
+- respelling: yep
+  sum: 'Yep + '
 ---

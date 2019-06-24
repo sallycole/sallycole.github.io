@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: flu
-type: free
-title: flu
 reference_link: https://www.etymonline.com/word/flu
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: flu
+type: free
 word_sums:
-- sum: 'Flu + '
-  respelling: flu
+- respelling: flu
+  sum: 'Flu + '
 ---

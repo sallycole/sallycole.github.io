@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: epic
-type: free
-title: epic
 reference_link: https://www.etymonline.com/word/epic
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: epic
+type: free
 word_sums:
-- sum: 'Epic + '
-  respelling: epic
+- respelling: epic
+  sum: 'Epic + '
 ---

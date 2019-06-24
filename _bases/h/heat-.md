@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: heat
-type: free
-title: heat
 reference_link: https://www.etymonline.com/word/heat
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: heat
+type: free
 word_sums:
-- sum: 'Heat + '
-  respelling: heat
+- respelling: heat
+  sum: 'Heat + '
 ---

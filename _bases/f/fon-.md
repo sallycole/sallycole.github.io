@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: fon
-type: free
-title: fon
 reference_link: https://www.etymonline.com/word/fon
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: fon
+type: free
 word_sums:
-- sum: 'Fon + '
-  respelling: fon
+- respelling: fon
+  sum: 'Fon + '
 ---

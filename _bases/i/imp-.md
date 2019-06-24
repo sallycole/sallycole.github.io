@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: imp
-type: free
-title: imp
 reference_link: https://www.etymonline.com/word/imp
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: imp
+type: free
 word_sums:
-- sum: 'Imp + '
-  respelling: imp
+- respelling: imp
+  sum: 'Imp + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: kat
-type: free
-title: kat
 reference_link: https://www.etymonline.com/word/kat
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: kat
+type: free
 word_sums:
-- sum: 'Kat + '
-  respelling: kat
+- respelling: kat
+  sum: 'Kat + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: heal
-type: free
-title: heal
 reference_link: https://www.etymonline.com/word/heal
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: heal
+type: free
 word_sums:
-- sum: 'Heal + '
-  respelling: heal
+- respelling: heal
+  sum: 'Heal + '
 ---

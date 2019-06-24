@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: lech
-type: free
-title: lech
 reference_link: https://www.etymonline.com/word/lech
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: lech
+type: free
 word_sums:
-- sum: 'Lech + '
-  respelling: lech
+- respelling: lech
+  sum: 'Lech + '
 ---

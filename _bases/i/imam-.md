@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: imam
-type: free
-title: imam
 reference_link: https://www.etymonline.com/word/imam
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: imam
+type: free
 word_sums:
-- sum: 'Imam + '
-  respelling: imam
+- respelling: imam
+  sum: 'Imam + '
 ---

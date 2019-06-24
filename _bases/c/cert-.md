@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: cert
-type: free
-title: cert
 reference_link: https://www.etymonline.com/word/cert
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: cert
+type: free
 word_sums:
-- sum: 'Cert + '
-  respelling: cert
+- respelling: cert
+  sum: 'Cert + '
 ---

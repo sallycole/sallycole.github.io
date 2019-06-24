@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: use
-type: free
-title: use
 reference_link: https://www.etymonline.com/word/use
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: use
+type: free
 word_sums:
-- sum: 'Use + '
-  respelling: use
+- respelling: use
+  sum: 'Use + '
 ---

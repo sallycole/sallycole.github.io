@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: hop
-type: free
-title: hop
 reference_link: https://www.etymonline.com/word/hop
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: hop
+type: free
 word_sums:
-- sum: 'Hop + '
-  respelling: hop
+- respelling: hop
+  sum: 'Hop + '
 ---

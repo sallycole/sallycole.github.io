@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: ohm
-type: free
-title: ohm
 reference_link: https://www.etymonline.com/word/ohm
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: ohm
+type: free
 word_sums:
-- sum: 'Ohm + '
-  respelling: ohm
+- respelling: ohm
+  sum: 'Ohm + '
 ---

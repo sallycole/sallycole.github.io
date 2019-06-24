@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: sae
-type: free
-title: sae
 reference_link: https://www.etymonline.com/word/sae
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: sae
+type: free
 word_sums:
-- sum: 'Sae + '
-  respelling: sae
+- respelling: sae
+  sum: 'Sae + '
 ---

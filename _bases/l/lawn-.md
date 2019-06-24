@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: lawn
-type: free
-title: lawn
 reference_link: https://www.etymonline.com/word/lawn
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: lawn
+type: free
 word_sums:
-- sum: 'Lawn + '
-  respelling: lawn
+- respelling: lawn
+  sum: 'Lawn + '
 ---

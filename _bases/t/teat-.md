@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: teat
-type: free
-title: teat
 reference_link: https://www.etymonline.com/word/teat
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: teat
+type: free
 word_sums:
-- sum: 'Teat + '
-  respelling: teat
+- respelling: teat
+  sum: 'Teat + '
 ---

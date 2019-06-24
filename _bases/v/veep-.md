@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: veep
-type: free
-title: veep
 reference_link: https://www.etymonline.com/word/veep
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: veep
+type: free
 word_sums:
-- sum: 'Veep + '
-  respelling: veep
+- respelling: veep
+  sum: 'Veep + '
 ---

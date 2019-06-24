@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: mean
-type: free
-title: mean
 reference_link: https://www.etymonline.com/word/mean
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: mean
+type: free
 word_sums:
-- sum: 'Mean + '
-  respelling: mean
+- respelling: mean
+  sum: 'Mean + '
 ---

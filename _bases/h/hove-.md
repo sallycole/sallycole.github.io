@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: hove
-type: free
-title: hove
 reference_link: https://www.etymonline.com/word/hove
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: hove
+type: free
 word_sums:
-- sum: 'Hove + '
-  respelling: hove
+- respelling: hove
+  sum: 'Hove + '
 ---

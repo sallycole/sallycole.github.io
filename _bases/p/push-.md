@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: push
-type: free
-title: push
 reference_link: https://www.etymonline.com/word/push
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: push
+type: free
 word_sums:
-- sum: 'Push + '
-  respelling: push
+- respelling: push
+  sum: 'Push + '
 ---

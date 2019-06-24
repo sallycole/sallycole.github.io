@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: vie
-type: free
-title: vie
 reference_link: https://www.etymonline.com/word/vie
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: vie
+type: free
 word_sums:
-- sum: 'Vie + '
-  respelling: vie
+- respelling: vie
+  sum: 'Vie + '
 ---

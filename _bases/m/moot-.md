@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: moot
-type: free
-title: moot
 reference_link: https://www.etymonline.com/word/moot
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: moot
+type: free
 word_sums:
-- sum: 'Moot + '
-  respelling: moot
+- respelling: moot
+  sum: 'Moot + '
 ---

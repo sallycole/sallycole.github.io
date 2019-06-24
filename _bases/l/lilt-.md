@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: lilt
-type: free
-title: lilt
 reference_link: https://www.etymonline.com/word/lilt
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: lilt
+type: free
 word_sums:
-- sum: 'Lilt + '
-  respelling: lilt
+- respelling: lilt
+  sum: 'Lilt + '
 ---

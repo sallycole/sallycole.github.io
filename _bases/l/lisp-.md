@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: lisp
-type: free
-title: lisp
 reference_link: https://www.etymonline.com/word/lisp
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: lisp
+type: free
 word_sums:
-- sum: 'Lisp + '
-  respelling: lisp
+- respelling: lisp
+  sum: 'Lisp + '
 ---

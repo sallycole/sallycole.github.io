@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: sloe
-type: free
-title: sloe
 reference_link: https://www.etymonline.com/word/sloe
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: sloe
+type: free
 word_sums:
-- sum: 'Sloe + '
-  respelling: sloe
+- respelling: sloe
+  sum: 'Sloe + '
 ---

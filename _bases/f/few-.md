@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: few
-type: free
-title: few
 reference_link: https://www.etymonline.com/word/few
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: few
+type: free
 word_sums:
-- sum: 'Few + '
-  respelling: few
+- respelling: few
+  sum: 'Few + '
 ---

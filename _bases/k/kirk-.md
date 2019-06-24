@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: kirk
-type: free
-title: kirk
 reference_link: https://www.etymonline.com/word/kirk
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: kirk
+type: free
 word_sums:
-- sum: 'Kirk + '
-  respelling: kirk
+- respelling: kirk
+  sum: 'Kirk + '
 ---

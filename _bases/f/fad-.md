@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: fad
-type: free
-title: fad
 reference_link: https://www.etymonline.com/word/fad
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: fad
+type: free
 word_sums:
-- sum: 'Fad + '
-  respelling: fad
+- respelling: fad
+  sum: 'Fad + '
 ---

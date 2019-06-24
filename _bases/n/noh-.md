@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: noh
-type: free
-title: noh
 reference_link: https://www.etymonline.com/word/noh
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: noh
+type: free
 word_sums:
-- sum: 'Noh + '
-  respelling: noh
+- respelling: noh
+  sum: 'Noh + '
 ---

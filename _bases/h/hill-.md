@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: hill
-type: free
-title: hill
 reference_link: https://www.etymonline.com/word/hill
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: hill
+type: free
 word_sums:
-- sum: 'Hill + '
-  respelling: hill
+- respelling: hill
+  sum: 'Hill + '
 ---

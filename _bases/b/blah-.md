@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: blah
-type: free
-title: blah
 reference_link: https://www.etymonline.com/word/blah
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: blah
+type: free
 word_sums:
-- sum: 'Blah + '
-  respelling: blah
+- respelling: blah
+  sum: 'Blah + '
 ---

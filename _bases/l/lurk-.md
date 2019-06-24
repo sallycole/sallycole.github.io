@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: lurk
-type: free
-title: lurk
 reference_link: https://www.etymonline.com/word/lurk
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: lurk
+type: free
 word_sums:
-- sum: 'Lurk + '
-  respelling: lurk
+- respelling: lurk
+  sum: 'Lurk + '
 ---

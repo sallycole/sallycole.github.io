@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: led
-type: free
-title: led
 reference_link: https://www.etymonline.com/word/led
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: led
+type: free
 word_sums:
-- sum: 'Led + '
-  respelling: led
+- respelling: led
+  sum: 'Led + '
 ---

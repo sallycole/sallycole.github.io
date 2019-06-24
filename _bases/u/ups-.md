@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: ups
-type: free
-title: ups
 reference_link: https://www.etymonline.com/word/ups
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: ups
+type: free
 word_sums:
-- sum: 'Ups + '
-  respelling: ups
+- respelling: ups
+  sum: 'Ups + '
 ---

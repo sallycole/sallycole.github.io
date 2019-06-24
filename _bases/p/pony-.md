@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: pony
-type: free
-title: pony
 reference_link: https://www.etymonline.com/word/pony
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: pony
+type: free
 word_sums:
-- sum: 'Pony + '
-  respelling: pony
+- respelling: pony
+  sum: 'Pony + '
 ---

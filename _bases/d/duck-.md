@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: duck
-type: free
-title: duck
 reference_link: https://www.etymonline.com/word/duck
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: duck
+type: free
 word_sums:
-- sum: 'Duck + '
-  respelling: duck
+- respelling: duck
+  sum: 'Duck + '
 ---

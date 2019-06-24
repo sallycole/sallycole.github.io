@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: loch
-type: free
-title: loch
 reference_link: https://www.etymonline.com/word/loch
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: loch
+type: free
 word_sums:
-- sum: 'Loch + '
-  respelling: loch
+- respelling: loch
+  sum: 'Loch + '
 ---

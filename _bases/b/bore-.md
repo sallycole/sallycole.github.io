@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: bore
-type: free
-title: bore
 reference_link: https://www.etymonline.com/word/bore
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: bore
+type: free
 word_sums:
-- sum: 'Bore + '
-  respelling: bore
+- respelling: bore
+  sum: 'Bore + '
 ---

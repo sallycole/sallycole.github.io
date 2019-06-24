@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: cane
-type: free
-title: cane
 reference_link: https://www.etymonline.com/word/cane
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: cane
+type: free
 word_sums:
-- sum: 'Cane + '
-  respelling: cane
+- respelling: cane
+  sum: 'Cane + '
 ---

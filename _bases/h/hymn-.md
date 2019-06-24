@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: hymn
-type: free
-title: hymn
 reference_link: https://www.etymonline.com/word/hymn
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: hymn
+type: free
 word_sums:
-- sum: 'Hymn + '
-  respelling: hymn
+- respelling: hymn
+  sum: 'Hymn + '
 ---

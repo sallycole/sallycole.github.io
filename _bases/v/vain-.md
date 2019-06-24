@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: vain
-type: free
-title: vain
 reference_link: https://www.etymonline.com/word/vain
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: vain
+type: free
 word_sums:
-- sum: 'Vain + '
-  respelling: vain
+- respelling: vain
+  sum: 'Vain + '
 ---

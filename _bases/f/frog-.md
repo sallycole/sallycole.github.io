@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: frog
-type: free
-title: frog
 reference_link: https://www.etymonline.com/word/frog
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: frog
+type: free
 word_sums:
-- sum: 'Frog + '
-  respelling: frog
+- respelling: frog
+  sum: 'Frog + '
 ---

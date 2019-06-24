@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: kind
-type: free
-title: kind
 reference_link: https://www.etymonline.com/word/kind
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: kind
+type: free
 word_sums:
-- sum: 'Kind + '
-  respelling: kind
+- respelling: kind
+  sum: 'Kind + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: mas
-type: free
-title: mas
 reference_link: https://www.etymonline.com/word/mas
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: mas
+type: free
 word_sums:
-- sum: 'Mas + '
-  respelling: mas
+- respelling: mas
+  sum: 'Mas + '
 ---

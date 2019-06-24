@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: noon
-type: free
-title: noon
 reference_link: https://www.etymonline.com/word/noon
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: noon
+type: free
 word_sums:
-- sum: 'Noon + '
-  respelling: noon
+- respelling: noon
+  sum: 'Noon + '
 ---

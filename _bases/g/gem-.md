@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: gem
-type: free
-title: gem
 reference_link: https://www.etymonline.com/word/gem
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: gem
+type: free
 word_sums:
-- sum: 'Gem + '
-  respelling: gem
+- respelling: gem
+  sum: 'Gem + '
 ---

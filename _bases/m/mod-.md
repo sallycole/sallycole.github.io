@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: mod
-type: free
-title: mod
 reference_link: https://www.etymonline.com/word/mod
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: mod
+type: free
 word_sums:
-- sum: 'Mod + '
-  respelling: mod
+- respelling: mod
+  sum: 'Mod + '
 ---

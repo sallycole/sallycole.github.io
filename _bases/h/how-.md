@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: how
-type: free
-title: how
 reference_link: https://www.etymonline.com/word/how
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: how
+type: free
 word_sums:
-- sum: 'How + '
-  respelling: how
+- respelling: how
+  sum: 'How + '
 ---

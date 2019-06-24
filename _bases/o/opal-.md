@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: opal
-type: free
-title: opal
 reference_link: https://www.etymonline.com/word/opal
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: opal
+type: free
 word_sums:
-- sum: 'Opal + '
-  respelling: opal
+- respelling: opal
+  sum: 'Opal + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: pus
-type: free
-title: pus
 reference_link: https://www.etymonline.com/word/pus
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: pus
+type: free
 word_sums:
-- sum: 'Pus + '
-  respelling: pus
+- respelling: pus
+  sum: 'Pus + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: zzz
-type: free
-title: zzz
 reference_link: https://www.etymonline.com/word/zzz
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: zzz
+type: free
 word_sums:
-- sum: 'Zzz + '
-  respelling: zzz
+- respelling: zzz
+  sum: 'Zzz + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: ska
-type: free
-title: ska
 reference_link: https://www.etymonline.com/word/ska
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: ska
+type: free
 word_sums:
-- sum: 'Ska + '
-  respelling: ska
+- respelling: ska
+  sum: 'Ska + '
 ---

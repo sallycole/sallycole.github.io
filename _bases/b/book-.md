@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: book
-type: free
-title: book
 reference_link: https://www.etymonline.com/word/book
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: book
+type: free
 word_sums:
-- sum: 'Book + '
-  respelling: book
+- respelling: book
+  sum: 'Book + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: dag
-type: free
-title: dag
 reference_link: https://www.etymonline.com/word/dag
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: dag
+type: free
 word_sums:
-- sum: 'Dag + '
-  respelling: dag
+- respelling: dag
+  sum: 'Dag + '
 ---

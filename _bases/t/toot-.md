@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: toot
-type: free
-title: toot
 reference_link: https://www.etymonline.com/word/toot
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: toot
+type: free
 word_sums:
-- sum: 'Toot + '
-  respelling: toot
+- respelling: toot
+  sum: 'Toot + '
 ---

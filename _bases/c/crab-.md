@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: crab
-type: free
-title: crab
 reference_link: https://www.etymonline.com/word/crab
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: crab
+type: free
 word_sums:
-- sum: 'Crab + '
-  respelling: crab
+- respelling: crab
+  sum: 'Crab + '
 ---

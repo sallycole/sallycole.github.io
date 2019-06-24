@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: pee
-type: free
-title: pee
 reference_link: https://www.etymonline.com/word/pee
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: pee
+type: free
 word_sums:
-- sum: 'Pee + '
-  respelling: pee
+- respelling: pee
+  sum: 'Pee + '
 ---

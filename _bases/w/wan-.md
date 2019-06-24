@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: wan
-type: free
-title: wan
 reference_link: https://www.etymonline.com/word/wan
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: wan
+type: free
 word_sums:
-- sum: 'Wan + '
-  respelling: wan
+- respelling: wan
+  sum: 'Wan + '
 ---

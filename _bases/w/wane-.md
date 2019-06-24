@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: wane
-type: free
-title: wane
 reference_link: https://www.etymonline.com/word/wane
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: wane
+type: free
 word_sums:
-- sum: 'Wane + '
-  respelling: wane
+- respelling: wane
+  sum: 'Wane + '
 ---

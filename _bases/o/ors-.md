@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: ors
-type: free
-title: ors
 reference_link: https://www.etymonline.com/word/ors
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: ors
+type: free
 word_sums:
-- sum: 'Ors + '
-  respelling: ors
+- respelling: ors
+  sum: 'Ors + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: type
-type: free
-title: type
 reference_link: https://www.etymonline.com/word/type
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: type
+type: free
 word_sums:
-- sum: 'Type + '
-  respelling: type
+- respelling: type
+  sum: 'Type + '
 ---

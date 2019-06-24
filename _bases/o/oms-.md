@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: oms
-type: free
-title: oms
 reference_link: https://www.etymonline.com/word/oms
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: oms
+type: free
 word_sums:
-- sum: 'Oms + '
-  respelling: oms
+- respelling: oms
+  sum: 'Oms + '
 ---

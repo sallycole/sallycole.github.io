@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: bard
-type: free
-title: bard
 reference_link: https://www.etymonline.com/word/bard
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: bard
+type: free
 word_sums:
-- sum: 'Bard + '
-  respelling: bard
+- respelling: bard
+  sum: 'Bard + '
 ---

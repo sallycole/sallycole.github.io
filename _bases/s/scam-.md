@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: scam
-type: free
-title: scam
 reference_link: https://www.etymonline.com/word/scam
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: scam
+type: free
 word_sums:
-- sum: 'Scam + '
-  respelling: scam
+- respelling: scam
+  sum: 'Scam + '
 ---

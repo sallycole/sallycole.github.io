@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: yob
-type: free
-title: yob
 reference_link: https://www.etymonline.com/word/yob
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: yob
+type: free
 word_sums:
-- sum: 'Yob + '
-  respelling: yob
+- respelling: yob
+  sum: 'Yob + '
 ---

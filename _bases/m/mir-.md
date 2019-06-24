@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: mir
-type: free
-title: mir
 reference_link: https://www.etymonline.com/word/mir
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: mir
+type: free
 word_sums:
-- sum: 'Mir + '
-  respelling: mir
+- respelling: mir
+  sum: 'Mir + '
 ---

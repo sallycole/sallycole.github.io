@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: blob
-type: free
-title: blob
 reference_link: https://www.etymonline.com/word/blob
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: blob
+type: free
 word_sums:
-- sum: 'Blob + '
-  respelling: blob
+- respelling: blob
+  sum: 'Blob + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: hao
-type: free
-title: hao
 reference_link: https://www.etymonline.com/word/hao
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: hao
+type: free
 word_sums:
-- sum: 'Hao + '
-  respelling: hao
+- respelling: hao
+  sum: 'Hao + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: went
-type: free
-title: went
 reference_link: https://www.etymonline.com/word/went
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: went
+type: free
 word_sums:
-- sum: 'Went + '
-  respelling: went
+- respelling: went
+  sum: 'Went + '
 ---

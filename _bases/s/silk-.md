@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: silk
-type: free
-title: silk
 reference_link: https://www.etymonline.com/word/silk
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: silk
+type: free
 word_sums:
-- sum: 'Silk + '
-  respelling: silk
+- respelling: silk
+  sum: 'Silk + '
 ---

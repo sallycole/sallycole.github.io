@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: tas
-type: free
-title: tas
 reference_link: https://www.etymonline.com/word/tas
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: tas
+type: free
 word_sums:
-- sum: 'Tas + '
-  respelling: tas
+- respelling: tas
+  sum: 'Tas + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: furl
-type: free
-title: furl
 reference_link: https://www.etymonline.com/word/furl
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: furl
+type: free
 word_sums:
-- sum: 'Furl + '
-  respelling: furl
+- respelling: furl
+  sum: 'Furl + '
 ---

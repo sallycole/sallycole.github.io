@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: yoga
-type: free
-title: yoga
 reference_link: https://www.etymonline.com/word/yoga
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: yoga
+type: free
 word_sums:
-- sum: 'Yoga + '
-  respelling: yoga
+- respelling: yoga
+  sum: 'Yoga + '
 ---

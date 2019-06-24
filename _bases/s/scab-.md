@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: scab
-type: free
-title: scab
 reference_link: https://www.etymonline.com/word/scab
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: scab
+type: free
 word_sums:
-- sum: 'Scab + '
-  respelling: scab
+- respelling: scab
+  sum: 'Scab + '
 ---

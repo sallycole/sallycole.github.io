@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: zee
-type: free
-title: zee
 reference_link: https://www.etymonline.com/word/zee
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: zee
+type: free
 word_sums:
-- sum: 'Zee + '
-  respelling: zee
+- respelling: zee
+  sum: 'Zee + '
 ---

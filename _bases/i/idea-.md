@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: idea
-type: free
-title: idea
 reference_link: https://www.etymonline.com/word/idea
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: idea
+type: free
 word_sums:
-- sum: 'Idea + '
-  respelling: idea
+- respelling: idea
+  sum: 'Idea + '
 ---

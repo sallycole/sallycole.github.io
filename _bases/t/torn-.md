@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: torn
-type: free
-title: torn
 reference_link: https://www.etymonline.com/word/torn
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: torn
+type: free
 word_sums:
-- sum: 'Torn + '
-  respelling: torn
+- respelling: torn
+  sum: 'Torn + '
 ---

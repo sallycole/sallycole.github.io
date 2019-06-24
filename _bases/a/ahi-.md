@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: ahi
-type: free
-title: ahi
 reference_link: https://www.etymonline.com/word/ahi
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: ahi
+type: free
 word_sums:
-- sum: 'Ahi + '
-  respelling: ahi
+- respelling: ahi
+  sum: 'Ahi + '
 ---

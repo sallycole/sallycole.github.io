@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: much
-type: free
-title: much
 reference_link: https://www.etymonline.com/word/much
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: much
+type: free
 word_sums:
-- sum: 'Much + '
-  respelling: much
+- respelling: much
+  sum: 'Much + '
 ---

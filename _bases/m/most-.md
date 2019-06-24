@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: most
-type: free
-title: most
 reference_link: https://www.etymonline.com/word/most
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: most
+type: free
 word_sums:
-- sum: 'Most + '
-  respelling: most
+- respelling: most
+  sum: 'Most + '
 ---

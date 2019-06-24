@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: god
-type: free
-title: god
 reference_link: https://www.etymonline.com/word/god
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: god
+type: free
 word_sums:
-- sum: 'God + '
-  respelling: god
+- respelling: god
+  sum: 'God + '
 ---

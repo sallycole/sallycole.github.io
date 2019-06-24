@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: meg
-type: free
-title: meg
 reference_link: https://www.etymonline.com/word/meg
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: meg
+type: free
 word_sums:
-- sum: 'Meg + '
-  respelling: meg
+- respelling: meg
+  sum: 'Meg + '
 ---

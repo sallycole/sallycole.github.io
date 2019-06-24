@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: taro
-type: free
-title: taro
 reference_link: https://www.etymonline.com/word/taro
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: taro
+type: free
 word_sums:
-- sum: 'Taro + '
-  respelling: taro
+- respelling: taro
+  sum: 'Taro + '
 ---

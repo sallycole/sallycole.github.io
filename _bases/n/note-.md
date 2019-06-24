@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: note
-type: free
-title: note
 reference_link: https://www.etymonline.com/word/note
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: note
+type: free
 word_sums:
-- sum: 'Note + '
-  respelling: note
+- respelling: note
+  sum: 'Note + '
 ---

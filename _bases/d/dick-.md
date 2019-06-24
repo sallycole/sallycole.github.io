@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: dick
-type: free
-title: dick
 reference_link: https://www.etymonline.com/word/dick
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: dick
+type: free
 word_sums:
-- sum: 'Dick + '
-  respelling: dick
+- respelling: dick
+  sum: 'Dick + '
 ---

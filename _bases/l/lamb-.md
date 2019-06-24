@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: lamb
-type: free
-title: lamb
 reference_link: https://www.etymonline.com/word/lamb
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: lamb
+type: free
 word_sums:
-- sum: 'Lamb + '
-  respelling: lamb
+- respelling: lamb
+  sum: 'Lamb + '
 ---

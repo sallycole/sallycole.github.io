@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: lake
-type: free
-title: lake
 reference_link: https://www.etymonline.com/word/lake
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: lake
+type: free
 word_sums:
-- sum: 'Lake + '
-  respelling: lake
+- respelling: lake
+  sum: 'Lake + '
 ---

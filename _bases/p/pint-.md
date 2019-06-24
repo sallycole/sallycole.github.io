@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: pint
-type: free
-title: pint
 reference_link: https://www.etymonline.com/word/pint
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: pint
+type: free
 word_sums:
-- sum: 'Pint + '
-  respelling: pint
+- respelling: pint
+  sum: 'Pint + '
 ---

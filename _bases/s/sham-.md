@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: sham
-type: free
-title: sham
 reference_link: https://www.etymonline.com/word/sham
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: sham
+type: free
 word_sums:
-- sum: 'Sham + '
-  respelling: sham
+- respelling: sham
+  sum: 'Sham + '
 ---

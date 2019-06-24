@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: tarn
-type: free
-title: tarn
 reference_link: https://www.etymonline.com/word/tarn
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: tarn
+type: free
 word_sums:
-- sum: 'Tarn + '
-  respelling: tarn
+- respelling: tarn
+  sum: 'Tarn + '
 ---

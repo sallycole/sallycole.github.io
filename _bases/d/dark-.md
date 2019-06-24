@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: dark
-type: free
-title: dark
 reference_link: https://www.etymonline.com/word/dark
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: dark
+type: free
 word_sums:
-- sum: 'Dark + '
-  respelling: dark
+- respelling: dark
+  sum: 'Dark + '
 ---

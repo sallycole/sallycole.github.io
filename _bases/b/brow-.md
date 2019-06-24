@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: brow
-type: free
-title: brow
 reference_link: https://www.etymonline.com/word/brow
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: brow
+type: free
 word_sums:
-- sum: 'Brow + '
-  respelling: brow
+- respelling: brow
+  sum: 'Brow + '
 ---

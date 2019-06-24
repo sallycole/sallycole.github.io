@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: dee
-type: free
-title: dee
 reference_link: https://www.etymonline.com/word/dee
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: dee
+type: free
 word_sums:
-- sum: 'Dee + '
-  respelling: dee
+- respelling: dee
+  sum: 'Dee + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: wait
-type: free
-title: wait
 reference_link: https://www.etymonline.com/word/wait
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: wait
+type: free
 word_sums:
-- sum: 'Wait + '
-  respelling: wait
+- respelling: wait
+  sum: 'Wait + '
 ---

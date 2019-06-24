@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: yaw
-type: free
-title: yaw
 reference_link: https://www.etymonline.com/word/yaw
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: yaw
+type: free
 word_sums:
-- sum: 'Yaw + '
-  respelling: yaw
+- respelling: yaw
+  sum: 'Yaw + '
 ---

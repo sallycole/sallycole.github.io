@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: seen
-type: free
-title: seen
 reference_link: https://www.etymonline.com/word/seen
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: seen
+type: free
 word_sums:
-- sum: 'Seen + '
-  respelling: seen
+- respelling: seen
+  sum: 'Seen + '
 ---

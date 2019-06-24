@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: zuz
-type: free
-title: zuz
 reference_link: https://www.etymonline.com/word/zuz
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: zuz
+type: free
 word_sums:
-- sum: 'Zuz + '
-  respelling: zuz
+- respelling: zuz
+  sum: 'Zuz + '
 ---

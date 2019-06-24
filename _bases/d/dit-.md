@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: dit
-type: free
-title: dit
 reference_link: https://www.etymonline.com/word/dit
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: dit
+type: free
 word_sums:
-- sum: 'Dit + '
-  respelling: dit
+- respelling: dit
+  sum: 'Dit + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: hump
-type: free
-title: hump
 reference_link: https://www.etymonline.com/word/hump
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: hump
+type: free
 word_sums:
-- sum: 'Hump + '
-  respelling: hump
+- respelling: hump
+  sum: 'Hump + '
 ---

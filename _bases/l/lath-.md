@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: lath
-type: free
-title: lath
 reference_link: https://www.etymonline.com/word/lath
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: lath
+type: free
 word_sums:
-- sum: 'Lath + '
-  respelling: lath
+- respelling: lath
+  sum: 'Lath + '
 ---

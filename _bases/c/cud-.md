@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: cud
-type: free
-title: cud
 reference_link: https://www.etymonline.com/word/cud
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: cud
+type: free
 word_sums:
-- sum: 'Cud + '
-  respelling: cud
+- respelling: cud
+  sum: 'Cud + '
 ---

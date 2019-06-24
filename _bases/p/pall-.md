@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: pall
-type: free
-title: pall
 reference_link: https://www.etymonline.com/word/pall
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: pall
+type: free
 word_sums:
-- sum: 'Pall + '
-  respelling: pall
+- respelling: pall
+  sum: 'Pall + '
 ---

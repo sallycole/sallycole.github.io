@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: fume
-type: free
-title: fume
 reference_link: https://www.etymonline.com/word/fume
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: fume
+type: free
 word_sums:
-- sum: 'Fume + '
-  respelling: fume
+- respelling: fume
+  sum: 'Fume + '
 ---

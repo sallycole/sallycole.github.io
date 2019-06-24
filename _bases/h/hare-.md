@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: hare
-type: free
-title: hare
 reference_link: https://www.etymonline.com/word/hare
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: hare
+type: free
 word_sums:
-- sum: 'Hare + '
-  respelling: hare
+- respelling: hare
+  sum: 'Hare + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: sei
-type: free
-title: sei
 reference_link: https://www.etymonline.com/word/sei
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: sei
+type: free
 word_sums:
-- sum: 'Sei + '
-  respelling: sei
+- respelling: sei
+  sum: 'Sei + '
 ---

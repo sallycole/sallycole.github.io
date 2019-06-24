@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: make
-type: free
-title: make
 reference_link: https://www.etymonline.com/word/make
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: make
+type: free
 word_sums:
-- sum: 'Make + '
-  respelling: make
+- respelling: make
+  sum: 'Make + '
 ---

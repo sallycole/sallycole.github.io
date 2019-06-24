@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: fer
-type: free
-title: fer
 reference_link: https://www.etymonline.com/word/fer
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: fer
+type: free
 word_sums:
-- sum: 'Fer + '
-  respelling: fer
+- respelling: fer
+  sum: 'Fer + '
 ---

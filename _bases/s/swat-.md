@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: swat
-type: free
-title: swat
 reference_link: https://www.etymonline.com/word/swat
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: swat
+type: free
 word_sums:
-- sum: 'Swat + '
-  respelling: swat
+- respelling: swat
+  sum: 'Swat + '
 ---

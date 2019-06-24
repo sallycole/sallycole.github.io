@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: hag
-type: free
-title: hag
 reference_link: https://www.etymonline.com/word/hag
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: hag
+type: free
 word_sums:
-- sum: 'Hag + '
-  respelling: hag
+- respelling: hag
+  sum: 'Hag + '
 ---

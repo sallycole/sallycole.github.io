@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: fib
-type: free
-title: fib
 reference_link: https://www.etymonline.com/word/fib
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: fib
+type: free
 word_sums:
-- sum: 'Fib + '
-  respelling: fib
+- respelling: fib
+  sum: 'Fib + '
 ---

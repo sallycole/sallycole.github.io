@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: eth
-type: free
-title: eth
 reference_link: https://www.etymonline.com/word/eth
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: eth
+type: free
 word_sums:
-- sum: 'Eth + '
-  respelling: eth
+- respelling: eth
+  sum: 'Eth + '
 ---

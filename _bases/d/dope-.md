@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: dope
-type: free
-title: dope
 reference_link: https://www.etymonline.com/word/dope
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: dope
+type: free
 word_sums:
-- sum: 'Dope + '
-  respelling: dope
+- respelling: dope
+  sum: 'Dope + '
 ---

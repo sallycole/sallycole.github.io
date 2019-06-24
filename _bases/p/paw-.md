@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: paw
-type: free
-title: paw
 reference_link: https://www.etymonline.com/word/paw
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: paw
+type: free
 word_sums:
-- sum: 'Paw + '
-  respelling: paw
+- respelling: paw
+  sum: 'Paw + '
 ---

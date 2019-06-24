@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: heck
-type: free
-title: heck
 reference_link: https://www.etymonline.com/word/heck
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: heck
+type: free
 word_sums:
-- sum: 'Heck + '
-  respelling: heck
+- respelling: heck
+  sum: 'Heck + '
 ---

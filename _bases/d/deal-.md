@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: deal
-type: free
-title: deal
 reference_link: https://www.etymonline.com/word/deal
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: deal
+type: free
 word_sums:
-- sum: 'Deal + '
-  respelling: deal
+- respelling: deal
+  sum: 'Deal + '
 ---

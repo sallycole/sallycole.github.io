@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: lick
-type: free
-title: lick
 reference_link: https://www.etymonline.com/word/lick
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: lick
+type: free
 word_sums:
-- sum: 'Lick + '
-  respelling: lick
+- respelling: lick
+  sum: 'Lick + '
 ---

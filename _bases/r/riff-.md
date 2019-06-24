@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: riff
-type: free
-title: riff
 reference_link: https://www.etymonline.com/word/riff
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: riff
+type: free
 word_sums:
-- sum: 'Riff + '
-  respelling: riff
+- respelling: riff
+  sum: 'Riff + '
 ---

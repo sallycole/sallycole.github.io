@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: flip
-type: free
-title: flip
 reference_link: https://www.etymonline.com/word/flip
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: flip
+type: free
 word_sums:
-- sum: 'Flip + '
-  respelling: flip
+- respelling: flip
+  sum: 'Flip + '
 ---

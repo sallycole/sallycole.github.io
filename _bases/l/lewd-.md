@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: lewd
-type: free
-title: lewd
 reference_link: https://www.etymonline.com/word/lewd
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: lewd
+type: free
 word_sums:
-- sum: 'Lewd + '
-  respelling: lewd
+- respelling: lewd
+  sum: 'Lewd + '
 ---

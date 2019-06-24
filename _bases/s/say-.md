@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: say
-type: free
-title: say
 reference_link: https://www.etymonline.com/word/say
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: say
+type: free
 word_sums:
-- sum: 'Say + '
-  respelling: say
+- respelling: say
+  sum: 'Say + '
 ---

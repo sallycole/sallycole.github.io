@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: sir
-type: free
-title: sir
 reference_link: https://www.etymonline.com/word/sir
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: sir
+type: free
 word_sums:
-- sum: 'Sir + '
-  respelling: sir
+- respelling: sir
+  sum: 'Sir + '
 ---

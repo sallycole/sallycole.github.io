@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: murk
-type: free
-title: murk
 reference_link: https://www.etymonline.com/word/murk
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: murk
+type: free
 word_sums:
-- sum: 'Murk + '
-  respelling: murk
+- respelling: murk
+  sum: 'Murk + '
 ---

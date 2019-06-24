@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: neat
-type: free
-title: neat
 reference_link: https://www.etymonline.com/word/neat
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: neat
+type: free
 word_sums:
-- sum: 'Neat + '
-  respelling: neat
+- respelling: neat
+  sum: 'Neat + '
 ---

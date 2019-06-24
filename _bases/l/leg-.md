@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: leg
-type: free
-title: leg
 reference_link: https://www.etymonline.com/word/leg
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: leg
+type: free
 word_sums:
-- sum: 'Leg + '
-  respelling: leg
+- respelling: leg
+  sum: 'Leg + '
 ---

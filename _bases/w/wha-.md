@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: wha
-type: free
-title: wha
 reference_link: https://www.etymonline.com/word/wha
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: wha
+type: free
 word_sums:
-- sum: 'Wha + '
-  respelling: wha
+- respelling: wha
+  sum: 'Wha + '
 ---

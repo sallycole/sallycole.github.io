@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: jamb
-type: free
-title: jamb
 reference_link: https://www.etymonline.com/word/jamb
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: jamb
+type: free
 word_sums:
-- sum: 'Jamb + '
-  respelling: jamb
+- respelling: jamb
+  sum: 'Jamb + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: sack
-type: free
-title: sack
 reference_link: https://www.etymonline.com/word/sack
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: sack
+type: free
 word_sums:
-- sum: 'Sack + '
-  respelling: sack
+- respelling: sack
+  sum: 'Sack + '
 ---

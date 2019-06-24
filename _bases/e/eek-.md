@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: eek
-type: free
-title: eek
 reference_link: https://www.etymonline.com/word/eek
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: eek
+type: free
 word_sums:
-- sum: 'Eek + '
-  respelling: eek
+- respelling: eek
+  sum: 'Eek + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: teak
-type: free
-title: teak
 reference_link: https://www.etymonline.com/word/teak
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: teak
+type: free
 word_sums:
-- sum: 'Teak + '
-  respelling: teak
+- respelling: teak
+  sum: 'Teak + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: oca
-type: free
-title: oca
 reference_link: https://www.etymonline.com/word/oca
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: oca
+type: free
 word_sums:
-- sum: 'Oca + '
-  respelling: oca
+- respelling: oca
+  sum: 'Oca + '
 ---

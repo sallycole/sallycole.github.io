@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: draw
-type: free
-title: draw
 reference_link: https://www.etymonline.com/word/draw
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: draw
+type: free
 word_sums:
-- sum: 'Draw + '
-  respelling: draw
+- respelling: draw
+  sum: 'Draw + '
 ---

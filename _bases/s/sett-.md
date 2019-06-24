@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: sett
-type: free
-title: sett
 reference_link: https://www.etymonline.com/word/sett
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: sett
+type: free
 word_sums:
-- sum: 'Sett + '
-  respelling: sett
+- respelling: sett
+  sum: 'Sett + '
 ---

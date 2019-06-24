@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: cup
-type: free
-title: cup
 reference_link: https://www.etymonline.com/word/cup
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: cup
+type: free
 word_sums:
-- sum: 'Cup + '
-  respelling: cup
+- respelling: cup
+  sum: 'Cup + '
 ---

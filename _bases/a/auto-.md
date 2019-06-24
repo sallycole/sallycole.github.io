@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: auto
-type: free
-title: auto
 reference_link: https://www.etymonline.com/word/auto
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: auto
+type: free
 word_sums:
-- sum: 'Auto + '
-  respelling: auto
+- respelling: auto
+  sum: 'Auto + '
 ---

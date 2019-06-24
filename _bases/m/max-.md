@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: max
-type: free
-title: max
 reference_link: https://www.etymonline.com/word/max
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: max
+type: free
 word_sums:
-- sum: 'Max + '
-  respelling: max
+- respelling: max
+  sum: 'Max + '
 ---

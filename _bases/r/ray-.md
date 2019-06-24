@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: ray
-type: free
-title: ray
 reference_link: https://www.etymonline.com/word/ray
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: ray
+type: free
 word_sums:
-- sum: 'Ray + '
-  respelling: ray
+- respelling: ray
+  sum: 'Ray + '
 ---

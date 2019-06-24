@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: kart
-type: free
-title: kart
 reference_link: https://www.etymonline.com/word/kart
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: kart
+type: free
 word_sums:
-- sum: 'Kart + '
-  respelling: kart
+- respelling: kart
+  sum: 'Kart + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: like
-type: free
-title: like
 reference_link: https://www.etymonline.com/word/like
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: like
+type: free
 word_sums:
-- sum: 'Like + '
-  respelling: like
+- respelling: like
+  sum: 'Like + '
 ---

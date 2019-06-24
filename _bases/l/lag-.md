@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: lag
-type: free
-title: lag
 reference_link: https://www.etymonline.com/word/lag
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: lag
+type: free
 word_sums:
-- sum: 'Lag + '
-  respelling: lag
+- respelling: lag
+  sum: 'Lag + '
 ---

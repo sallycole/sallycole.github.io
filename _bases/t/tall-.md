@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: tall
-type: free
-title: tall
 reference_link: https://www.etymonline.com/word/tall
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: tall
+type: free
 word_sums:
-- sum: 'Tall + '
-  respelling: tall
+- respelling: tall
+  sum: 'Tall + '
 ---

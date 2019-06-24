@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: sol
-type: free
-title: sol
 reference_link: https://www.etymonline.com/word/sol
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: sol
+type: free
 word_sums:
-- sum: 'Sol + '
-  respelling: sol
+- respelling: sol
+  sum: 'Sol + '
 ---

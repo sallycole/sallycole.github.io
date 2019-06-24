@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: sty
-type: free
-title: sty
 reference_link: https://www.etymonline.com/word/sty
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: sty
+type: free
 word_sums:
-- sum: 'Sty + '
-  respelling: sty
+- respelling: sty
+  sum: 'Sty + '
 ---

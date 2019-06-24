@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: own
-type: free
-title: own
 reference_link: https://www.etymonline.com/word/own
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: own
+type: free
 word_sums:
-- sum: 'Own + '
-  respelling: own
+- respelling: own
+  sum: 'Own + '
 ---

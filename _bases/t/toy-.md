@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: toy
-type: free
-title: toy
 reference_link: https://www.etymonline.com/word/toy
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: toy
+type: free
 word_sums:
-- sum: 'Toy + '
-  respelling: toy
+- respelling: toy
+  sum: 'Toy + '
 ---

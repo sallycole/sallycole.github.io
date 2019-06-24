@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: half
-type: free
-title: half
 reference_link: https://www.etymonline.com/word/half
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: half
+type: free
 word_sums:
-- sum: 'Half + '
-  respelling: half
+- respelling: half
+  sum: 'Half + '
 ---

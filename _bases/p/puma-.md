@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: puma
-type: free
-title: puma
 reference_link: https://www.etymonline.com/word/puma
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: puma
+type: free
 word_sums:
-- sum: 'Puma + '
-  respelling: puma
+- respelling: puma
+  sum: 'Puma + '
 ---

@@ -1,18 +1,19 @@
 ---
+category: 3-letters
+denotation: sound of clearing the throat
 name: hem
+reference_link: https://www.etymonline.com/word/hem
+root_language: English
+root_name: hem
 title: hem
 type: free
-reference_link: https://www.etymonline.com/word/hem
-root_name: hem
-root_language: English
-denotation: sound of clearing the throat
 word_sums:
-- sum: 'a + Hem'
-  respelling: ahem
-- sum: 'Hem + ing'
-  respelling: hemming
-- sum: 'Hem + ed'
-  respelling: hemmed
-- sum: 'Hem + s'
-  respelling: hems
+- respelling: ahem
+  sum: a + Hem
+- respelling: hemming
+  sum: Hem + ing
+- respelling: hemmed
+  sum: Hem + ed
+- respelling: hems
+  sum: Hem + s
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: dusk
-type: free
-title: dusk
 reference_link: https://www.etymonline.com/word/dusk
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: dusk
+type: free
 word_sums:
-- sum: 'Dusk + '
-  respelling: dusk
+- respelling: dusk
+  sum: 'Dusk + '
 ---

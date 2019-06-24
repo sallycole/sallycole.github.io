@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: gar
-type: free
-title: gar
 reference_link: https://www.etymonline.com/word/gar
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: gar
+type: free
 word_sums:
-- sum: 'Gar + '
-  respelling: gar
+- respelling: gar
+  sum: 'Gar + '
 ---

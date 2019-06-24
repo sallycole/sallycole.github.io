@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: drop
-type: free
-title: drop
 reference_link: https://www.etymonline.com/word/drop
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: drop
+type: free
 word_sums:
-- sum: 'Drop + '
-  respelling: drop
+- respelling: drop
+  sum: 'Drop + '
 ---

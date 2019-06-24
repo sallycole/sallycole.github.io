@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: tuck
-type: free
-title: tuck
 reference_link: https://www.etymonline.com/word/tuck
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: tuck
+type: free
 word_sums:
-- sum: 'Tuck + '
-  respelling: tuck
+- respelling: tuck
+  sum: 'Tuck + '
 ---

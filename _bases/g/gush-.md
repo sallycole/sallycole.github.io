@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: gush
-type: free
-title: gush
 reference_link: https://www.etymonline.com/word/gush
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: gush
+type: free
 word_sums:
-- sum: 'Gush + '
-  respelling: gush
+- respelling: gush
+  sum: 'Gush + '
 ---

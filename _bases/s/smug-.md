@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: smug
-type: free
-title: smug
 reference_link: https://www.etymonline.com/word/smug
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: smug
+type: free
 word_sums:
-- sum: 'Smug + '
-  respelling: smug
+- respelling: smug
+  sum: 'Smug + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: pun
-type: free
-title: pun
 reference_link: https://www.etymonline.com/word/pun
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: pun
+type: free
 word_sums:
-- sum: 'Pun + '
-  respelling: pun
+- respelling: pun
+  sum: 'Pun + '
 ---

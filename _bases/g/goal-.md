@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: goal
-type: free
-title: goal
 reference_link: https://www.etymonline.com/word/goal
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: goal
+type: free
 word_sums:
-- sum: 'Goal + '
-  respelling: goal
+- respelling: goal
+  sum: 'Goal + '
 ---

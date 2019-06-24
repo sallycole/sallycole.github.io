@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: buff
-type: free
-title: buff
 reference_link: https://www.etymonline.com/word/buff
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: buff
+type: free
 word_sums:
-- sum: 'Buff + '
-  respelling: buff
+- respelling: buff
+  sum: 'Buff + '
 ---

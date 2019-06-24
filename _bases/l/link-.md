@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: link
-type: free
-title: link
 reference_link: https://www.etymonline.com/word/link
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: link
+type: free
 word_sums:
-- sum: 'Link + '
-  respelling: link
+- respelling: link
+  sum: 'Link + '
 ---

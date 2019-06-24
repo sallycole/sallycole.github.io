@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: numb
-type: free
-title: numb
 reference_link: https://www.etymonline.com/word/numb
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: numb
+type: free
 word_sums:
-- sum: 'Numb + '
-  respelling: numb
+- respelling: numb
+  sum: 'Numb + '
 ---

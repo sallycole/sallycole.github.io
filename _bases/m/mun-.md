@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: mun
-type: free
-title: mun
 reference_link: https://www.etymonline.com/word/mun
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: mun
+type: free
 word_sums:
-- sum: 'Mun + '
-  respelling: mun
+- respelling: mun
+  sum: 'Mun + '
 ---

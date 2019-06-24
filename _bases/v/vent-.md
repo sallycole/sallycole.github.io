@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: vent
-type: free
-title: vent
 reference_link: https://www.etymonline.com/word/vent
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: vent
+type: free
 word_sums:
-- sum: 'Vent + '
-  respelling: vent
+- respelling: vent
+  sum: 'Vent + '
 ---

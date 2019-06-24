@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: ort
-type: free
-title: ort
 reference_link: https://www.etymonline.com/word/ort
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: ort
+type: free
 word_sums:
-- sum: 'Ort + '
-  respelling: ort
+- respelling: ort
+  sum: 'Ort + '
 ---

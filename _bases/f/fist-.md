@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: fist
-type: free
-title: fist
 reference_link: https://www.etymonline.com/word/fist
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: fist
+type: free
 word_sums:
-- sum: 'Fist + '
-  respelling: fist
+- respelling: fist
+  sum: 'Fist + '
 ---

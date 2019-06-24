@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: tree
-type: free
-title: tree
 reference_link: https://www.etymonline.com/word/tree
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: tree
+type: free
 word_sums:
-- sum: 'Tree + '
-  respelling: tree
+- respelling: tree
+  sum: 'Tree + '
 ---

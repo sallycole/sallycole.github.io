@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: clam
-type: free
-title: clam
 reference_link: https://www.etymonline.com/word/clam
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: clam
+type: free
 word_sums:
-- sum: 'Clam + '
-  respelling: clam
+- respelling: clam
+  sum: 'Clam + '
 ---

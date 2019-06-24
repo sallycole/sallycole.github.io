@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: yeti
-type: free
-title: yeti
 reference_link: https://www.etymonline.com/word/yeti
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: yeti
+type: free
 word_sums:
-- sum: 'Yeti + '
-  respelling: yeti
+- respelling: yeti
+  sum: 'Yeti + '
 ---

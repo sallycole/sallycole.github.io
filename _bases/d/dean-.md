@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: dean
-type: free
-title: dean
 reference_link: https://www.etymonline.com/word/dean
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: dean
+type: free
 word_sums:
-- sum: 'Dean + '
-  respelling: dean
+- respelling: dean
+  sum: 'Dean + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: rune
-type: free
-title: rune
 reference_link: https://www.etymonline.com/word/rune
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: rune
+type: free
 word_sums:
-- sum: 'Rune + '
-  respelling: rune
+- respelling: rune
+  sum: 'Rune + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: daw
-type: free
-title: daw
 reference_link: https://www.etymonline.com/word/daw
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: daw
+type: free
 word_sums:
-- sum: 'Daw + '
-  respelling: daw
+- respelling: daw
+  sum: 'Daw + '
 ---

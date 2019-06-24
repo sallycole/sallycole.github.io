@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: mack
-type: free
-title: mack
 reference_link: https://www.etymonline.com/word/mack
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: mack
+type: free
 word_sums:
-- sum: 'Mack + '
-  respelling: mack
+- respelling: mack
+  sum: 'Mack + '
 ---

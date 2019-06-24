@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: feat
-type: free
-title: feat
 reference_link: https://www.etymonline.com/word/feat
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: feat
+type: free
 word_sums:
-- sum: 'Feat + '
-  respelling: feat
+- respelling: feat
+  sum: 'Feat + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: psi
-type: free
-title: psi
 reference_link: https://www.etymonline.com/word/psi
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: psi
+type: free
 word_sums:
-- sum: 'Psi + '
-  respelling: psi
+- respelling: psi
+  sum: 'Psi + '
 ---

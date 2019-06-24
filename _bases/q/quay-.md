@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: quay
-type: free
-title: quay
 reference_link: https://www.etymonline.com/word/quay
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: quay
+type: free
 word_sums:
-- sum: 'Quay + '
-  respelling: quay
+- respelling: quay
+  sum: 'Quay + '
 ---

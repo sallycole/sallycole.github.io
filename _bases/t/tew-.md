@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: tew
-type: free
-title: tew
 reference_link: https://www.etymonline.com/word/tew
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: tew
+type: free
 word_sums:
-- sum: 'Tew + '
-  respelling: tew
+- respelling: tew
+  sum: 'Tew + '
 ---

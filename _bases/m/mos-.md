@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: mos
-type: free
-title: mos
 reference_link: https://www.etymonline.com/word/mos
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: mos
+type: free
 word_sums:
-- sum: 'Mos + '
-  respelling: mos
+- respelling: mos
+  sum: 'Mos + '
 ---

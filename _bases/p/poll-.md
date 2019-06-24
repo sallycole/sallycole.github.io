@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: poll
-type: free
-title: poll
 reference_link: https://www.etymonline.com/word/poll
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: poll
+type: free
 word_sums:
-- sum: 'Poll + '
-  respelling: poll
+- respelling: poll
+  sum: 'Poll + '
 ---

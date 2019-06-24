@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: pimp
-type: free
-title: pimp
 reference_link: https://www.etymonline.com/word/pimp
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: pimp
+type: free
 word_sums:
-- sum: 'Pimp + '
-  respelling: pimp
+- respelling: pimp
+  sum: 'Pimp + '
 ---

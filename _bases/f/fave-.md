@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: fave
-type: free
-title: fave
 reference_link: https://www.etymonline.com/word/fave
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: fave
+type: free
 word_sums:
-- sum: 'Fave + '
-  respelling: fave
+- respelling: fave
+  sum: 'Fave + '
 ---

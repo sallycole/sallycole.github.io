@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: once
-type: free
-title: once
 reference_link: https://www.etymonline.com/word/once
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: once
+type: free
 word_sums:
-- sum: 'Once + '
-  respelling: once
+- respelling: once
+  sum: 'Once + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: ace
-type: free
-title: ace
 reference_link: https://www.etymonline.com/word/ace
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: ace
+type: free
 word_sums:
-- sum: 'Ace + '
-  respelling: ace
+- respelling: ace
+  sum: 'Ace + '
 ---

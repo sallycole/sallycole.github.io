@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: tilt
-type: free
-title: tilt
 reference_link: https://www.etymonline.com/word/tilt
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: tilt
+type: free
 word_sums:
-- sum: 'Tilt + '
-  respelling: tilt
+- respelling: tilt
+  sum: 'Tilt + '
 ---

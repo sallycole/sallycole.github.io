@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: hue
-type: free
-title: hue
 reference_link: https://www.etymonline.com/word/hue
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: hue
+type: free
 word_sums:
-- sum: 'Hue + '
-  respelling: hue
+- respelling: hue
+  sum: 'Hue + '
 ---

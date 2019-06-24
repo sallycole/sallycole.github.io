@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: doze
-type: free
-title: doze
 reference_link: https://www.etymonline.com/word/doze
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: doze
+type: free
 word_sums:
-- sum: 'Doze + '
-  respelling: doze
+- respelling: doze
+  sum: 'Doze + '
 ---

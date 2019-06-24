@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: less
-type: free
-title: less
 reference_link: https://www.etymonline.com/word/less
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: less
+type: free
 word_sums:
-- sum: 'Less + '
-  respelling: less
+- respelling: less
+  sum: 'Less + '
 ---

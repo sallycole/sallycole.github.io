@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: nuke
-type: free
-title: nuke
 reference_link: https://www.etymonline.com/word/nuke
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: nuke
+type: free
 word_sums:
-- sum: 'Nuke + '
-  respelling: nuke
+- respelling: nuke
+  sum: 'Nuke + '
 ---

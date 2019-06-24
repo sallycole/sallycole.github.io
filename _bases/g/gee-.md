@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: gee
-type: free
-title: gee
 reference_link: https://www.etymonline.com/word/gee
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: gee
+type: free
 word_sums:
-- sum: 'Gee + '
-  respelling: gee
+- respelling: gee
+  sum: 'Gee + '
 ---

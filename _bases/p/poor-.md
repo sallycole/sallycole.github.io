@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: poor
-type: free
-title: poor
 reference_link: https://www.etymonline.com/word/poor
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: poor
+type: free
 word_sums:
-- sum: 'Poor + '
-  respelling: poor
+- respelling: poor
+  sum: 'Poor + '
 ---

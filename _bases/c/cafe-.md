@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: cafe
-type: free
-title: cafe
 reference_link: https://www.etymonline.com/word/cafe
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: cafe
+type: free
 word_sums:
-- sum: 'Cafe + '
-  respelling: cafe
+- respelling: cafe
+  sum: 'Cafe + '
 ---

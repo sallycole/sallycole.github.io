@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: teg
-type: free
-title: teg
 reference_link: https://www.etymonline.com/word/teg
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: teg
+type: free
 word_sums:
-- sum: 'Teg + '
-  respelling: teg
+- respelling: teg
+  sum: 'Teg + '
 ---

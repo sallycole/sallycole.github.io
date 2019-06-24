@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: filo
-type: free
-title: filo
 reference_link: https://www.etymonline.com/word/filo
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: filo
+type: free
 word_sums:
-- sum: 'Filo + '
-  respelling: filo
+- respelling: filo
+  sum: 'Filo + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: ode
-type: free
-title: ode
 reference_link: https://www.etymonline.com/word/ode
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: ode
+type: free
 word_sums:
-- sum: 'Ode + '
-  respelling: ode
+- respelling: ode
+  sum: 'Ode + '
 ---

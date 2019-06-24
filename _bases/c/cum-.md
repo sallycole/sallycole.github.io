@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: cum
-type: free
-title: cum
 reference_link: https://www.etymonline.com/word/cum
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: cum
+type: free
 word_sums:
-- sum: 'Cum + '
-  respelling: cum
+- respelling: cum
+  sum: 'Cum + '
 ---

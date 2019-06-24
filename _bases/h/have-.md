@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: have
-type: free
-title: have
 reference_link: https://www.etymonline.com/word/have
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: have
+type: free
 word_sums:
-- sum: 'Have + '
-  respelling: have
+- respelling: have
+  sum: 'Have + '
 ---

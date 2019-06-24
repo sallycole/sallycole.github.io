@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: keel
-type: free
-title: keel
 reference_link: https://www.etymonline.com/word/keel
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: keel
+type: free
 word_sums:
-- sum: 'Keel + '
-  respelling: keel
+- respelling: keel
+  sum: 'Keel + '
 ---

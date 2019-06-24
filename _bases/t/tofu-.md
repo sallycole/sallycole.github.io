@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: tofu
-type: free
-title: tofu
 reference_link: https://www.etymonline.com/word/tofu
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: tofu
+type: free
 word_sums:
-- sum: 'Tofu + '
-  respelling: tofu
+- respelling: tofu
+  sum: 'Tofu + '
 ---

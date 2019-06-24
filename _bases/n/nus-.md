@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: nus
-type: free
-title: nus
 reference_link: https://www.etymonline.com/word/nus
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: nus
+type: free
 word_sums:
-- sum: 'Nus + '
-  respelling: nus
+- respelling: nus
+  sum: 'Nus + '
 ---

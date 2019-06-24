@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: mol
-type: free
-title: mol
 reference_link: https://www.etymonline.com/word/mol
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: mol
+type: free
 word_sums:
-- sum: 'Mol + '
-  respelling: mol
+- respelling: mol
+  sum: 'Mol + '
 ---

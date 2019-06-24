@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: ant
-type: free
-title: ant
 reference_link: https://www.etymonline.com/word/ant
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: ant
+type: free
 word_sums:
-- sum: 'Ant + '
-  respelling: ant
+- respelling: ant
+  sum: 'Ant + '
 ---

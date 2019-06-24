@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: sap
-type: free
-title: sap
 reference_link: https://www.etymonline.com/word/sap
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: sap
+type: free
 word_sums:
-- sum: 'Sap + '
-  respelling: sap
+- respelling: sap
+  sum: 'Sap + '
 ---

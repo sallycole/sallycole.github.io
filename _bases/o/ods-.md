@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: ods
-type: free
-title: ods
 reference_link: https://www.etymonline.com/word/ods
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: ods
+type: free
 word_sums:
-- sum: 'Ods + '
-  respelling: ods
+- respelling: ods
+  sum: 'Ods + '
 ---

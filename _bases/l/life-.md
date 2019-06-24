@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: life
-type: free
-title: life
 reference_link: https://www.etymonline.com/word/life
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: life
+type: free
 word_sums:
-- sum: 'Life + '
-  respelling: life
+- respelling: life
+  sum: 'Life + '
 ---

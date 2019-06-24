@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: hush
-type: free
-title: hush
 reference_link: https://www.etymonline.com/word/hush
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: hush
+type: free
 word_sums:
-- sum: 'Hush + '
-  respelling: hush
+- respelling: hush
+  sum: 'Hush + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: rote
-type: free
-title: rote
 reference_link: https://www.etymonline.com/word/rote
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: rote
+type: free
 word_sums:
-- sum: 'Rote + '
-  respelling: rote
+- respelling: rote
+  sum: 'Rote + '
 ---

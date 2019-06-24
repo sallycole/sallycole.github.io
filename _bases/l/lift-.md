@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: lift
-type: free
-title: lift
 reference_link: https://www.etymonline.com/word/lift
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: lift
+type: free
 word_sums:
-- sum: 'Lift + '
-  respelling: lift
+- respelling: lift
+  sum: 'Lift + '
 ---

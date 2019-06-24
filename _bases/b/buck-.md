@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: buck
-type: free
-title: buck
 reference_link: https://www.etymonline.com/word/buck
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: buck
+type: free
 word_sums:
-- sum: 'Buck + '
-  respelling: buck
+- respelling: buck
+  sum: 'Buck + '
 ---

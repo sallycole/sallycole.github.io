@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: bum
-type: free
-title: bum
 reference_link: https://www.etymonline.com/word/bum
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: bum
+type: free
 word_sums:
-- sum: 'Bum + '
-  respelling: bum
+- respelling: bum
+  sum: 'Bum + '
 ---

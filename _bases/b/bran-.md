@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: bran
-type: free
-title: bran
 reference_link: https://www.etymonline.com/word/bran
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: bran
+type: free
 word_sums:
-- sum: 'Bran + '
-  respelling: bran
+- respelling: bran
+  sum: 'Bran + '
 ---

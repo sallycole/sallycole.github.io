@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: over
-type: free
-title: over
 reference_link: https://www.etymonline.com/word/over
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: over
+type: free
 word_sums:
-- sum: 'Over + '
-  respelling: over
+- respelling: over
+  sum: 'Over + '
 ---

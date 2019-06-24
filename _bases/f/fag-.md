@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: fag
-type: free
-title: fag
 reference_link: https://www.etymonline.com/word/fag
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: fag
+type: free
 word_sums:
-- sum: 'Fag + '
-  respelling: fag
+- respelling: fag
+  sum: 'Fag + '
 ---

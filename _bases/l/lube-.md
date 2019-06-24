@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: lube
-type: free
-title: lube
 reference_link: https://www.etymonline.com/word/lube
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: lube
+type: free
 word_sums:
-- sum: 'Lube + '
-  respelling: lube
+- respelling: lube
+  sum: 'Lube + '
 ---

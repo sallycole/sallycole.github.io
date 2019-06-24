@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: fizz
-type: free
-title: fizz
 reference_link: https://www.etymonline.com/word/fizz
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: fizz
+type: free
 word_sums:
-- sum: 'Fizz + '
-  respelling: fizz
+- respelling: fizz
+  sum: 'Fizz + '
 ---

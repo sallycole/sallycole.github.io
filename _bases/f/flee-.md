@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: flee
-type: free
-title: flee
 reference_link: https://www.etymonline.com/word/flee
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: flee
+type: free
 word_sums:
-- sum: 'Flee + '
-  respelling: flee
+- respelling: flee
+  sum: 'Flee + '
 ---

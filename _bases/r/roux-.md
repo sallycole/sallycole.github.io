@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: roux
-type: free
-title: roux
 reference_link: https://www.etymonline.com/word/roux
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: roux
+type: free
 word_sums:
-- sum: 'Roux + '
-  respelling: roux
+- respelling: roux
+  sum: 'Roux + '
 ---

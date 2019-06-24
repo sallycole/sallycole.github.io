@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: keen
-type: free
-title: keen
 reference_link: https://www.etymonline.com/word/keen
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: keen
+type: free
 word_sums:
-- sum: 'Keen + '
-  respelling: keen
+- respelling: keen
+  sum: 'Keen + '
 ---

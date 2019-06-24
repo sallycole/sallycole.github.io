@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: drum
-type: free
-title: drum
 reference_link: https://www.etymonline.com/word/drum
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: drum
+type: free
 word_sums:
-- sum: 'Drum + '
-  respelling: drum
+- respelling: drum
+  sum: 'Drum + '
 ---

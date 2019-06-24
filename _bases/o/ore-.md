@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: ore
-type: free
-title: ore
 reference_link: https://www.etymonline.com/word/ore
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: ore
+type: free
 word_sums:
-- sum: 'Ore + '
-  respelling: ore
+- respelling: ore
+  sum: 'Ore + '
 ---

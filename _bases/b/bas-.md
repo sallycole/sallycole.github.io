@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: bas
-type: free
-title: bas
 reference_link: https://www.etymonline.com/word/bas
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: bas
+type: free
 word_sums:
-- sum: 'Bas + '
-  respelling: bas
+- respelling: bas
+  sum: 'Bas + '
 ---

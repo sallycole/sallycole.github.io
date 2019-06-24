@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: bowl
-type: free
-title: bowl
 reference_link: https://www.etymonline.com/word/bowl
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: bowl
+type: free
 word_sums:
-- sum: 'Bowl + '
-  respelling: bowl
+- respelling: bowl
+  sum: 'Bowl + '
 ---

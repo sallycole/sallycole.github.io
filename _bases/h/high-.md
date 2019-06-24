@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: high
-type: free
-title: high
 reference_link: https://www.etymonline.com/word/high
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: high
+type: free
 word_sums:
-- sum: 'High + '
-  respelling: high
+- respelling: high
+  sum: 'High + '
 ---

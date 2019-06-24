@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: roe
-type: free
-title: roe
 reference_link: https://www.etymonline.com/word/roe
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: roe
+type: free
 word_sums:
-- sum: 'Roe + '
-  respelling: roe
+- respelling: roe
+  sum: 'Roe + '
 ---

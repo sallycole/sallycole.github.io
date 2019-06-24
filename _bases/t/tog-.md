@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: tog
-type: free
-title: tog
 reference_link: https://www.etymonline.com/word/tog
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: tog
+type: free
 word_sums:
-- sum: 'Tog + '
-  respelling: tog
+- respelling: tog
+  sum: 'Tog + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: mil
-type: free
-title: mil
 reference_link: https://www.etymonline.com/word/mil
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: mil
+type: free
 word_sums:
-- sum: 'Mil + '
-  respelling: mil
+- respelling: mil
+  sum: 'Mil + '
 ---

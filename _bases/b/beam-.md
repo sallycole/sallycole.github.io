@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: beam
-type: free
-title: beam
 reference_link: https://www.etymonline.com/word/beam
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: beam
+type: free
 word_sums:
-- sum: 'Beam + '
-  respelling: beam
+- respelling: beam
+  sum: 'Beam + '
 ---

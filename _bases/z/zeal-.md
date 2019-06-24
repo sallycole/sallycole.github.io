@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: zeal
-type: free
-title: zeal
 reference_link: https://www.etymonline.com/word/zeal
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: zeal
+type: free
 word_sums:
-- sum: 'Zeal + '
-  respelling: zeal
+- respelling: zeal
+  sum: 'Zeal + '
 ---

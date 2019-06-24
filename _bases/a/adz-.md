@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: adz
-type: free
-title: adz
 reference_link: https://www.etymonline.com/word/adz
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: adz
+type: free
 word_sums:
-- sum: 'Adz + '
-  respelling: adz
+- respelling: adz
+  sum: 'Adz + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: pooh
-type: free
-title: pooh
 reference_link: https://www.etymonline.com/word/pooh
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: pooh
+type: free
 word_sums:
-- sum: 'Pooh + '
-  respelling: pooh
+- respelling: pooh
+  sum: 'Pooh + '
 ---

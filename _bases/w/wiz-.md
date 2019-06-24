@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: wiz
-type: free
-title: wiz
 reference_link: https://www.etymonline.com/word/wiz
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: wiz
+type: free
 word_sums:
-- sum: 'Wiz + '
-  respelling: wiz
+- respelling: wiz
+  sum: 'Wiz + '
 ---

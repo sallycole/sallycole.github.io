@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: myth
-type: free
-title: myth
 reference_link: https://www.etymonline.com/word/myth
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: myth
+type: free
 word_sums:
-- sum: 'Myth + '
-  respelling: myth
+- respelling: myth
+  sum: 'Myth + '
 ---

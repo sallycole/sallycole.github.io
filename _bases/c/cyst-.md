@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: cyst
-type: free
-title: cyst
 reference_link: https://www.etymonline.com/word/cyst
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: cyst
+type: free
 word_sums:
-- sum: 'Cyst + '
-  respelling: cyst
+- respelling: cyst
+  sum: 'Cyst + '
 ---

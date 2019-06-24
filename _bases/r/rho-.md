@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: rho
-type: free
-title: rho
 reference_link: https://www.etymonline.com/word/rho
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: rho
+type: free
 word_sums:
-- sum: 'Rho + '
-  respelling: rho
+- respelling: rho
+  sum: 'Rho + '
 ---

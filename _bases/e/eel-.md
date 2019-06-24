@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: eel
-type: free
-title: eel
 reference_link: https://www.etymonline.com/word/eel
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: eel
+type: free
 word_sums:
-- sum: 'Eel + '
-  respelling: eel
+- respelling: eel
+  sum: 'Eel + '
 ---

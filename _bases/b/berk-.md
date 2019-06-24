@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: berk
-type: free
-title: berk
 reference_link: https://www.etymonline.com/word/berk
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: berk
+type: free
 word_sums:
-- sum: 'Berk + '
-  respelling: berk
+- respelling: berk
+  sum: 'Berk + '
 ---

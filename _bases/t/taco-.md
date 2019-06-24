@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: taco
-type: free
-title: taco
 reference_link: https://www.etymonline.com/word/taco
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: taco
+type: free
 word_sums:
-- sum: 'Taco + '
-  respelling: taco
+- respelling: taco
+  sum: 'Taco + '
 ---

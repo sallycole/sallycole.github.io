@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: ooze
-type: free
-title: ooze
 reference_link: https://www.etymonline.com/word/ooze
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: ooze
+type: free
 word_sums:
-- sum: 'Ooze + '
-  respelling: ooze
+- respelling: ooze
+  sum: 'Ooze + '
 ---

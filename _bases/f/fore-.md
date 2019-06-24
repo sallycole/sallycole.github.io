@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: fore
-type: free
-title: fore
 reference_link: https://www.etymonline.com/word/fore
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: fore
+type: free
 word_sums:
-- sum: 'Fore + '
-  respelling: fore
+- respelling: fore
+  sum: 'Fore + '
 ---

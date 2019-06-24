@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: ell
-type: free
-title: ell
 reference_link: https://www.etymonline.com/word/ell
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: ell
+type: free
 word_sums:
-- sum: 'Ell + '
-  respelling: ell
+- respelling: ell
+  sum: 'Ell + '
 ---

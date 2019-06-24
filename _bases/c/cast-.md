@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: cast
-type: free
-title: cast
 reference_link: https://www.etymonline.com/word/cast
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: cast
+type: free
 word_sums:
-- sum: 'Cast + '
-  respelling: cast
+- respelling: cast
+  sum: 'Cast + '
 ---

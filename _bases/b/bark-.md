@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: bark
-type: free
-title: bark
 reference_link: https://www.etymonline.com/word/bark
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: bark
+type: free
 word_sums:
-- sum: 'Bark + '
-  respelling: bark
+- respelling: bark
+  sum: 'Bark + '
 ---

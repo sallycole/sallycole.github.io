@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: sari
-type: free
-title: sari
 reference_link: https://www.etymonline.com/word/sari
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: sari
+type: free
 word_sums:
-- sum: 'Sari + '
-  respelling: sari
+- respelling: sari
+  sum: 'Sari + '
 ---

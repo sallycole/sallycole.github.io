@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: bio
-type: free
-title: bio
 reference_link: https://www.etymonline.com/word/bio
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: bio
+type: free
 word_sums:
-- sum: 'Bio + '
-  respelling: bio
+- respelling: bio
+  sum: 'Bio + '
 ---

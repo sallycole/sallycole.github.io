@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: rift
-type: free
-title: rift
 reference_link: https://www.etymonline.com/word/rift
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: rift
+type: free
 word_sums:
-- sum: 'Rift + '
-  respelling: rift
+- respelling: rift
+  sum: 'Rift + '
 ---

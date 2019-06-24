@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: lout
-type: free
-title: lout
 reference_link: https://www.etymonline.com/word/lout
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: lout
+type: free
 word_sums:
-- sum: 'Lout + '
-  respelling: lout
+- respelling: lout
+  sum: 'Lout + '
 ---

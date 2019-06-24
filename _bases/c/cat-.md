@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: cat
-type: free
-title: cat
 reference_link: https://www.etymonline.com/word/cat
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: cat
+type: free
 word_sums:
-- sum: 'Cat + '
-  respelling: cat
+- respelling: cat
+  sum: 'Cat + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: tsk
-type: free
-title: tsk
 reference_link: https://www.etymonline.com/word/tsk
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: tsk
+type: free
 word_sums:
-- sum: 'Tsk + '
-  respelling: tsk
+- respelling: tsk
+  sum: 'Tsk + '
 ---

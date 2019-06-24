@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: til
-type: free
-title: til
 reference_link: https://www.etymonline.com/word/til
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: til
+type: free
 word_sums:
-- sum: 'Til + '
-  respelling: til
+- respelling: til
+  sum: 'Til + '
 ---

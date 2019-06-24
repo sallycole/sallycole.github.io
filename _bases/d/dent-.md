@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: dent
-type: free
-title: dent
 reference_link: https://www.etymonline.com/word/dent
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: dent
+type: free
 word_sums:
-- sum: 'Dent + '
-  respelling: dent
+- respelling: dent
+  sum: 'Dent + '
 ---

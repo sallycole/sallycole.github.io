@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: din
-type: free
-title: din
 reference_link: https://www.etymonline.com/word/din
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: din
+type: free
 word_sums:
-- sum: 'Din + '
-  respelling: din
+- respelling: din
+  sum: 'Din + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: lock
-type: free
-title: lock
 reference_link: https://www.etymonline.com/word/lock
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: lock
+type: free
 word_sums:
-- sum: 'Lock + '
-  respelling: lock
+- respelling: lock
+  sum: 'Lock + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: lax
-type: free
-title: lax
 reference_link: https://www.etymonline.com/word/lax
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: lax
+type: free
 word_sums:
-- sum: 'Lax + '
-  respelling: lax
+- respelling: lax
+  sum: 'Lax + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: meal
-type: free
-title: meal
 reference_link: https://www.etymonline.com/word/meal
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: meal
+type: free
 word_sums:
-- sum: 'Meal + '
-  respelling: meal
+- respelling: meal
+  sum: 'Meal + '
 ---

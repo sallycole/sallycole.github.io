@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: fes
-type: free
-title: fes
 reference_link: https://www.etymonline.com/word/fes
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: fes
+type: free
 word_sums:
-- sum: 'Fes + '
-  respelling: fes
+- respelling: fes
+  sum: 'Fes + '
 ---

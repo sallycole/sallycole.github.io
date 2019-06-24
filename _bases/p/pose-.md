@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: pose
-type: free
-title: pose
 reference_link: https://www.etymonline.com/word/pose
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: pose
+type: free
 word_sums:
-- sum: 'Pose + '
-  respelling: pose
+- respelling: pose
+  sum: 'Pose + '
 ---

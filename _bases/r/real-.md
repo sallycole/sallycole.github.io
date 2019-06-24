@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: real
-type: free
-title: real
 reference_link: https://www.etymonline.com/word/real
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: real
+type: free
 word_sums:
-- sum: 'Real + '
-  respelling: real
+- respelling: real
+  sum: 'Real + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: sole
-type: free
-title: sole
 reference_link: https://www.etymonline.com/word/sole
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: sole
+type: free
 word_sums:
-- sum: 'Sole + '
-  respelling: sole
+- respelling: sole
+  sum: 'Sole + '
 ---

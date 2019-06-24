@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: sear
-type: free
-title: sear
 reference_link: https://www.etymonline.com/word/sear
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: sear
+type: free
 word_sums:
-- sum: 'Sear + '
-  respelling: sear
+- respelling: sear
+  sum: 'Sear + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: hash
-type: free
-title: hash
 reference_link: https://www.etymonline.com/word/hash
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: hash
+type: free
 word_sums:
-- sum: 'Hash + '
-  respelling: hash
+- respelling: hash
+  sum: 'Hash + '
 ---

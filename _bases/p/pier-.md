@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: pier
-type: free
-title: pier
 reference_link: https://www.etymonline.com/word/pier
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: pier
+type: free
 word_sums:
-- sum: 'Pier + '
-  respelling: pier
+- respelling: pier
+  sum: 'Pier + '
 ---

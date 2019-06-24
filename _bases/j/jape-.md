@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: jape
-type: free
-title: jape
 reference_link: https://www.etymonline.com/word/jape
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: jape
+type: free
 word_sums:
-- sum: 'Jape + '
-  respelling: jape
+- respelling: jape
+  sum: 'Jape + '
 ---

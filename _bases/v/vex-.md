@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: vex
-type: free
-title: vex
 reference_link: https://www.etymonline.com/word/vex
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: vex
+type: free
 word_sums:
-- sum: 'Vex + '
-  respelling: vex
+- respelling: vex
+  sum: 'Vex + '
 ---

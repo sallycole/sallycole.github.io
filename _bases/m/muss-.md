@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: muss
-type: free
-title: muss
 reference_link: https://www.etymonline.com/word/muss
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: muss
+type: free
 word_sums:
-- sum: 'Muss + '
-  respelling: muss
+- respelling: muss
+  sum: 'Muss + '
 ---

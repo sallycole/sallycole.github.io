@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: pul
-type: free
-title: pul
 reference_link: https://www.etymonline.com/word/pul
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: pul
+type: free
 word_sums:
-- sum: 'Pul + '
-  respelling: pul
+- respelling: pul
+  sum: 'Pul + '
 ---

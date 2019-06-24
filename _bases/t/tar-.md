@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: tar
-type: free
-title: tar
 reference_link: https://www.etymonline.com/word/tar
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: tar
+type: free
 word_sums:
-- sum: 'Tar + '
-  respelling: tar
+- respelling: tar
+  sum: 'Tar + '
 ---

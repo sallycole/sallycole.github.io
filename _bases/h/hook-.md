@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: hook
-type: free
-title: hook
 reference_link: https://www.etymonline.com/word/hook
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: hook
+type: free
 word_sums:
-- sum: 'Hook + '
-  respelling: hook
+- respelling: hook
+  sum: 'Hook + '
 ---

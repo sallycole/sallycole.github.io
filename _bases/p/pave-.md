@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: pave
-type: free
-title: pave
 reference_link: https://www.etymonline.com/word/pave
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: pave
+type: free
 word_sums:
-- sum: 'Pave + '
-  respelling: pave
+- respelling: pave
+  sum: 'Pave + '
 ---

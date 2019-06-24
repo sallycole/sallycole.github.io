@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: yen
-type: free
-title: yen
 reference_link: https://www.etymonline.com/word/yen
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: yen
+type: free
 word_sums:
-- sum: 'Yen + '
-  respelling: yen
+- respelling: yen
+  sum: 'Yen + '
 ---

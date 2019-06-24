@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: loaf
-type: free
-title: loaf
 reference_link: https://www.etymonline.com/word/loaf
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: loaf
+type: free
 word_sums:
-- sum: 'Loaf + '
-  respelling: loaf
+- respelling: loaf
+  sum: 'Loaf + '
 ---

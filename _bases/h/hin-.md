@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: hin
-type: free
-title: hin
 reference_link: https://www.etymonline.com/word/hin
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: hin
+type: free
 word_sums:
-- sum: 'Hin + '
-  respelling: hin
+- respelling: hin
+  sum: 'Hin + '
 ---

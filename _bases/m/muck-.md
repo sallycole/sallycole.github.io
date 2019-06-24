@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: muck
-type: free
-title: muck
 reference_link: https://www.etymonline.com/word/muck
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: muck
+type: free
 word_sums:
-- sum: 'Muck + '
-  respelling: muck
+- respelling: muck
+  sum: 'Muck + '
 ---

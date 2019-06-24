@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: trod
-type: free
-title: trod
 reference_link: https://www.etymonline.com/word/trod
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: trod
+type: free
 word_sums:
-- sum: 'Trod + '
-  respelling: trod
+- respelling: trod
+  sum: 'Trod + '
 ---

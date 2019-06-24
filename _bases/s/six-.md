@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: six
-type: free
-title: six
 reference_link: https://www.etymonline.com/word/six
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: six
+type: free
 word_sums:
-- sum: 'Six + '
-  respelling: six
+- respelling: six
+  sum: 'Six + '
 ---

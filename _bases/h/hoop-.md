@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: hoop
-type: free
-title: hoop
 reference_link: https://www.etymonline.com/word/hoop
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: hoop
+type: free
 word_sums:
-- sum: 'Hoop + '
-  respelling: hoop
+- respelling: hoop
+  sum: 'Hoop + '
 ---

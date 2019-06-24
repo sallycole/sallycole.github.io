@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: kea
-type: free
-title: kea
 reference_link: https://www.etymonline.com/word/kea
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: kea
+type: free
 word_sums:
-- sum: 'Kea + '
-  respelling: kea
+- respelling: kea
+  sum: 'Kea + '
 ---

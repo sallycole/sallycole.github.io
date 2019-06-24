@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: jaw
-type: free
-title: jaw
 reference_link: https://www.etymonline.com/word/jaw
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: jaw
+type: free
 word_sums:
-- sum: 'Jaw + '
-  respelling: jaw
+- respelling: jaw
+  sum: 'Jaw + '
 ---

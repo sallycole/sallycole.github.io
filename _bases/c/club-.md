@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: club
-type: free
-title: club
 reference_link: https://www.etymonline.com/word/club
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: club
+type: free
 word_sums:
-- sum: 'Club + '
-  respelling: club
+- respelling: club
+  sum: 'Club + '
 ---

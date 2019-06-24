@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: heed
-type: free
-title: heed
 reference_link: https://www.etymonline.com/word/heed
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: heed
+type: free
 word_sums:
-- sum: 'Heed + '
-  respelling: heed
+- respelling: heed
+  sum: 'Heed + '
 ---

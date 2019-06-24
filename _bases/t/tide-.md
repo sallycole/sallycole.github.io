@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: tide
-type: free
-title: tide
 reference_link: https://www.etymonline.com/word/tide
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: tide
+type: free
 word_sums:
-- sum: 'Tide + '
-  respelling: tide
+- respelling: tide
+  sum: 'Tide + '
 ---

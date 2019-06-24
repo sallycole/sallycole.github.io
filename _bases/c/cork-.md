@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: cork
-type: free
-title: cork
 reference_link: https://www.etymonline.com/word/cork
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: cork
+type: free
 word_sums:
-- sum: 'Cork + '
-  respelling: cork
+- respelling: cork
+  sum: 'Cork + '
 ---

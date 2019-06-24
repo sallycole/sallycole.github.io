@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: mute
-type: free
-title: mute
 reference_link: https://www.etymonline.com/word/mute
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: mute
+type: free
 word_sums:
-- sum: 'Mute + '
-  respelling: mute
+- respelling: mute
+  sum: 'Mute + '
 ---

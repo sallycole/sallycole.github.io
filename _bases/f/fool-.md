@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: fool
-type: free
-title: fool
 reference_link: https://www.etymonline.com/word/fool
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: fool
+type: free
 word_sums:
-- sum: 'Fool + '
-  respelling: fool
+- respelling: fool
+  sum: 'Fool + '
 ---

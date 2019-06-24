@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: weft
-type: free
-title: weft
 reference_link: https://www.etymonline.com/word/weft
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: weft
+type: free
 word_sums:
-- sum: 'Weft + '
-  respelling: weft
+- respelling: weft
+  sum: 'Weft + '
 ---

@@ -1,20 +1,21 @@
 ---
+category: 3-letters
+denotation: to strike, push
 name: but
+reference_link: https://www.etymonline.com/word/abut
+root_language: a Germanic source
+root_name: bouter
 title: but
 type: bound
-reference_link: https://www.etymonline.com/word/abut
-root_name: bouter
-root_language: a Germanic source
-denotation: to strike, push
 word_sums:
-- sum: 'a + But'
-  respelling: abut
-- sum: 'a + But + ing'
-  respelling: abutting
-- sum: 'a + But + ed'
-  respelling: abutted
-- sum: 'a + But + er'
-  respelling: abutter
-- sum: 'a + But + s'
-  respelling: abuts
+- respelling: abut
+  sum: a + But
+- respelling: abutting
+  sum: a + But + ing
+- respelling: abutted
+  sum: a + But + ed
+- respelling: abutter
+  sum: a + But + er
+- respelling: abuts
+  sum: a + But + s
 ---

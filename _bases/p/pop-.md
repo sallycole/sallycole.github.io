@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: pop
-type: free
-title: pop
 reference_link: https://www.etymonline.com/word/pop
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: pop
+type: free
 word_sums:
-- sum: 'Pop + '
-  respelling: pop
+- respelling: pop
+  sum: 'Pop + '
 ---

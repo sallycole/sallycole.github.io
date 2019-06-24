@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: wolf
-type: free
-title: wolf
 reference_link: https://www.etymonline.com/word/wolf
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: wolf
+type: free
 word_sums:
-- sum: 'Wolf + '
-  respelling: wolf
+- respelling: wolf
+  sum: 'Wolf + '
 ---

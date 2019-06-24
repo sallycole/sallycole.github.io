@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: way
-type: free
-title: way
 reference_link: https://www.etymonline.com/word/way
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: way
+type: free
 word_sums:
-- sum: 'Way + '
-  respelling: way
+- respelling: way
+  sum: 'Way + '
 ---

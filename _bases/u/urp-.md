@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: urp
-type: free
-title: urp
 reference_link: https://www.etymonline.com/word/urp
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: urp
+type: free
 word_sums:
-- sum: 'Urp + '
-  respelling: urp
+- respelling: urp
+  sum: 'Urp + '
 ---

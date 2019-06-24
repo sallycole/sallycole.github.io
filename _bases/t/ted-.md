@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: ted
-type: free
-title: ted
 reference_link: https://www.etymonline.com/word/ted
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: ted
+type: free
 word_sums:
-- sum: 'Ted + '
-  respelling: ted
+- respelling: ted
+  sum: 'Ted + '
 ---

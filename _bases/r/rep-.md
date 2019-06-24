@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: rep
-type: free
-title: rep
 reference_link: https://www.etymonline.com/word/rep
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: rep
+type: free
 word_sums:
-- sum: 'Rep + '
-  respelling: rep
+- respelling: rep
+  sum: 'Rep + '
 ---

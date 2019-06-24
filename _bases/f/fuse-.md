@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: fuse
-type: free
-title: fuse
 reference_link: https://www.etymonline.com/word/fuse
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: fuse
+type: free
 word_sums:
-- sum: 'Fuse + '
-  respelling: fuse
+- respelling: fuse
+  sum: 'Fuse + '
 ---

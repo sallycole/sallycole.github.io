@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: pond
-type: free
-title: pond
 reference_link: https://www.etymonline.com/word/pond
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: pond
+type: free
 word_sums:
-- sum: 'Pond + '
-  respelling: pond
+- respelling: pond
+  sum: 'Pond + '
 ---

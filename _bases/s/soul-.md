@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: soul
-type: free
-title: soul
 reference_link: https://www.etymonline.com/word/soul
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: soul
+type: free
 word_sums:
-- sum: 'Soul + '
-  respelling: soul
+- respelling: soul
+  sum: 'Soul + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: tern
-type: free
-title: tern
 reference_link: https://www.etymonline.com/word/tern
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: tern
+type: free
 word_sums:
-- sum: 'Tern + '
-  respelling: tern
+- respelling: tern
+  sum: 'Tern + '
 ---

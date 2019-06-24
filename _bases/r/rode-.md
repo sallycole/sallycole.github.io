@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: rode
-type: free
-title: rode
 reference_link: https://www.etymonline.com/word/rode
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: rode
+type: free
 word_sums:
-- sum: 'Rode + '
-  respelling: rode
+- respelling: rode
+  sum: 'Rode + '
 ---

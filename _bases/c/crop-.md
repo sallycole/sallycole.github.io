@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: crop
-type: free
-title: crop
 reference_link: https://www.etymonline.com/word/crop
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: crop
+type: free
 word_sums:
-- sum: 'Crop + '
-  respelling: crop
+- respelling: crop
+  sum: 'Crop + '
 ---

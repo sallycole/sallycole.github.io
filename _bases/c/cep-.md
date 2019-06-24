@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: cep
-type: free
-title: cep
 reference_link: https://www.etymonline.com/word/cep
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: cep
+type: free
 word_sums:
-- sum: 'Cep + '
-  respelling: cep
+- respelling: cep
+  sum: 'Cep + '
 ---

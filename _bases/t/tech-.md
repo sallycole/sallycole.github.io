@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: tech
-type: free
-title: tech
 reference_link: https://www.etymonline.com/word/tech
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: tech
+type: free
 word_sums:
-- sum: 'Tech + '
-  respelling: tech
+- respelling: tech
+  sum: 'Tech + '
 ---

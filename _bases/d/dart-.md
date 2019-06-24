@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: dart
-type: free
-title: dart
 reference_link: https://www.etymonline.com/word/dart
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: dart
+type: free
 word_sums:
-- sum: 'Dart + '
-  respelling: dart
+- respelling: dart
+  sum: 'Dart + '
 ---

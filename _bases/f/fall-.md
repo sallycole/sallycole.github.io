@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: fall
-type: free
-title: fall
 reference_link: https://www.etymonline.com/word/fall
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: fall
+type: free
 word_sums:
-- sum: 'Fall + '
-  respelling: fall
+- respelling: fall
+  sum: 'Fall + '
 ---

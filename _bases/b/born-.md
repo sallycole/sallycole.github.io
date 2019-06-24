@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: born
-type: free
-title: born
 reference_link: https://www.etymonline.com/word/born
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: born
+type: free
 word_sums:
-- sum: 'Born + '
-  respelling: born
+- respelling: born
+  sum: 'Born + '
 ---

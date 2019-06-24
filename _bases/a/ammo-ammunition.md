@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: projectiles
 name: ammo
+reference_link: https://www.etymonline.com/word/ammo
+root_language: English
+root_name: ammunition
 title: ammo
 type: free
-reference_link: https://www.etymonline.com/word/ammo
-root_name: ammunition
-root_language: English
-denotation: projectiles
 word_sums:
-- sum: 'Ammo'
-  respelling: ammo
+- respelling: ammo
+  sum: Ammo
 ---

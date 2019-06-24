@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: film
-type: free
-title: film
 reference_link: https://www.etymonline.com/word/film
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: film
+type: free
 word_sums:
-- sum: 'Film + '
-  respelling: film
+- respelling: film
+  sum: 'Film + '
 ---

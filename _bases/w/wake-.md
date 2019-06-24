@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: wake
-type: free
-title: wake
 reference_link: https://www.etymonline.com/word/wake
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: wake
+type: free
 word_sums:
-- sum: 'Wake + '
-  respelling: wake
+- respelling: wake
+  sum: 'Wake + '
 ---

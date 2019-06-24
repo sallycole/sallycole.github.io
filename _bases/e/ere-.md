@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: ere
-type: free
-title: ere
 reference_link: https://www.etymonline.com/word/ere
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: ere
+type: free
 word_sums:
-- sum: 'Ere + '
-  respelling: ere
+- respelling: ere
+  sum: 'Ere + '
 ---

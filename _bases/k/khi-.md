@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: khi
-type: free
-title: khi
 reference_link: https://www.etymonline.com/word/khi
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: khi
+type: free
 word_sums:
-- sum: 'Khi + '
-  respelling: khi
+- respelling: khi
+  sum: 'Khi + '
 ---

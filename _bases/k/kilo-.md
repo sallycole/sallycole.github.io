@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: kilo
-type: free
-title: kilo
 reference_link: https://www.etymonline.com/word/kilo
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: kilo
+type: free
 word_sums:
-- sum: 'Kilo + '
-  respelling: kilo
+- respelling: kilo
+  sum: 'Kilo + '
 ---

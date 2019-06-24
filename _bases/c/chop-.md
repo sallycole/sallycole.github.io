@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: chop
-type: free
-title: chop
 reference_link: https://www.etymonline.com/word/chop
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: chop
+type: free
 word_sums:
-- sum: 'Chop + '
-  respelling: chop
+- respelling: chop
+  sum: 'Chop + '
 ---

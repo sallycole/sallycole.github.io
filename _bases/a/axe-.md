@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: axe
-type: free
-title: axe
 reference_link: https://www.etymonline.com/word/axe
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: axe
+type: free
 word_sums:
-- sum: 'Axe + '
-  respelling: axe
+- respelling: axe
+  sum: 'Axe + '
 ---

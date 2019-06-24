@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: cave
-type: free
-title: cave
 reference_link: https://www.etymonline.com/word/cave
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: cave
+type: free
 word_sums:
-- sum: 'Cave + '
-  respelling: cave
+- respelling: cave
+  sum: 'Cave + '
 ---

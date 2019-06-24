@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: mot
-type: free
-title: mot
 reference_link: https://www.etymonline.com/word/mot
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: mot
+type: free
 word_sums:
-- sum: 'Mot + '
-  respelling: mot
+- respelling: mot
+  sum: 'Mot + '
 ---

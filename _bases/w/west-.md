@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: west
-type: free
-title: west
 reference_link: https://www.etymonline.com/word/west
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: west
+type: free
 word_sums:
-- sum: 'West + '
-  respelling: west
+- respelling: west
+  sum: 'West + '
 ---

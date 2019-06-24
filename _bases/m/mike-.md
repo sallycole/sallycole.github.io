@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: mike
-type: free
-title: mike
 reference_link: https://www.etymonline.com/word/mike
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: mike
+type: free
 word_sums:
-- sum: 'Mike + '
-  respelling: mike
+- respelling: mike
+  sum: 'Mike + '
 ---

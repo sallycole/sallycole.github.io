@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: cost
-type: free
-title: cost
 reference_link: https://www.etymonline.com/word/cost
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: cost
+type: free
 word_sums:
-- sum: 'Cost + '
-  respelling: cost
+- respelling: cost
+  sum: 'Cost + '
 ---

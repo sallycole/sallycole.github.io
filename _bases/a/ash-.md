@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: ash
-type: free
-title: ash
 reference_link: https://www.etymonline.com/word/ash
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: ash
+type: free
 word_sums:
-- sum: 'Ash + '
-  respelling: ash
+- respelling: ash
+  sum: 'Ash + '
 ---

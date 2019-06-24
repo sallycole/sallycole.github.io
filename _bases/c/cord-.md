@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: cord
-type: free
-title: cord
 reference_link: https://www.etymonline.com/word/cord
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: cord
+type: free
 word_sums:
-- sum: 'Cord + '
-  respelling: cord
+- respelling: cord
+  sum: 'Cord + '
 ---

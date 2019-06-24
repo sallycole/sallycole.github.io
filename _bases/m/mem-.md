@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: mem
-type: free
-title: mem
 reference_link: https://www.etymonline.com/word/mem
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: mem
+type: free
 word_sums:
-- sum: 'Mem + '
-  respelling: mem
+- respelling: mem
+  sum: 'Mem + '
 ---

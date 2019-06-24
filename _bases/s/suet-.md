@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: suet
-type: free
-title: suet
 reference_link: https://www.etymonline.com/word/suet
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: suet
+type: free
 word_sums:
-- sum: 'Suet + '
-  respelling: suet
+- respelling: suet
+  sum: 'Suet + '
 ---

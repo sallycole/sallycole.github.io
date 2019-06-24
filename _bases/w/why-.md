@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: why
-type: free
-title: why
 reference_link: https://www.etymonline.com/word/why
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: why
+type: free
 word_sums:
-- sum: 'Why + '
-  respelling: why
+- respelling: why
+  sum: 'Why + '
 ---

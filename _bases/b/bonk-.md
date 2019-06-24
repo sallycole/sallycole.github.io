@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: bonk
-type: free
-title: bonk
 reference_link: https://www.etymonline.com/word/bonk
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: bonk
+type: free
 word_sums:
-- sum: 'Bonk + '
-  respelling: bonk
+- respelling: bonk
+  sum: 'Bonk + '
 ---

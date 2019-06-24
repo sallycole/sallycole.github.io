@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: urge
-type: free
-title: urge
 reference_link: https://www.etymonline.com/word/urge
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: urge
+type: free
 word_sums:
-- sum: 'Urge + '
-  respelling: urge
+- respelling: urge
+  sum: 'Urge + '
 ---

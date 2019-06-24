@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: zit
-type: free
-title: zit
 reference_link: https://www.etymonline.com/word/zit
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: zit
+type: free
 word_sums:
-- sum: 'Zit + '
-  respelling: zit
+- respelling: zit
+  sum: 'Zit + '
 ---

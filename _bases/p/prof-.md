@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: prof
-type: free
-title: prof
 reference_link: https://www.etymonline.com/word/prof
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: prof
+type: free
 word_sums:
-- sum: 'Prof + '
-  respelling: prof
+- respelling: prof
+  sum: 'Prof + '
 ---

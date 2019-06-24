@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: hear
-type: free
-title: hear
 reference_link: https://www.etymonline.com/word/hear
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: hear
+type: free
 word_sums:
-- sum: 'Hear + '
-  respelling: hear
+- respelling: hear
+  sum: 'Hear + '
 ---

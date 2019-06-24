@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: hid
-type: free
-title: hid
 reference_link: https://www.etymonline.com/word/hid
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: hid
+type: free
 word_sums:
-- sum: 'Hid + '
-  respelling: hid
+- respelling: hid
+  sum: 'Hid + '
 ---

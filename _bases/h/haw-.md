@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: haw
-type: free
-title: haw
 reference_link: https://www.etymonline.com/word/haw
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: haw
+type: free
 word_sums:
-- sum: 'Haw + '
-  respelling: haw
+- respelling: haw
+  sum: 'Haw + '
 ---

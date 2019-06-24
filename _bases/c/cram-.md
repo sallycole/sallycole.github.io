@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: cram
-type: free
-title: cram
 reference_link: https://www.etymonline.com/word/cram
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: cram
+type: free
 word_sums:
-- sum: 'Cram + '
-  respelling: cram
+- respelling: cram
+  sum: 'Cram + '
 ---

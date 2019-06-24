@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: peak
-type: free
-title: peak
 reference_link: https://www.etymonline.com/word/peak
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: peak
+type: free
 word_sums:
-- sum: 'Peak + '
-  respelling: peak
+- respelling: peak
+  sum: 'Peak + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: vale
-type: free
-title: vale
 reference_link: https://www.etymonline.com/word/vale
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: vale
+type: free
 word_sums:
-- sum: 'Vale + '
-  respelling: vale
+- respelling: vale
+  sum: 'Vale + '
 ---

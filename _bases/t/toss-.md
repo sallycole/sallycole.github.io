@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: toss
-type: free
-title: toss
 reference_link: https://www.etymonline.com/word/toss
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: toss
+type: free
 word_sums:
-- sum: 'Toss + '
-  respelling: toss
+- respelling: toss
+  sum: 'Toss + '
 ---

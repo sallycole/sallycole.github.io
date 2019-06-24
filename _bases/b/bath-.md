@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: bath
-type: free
-title: bath
 reference_link: https://www.etymonline.com/word/bath
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: bath
+type: free
 word_sums:
-- sum: 'Bath + '
-  respelling: bath
+- respelling: bath
+  sum: 'Bath + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: plot
-type: free
-title: plot
 reference_link: https://www.etymonline.com/word/plot
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: plot
+type: free
 word_sums:
-- sum: 'Plot + '
-  respelling: plot
+- respelling: plot
+  sum: 'Plot + '
 ---

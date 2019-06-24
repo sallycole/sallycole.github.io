@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: cod
-type: free
-title: cod
 reference_link: https://www.etymonline.com/word/cod
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: cod
+type: free
 word_sums:
-- sum: 'Cod + '
-  respelling: cod
+- respelling: cod
+  sum: 'Cod + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: lab
-type: free
-title: lab
 reference_link: https://www.etymonline.com/word/lab
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: lab
+type: free
 word_sums:
-- sum: 'Lab + '
-  respelling: lab
+- respelling: lab
+  sum: 'Lab + '
 ---

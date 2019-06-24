@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: suk
-type: free
-title: suk
 reference_link: https://www.etymonline.com/word/suk
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: suk
+type: free
 word_sums:
-- sum: 'Suk + '
-  respelling: suk
+- respelling: suk
+  sum: 'Suk + '
 ---

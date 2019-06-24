@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: irk
-type: free
-title: irk
 reference_link: https://www.etymonline.com/word/irk
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: irk
+type: free
 word_sums:
-- sum: 'Irk + '
-  respelling: irk
+- respelling: irk
+  sum: 'Irk + '
 ---

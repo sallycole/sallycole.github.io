@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: buy
-type: free
-title: buy
 reference_link: https://www.etymonline.com/word/buy
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: buy
+type: free
 word_sums:
-- sum: 'Buy + '
-  respelling: buy
+- respelling: buy
+  sum: 'Buy + '
 ---

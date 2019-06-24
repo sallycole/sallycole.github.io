@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: loco
-type: free
-title: loco
 reference_link: https://www.etymonline.com/word/loco
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: loco
+type: free
 word_sums:
-- sum: 'Loco + '
-  respelling: loco
+- respelling: loco
+  sum: 'Loco + '
 ---

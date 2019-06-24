@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: halo
-type: free
-title: halo
 reference_link: https://www.etymonline.com/word/halo
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: halo
+type: free
 word_sums:
-- sum: 'Halo + '
-  respelling: halo
+- respelling: halo
+  sum: 'Halo + '
 ---

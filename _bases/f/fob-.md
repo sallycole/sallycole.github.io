@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: fob
-type: free
-title: fob
 reference_link: https://www.etymonline.com/word/fob
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: fob
+type: free
 word_sums:
-- sum: 'Fob + '
-  respelling: fob
+- respelling: fob
+  sum: 'Fob + '
 ---

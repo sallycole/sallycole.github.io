@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: tut
-type: free
-title: tut
 reference_link: https://www.etymonline.com/word/tut
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: tut
+type: free
 word_sums:
-- sum: 'Tut + '
-  respelling: tut
+- respelling: tut
+  sum: 'Tut + '
 ---

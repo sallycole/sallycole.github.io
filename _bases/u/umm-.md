@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: umm
-type: free
-title: umm
 reference_link: https://www.etymonline.com/word/umm
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: umm
+type: free
 word_sums:
-- sum: 'Umm + '
-  respelling: umm
+- respelling: umm
+  sum: 'Umm + '
 ---

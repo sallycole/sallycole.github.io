@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: spit
-type: free
-title: spit
 reference_link: https://www.etymonline.com/word/spit
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: spit
+type: free
 word_sums:
-- sum: 'Spit + '
-  respelling: spit
+- respelling: spit
+  sum: 'Spit + '
 ---

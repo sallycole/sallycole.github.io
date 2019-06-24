@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: snog
-type: free
-title: snog
 reference_link: https://www.etymonline.com/word/snog
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: snog
+type: free
 word_sums:
-- sum: 'Snog + '
-  respelling: snog
+- respelling: snog
+  sum: 'Snog + '
 ---

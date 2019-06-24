@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: poof
-type: free
-title: poof
 reference_link: https://www.etymonline.com/word/poof
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: poof
+type: free
 word_sums:
-- sum: 'Poof + '
-  respelling: poof
+- respelling: poof
+  sum: 'Poof + '
 ---

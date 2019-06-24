@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: era
-type: free
-title: era
 reference_link: https://www.etymonline.com/word/era
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: era
+type: free
 word_sums:
-- sum: 'Era + '
-  respelling: era
+- respelling: era
+  sum: 'Era + '
 ---

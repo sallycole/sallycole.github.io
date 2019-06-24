@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: mutt
-type: free
-title: mutt
 reference_link: https://www.etymonline.com/word/mutt
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: mutt
+type: free
 word_sums:
-- sum: 'Mutt + '
-  respelling: mutt
+- respelling: mutt
+  sum: 'Mutt + '
 ---

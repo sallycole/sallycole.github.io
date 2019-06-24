@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: aye
-type: free
-title: aye
 reference_link: https://www.etymonline.com/word/aye
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: aye
+type: free
 word_sums:
-- sum: 'Aye + '
-  respelling: aye
+- respelling: aye
+  sum: 'Aye + '
 ---

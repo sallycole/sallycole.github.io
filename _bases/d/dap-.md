@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: dap
-type: free
-title: dap
 reference_link: https://www.etymonline.com/word/dap
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: dap
+type: free
 word_sums:
-- sum: 'Dap + '
-  respelling: dap
+- respelling: dap
+  sum: 'Dap + '
 ---

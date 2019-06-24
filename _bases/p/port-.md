@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: port
-type: free
-title: port
 reference_link: https://www.etymonline.com/word/port
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: port
+type: free
 word_sums:
-- sum: 'Port + '
-  respelling: port
+- respelling: port
+  sum: 'Port + '
 ---

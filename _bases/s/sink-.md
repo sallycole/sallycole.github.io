@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: sink
-type: free
-title: sink
 reference_link: https://www.etymonline.com/word/sink
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: sink
+type: free
 word_sums:
-- sum: 'Sink + '
-  respelling: sink
+- respelling: sink
+  sum: 'Sink + '
 ---

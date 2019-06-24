@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: nip
-type: free
-title: nip
 reference_link: https://www.etymonline.com/word/nip
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: nip
+type: free
 word_sums:
-- sum: 'Nip + '
-  respelling: nip
+- respelling: nip
+  sum: 'Nip + '
 ---

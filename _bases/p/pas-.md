@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: pas
-type: free
-title: pas
 reference_link: https://www.etymonline.com/word/pas
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: pas
+type: free
 word_sums:
-- sum: 'Pas + '
-  respelling: pas
+- respelling: pas
+  sum: 'Pas + '
 ---

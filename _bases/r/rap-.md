@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: rap
-type: free
-title: rap
 reference_link: https://www.etymonline.com/word/rap
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: rap
+type: free
 word_sums:
-- sum: 'Rap + '
-  respelling: rap
+- respelling: rap
+  sum: 'Rap + '
 ---

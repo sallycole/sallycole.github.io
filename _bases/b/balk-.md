@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: balk
-type: free
-title: balk
 reference_link: https://www.etymonline.com/word/balk
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: balk
+type: free
 word_sums:
-- sum: 'Balk + '
-  respelling: balk
+- respelling: balk
+  sum: 'Balk + '
 ---

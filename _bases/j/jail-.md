@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: jail
-type: free
-title: jail
 reference_link: https://www.etymonline.com/word/jail
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: jail
+type: free
 word_sums:
-- sum: 'Jail + '
-  respelling: jail
+- respelling: jail
+  sum: 'Jail + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: bawl
-type: free
-title: bawl
 reference_link: https://www.etymonline.com/word/bawl
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: bawl
+type: free
 word_sums:
-- sum: 'Bawl + '
-  respelling: bawl
+- respelling: bawl
+  sum: 'Bawl + '
 ---

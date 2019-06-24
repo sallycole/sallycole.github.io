@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: lest
-type: free
-title: lest
 reference_link: https://www.etymonline.com/word/lest
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: lest
+type: free
 word_sums:
-- sum: 'Lest + '
-  respelling: lest
+- respelling: lest
+  sum: 'Lest + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: fix
-type: free
-title: fix
 reference_link: https://www.etymonline.com/word/fix
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: fix
+type: free
 word_sums:
-- sum: 'Fix + '
-  respelling: fix
+- respelling: fix
+  sum: 'Fix + '
 ---

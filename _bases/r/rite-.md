@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: rite
-type: free
-title: rite
 reference_link: https://www.etymonline.com/word/rite
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: rite
+type: free
 word_sums:
-- sum: 'Rite + '
-  respelling: rite
+- respelling: rite
+  sum: 'Rite + '
 ---

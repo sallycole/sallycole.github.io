@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: slay
-type: free
-title: slay
 reference_link: https://www.etymonline.com/word/slay
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: slay
+type: free
 word_sums:
-- sum: 'Slay + '
-  respelling: slay
+- respelling: slay
+  sum: 'Slay + '
 ---

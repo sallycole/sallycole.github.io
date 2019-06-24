@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: curd
-type: free
-title: curd
 reference_link: https://www.etymonline.com/word/curd
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: curd
+type: free
 word_sums:
-- sum: 'Curd + '
-  respelling: curd
+- respelling: curd
+  sum: 'Curd + '
 ---

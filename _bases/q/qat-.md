@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: qat
-type: free
-title: qat
 reference_link: https://www.etymonline.com/word/qat
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: qat
+type: free
 word_sums:
-- sum: 'Qat + '
-  respelling: qat
+- respelling: qat
+  sum: 'Qat + '
 ---

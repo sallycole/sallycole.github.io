@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: ramp
-type: free
-title: ramp
 reference_link: https://www.etymonline.com/word/ramp
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: ramp
+type: free
 word_sums:
-- sum: 'Ramp + '
-  respelling: ramp
+- respelling: ramp
+  sum: 'Ramp + '
 ---

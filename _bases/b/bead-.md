@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: bead
-type: free
-title: bead
 reference_link: https://www.etymonline.com/word/bead
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: bead
+type: free
 word_sums:
-- sum: 'Bead + '
-  respelling: bead
+- respelling: bead
+  sum: 'Bead + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: kill
-type: free
-title: kill
 reference_link: https://www.etymonline.com/word/kill
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: kill
+type: free
 word_sums:
-- sum: 'Kill + '
-  respelling: kill
+- respelling: kill
+  sum: 'Kill + '
 ---

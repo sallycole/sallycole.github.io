@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: sal
-type: free
-title: sal
 reference_link: https://www.etymonline.com/word/sal
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: sal
+type: free
 word_sums:
-- sum: 'Sal + '
-  respelling: sal
+- respelling: sal
+  sum: 'Sal + '
 ---

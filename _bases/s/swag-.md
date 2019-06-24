@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: swag
-type: free
-title: swag
 reference_link: https://www.etymonline.com/word/swag
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: swag
+type: free
 word_sums:
-- sum: 'Swag + '
-  respelling: swag
+- respelling: swag
+  sum: 'Swag + '
 ---

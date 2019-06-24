@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: echo
-type: free
-title: echo
 reference_link: https://www.etymonline.com/word/echo
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: echo
+type: free
 word_sums:
-- sum: 'Echo + '
-  respelling: echo
+- respelling: echo
+  sum: 'Echo + '
 ---

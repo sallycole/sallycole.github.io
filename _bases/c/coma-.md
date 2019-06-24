@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: coma
-type: free
-title: coma
 reference_link: https://www.etymonline.com/word/coma
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: coma
+type: free
 word_sums:
-- sum: 'Coma + '
-  respelling: coma
+- respelling: coma
+  sum: 'Coma + '
 ---

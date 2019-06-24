@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: gaff
-type: free
-title: gaff
 reference_link: https://www.etymonline.com/word/gaff
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: gaff
+type: free
 word_sums:
-- sum: 'Gaff + '
-  respelling: gaff
+- respelling: gaff
+  sum: 'Gaff + '
 ---

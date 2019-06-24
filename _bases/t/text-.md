@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: text
-type: free
-title: text
 reference_link: https://www.etymonline.com/word/text
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: text
+type: free
 word_sums:
-- sum: 'Text + '
-  respelling: text
+- respelling: text
+  sum: 'Text + '
 ---

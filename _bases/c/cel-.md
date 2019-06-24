@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: cel
-type: free
-title: cel
 reference_link: https://www.etymonline.com/word/cel
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: cel
+type: free
 word_sums:
-- sum: 'Cel + '
-  respelling: cel
+- respelling: cel
+  sum: 'Cel + '
 ---

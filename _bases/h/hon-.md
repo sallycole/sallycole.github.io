@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: hon
-type: free
-title: hon
 reference_link: https://www.etymonline.com/word/hon
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: hon
+type: free
 word_sums:
-- sum: 'Hon + '
-  respelling: hon
+- respelling: hon
+  sum: 'Hon + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: dew
-type: free
-title: dew
 reference_link: https://www.etymonline.com/word/dew
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: dew
+type: free
 word_sums:
-- sum: 'Dew + '
-  respelling: dew
+- respelling: dew
+  sum: 'Dew + '
 ---

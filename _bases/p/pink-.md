@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: pink
-type: free
-title: pink
 reference_link: https://www.etymonline.com/word/pink
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: pink
+type: free
 word_sums:
-- sum: 'Pink + '
-  respelling: pink
+- respelling: pink
+  sum: 'Pink + '
 ---

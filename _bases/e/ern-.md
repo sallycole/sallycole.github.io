@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: ern
-type: free
-title: ern
 reference_link: https://www.etymonline.com/word/ern
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: ern
+type: free
 word_sums:
-- sum: 'Ern + '
-  respelling: ern
+- respelling: ern
+  sum: 'Ern + '
 ---

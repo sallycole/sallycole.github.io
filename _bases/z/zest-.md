@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: zest
-type: free
-title: zest
 reference_link: https://www.etymonline.com/word/zest
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: zest
+type: free
 word_sums:
-- sum: 'Zest + '
-  respelling: zest
+- respelling: zest
+  sum: 'Zest + '
 ---

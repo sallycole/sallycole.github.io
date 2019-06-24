@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: floe
-type: free
-title: floe
 reference_link: https://www.etymonline.com/word/floe
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: floe
+type: free
 word_sums:
-- sum: 'Floe + '
-  respelling: floe
+- respelling: floe
+  sum: 'Floe + '
 ---

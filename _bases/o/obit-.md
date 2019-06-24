@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: obit
-type: free
-title: obit
 reference_link: https://www.etymonline.com/word/obit
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: obit
+type: free
 word_sums:
-- sum: 'Obit + '
-  respelling: obit
+- respelling: obit
+  sum: 'Obit + '
 ---

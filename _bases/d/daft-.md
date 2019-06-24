@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: daft
-type: free
-title: daft
 reference_link: https://www.etymonline.com/word/daft
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: daft
+type: free
 word_sums:
-- sum: 'Daft + '
-  respelling: daft
+- respelling: daft
+  sum: 'Daft + '
 ---

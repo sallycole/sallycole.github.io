@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: wide
-type: free
-title: wide
 reference_link: https://www.etymonline.com/word/wide
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: wide
+type: free
 word_sums:
-- sum: 'Wide + '
-  respelling: wide
+- respelling: wide
+  sum: 'Wide + '
 ---

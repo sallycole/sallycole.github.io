@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: turn
-type: free
-title: turn
 reference_link: https://www.etymonline.com/word/turn
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: turn
+type: free
 word_sums:
-- sum: 'Turn + '
-  respelling: turn
+- respelling: turn
+  sum: 'Turn + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: pick
-type: free
-title: pick
 reference_link: https://www.etymonline.com/word/pick
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: pick
+type: free
 word_sums:
-- sum: 'Pick + '
-  respelling: pick
+- respelling: pick
+  sum: 'Pick + '
 ---

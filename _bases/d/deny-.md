@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: deny
-type: free
-title: deny
 reference_link: https://www.etymonline.com/word/deny
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: deny
+type: free
 word_sums:
-- sum: 'Deny + '
-  respelling: deny
+- respelling: deny
+  sum: 'Deny + '
 ---

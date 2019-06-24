@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: jinx
-type: free
-title: jinx
 reference_link: https://www.etymonline.com/word/jinx
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: jinx
+type: free
 word_sums:
-- sum: 'Jinx + '
-  respelling: jinx
+- respelling: jinx
+  sum: 'Jinx + '
 ---

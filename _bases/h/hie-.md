@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: hie
-type: free
-title: hie
 reference_link: https://www.etymonline.com/word/hie
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: hie
+type: free
 word_sums:
-- sum: 'Hie + '
-  respelling: hie
+- respelling: hie
+  sum: 'Hie + '
 ---

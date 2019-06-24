@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: ride
-type: free
-title: ride
 reference_link: https://www.etymonline.com/word/ride
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: ride
+type: free
 word_sums:
-- sum: 'Ride + '
-  respelling: ride
+- respelling: ride
+  sum: 'Ride + '
 ---

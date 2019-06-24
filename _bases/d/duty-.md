@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: duty
-type: free
-title: duty
 reference_link: https://www.etymonline.com/word/duty
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: duty
+type: free
 word_sums:
-- sum: 'Duty + '
-  respelling: duty
+- respelling: duty
+  sum: 'Duty + '
 ---

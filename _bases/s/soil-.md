@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: soil
-type: free
-title: soil
 reference_link: https://www.etymonline.com/word/soil
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: soil
+type: free
 word_sums:
-- sum: 'Soil + '
-  respelling: soil
+- respelling: soil
+  sum: 'Soil + '
 ---

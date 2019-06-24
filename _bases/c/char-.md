@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: char
-type: free
-title: char
 reference_link: https://www.etymonline.com/word/char
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: char
+type: free
 word_sums:
-- sum: 'Char + '
-  respelling: char
+- respelling: char
+  sum: 'Char + '
 ---

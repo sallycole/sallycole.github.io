@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: bias
-type: free
-title: bias
 reference_link: https://www.etymonline.com/word/bias
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: bias
+type: free
 word_sums:
-- sum: 'Bias + '
-  respelling: bias
+- respelling: bias
+  sum: 'Bias + '
 ---

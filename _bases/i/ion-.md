@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: ion
-type: free
-title: ion
 reference_link: https://www.etymonline.com/word/ion
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: ion
+type: free
 word_sums:
-- sum: 'Ion + '
-  respelling: ion
+- respelling: ion
+  sum: 'Ion + '
 ---

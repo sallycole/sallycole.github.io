@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: reed
-type: free
-title: reed
 reference_link: https://www.etymonline.com/word/reed
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: reed
+type: free
 word_sums:
-- sum: 'Reed + '
-  respelling: reed
+- respelling: reed
+  sum: 'Reed + '
 ---

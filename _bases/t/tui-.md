@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: tui
-type: free
-title: tui
 reference_link: https://www.etymonline.com/word/tui
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: tui
+type: free
 word_sums:
-- sum: 'Tui + '
-  respelling: tui
+- respelling: tui
+  sum: 'Tui + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: onus
-type: free
-title: onus
 reference_link: https://www.etymonline.com/word/onus
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: onus
+type: free
 word_sums:
-- sum: 'Onus + '
-  respelling: onus
+- respelling: onus
+  sum: 'Onus + '
 ---

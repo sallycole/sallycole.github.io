@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: tape
-type: free
-title: tape
 reference_link: https://www.etymonline.com/word/tape
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: tape
+type: free
 word_sums:
-- sum: 'Tape + '
-  respelling: tape
+- respelling: tape
+  sum: 'Tape + '
 ---

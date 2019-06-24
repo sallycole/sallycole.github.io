@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: tote
-type: free
-title: tote
 reference_link: https://www.etymonline.com/word/tote
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: tote
+type: free
 word_sums:
-- sum: 'Tote + '
-  respelling: tote
+- respelling: tote
+  sum: 'Tote + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: jew
-type: free
-title: jew
 reference_link: https://www.etymonline.com/word/jew
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: jew
+type: free
 word_sums:
-- sum: 'Jew + '
-  respelling: jew
+- respelling: jew
+  sum: 'Jew + '
 ---

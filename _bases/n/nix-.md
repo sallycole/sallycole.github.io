@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: nix
-type: free
-title: nix
 reference_link: https://www.etymonline.com/word/nix
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: nix
+type: free
 word_sums:
-- sum: 'Nix + '
-  respelling: nix
+- respelling: nix
+  sum: 'Nix + '
 ---

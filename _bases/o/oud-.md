@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: oud
-type: free
-title: oud
 reference_link: https://www.etymonline.com/word/oud
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: oud
+type: free
 word_sums:
-- sum: 'Oud + '
-  respelling: oud
+- respelling: oud
+  sum: 'Oud + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: silo
-type: free
-title: silo
 reference_link: https://www.etymonline.com/word/silo
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: silo
+type: free
 word_sums:
-- sum: 'Silo + '
-  respelling: silo
+- respelling: silo
+  sum: 'Silo + '
 ---

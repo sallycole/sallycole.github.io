@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: tune
-type: free
-title: tune
 reference_link: https://www.etymonline.com/word/tune
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: tune
+type: free
 word_sums:
-- sum: 'Tune + '
-  respelling: tune
+- respelling: tune
+  sum: 'Tune + '
 ---

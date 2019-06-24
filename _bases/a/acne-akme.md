@@ -1,14 +1,15 @@
 ---
+category: 4-letters
+denotation: point
 name: acne
+reference_link: https://www.etymonline.com/word/acne
+root_language: Greek
+root_name: akme
 title: acne
 type: free
-reference_link: https://www.etymonline.com/word/acne
-root_name: akme
-root_language: Greek
-denotation: point
 word_sums:
-- sum: 'Acne'
-  respelling: acne
-- sum: 'Acne + ed'
-  respelling: acned
+- respelling: acne
+  sum: Acne
+- respelling: acned
+  sum: Acne + ed
 ---

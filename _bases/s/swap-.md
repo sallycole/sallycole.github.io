@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: swap
-type: free
-title: swap
 reference_link: https://www.etymonline.com/word/swap
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: swap
+type: free
 word_sums:
-- sum: 'Swap + '
-  respelling: swap
+- respelling: swap
+  sum: 'Swap + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: box
-type: free
-title: box
 reference_link: https://www.etymonline.com/word/box
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: box
+type: free
 word_sums:
-- sum: 'Box + '
-  respelling: box
+- respelling: box
+  sum: 'Box + '
 ---

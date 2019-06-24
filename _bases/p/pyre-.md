@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: pyre
-type: free
-title: pyre
 reference_link: https://www.etymonline.com/word/pyre
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: pyre
+type: free
 word_sums:
-- sum: 'Pyre + '
-  respelling: pyre
+- respelling: pyre
+  sum: 'Pyre + '
 ---

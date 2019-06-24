@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: vise
-type: free
-title: vise
 reference_link: https://www.etymonline.com/word/vise
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: vise
+type: free
 word_sums:
-- sum: 'Vise + '
-  respelling: vise
+- respelling: vise
+  sum: 'Vise + '
 ---

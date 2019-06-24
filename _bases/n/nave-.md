@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: nave
-type: free
-title: nave
 reference_link: https://www.etymonline.com/word/nave
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: nave
+type: free
 word_sums:
-- sum: 'Nave + '
-  respelling: nave
+- respelling: nave
+  sum: 'Nave + '
 ---

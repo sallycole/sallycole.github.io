@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: five
-type: free
-title: five
 reference_link: https://www.etymonline.com/word/five
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: five
+type: free
 word_sums:
-- sum: 'Five + '
-  respelling: five
+- respelling: five
+  sum: 'Five + '
 ---

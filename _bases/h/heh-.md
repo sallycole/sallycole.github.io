@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: heh
-type: free
-title: heh
 reference_link: https://www.etymonline.com/word/heh
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: heh
+type: free
 word_sums:
-- sum: 'Heh + '
-  respelling: heh
+- respelling: heh
+  sum: 'Heh + '
 ---

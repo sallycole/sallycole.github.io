@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: vee
-type: free
-title: vee
 reference_link: https://www.etymonline.com/word/vee
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: vee
+type: free
 word_sums:
-- sum: 'Vee + '
-  respelling: vee
+- respelling: vee
+  sum: 'Vee + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: baa
-type: free
-title: baa
 reference_link: https://www.etymonline.com/word/baa
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: baa
+type: free
 word_sums:
-- sum: 'Baa + '
-  respelling: baa
+- respelling: baa
+  sum: 'Baa + '
 ---

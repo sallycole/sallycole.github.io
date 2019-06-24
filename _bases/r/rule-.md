@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: rule
-type: free
-title: rule
 reference_link: https://www.etymonline.com/word/rule
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: rule
+type: free
 word_sums:
-- sum: 'Rule + '
-  respelling: rule
+- respelling: rule
+  sum: 'Rule + '
 ---

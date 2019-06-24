@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: dame
-type: free
-title: dame
 reference_link: https://www.etymonline.com/word/dame
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: dame
+type: free
 word_sums:
-- sum: 'Dame + '
-  respelling: dame
+- respelling: dame
+  sum: 'Dame + '
 ---

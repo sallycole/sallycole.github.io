@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: rend
-type: free
-title: rend
 reference_link: https://www.etymonline.com/word/rend
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: rend
+type: free
 word_sums:
-- sum: 'Rend + '
-  respelling: rend
+- respelling: rend
+  sum: 'Rend + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: beat
-type: free
-title: beat
 reference_link: https://www.etymonline.com/word/beat
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: beat
+type: free
 word_sums:
-- sum: 'Beat + '
-  respelling: beat
+- respelling: beat
+  sum: 'Beat + '
 ---

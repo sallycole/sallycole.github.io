@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: rust
-type: free
-title: rust
 reference_link: https://www.etymonline.com/word/rust
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: rust
+type: free
 word_sums:
-- sum: 'Rust + '
-  respelling: rust
+- respelling: rust
+  sum: 'Rust + '
 ---

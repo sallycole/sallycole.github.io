@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: jow
-type: free
-title: jow
 reference_link: https://www.etymonline.com/word/jow
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: jow
+type: free
 word_sums:
-- sum: 'Jow + '
-  respelling: jow
+- respelling: jow
+  sum: 'Jow + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: bale
-type: free
-title: bale
 reference_link: https://www.etymonline.com/word/bale
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: bale
+type: free
 word_sums:
-- sum: 'Bale + '
-  respelling: bale
+- respelling: bale
+  sum: 'Bale + '
 ---

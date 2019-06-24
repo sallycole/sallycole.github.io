@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: udo
-type: free
-title: udo
 reference_link: https://www.etymonline.com/word/udo
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: udo
+type: free
 word_sums:
-- sum: 'Udo + '
-  respelling: udo
+- respelling: udo
+  sum: 'Udo + '
 ---

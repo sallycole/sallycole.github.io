@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: lay
-type: free
-title: lay
 reference_link: https://www.etymonline.com/word/lay
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: lay
+type: free
 word_sums:
-- sum: 'Lay + '
-  respelling: lay
+- respelling: lay
+  sum: 'Lay + '
 ---

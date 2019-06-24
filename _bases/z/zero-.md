@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: zero
-type: free
-title: zero
 reference_link: https://www.etymonline.com/word/zero
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: zero
+type: free
 word_sums:
-- sum: 'Zero + '
-  respelling: zero
+- respelling: zero
+  sum: 'Zero + '
 ---

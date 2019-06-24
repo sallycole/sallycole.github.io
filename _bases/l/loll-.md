@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: loll
-type: free
-title: loll
 reference_link: https://www.etymonline.com/word/loll
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: loll
+type: free
 word_sums:
-- sum: 'Loll + '
-  respelling: loll
+- respelling: loll
+  sum: 'Loll + '
 ---

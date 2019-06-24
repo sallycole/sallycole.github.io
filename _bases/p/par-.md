@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: par
-type: free
-title: par
 reference_link: https://www.etymonline.com/word/par
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: par
+type: free
 word_sums:
-- sum: 'Par + '
-  respelling: par
+- respelling: par
+  sum: 'Par + '
 ---

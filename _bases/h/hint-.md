@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: hint
-type: free
-title: hint
 reference_link: https://www.etymonline.com/word/hint
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: hint
+type: free
 word_sums:
-- sum: 'Hint + '
-  respelling: hint
+- respelling: hint
+  sum: 'Hint + '
 ---

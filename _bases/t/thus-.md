@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: thus
-type: free
-title: thus
 reference_link: https://www.etymonline.com/word/thus
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: thus
+type: free
 word_sums:
-- sum: 'Thus + '
-  respelling: thus
+- respelling: thus
+  sum: 'Thus + '
 ---

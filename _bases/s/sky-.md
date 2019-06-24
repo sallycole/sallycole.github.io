@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: sky
-type: free
-title: sky
 reference_link: https://www.etymonline.com/word/sky
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: sky
+type: free
 word_sums:
-- sum: 'Sky + '
-  respelling: sky
+- respelling: sky
+  sum: 'Sky + '
 ---

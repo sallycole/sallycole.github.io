@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: bod
-type: free
-title: bod
 reference_link: https://www.etymonline.com/word/bod
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: bod
+type: free
 word_sums:
-- sum: 'Bod + '
-  respelling: bod
+- respelling: bod
+  sum: 'Bod + '
 ---

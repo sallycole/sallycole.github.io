@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: icy
-type: free
-title: icy
 reference_link: https://www.etymonline.com/word/icy
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: icy
+type: free
 word_sums:
-- sum: 'Icy + '
-  respelling: icy
+- respelling: icy
+  sum: 'Icy + '
 ---

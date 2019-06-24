@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: biff
-type: free
-title: biff
 reference_link: https://www.etymonline.com/word/biff
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: biff
+type: free
 word_sums:
-- sum: 'Biff + '
-  respelling: biff
+- respelling: biff
+  sum: 'Biff + '
 ---

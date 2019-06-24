@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: dog
-type: free
-title: dog
 reference_link: https://www.etymonline.com/word/dog
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: dog
+type: free
 word_sums:
-- sum: 'Dog + '
-  respelling: dog
+- respelling: dog
+  sum: 'Dog + '
 ---

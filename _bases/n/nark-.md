@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: nark
-type: free
-title: nark
 reference_link: https://www.etymonline.com/word/nark
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: nark
+type: free
 word_sums:
-- sum: 'Nark + '
-  respelling: nark
+- respelling: nark
+  sum: 'Nark + '
 ---

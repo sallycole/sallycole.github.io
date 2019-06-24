@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: loot
-type: free
-title: loot
 reference_link: https://www.etymonline.com/word/loot
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: loot
+type: free
 word_sums:
-- sum: 'Loot + '
-  respelling: loot
+- respelling: loot
+  sum: 'Loot + '
 ---

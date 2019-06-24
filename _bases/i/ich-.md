@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: ich
-type: free
-title: ich
 reference_link: https://www.etymonline.com/word/ich
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: ich
+type: free
 word_sums:
-- sum: 'Ich + '
-  respelling: ich
+- respelling: ich
+  sum: 'Ich + '
 ---

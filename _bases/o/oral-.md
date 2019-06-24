@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: oral
-type: free
-title: oral
 reference_link: https://www.etymonline.com/word/oral
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: oral
+type: free
 word_sums:
-- sum: 'Oral + '
-  respelling: oral
+- respelling: oral
+  sum: 'Oral + '
 ---

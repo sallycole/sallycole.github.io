@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: tent
-type: free
-title: tent
 reference_link: https://www.etymonline.com/word/tent
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: tent
+type: free
 word_sums:
-- sum: 'Tent + '
-  respelling: tent
+- respelling: tent
+  sum: 'Tent + '
 ---

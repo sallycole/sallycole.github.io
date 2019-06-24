@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: goth
-type: free
-title: goth
 reference_link: https://www.etymonline.com/word/goth
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: goth
+type: free
 word_sums:
-- sum: 'Goth + '
-  respelling: goth
+- respelling: goth
+  sum: 'Goth + '
 ---

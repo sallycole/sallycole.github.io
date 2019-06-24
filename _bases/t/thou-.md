@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: thou
-type: free
-title: thou
 reference_link: https://www.etymonline.com/word/thou
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: thou
+type: free
 word_sums:
-- sum: 'Thou + '
-  respelling: thou
+- respelling: thou
+  sum: 'Thou + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: nit
-type: free
-title: nit
 reference_link: https://www.etymonline.com/word/nit
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: nit
+type: free
 word_sums:
-- sum: 'Nit + '
-  respelling: nit
+- respelling: nit
+  sum: 'Nit + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: cuff
-type: free
-title: cuff
 reference_link: https://www.etymonline.com/word/cuff
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: cuff
+type: free
 word_sums:
-- sum: 'Cuff + '
-  respelling: cuff
+- respelling: cuff
+  sum: 'Cuff + '
 ---

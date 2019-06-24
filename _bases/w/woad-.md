@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: woad
-type: free
-title: woad
 reference_link: https://www.etymonline.com/word/woad
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: woad
+type: free
 word_sums:
-- sum: 'Woad + '
-  respelling: woad
+- respelling: woad
+  sum: 'Woad + '
 ---

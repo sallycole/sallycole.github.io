@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: rig
-type: free
-title: rig
 reference_link: https://www.etymonline.com/word/rig
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: rig
+type: free
 word_sums:
-- sum: 'Rig + '
-  respelling: rig
+- respelling: rig
+  sum: 'Rig + '
 ---

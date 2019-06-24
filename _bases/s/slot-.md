@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: slot
-type: free
-title: slot
 reference_link: https://www.etymonline.com/word/slot
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: slot
+type: free
 word_sums:
-- sum: 'Slot + '
-  respelling: slot
+- respelling: slot
+  sum: 'Slot + '
 ---

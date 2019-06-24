@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: lek
-type: free
-title: lek
 reference_link: https://www.etymonline.com/word/lek
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: lek
+type: free
 word_sums:
-- sum: 'Lek + '
-  respelling: lek
+- respelling: lek
+  sum: 'Lek + '
 ---

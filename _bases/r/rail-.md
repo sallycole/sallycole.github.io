@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: rail
-type: free
-title: rail
 reference_link: https://www.etymonline.com/word/rail
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: rail
+type: free
 word_sums:
-- sum: 'Rail + '
-  respelling: rail
+- respelling: rail
+  sum: 'Rail + '
 ---

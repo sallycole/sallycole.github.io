@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: dot
-type: free
-title: dot
 reference_link: https://www.etymonline.com/word/dot
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: dot
+type: free
 word_sums:
-- sum: 'Dot + '
-  respelling: dot
+- respelling: dot
+  sum: 'Dot + '
 ---

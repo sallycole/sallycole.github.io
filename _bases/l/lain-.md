@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: lain
-type: free
-title: lain
 reference_link: https://www.etymonline.com/word/lain
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: lain
+type: free
 word_sums:
-- sum: 'Lain + '
-  respelling: lain
+- respelling: lain
+  sum: 'Lain + '
 ---

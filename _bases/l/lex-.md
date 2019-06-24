@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: lex
-type: free
-title: lex
 reference_link: https://www.etymonline.com/word/lex
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: lex
+type: free
 word_sums:
-- sum: 'Lex + '
-  respelling: lex
+- respelling: lex
+  sum: 'Lex + '
 ---

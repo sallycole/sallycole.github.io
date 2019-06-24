@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: pit
-type: free
-title: pit
 reference_link: https://www.etymonline.com/word/pit
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: pit
+type: free
 word_sums:
-- sum: 'Pit + '
-  respelling: pit
+- respelling: pit
+  sum: 'Pit + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: tusk
-type: free
-title: tusk
 reference_link: https://www.etymonline.com/word/tusk
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: tusk
+type: free
 word_sums:
-- sum: 'Tusk + '
-  respelling: tusk
+- respelling: tusk
+  sum: 'Tusk + '
 ---

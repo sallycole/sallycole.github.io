@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: win
-type: free
-title: win
 reference_link: https://www.etymonline.com/word/win
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: win
+type: free
 word_sums:
-- sum: 'Win + '
-  respelling: win
+- respelling: win
+  sum: 'Win + '
 ---

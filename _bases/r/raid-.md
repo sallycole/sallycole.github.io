@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: raid
-type: free
-title: raid
 reference_link: https://www.etymonline.com/word/raid
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: raid
+type: free
 word_sums:
-- sum: 'Raid + '
-  respelling: raid
+- respelling: raid
+  sum: 'Raid + '
 ---

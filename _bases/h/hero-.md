@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: hero
-type: free
-title: hero
 reference_link: https://www.etymonline.com/word/hero
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: hero
+type: free
 word_sums:
-- sum: 'Hero + '
-  respelling: hero
+- respelling: hero
+  sum: 'Hero + '
 ---

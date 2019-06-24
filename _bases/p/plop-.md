@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: plop
-type: free
-title: plop
 reference_link: https://www.etymonline.com/word/plop
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: plop
+type: free
 word_sums:
-- sum: 'Plop + '
-  respelling: plop
+- respelling: plop
+  sum: 'Plop + '
 ---

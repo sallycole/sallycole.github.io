@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: ewer
-type: free
-title: ewer
 reference_link: https://www.etymonline.com/word/ewer
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: ewer
+type: free
 word_sums:
-- sum: 'Ewer + '
-  respelling: ewer
+- respelling: ewer
+  sum: 'Ewer + '
 ---

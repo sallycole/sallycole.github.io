@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: cee
-type: free
-title: cee
 reference_link: https://www.etymonline.com/word/cee
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: cee
+type: free
 word_sums:
-- sum: 'Cee + '
-  respelling: cee
+- respelling: cee
+  sum: 'Cee + '
 ---

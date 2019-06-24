@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: ghi
-type: free
-title: ghi
 reference_link: https://www.etymonline.com/word/ghi
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: ghi
+type: free
 word_sums:
-- sum: 'Ghi + '
-  respelling: ghi
+- respelling: ghi
+  sum: 'Ghi + '
 ---

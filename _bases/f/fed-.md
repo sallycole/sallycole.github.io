@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: fed
-type: free
-title: fed
 reference_link: https://www.etymonline.com/word/fed
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: fed
+type: free
 word_sums:
-- sum: 'Fed + '
-  respelling: fed
+- respelling: fed
+  sum: 'Fed + '
 ---

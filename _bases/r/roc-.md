@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: roc
-type: free
-title: roc
 reference_link: https://www.etymonline.com/word/roc
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: roc
+type: free
 word_sums:
-- sum: 'Roc + '
-  respelling: roc
+- respelling: roc
+  sum: 'Roc + '
 ---

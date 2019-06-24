@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: germ
-type: free
-title: germ
 reference_link: https://www.etymonline.com/word/germ
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: germ
+type: free
 word_sums:
-- sum: 'Germ + '
-  respelling: germ
+- respelling: germ
+  sum: 'Germ + '
 ---

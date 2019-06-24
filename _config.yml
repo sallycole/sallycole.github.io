@@ -34,7 +34,7 @@ plugins:
 collections:
   bases:
     output: true
-    permalink: /bases/:name/
+    permalink: /bases/:categories/:name/
 
 defaults:
   - scope:
@@ -42,6 +42,9 @@ defaults:
       type: "bases"
     values:
       layout: base-page
+
+header_pages:
+  - about.md
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

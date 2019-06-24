@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: tot
-type: free
-title: tot
 reference_link: https://www.etymonline.com/word/tot
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: tot
+type: free
 word_sums:
-- sum: 'Tot + '
-  respelling: tot
+- respelling: tot
+  sum: 'Tot + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: gent
-type: free
-title: gent
 reference_link: https://www.etymonline.com/word/gent
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: gent
+type: free
 word_sums:
-- sum: 'Gent + '
-  respelling: gent
+- respelling: gent
+  sum: 'Gent + '
 ---

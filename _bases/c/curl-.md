@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: curl
-type: free
-title: curl
 reference_link: https://www.etymonline.com/word/curl
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: curl
+type: free
 word_sums:
-- sum: 'Curl + '
-  respelling: curl
+- respelling: curl
+  sum: 'Curl + '
 ---

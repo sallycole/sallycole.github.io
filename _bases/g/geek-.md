@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: geek
-type: free
-title: geek
 reference_link: https://www.etymonline.com/word/geek
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: geek
+type: free
 word_sums:
-- sum: 'Geek + '
-  respelling: geek
+- respelling: geek
+  sum: 'Geek + '
 ---

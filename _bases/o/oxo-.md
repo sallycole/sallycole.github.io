@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: oxo
-type: free
-title: oxo
 reference_link: https://www.etymonline.com/word/oxo
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: oxo
+type: free
 word_sums:
-- sum: 'Oxo + '
-  respelling: oxo
+- respelling: oxo
+  sum: 'Oxo + '
 ---

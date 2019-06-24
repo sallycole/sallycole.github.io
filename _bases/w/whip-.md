@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: whip
-type: free
-title: whip
 reference_link: https://www.etymonline.com/word/whip
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: whip
+type: free
 word_sums:
-- sum: 'Whip + '
-  respelling: whip
+- respelling: whip
+  sum: 'Whip + '
 ---

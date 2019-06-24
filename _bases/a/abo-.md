@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: abo
-type: free
-title: abo
 reference_link: https://www.etymonline.com/word/abo
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: abo
+type: free
 word_sums:
-- sum: 'Abo + '
-  respelling: abo
+- respelling: abo
+  sum: 'Abo + '
 ---

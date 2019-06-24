@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: lite
-type: free
-title: lite
 reference_link: https://www.etymonline.com/word/lite
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: lite
+type: free
 word_sums:
-- sum: 'Lite + '
-  respelling: lite
+- respelling: lite
+  sum: 'Lite + '
 ---

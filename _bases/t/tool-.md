@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: tool
-type: free
-title: tool
 reference_link: https://www.etymonline.com/word/tool
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: tool
+type: free
 word_sums:
-- sum: 'Tool + '
-  respelling: tool
+- respelling: tool
+  sum: 'Tool + '
 ---

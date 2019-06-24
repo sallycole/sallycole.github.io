@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: wot
-type: free
-title: wot
 reference_link: https://www.etymonline.com/word/wot
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: wot
+type: free
 word_sums:
-- sum: 'Wot + '
-  respelling: wot
+- respelling: wot
+  sum: 'Wot + '
 ---

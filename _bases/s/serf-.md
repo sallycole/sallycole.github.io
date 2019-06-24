@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: serf
-type: free
-title: serf
 reference_link: https://www.etymonline.com/word/serf
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: serf
+type: free
 word_sums:
-- sum: 'Serf + '
-  respelling: serf
+- respelling: serf
+  sum: 'Serf + '
 ---

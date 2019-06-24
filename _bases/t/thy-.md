@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: thy
-type: free
-title: thy
 reference_link: https://www.etymonline.com/word/thy
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: thy
+type: free
 word_sums:
-- sum: 'Thy + '
-  respelling: thy
+- respelling: thy
+  sum: 'Thy + '
 ---

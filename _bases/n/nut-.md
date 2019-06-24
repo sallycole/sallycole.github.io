@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: nut
-type: free
-title: nut
 reference_link: https://www.etymonline.com/word/nut
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: nut
+type: free
 word_sums:
-- sum: 'Nut + '
-  respelling: nut
+- respelling: nut
+  sum: 'Nut + '
 ---

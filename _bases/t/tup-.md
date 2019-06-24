@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: tup
-type: free
-title: tup
 reference_link: https://www.etymonline.com/word/tup
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: tup
+type: free
 word_sums:
-- sum: 'Tup + '
-  respelling: tup
+- respelling: tup
+  sum: 'Tup + '
 ---

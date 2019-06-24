@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: warn
-type: free
-title: warn
 reference_link: https://www.etymonline.com/word/warn
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: warn
+type: free
 word_sums:
-- sum: 'Warn + '
-  respelling: warn
+- respelling: warn
+  sum: 'Warn + '
 ---

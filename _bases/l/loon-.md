@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: loon
-type: free
-title: loon
 reference_link: https://www.etymonline.com/word/loon
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: loon
+type: free
 word_sums:
-- sum: 'Loon + '
-  respelling: loon
+- respelling: loon
+  sum: 'Loon + '
 ---

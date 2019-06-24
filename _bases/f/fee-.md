@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: fee
-type: free
-title: fee
 reference_link: https://www.etymonline.com/word/fee
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: fee
+type: free
 word_sums:
-- sum: 'Fee + '
-  respelling: fee
+- respelling: fee
+  sum: 'Fee + '
 ---

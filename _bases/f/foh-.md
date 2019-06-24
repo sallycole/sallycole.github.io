@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: foh
-type: free
-title: foh
 reference_link: https://www.etymonline.com/word/foh
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: foh
+type: free
 word_sums:
-- sum: 'Foh + '
-  respelling: foh
+- respelling: foh
+  sum: 'Foh + '
 ---

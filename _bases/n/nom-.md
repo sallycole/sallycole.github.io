@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: nom
-type: free
-title: nom
 reference_link: https://www.etymonline.com/word/nom
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: nom
+type: free
 word_sums:
-- sum: 'Nom + '
-  respelling: nom
+- respelling: nom
+  sum: 'Nom + '
 ---

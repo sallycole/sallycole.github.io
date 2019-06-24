@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: tack
-type: free
-title: tack
 reference_link: https://www.etymonline.com/word/tack
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: tack
+type: free
 word_sums:
-- sum: 'Tack + '
-  respelling: tack
+- respelling: tack
+  sum: 'Tack + '
 ---

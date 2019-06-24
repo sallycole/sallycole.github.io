@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: gnu
-type: free
-title: gnu
 reference_link: https://www.etymonline.com/word/gnu
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: gnu
+type: free
 word_sums:
-- sum: 'Gnu + '
-  respelling: gnu
+- respelling: gnu
+  sum: 'Gnu + '
 ---

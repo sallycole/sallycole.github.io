@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: joke
-type: free
-title: joke
 reference_link: https://www.etymonline.com/word/joke
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: joke
+type: free
 word_sums:
-- sum: 'Joke + '
-  respelling: joke
+- respelling: joke
+  sum: 'Joke + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: hae
-type: free
-title: hae
 reference_link: https://www.etymonline.com/word/hae
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: hae
+type: free
 word_sums:
-- sum: 'Hae + '
-  respelling: hae
+- respelling: hae
+  sum: 'Hae + '
 ---

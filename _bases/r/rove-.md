@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: rove
-type: free
-title: rove
 reference_link: https://www.etymonline.com/word/rove
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: rove
+type: free
 word_sums:
-- sum: 'Rove + '
-  respelling: rove
+- respelling: rove
+  sum: 'Rove + '
 ---

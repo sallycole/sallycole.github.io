@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: gawk
-type: free
-title: gawk
 reference_link: https://www.etymonline.com/word/gawk
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: gawk
+type: free
 word_sums:
-- sum: 'Gawk + '
-  respelling: gawk
+- respelling: gawk
+  sum: 'Gawk + '
 ---

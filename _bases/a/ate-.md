@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: ate
-type: free
-title: ate
 reference_link: https://www.etymonline.com/word/ate
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: ate
+type: free
 word_sums:
-- sum: 'Ate + '
-  respelling: ate
+- respelling: ate
+  sum: 'Ate + '
 ---

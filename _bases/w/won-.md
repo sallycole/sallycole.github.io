@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: won
-type: free
-title: won
 reference_link: https://www.etymonline.com/word/won
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: won
+type: free
 word_sums:
-- sum: 'Won + '
-  respelling: won
+- respelling: won
+  sum: 'Won + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: yowl
-type: free
-title: yowl
 reference_link: https://www.etymonline.com/word/yowl
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: yowl
+type: free
 word_sums:
-- sum: 'Yowl + '
-  respelling: yowl
+- respelling: yowl
+  sum: 'Yowl + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: yah
-type: free
-title: yah
 reference_link: https://www.etymonline.com/word/yah
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: yah
+type: free
 word_sums:
-- sum: 'Yah + '
-  respelling: yah
+- respelling: yah
+  sum: 'Yah + '
 ---

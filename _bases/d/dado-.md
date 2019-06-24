@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: dado
-type: free
-title: dado
 reference_link: https://www.etymonline.com/word/dado
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: dado
+type: free
 word_sums:
-- sum: 'Dado + '
-  respelling: dado
+- respelling: dado
+  sum: 'Dado + '
 ---

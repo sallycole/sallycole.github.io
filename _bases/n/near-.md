@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: near
-type: free
-title: near
 reference_link: https://www.etymonline.com/word/near
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: near
+type: free
 word_sums:
-- sum: 'Near + '
-  respelling: near
+- respelling: near
+  sum: 'Near + '
 ---

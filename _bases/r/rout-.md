@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: rout
-type: free
-title: rout
 reference_link: https://www.etymonline.com/word/rout
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: rout
+type: free
 word_sums:
-- sum: 'Rout + '
-  respelling: rout
+- respelling: rout
+  sum: 'Rout + '
 ---

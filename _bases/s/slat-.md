@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: slat
-type: free
-title: slat
 reference_link: https://www.etymonline.com/word/slat
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: slat
+type: free
 word_sums:
-- sum: 'Slat + '
-  respelling: slat
+- respelling: slat
+  sum: 'Slat + '
 ---

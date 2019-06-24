@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: hup
-type: free
-title: hup
 reference_link: https://www.etymonline.com/word/hup
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: hup
+type: free
 word_sums:
-- sum: 'Hup + '
-  respelling: hup
+- respelling: hup
+  sum: 'Hup + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: vaw
-type: free
-title: vaw
 reference_link: https://www.etymonline.com/word/vaw
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: vaw
+type: free
 word_sums:
-- sum: 'Vaw + '
-  respelling: vaw
+- respelling: vaw
+  sum: 'Vaw + '
 ---

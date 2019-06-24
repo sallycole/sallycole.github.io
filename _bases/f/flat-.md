@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: flat
-type: free
-title: flat
 reference_link: https://www.etymonline.com/word/flat
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: flat
+type: free
 word_sums:
-- sum: 'Flat + '
-  respelling: flat
+- respelling: flat
+  sum: 'Flat + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: yay
-type: free
-title: yay
 reference_link: https://www.etymonline.com/word/yay
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: yay
+type: free
 word_sums:
-- sum: 'Yay + '
-  respelling: yay
+- respelling: yay
+  sum: 'Yay + '
 ---

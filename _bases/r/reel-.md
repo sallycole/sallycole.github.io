@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: reel
-type: free
-title: reel
 reference_link: https://www.etymonline.com/word/reel
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: reel
+type: free
 word_sums:
-- sum: 'Reel + '
-  respelling: reel
+- respelling: reel
+  sum: 'Reel + '
 ---

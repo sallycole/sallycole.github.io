@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: papa
-type: free
-title: papa
 reference_link: https://www.etymonline.com/word/papa
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: papa
+type: free
 word_sums:
-- sum: 'Papa + '
-  respelling: papa
+- respelling: papa
+  sum: 'Papa + '
 ---

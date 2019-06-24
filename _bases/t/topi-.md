@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: topi
-type: free
-title: topi
 reference_link: https://www.etymonline.com/word/topi
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: topi
+type: free
 word_sums:
-- sum: 'Topi + '
-  respelling: topi
+- respelling: topi
+  sum: 'Topi + '
 ---

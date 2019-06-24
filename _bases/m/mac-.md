@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: mac
-type: free
-title: mac
 reference_link: https://www.etymonline.com/word/mac
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: mac
+type: free
 word_sums:
-- sum: 'Mac + '
-  respelling: mac
+- respelling: mac
+  sum: 'Mac + '
 ---

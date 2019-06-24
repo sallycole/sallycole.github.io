@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: cone
-type: free
-title: cone
 reference_link: https://www.etymonline.com/word/cone
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: cone
+type: free
 word_sums:
-- sum: 'Cone + '
-  respelling: cone
+- respelling: cone
+  sum: 'Cone + '
 ---

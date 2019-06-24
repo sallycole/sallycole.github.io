@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: huge
-type: free
-title: huge
 reference_link: https://www.etymonline.com/word/huge
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: huge
+type: free
 word_sums:
-- sum: 'Huge + '
-  respelling: huge
+- respelling: huge
+  sum: 'Huge + '
 ---

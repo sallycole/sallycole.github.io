@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: mark
-type: free
-title: mark
 reference_link: https://www.etymonline.com/word/mark
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: mark
+type: free
 word_sums:
-- sum: 'Mark + '
-  respelling: mark
+- respelling: mark
+  sum: 'Mark + '
 ---

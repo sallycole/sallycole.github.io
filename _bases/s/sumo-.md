@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: sumo
-type: free
-title: sumo
 reference_link: https://www.etymonline.com/word/sumo
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: sumo
+type: free
 word_sums:
-- sum: 'Sumo + '
-  respelling: sumo
+- respelling: sumo
+  sum: 'Sumo + '
 ---

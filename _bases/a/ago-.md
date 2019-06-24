@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: ago
-type: free
-title: ago
 reference_link: https://www.etymonline.com/word/ago
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: ago
+type: free
 word_sums:
-- sum: 'Ago + '
-  respelling: ago
+- respelling: ago
+  sum: 'Ago + '
 ---

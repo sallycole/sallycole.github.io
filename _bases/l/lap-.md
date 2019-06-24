@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: lap
-type: free
-title: lap
 reference_link: https://www.etymonline.com/word/lap
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: lap
+type: free
 word_sums:
-- sum: 'Lap + '
-  respelling: lap
+- respelling: lap
+  sum: 'Lap + '
 ---

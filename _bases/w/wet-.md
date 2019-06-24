@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: wet
-type: free
-title: wet
 reference_link: https://www.etymonline.com/word/wet
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: wet
+type: free
 word_sums:
-- sum: 'Wet + '
-  respelling: wet
+- respelling: wet
+  sum: 'Wet + '
 ---

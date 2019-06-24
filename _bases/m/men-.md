@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: men
-type: free
-title: men
 reference_link: https://www.etymonline.com/word/men
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: men
+type: free
 word_sums:
-- sum: 'Men + '
-  respelling: men
+- respelling: men
+  sum: 'Men + '
 ---

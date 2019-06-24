@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: evil
-type: free
-title: evil
 reference_link: https://www.etymonline.com/word/evil
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: evil
+type: free
 word_sums:
-- sum: 'Evil + '
-  respelling: evil
+- respelling: evil
+  sum: 'Evil + '
 ---

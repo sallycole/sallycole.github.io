@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: veal
-type: free
-title: veal
 reference_link: https://www.etymonline.com/word/veal
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: veal
+type: free
 word_sums:
-- sum: 'Veal + '
-  respelling: veal
+- respelling: veal
+  sum: 'Veal + '
 ---

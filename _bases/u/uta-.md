@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: uta
-type: free
-title: uta
 reference_link: https://www.etymonline.com/word/uta
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: uta
+type: free
 word_sums:
-- sum: 'Uta + '
-  respelling: uta
+- respelling: uta
+  sum: 'Uta + '
 ---

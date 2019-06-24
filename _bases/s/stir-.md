@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: stir
-type: free
-title: stir
 reference_link: https://www.etymonline.com/word/stir
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: stir
+type: free
 word_sums:
-- sum: 'Stir + '
-  respelling: stir
+- respelling: stir
+  sum: 'Stir + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: gym
-type: free
-title: gym
 reference_link: https://www.etymonline.com/word/gym
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: gym
+type: free
 word_sums:
-- sum: 'Gym + '
-  respelling: gym
+- respelling: gym
+  sum: 'Gym + '
 ---

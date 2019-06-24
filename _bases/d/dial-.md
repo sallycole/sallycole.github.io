@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: dial
-type: free
-title: dial
 reference_link: https://www.etymonline.com/word/dial
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: dial
+type: free
 word_sums:
-- sum: 'Dial + '
-  respelling: dial
+- respelling: dial
+  sum: 'Dial + '
 ---

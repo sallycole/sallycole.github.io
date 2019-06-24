@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: nosh
-type: free
-title: nosh
 reference_link: https://www.etymonline.com/word/nosh
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: nosh
+type: free
 word_sums:
-- sum: 'Nosh + '
-  respelling: nosh
+- respelling: nosh
+  sum: 'Nosh + '
 ---

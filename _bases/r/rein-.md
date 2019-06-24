@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: rein
-type: free
-title: rein
 reference_link: https://www.etymonline.com/word/rein
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: rein
+type: free
 word_sums:
-- sum: 'Rein + '
-  respelling: rein
+- respelling: rein
+  sum: 'Rein + '
 ---

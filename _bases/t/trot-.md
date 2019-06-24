@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: trot
-type: free
-title: trot
 reference_link: https://www.etymonline.com/word/trot
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: trot
+type: free
 word_sums:
-- sum: 'Trot + '
-  respelling: trot
+- respelling: trot
+  sum: 'Trot + '
 ---

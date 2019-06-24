@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: twat
-type: free
-title: twat
 reference_link: https://www.etymonline.com/word/twat
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: twat
+type: free
 word_sums:
-- sum: 'Twat + '
-  respelling: twat
+- respelling: twat
+  sum: 'Twat + '
 ---

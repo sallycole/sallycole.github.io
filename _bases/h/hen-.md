@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: hen
-type: free
-title: hen
 reference_link: https://www.etymonline.com/word/hen
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: hen
+type: free
 word_sums:
-- sum: 'Hen + '
-  respelling: hen
+- respelling: hen
+  sum: 'Hen + '
 ---

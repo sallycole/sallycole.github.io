@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: punk
-type: free
-title: punk
 reference_link: https://www.etymonline.com/word/punk
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: punk
+type: free
 word_sums:
-- sum: 'Punk + '
-  respelling: punk
+- respelling: punk
+  sum: 'Punk + '
 ---

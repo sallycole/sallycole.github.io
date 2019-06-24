@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: pug
-type: free
-title: pug
 reference_link: https://www.etymonline.com/word/pug
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: pug
+type: free
 word_sums:
-- sum: 'Pug + '
-  respelling: pug
+- respelling: pug
+  sum: 'Pug + '
 ---

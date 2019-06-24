@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: wing
-type: free
-title: wing
 reference_link: https://www.etymonline.com/word/wing
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: wing
+type: free
 word_sums:
-- sum: 'Wing + '
-  respelling: wing
+- respelling: wing
+  sum: 'Wing + '
 ---

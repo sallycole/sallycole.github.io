@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: coz
-type: free
-title: coz
 reference_link: https://www.etymonline.com/word/coz
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: coz
+type: free
 word_sums:
-- sum: 'Coz + '
-  respelling: coz
+- respelling: coz
+  sum: 'Coz + '
 ---

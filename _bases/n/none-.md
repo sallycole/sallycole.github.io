@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: none
-type: free
-title: none
 reference_link: https://www.etymonline.com/word/none
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: none
+type: free
 word_sums:
-- sum: 'None + '
-  respelling: none
+- respelling: none
+  sum: 'None + '
 ---

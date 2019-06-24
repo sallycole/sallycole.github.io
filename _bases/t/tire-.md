@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: tire
-type: free
-title: tire
 reference_link: https://www.etymonline.com/word/tire
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: tire
+type: free
 word_sums:
-- sum: 'Tire + '
-  respelling: tire
+- respelling: tire
+  sum: 'Tire + '
 ---

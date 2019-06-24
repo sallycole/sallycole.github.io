@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: bird
-type: free
-title: bird
 reference_link: https://www.etymonline.com/word/bird
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: bird
+type: free
 word_sums:
-- sum: 'Bird + '
-  respelling: bird
+- respelling: bird
+  sum: 'Bird + '
 ---

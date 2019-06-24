@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: bit
-type: free
-title: bit
 reference_link: https://www.etymonline.com/word/bit
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: bit
+type: free
 word_sums:
-- sum: 'Bit + '
-  respelling: bit
+- respelling: bit
+  sum: 'Bit + '
 ---

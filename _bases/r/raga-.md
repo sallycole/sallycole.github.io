@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: raga
-type: free
-title: raga
 reference_link: https://www.etymonline.com/word/raga
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: raga
+type: free
 word_sums:
-- sum: 'Raga + '
-  respelling: raga
+- respelling: raga
+  sum: 'Raga + '
 ---

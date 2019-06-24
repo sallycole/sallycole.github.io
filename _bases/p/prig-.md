@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: prig
-type: free
-title: prig
 reference_link: https://www.etymonline.com/word/prig
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: prig
+type: free
 word_sums:
-- sum: 'Prig + '
-  respelling: prig
+- respelling: prig
+  sum: 'Prig + '
 ---

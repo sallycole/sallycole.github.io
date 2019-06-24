@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: flab
-type: free
-title: flab
 reference_link: https://www.etymonline.com/word/flab
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: flab
+type: free
 word_sums:
-- sum: 'Flab + '
-  respelling: flab
+- respelling: flab
+  sum: 'Flab + '
 ---

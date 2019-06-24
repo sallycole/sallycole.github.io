@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: piu
-type: free
-title: piu
 reference_link: https://www.etymonline.com/word/piu
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: piu
+type: free
 word_sums:
-- sum: 'Piu + '
-  respelling: piu
+- respelling: piu
+  sum: 'Piu + '
 ---

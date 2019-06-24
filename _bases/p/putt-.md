@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: putt
-type: free
-title: putt
 reference_link: https://www.etymonline.com/word/putt
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: putt
+type: free
 word_sums:
-- sum: 'Putt + '
-  respelling: putt
+- respelling: putt
+  sum: 'Putt + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: mate
-type: free
-title: mate
 reference_link: https://www.etymonline.com/word/mate
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: mate
+type: free
 word_sums:
-- sum: 'Mate + '
-  respelling: mate
+- respelling: mate
+  sum: 'Mate + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: rub
-type: free
-title: rub
 reference_link: https://www.etymonline.com/word/rub
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: rub
+type: free
 word_sums:
-- sum: 'Rub + '
-  respelling: rub
+- respelling: rub
+  sum: 'Rub + '
 ---

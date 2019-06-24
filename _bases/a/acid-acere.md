@@ -1,14 +1,15 @@
 ---
+category: 4-letters
+denotation: to be sour, be sharp
 name: acid
+reference_link: https://www.etymonline.com/word/acid
+root language: Latin
+root name: acere
 title: acid
 type: free
-reference_link: https://www.etymonline.com/word/acid
-root name: acere
-root language: Latin
-denotation: to be sour, be sharp
 word_sums:
-- sum: 'Acid + s'
-  respelling: acids
-- sum: 'Acid + ic'
-  respelling: acidic
+- respelling: acids
+  sum: Acid + s
+- respelling: acidic
+  sum: Acid + ic
 ---

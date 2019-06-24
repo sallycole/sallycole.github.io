@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: nook
-type: free
-title: nook
 reference_link: https://www.etymonline.com/word/nook
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: nook
+type: free
 word_sums:
-- sum: 'Nook + '
-  respelling: nook
+- respelling: nook
+  sum: 'Nook + '
 ---

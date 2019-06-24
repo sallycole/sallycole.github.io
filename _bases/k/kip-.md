@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: kip
-type: free
-title: kip
 reference_link: https://www.etymonline.com/word/kip
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: kip
+type: free
 word_sums:
-- sum: 'Kip + '
-  respelling: kip
+- respelling: kip
+  sum: 'Kip + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: jink
-type: free
-title: jink
 reference_link: https://www.etymonline.com/word/jink
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: jink
+type: free
 word_sums:
-- sum: 'Jink + '
-  respelling: jink
+- respelling: jink
+  sum: 'Jink + '
 ---

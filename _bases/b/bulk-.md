@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: bulk
-type: free
-title: bulk
 reference_link: https://www.etymonline.com/word/bulk
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: bulk
+type: free
 word_sums:
-- sum: 'Bulk + '
-  respelling: bulk
+- respelling: bulk
+  sum: 'Bulk + '
 ---

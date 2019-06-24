@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: coup
-type: free
-title: coup
 reference_link: https://www.etymonline.com/word/coup
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: coup
+type: free
 word_sums:
-- sum: 'Coup + '
-  respelling: coup
+- respelling: coup
+  sum: 'Coup + '
 ---

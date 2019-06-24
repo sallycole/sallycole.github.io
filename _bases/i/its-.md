@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: its
-type: free
-title: its
 reference_link: https://www.etymonline.com/word/its
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: its
+type: free
 word_sums:
-- sum: 'Its + '
-  respelling: its
+- respelling: its
+  sum: 'Its + '
 ---

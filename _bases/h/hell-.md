@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: hell
-type: free
-title: hell
 reference_link: https://www.etymonline.com/word/hell
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: hell
+type: free
 word_sums:
-- sum: 'Hell + '
-  respelling: hell
+- respelling: hell
+  sum: 'Hell + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: soft
-type: free
-title: soft
 reference_link: https://www.etymonline.com/word/soft
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: soft
+type: free
 word_sums:
-- sum: 'Soft + '
-  respelling: soft
+- respelling: soft
+  sum: 'Soft + '
 ---

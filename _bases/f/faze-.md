@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: faze
-type: free
-title: faze
 reference_link: https://www.etymonline.com/word/faze
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: faze
+type: free
 word_sums:
-- sum: 'Faze + '
-  respelling: faze
+- respelling: faze
+  sum: 'Faze + '
 ---

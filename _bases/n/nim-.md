@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: nim
-type: free
-title: nim
 reference_link: https://www.etymonline.com/word/nim
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: nim
+type: free
 word_sums:
-- sum: 'Nim + '
-  respelling: nim
+- respelling: nim
+  sum: 'Nim + '
 ---

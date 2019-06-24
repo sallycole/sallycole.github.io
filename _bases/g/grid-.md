@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: grid
-type: free
-title: grid
 reference_link: https://www.etymonline.com/word/grid
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: grid
+type: free
 word_sums:
-- sum: 'Grid + '
-  respelling: grid
+- respelling: grid
+  sum: 'Grid + '
 ---

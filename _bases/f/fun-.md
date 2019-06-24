@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: fun
-type: free
-title: fun
 reference_link: https://www.etymonline.com/word/fun
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: fun
+type: free
 word_sums:
-- sum: 'Fun + '
-  respelling: fun
+- respelling: fun
+  sum: 'Fun + '
 ---

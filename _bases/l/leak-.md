@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: leak
-type: free
-title: leak
 reference_link: https://www.etymonline.com/word/leak
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: leak
+type: free
 word_sums:
-- sum: 'Leak + '
-  respelling: leak
+- respelling: leak
+  sum: 'Leak + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: waft
-type: free
-title: waft
 reference_link: https://www.etymonline.com/word/waft
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: waft
+type: free
 word_sums:
-- sum: 'Waft + '
-  respelling: waft
+- respelling: waft
+  sum: 'Waft + '
 ---

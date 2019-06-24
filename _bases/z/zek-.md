@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: zek
-type: free
-title: zek
 reference_link: https://www.etymonline.com/word/zek
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: zek
+type: free
 word_sums:
-- sum: 'Zek + '
-  respelling: zek
+- respelling: zek
+  sum: 'Zek + '
 ---

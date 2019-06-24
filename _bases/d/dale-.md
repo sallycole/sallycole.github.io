@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: dale
-type: free
-title: dale
 reference_link: https://www.etymonline.com/word/dale
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: dale
+type: free
 word_sums:
-- sum: 'Dale + '
-  respelling: dale
+- respelling: dale
+  sum: 'Dale + '
 ---

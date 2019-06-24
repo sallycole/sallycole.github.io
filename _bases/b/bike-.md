@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: bike
-type: free
-title: bike
 reference_link: https://www.etymonline.com/word/bike
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: bike
+type: free
 word_sums:
-- sum: 'Bike + '
-  respelling: bike
+- respelling: bike
+  sum: 'Bike + '
 ---

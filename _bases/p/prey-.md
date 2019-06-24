@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: prey
-type: free
-title: prey
 reference_link: https://www.etymonline.com/word/prey
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: prey
+type: free
 word_sums:
-- sum: 'Prey + '
-  respelling: prey
+- respelling: prey
+  sum: 'Prey + '
 ---

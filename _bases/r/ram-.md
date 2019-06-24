@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: ram
-type: free
-title: ram
 reference_link: https://www.etymonline.com/word/ram
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: ram
+type: free
 word_sums:
-- sum: 'Ram + '
-  respelling: ram
+- respelling: ram
+  sum: 'Ram + '
 ---

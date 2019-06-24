@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: azo
-type: free
-title: azo
 reference_link: https://www.etymonline.com/word/azo
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: azo
+type: free
 word_sums:
-- sum: 'Azo + '
-  respelling: azo
+- respelling: azo
+  sum: 'Azo + '
 ---

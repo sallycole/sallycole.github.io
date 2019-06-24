@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: than
-type: free
-title: than
 reference_link: https://www.etymonline.com/word/than
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: than
+type: free
 word_sums:
-- sum: 'Than + '
-  respelling: than
+- respelling: than
+  sum: 'Than + '
 ---

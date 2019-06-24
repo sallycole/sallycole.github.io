@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: wilt
-type: free
-title: wilt
 reference_link: https://www.etymonline.com/word/wilt
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: wilt
+type: free
 word_sums:
-- sum: 'Wilt + '
-  respelling: wilt
+- respelling: wilt
+  sum: 'Wilt + '
 ---

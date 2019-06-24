@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: stye
-type: free
-title: stye
 reference_link: https://www.etymonline.com/word/stye
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: stye
+type: free
 word_sums:
-- sum: 'Stye + '
-  respelling: stye
+- respelling: stye
+  sum: 'Stye + '
 ---

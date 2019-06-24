@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: dost
-type: free
-title: dost
 reference_link: https://www.etymonline.com/word/dost
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: dost
+type: free
 word_sums:
-- sum: 'Dost + '
-  respelling: dost
+- respelling: dost
+  sum: 'Dost + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: clot
-type: free
-title: clot
 reference_link: https://www.etymonline.com/word/clot
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: clot
+type: free
 word_sums:
-- sum: 'Clot + '
-  respelling: clot
+- respelling: clot
+  sum: 'Clot + '
 ---

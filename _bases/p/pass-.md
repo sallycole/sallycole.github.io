@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: pass
-type: free
-title: pass
 reference_link: https://www.etymonline.com/word/pass
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: pass
+type: free
 word_sums:
-- sum: 'Pass + '
-  respelling: pass
+- respelling: pass
+  sum: 'Pass + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: sab
-type: free
-title: sab
 reference_link: https://www.etymonline.com/word/sab
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: sab
+type: free
 word_sums:
-- sum: 'Sab + '
-  respelling: sab
+- respelling: sab
+  sum: 'Sab + '
 ---

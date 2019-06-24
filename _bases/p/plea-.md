@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: plea
-type: free
-title: plea
 reference_link: https://www.etymonline.com/word/plea
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: plea
+type: free
 word_sums:
-- sum: 'Plea + '
-  respelling: plea
+- respelling: plea
+  sum: 'Plea + '
 ---

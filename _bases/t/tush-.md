@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: tush
-type: free
-title: tush
 reference_link: https://www.etymonline.com/word/tush
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: tush
+type: free
 word_sums:
-- sum: 'Tush + '
-  respelling: tush
+- respelling: tush
+  sum: 'Tush + '
 ---

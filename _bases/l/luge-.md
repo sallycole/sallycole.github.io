@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: luge
-type: free
-title: luge
 reference_link: https://www.etymonline.com/word/luge
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: luge
+type: free
 word_sums:
-- sum: 'Luge + '
-  respelling: luge
+- respelling: luge
+  sum: 'Luge + '
 ---

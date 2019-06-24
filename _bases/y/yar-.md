@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: yar
-type: free
-title: yar
 reference_link: https://www.etymonline.com/word/yar
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: yar
+type: free
 word_sums:
-- sum: 'Yar + '
-  respelling: yar
+- respelling: yar
+  sum: 'Yar + '
 ---

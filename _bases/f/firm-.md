@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: firm
-type: free
-title: firm
 reference_link: https://www.etymonline.com/word/firm
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: firm
+type: free
 word_sums:
-- sum: 'Firm + '
-  respelling: firm
+- respelling: firm
+  sum: 'Firm + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: gey
-type: free
-title: gey
 reference_link: https://www.etymonline.com/word/gey
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: gey
+type: free
 word_sums:
-- sum: 'Gey + '
-  respelling: gey
+- respelling: gey
+  sum: 'Gey + '
 ---

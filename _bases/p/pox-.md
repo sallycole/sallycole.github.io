@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: pox
-type: free
-title: pox
 reference_link: https://www.etymonline.com/word/pox
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: pox
+type: free
 word_sums:
-- sum: 'Pox + '
-  respelling: pox
+- respelling: pox
+  sum: 'Pox + '
 ---

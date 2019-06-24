@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: bomb
-type: free
-title: bomb
 reference_link: https://www.etymonline.com/word/bomb
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: bomb
+type: free
 word_sums:
-- sum: 'Bomb + '
-  respelling: bomb
+- respelling: bomb
+  sum: 'Bomb + '
 ---

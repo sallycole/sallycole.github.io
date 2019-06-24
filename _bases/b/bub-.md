@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: bub
-type: free
-title: bub
 reference_link: https://www.etymonline.com/word/bub
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: bub
+type: free
 word_sums:
-- sum: 'Bub + '
-  respelling: bub
+- respelling: bub
+  sum: 'Bub + '
 ---

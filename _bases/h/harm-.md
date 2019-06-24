@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: harm
-type: free
-title: harm
 reference_link: https://www.etymonline.com/word/harm
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: harm
+type: free
 word_sums:
-- sum: 'Harm + '
-  respelling: harm
+- respelling: harm
+  sum: 'Harm + '
 ---

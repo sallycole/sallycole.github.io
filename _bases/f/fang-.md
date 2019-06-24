@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: fang
-type: free
-title: fang
 reference_link: https://www.etymonline.com/word/fang
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: fang
+type: free
 word_sums:
-- sum: 'Fang + '
-  respelling: fang
+- respelling: fang
+  sum: 'Fang + '
 ---

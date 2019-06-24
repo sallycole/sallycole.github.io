@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: hate
-type: free
-title: hate
 reference_link: https://www.etymonline.com/word/hate
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: hate
+type: free
 word_sums:
-- sum: 'Hate + '
-  respelling: hate
+- respelling: hate
+  sum: 'Hate + '
 ---

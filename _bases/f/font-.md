@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: font
-type: free
-title: font
 reference_link: https://www.etymonline.com/word/font
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: font
+type: free
 word_sums:
-- sum: 'Font + '
-  respelling: font
+- respelling: font
+  sum: 'Font + '
 ---

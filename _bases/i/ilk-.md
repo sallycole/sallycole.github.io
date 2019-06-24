@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: ilk
-type: free
-title: ilk
 reference_link: https://www.etymonline.com/word/ilk
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: ilk
+type: free
 word_sums:
-- sum: 'Ilk + '
-  respelling: ilk
+- respelling: ilk
+  sum: 'Ilk + '
 ---

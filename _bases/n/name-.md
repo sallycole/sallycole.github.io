@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: name
-type: free
-title: name
 reference_link: https://www.etymonline.com/word/name
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: name
+type: free
 word_sums:
-- sum: 'Name + '
-  respelling: name
+- respelling: name
+  sum: 'Name + '
 ---

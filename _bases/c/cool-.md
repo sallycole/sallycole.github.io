@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: cool
-type: free
-title: cool
 reference_link: https://www.etymonline.com/word/cool
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: cool
+type: free
 word_sums:
-- sum: 'Cool + '
-  respelling: cool
+- respelling: cool
+  sum: 'Cool + '
 ---

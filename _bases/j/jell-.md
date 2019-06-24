@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: jell
-type: free
-title: jell
 reference_link: https://www.etymonline.com/word/jell
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: jell
+type: free
 word_sums:
-- sum: 'Jell + '
-  respelling: jell
+- respelling: jell
+  sum: 'Jell + '
 ---

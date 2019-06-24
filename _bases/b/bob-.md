@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: bob
-type: free
-title: bob
 reference_link: https://www.etymonline.com/word/bob
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: bob
+type: free
 word_sums:
-- sum: 'Bob + '
-  respelling: bob
+- respelling: bob
+  sum: 'Bob + '
 ---

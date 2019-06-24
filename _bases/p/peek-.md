@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: peek
-type: free
-title: peek
 reference_link: https://www.etymonline.com/word/peek
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: peek
+type: free
 word_sums:
-- sum: 'Peek + '
-  respelling: peek
+- respelling: peek
+  sum: 'Peek + '
 ---

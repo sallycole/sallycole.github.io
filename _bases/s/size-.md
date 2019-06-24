@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: size
-type: free
-title: size
 reference_link: https://www.etymonline.com/word/size
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: size
+type: free
 word_sums:
-- sum: 'Size + '
-  respelling: size
+- respelling: size
+  sum: 'Size + '
 ---

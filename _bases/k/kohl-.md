@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: kohl
-type: free
-title: kohl
 reference_link: https://www.etymonline.com/word/kohl
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: kohl
+type: free
 word_sums:
-- sum: 'Kohl + '
-  respelling: kohl
+- respelling: kohl
+  sum: 'Kohl + '
 ---

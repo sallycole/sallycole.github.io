@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: cru
-type: free
-title: cru
 reference_link: https://www.etymonline.com/word/cru
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: cru
+type: free
 word_sums:
-- sum: 'Cru + '
-  respelling: cru
+- respelling: cru
+  sum: 'Cru + '
 ---

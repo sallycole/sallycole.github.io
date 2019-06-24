@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: eta
-type: free
-title: eta
 reference_link: https://www.etymonline.com/word/eta
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: eta
+type: free
 word_sums:
-- sum: 'Eta + '
-  respelling: eta
+- respelling: eta
+  sum: 'Eta + '
 ---

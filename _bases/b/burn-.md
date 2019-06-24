@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: burn
-type: free
-title: burn
 reference_link: https://www.etymonline.com/word/burn
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: burn
+type: free
 word_sums:
-- sum: 'Burn + '
-  respelling: burn
+- respelling: burn
+  sum: 'Burn + '
 ---

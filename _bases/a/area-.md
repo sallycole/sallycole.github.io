@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: area
-type: free
-title: area
 reference_link: https://www.etymonline.com/word/area
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: area
+type: free
 word_sums:
-- sum: 'Area + '
-  respelling: area
+- respelling: area
+  sum: 'Area + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: ibis
-type: free
-title: ibis
 reference_link: https://www.etymonline.com/word/ibis
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: ibis
+type: free
 word_sums:
-- sum: 'Ibis + '
-  respelling: ibis
+- respelling: ibis
+  sum: 'Ibis + '
 ---

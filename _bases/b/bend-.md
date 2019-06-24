@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: bend
-type: free
-title: bend
 reference_link: https://www.etymonline.com/word/bend
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: bend
+type: free
 word_sums:
-- sum: 'Bend + '
-  respelling: bend
+- respelling: bend
+  sum: 'Bend + '
 ---

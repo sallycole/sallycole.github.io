@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: foci
-type: free
-title: foci
 reference_link: https://www.etymonline.com/word/foci
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: foci
+type: free
 word_sums:
-- sum: 'Foci + '
-  respelling: foci
+- respelling: foci
+  sum: 'Foci + '
 ---

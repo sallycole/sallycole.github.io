@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: ski
-type: free
-title: ski
 reference_link: https://www.etymonline.com/word/ski
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: ski
+type: free
 word_sums:
-- sum: 'Ski + '
-  respelling: ski
+- respelling: ski
+  sum: 'Ski + '
 ---

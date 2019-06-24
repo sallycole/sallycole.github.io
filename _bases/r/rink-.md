@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: rink
-type: free
-title: rink
 reference_link: https://www.etymonline.com/word/rink
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: rink
+type: free
 word_sums:
-- sum: 'Rink + '
-  respelling: rink
+- respelling: rink
+  sum: 'Rink + '
 ---

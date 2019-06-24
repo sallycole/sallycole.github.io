@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: age
-type: free
-title: age
 reference_link: https://www.etymonline.com/word/age
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: age
+type: free
 word_sums:
-- sum: 'Age + '
-  respelling: age
+- respelling: age
+  sum: 'Age + '
 ---

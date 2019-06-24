@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: war
-type: free
-title: war
 reference_link: https://www.etymonline.com/word/war
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: war
+type: free
 word_sums:
-- sum: 'War + '
-  respelling: war
+- respelling: war
+  sum: 'War + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: thee
-type: free
-title: thee
 reference_link: https://www.etymonline.com/word/thee
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: thee
+type: free
 word_sums:
-- sum: 'Thee + '
-  respelling: thee
+- respelling: thee
+  sum: 'Thee + '
 ---

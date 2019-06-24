@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: unit
-type: free
-title: unit
 reference_link: https://www.etymonline.com/word/unit
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: unit
+type: free
 word_sums:
-- sum: 'Unit + '
-  respelling: unit
+- respelling: unit
+  sum: 'Unit + '
 ---

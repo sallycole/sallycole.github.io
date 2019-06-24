@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: zep
-type: free
-title: zep
 reference_link: https://www.etymonline.com/word/zep
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: zep
+type: free
 word_sums:
-- sum: 'Zep + '
-  respelling: zep
+- respelling: zep
+  sum: 'Zep + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: slow
-type: free
-title: slow
 reference_link: https://www.etymonline.com/word/slow
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: slow
+type: free
 word_sums:
-- sum: 'Slow + '
-  respelling: slow
+- respelling: slow
+  sum: 'Slow + '
 ---

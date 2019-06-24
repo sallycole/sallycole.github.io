@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: amu
-type: free
-title: amu
 reference_link: https://www.etymonline.com/word/amu
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: amu
+type: free
 word_sums:
-- sum: 'Amu + '
-  respelling: amu
+- respelling: amu
+  sum: 'Amu + '
 ---

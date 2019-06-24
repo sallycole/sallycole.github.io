@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: inch
-type: free
-title: inch
 reference_link: https://www.etymonline.com/word/inch
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: inch
+type: free
 word_sums:
-- sum: 'Inch + '
-  respelling: inch
+- respelling: inch
+  sum: 'Inch + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: pan
-type: free
-title: pan
 reference_link: https://www.etymonline.com/word/pan
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: pan
+type: free
 word_sums:
-- sum: 'Pan + '
-  respelling: pan
+- respelling: pan
+  sum: 'Pan + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: swum
-type: free
-title: swum
 reference_link: https://www.etymonline.com/word/swum
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: swum
+type: free
 word_sums:
-- sum: 'Swum + '
-  respelling: swum
+- respelling: swum
+  sum: 'Swum + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: met
-type: free
-title: met
 reference_link: https://www.etymonline.com/word/met
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: met
+type: free
 word_sums:
-- sum: 'Met + '
-  respelling: met
+- respelling: met
+  sum: 'Met + '
 ---

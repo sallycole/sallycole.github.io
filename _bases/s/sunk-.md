@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: sunk
-type: free
-title: sunk
 reference_link: https://www.etymonline.com/word/sunk
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: sunk
+type: free
 word_sums:
-- sum: 'Sunk + '
-  respelling: sunk
+- respelling: sunk
+  sum: 'Sunk + '
 ---

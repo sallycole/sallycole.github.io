@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: car
-type: free
-title: car
 reference_link: https://www.etymonline.com/word/car
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: car
+type: free
 word_sums:
-- sum: 'Car + '
-  respelling: car
+- respelling: car
+  sum: 'Car + '
 ---

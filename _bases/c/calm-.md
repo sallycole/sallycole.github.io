@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: calm
-type: free
-title: calm
 reference_link: https://www.etymonline.com/word/calm
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: calm
+type: free
 word_sums:
-- sum: 'Calm + '
-  respelling: calm
+- respelling: calm
+  sum: 'Calm + '
 ---

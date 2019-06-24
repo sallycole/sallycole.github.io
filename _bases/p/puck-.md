@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: puck
-type: free
-title: puck
 reference_link: https://www.etymonline.com/word/puck
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: puck
+type: free
 word_sums:
-- sum: 'Puck + '
-  respelling: puck
+- respelling: puck
+  sum: 'Puck + '
 ---

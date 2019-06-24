@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: moan
-type: free
-title: moan
 reference_link: https://www.etymonline.com/word/moan
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: moan
+type: free
 word_sums:
-- sum: 'Moan + '
-  respelling: moan
+- respelling: moan
+  sum: 'Moan + '
 ---

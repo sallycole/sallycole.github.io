@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: mash
-type: free
-title: mash
 reference_link: https://www.etymonline.com/word/mash
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: mash
+type: free
 word_sums:
-- sum: 'Mash + '
-  respelling: mash
+- respelling: mash
+  sum: 'Mash + '
 ---

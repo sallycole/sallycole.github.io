@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: gang
-type: free
-title: gang
 reference_link: https://www.etymonline.com/word/gang
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: gang
+type: free
 word_sums:
-- sum: 'Gang + '
-  respelling: gang
+- respelling: gang
+  sum: 'Gang + '
 ---

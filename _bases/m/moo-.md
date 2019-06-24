@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: moo
-type: free
-title: moo
 reference_link: https://www.etymonline.com/word/moo
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: moo
+type: free
 word_sums:
-- sum: 'Moo + '
-  respelling: moo
+- respelling: moo
+  sum: 'Moo + '
 ---

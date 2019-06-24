@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: pant
-type: free
-title: pant
 reference_link: https://www.etymonline.com/word/pant
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: pant
+type: free
 word_sums:
-- sum: 'Pant + '
-  respelling: pant
+- respelling: pant
+  sum: 'Pant + '
 ---

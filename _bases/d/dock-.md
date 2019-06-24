@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: dock
-type: free
-title: dock
 reference_link: https://www.etymonline.com/word/dock
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: dock
+type: free
 word_sums:
-- sum: 'Dock + '
-  respelling: dock
+- respelling: dock
+  sum: 'Dock + '
 ---

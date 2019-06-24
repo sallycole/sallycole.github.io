@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: goat
-type: free
-title: goat
 reference_link: https://www.etymonline.com/word/goat
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: goat
+type: free
 word_sums:
-- sum: 'Goat + '
-  respelling: goat
+- respelling: goat
+  sum: 'Goat + '
 ---

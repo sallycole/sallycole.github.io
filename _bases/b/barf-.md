@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: barf
-type: free
-title: barf
 reference_link: https://www.etymonline.com/word/barf
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: barf
+type: free
 word_sums:
-- sum: 'Barf + '
-  respelling: barf
+- respelling: barf
+  sum: 'Barf + '
 ---

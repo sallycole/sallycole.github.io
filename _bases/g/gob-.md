@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: gob
-type: free
-title: gob
 reference_link: https://www.etymonline.com/word/gob
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: gob
+type: free
 word_sums:
-- sum: 'Gob + '
-  respelling: gob
+- respelling: gob
+  sum: 'Gob + '
 ---

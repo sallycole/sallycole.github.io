@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: pen
-type: free
-title: pen
 reference_link: https://www.etymonline.com/word/pen
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: pen
+type: free
 word_sums:
-- sum: 'Pen + '
-  respelling: pen
+- respelling: pen
+  sum: 'Pen + '
 ---

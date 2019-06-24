@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: wink
-type: free
-title: wink
 reference_link: https://www.etymonline.com/word/wink
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: wink
+type: free
 word_sums:
-- sum: 'Wink + '
-  respelling: wink
+- respelling: wink
+  sum: 'Wink + '
 ---

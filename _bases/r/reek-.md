@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: reek
-type: free
-title: reek
 reference_link: https://www.etymonline.com/word/reek
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: reek
+type: free
 word_sums:
-- sum: 'Reek + '
-  respelling: reek
+- respelling: reek
+  sum: 'Reek + '
 ---

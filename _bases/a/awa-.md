@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: awa
-type: free
-title: awa
 reference_link: https://www.etymonline.com/word/awa
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: awa
+type: free
 word_sums:
-- sum: 'Awa + '
-  respelling: awa
+- respelling: awa
+  sum: 'Awa + '
 ---

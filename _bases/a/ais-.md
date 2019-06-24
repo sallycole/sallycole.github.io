@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: ais
-type: free
-title: ais
 reference_link: https://www.etymonline.com/word/ais
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: ais
+type: free
 word_sums:
-- sum: 'Ais + '
-  respelling: ais
+- respelling: ais
+  sum: 'Ais + '
 ---

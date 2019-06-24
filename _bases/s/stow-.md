@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: stow
-type: free
-title: stow
 reference_link: https://www.etymonline.com/word/stow
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: stow
+type: free
 word_sums:
-- sum: 'Stow + '
-  respelling: stow
+- respelling: stow
+  sum: 'Stow + '
 ---

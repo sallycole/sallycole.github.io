@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: urd
-type: free
-title: urd
 reference_link: https://www.etymonline.com/word/urd
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: urd
+type: free
 word_sums:
-- sum: 'Urd + '
-  respelling: urd
+- respelling: urd
+  sum: 'Urd + '
 ---

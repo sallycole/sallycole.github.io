@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: year
-type: free
-title: year
 reference_link: https://www.etymonline.com/word/year
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: year
+type: free
 word_sums:
-- sum: 'Year + '
-  respelling: year
+- respelling: year
+  sum: 'Year + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: yuck
-type: free
-title: yuck
 reference_link: https://www.etymonline.com/word/yuck
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: yuck
+type: free
 word_sums:
-- sum: 'Yuck + '
-  respelling: yuck
+- respelling: yuck
+  sum: 'Yuck + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: ays
-type: free
-title: ays
 reference_link: https://www.etymonline.com/word/ays
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: ays
+type: free
 word_sums:
-- sum: 'Ays + '
-  respelling: ays
+- respelling: ays
+  sum: 'Ays + '
 ---

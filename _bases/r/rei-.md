@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: rei
-type: free
-title: rei
 reference_link: https://www.etymonline.com/word/rei
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: rei
+type: free
 word_sums:
-- sum: 'Rei + '
-  respelling: rei
+- respelling: rei
+  sum: 'Rei + '
 ---

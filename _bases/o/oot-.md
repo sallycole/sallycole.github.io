@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: oot
-type: free
-title: oot
 reference_link: https://www.etymonline.com/word/oot
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: oot
+type: free
 word_sums:
-- sum: 'Oot + '
-  respelling: oot
+- respelling: oot
+  sum: 'Oot + '
 ---

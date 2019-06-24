@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: mite
-type: free
-title: mite
 reference_link: https://www.etymonline.com/word/mite
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: mite
+type: free
 word_sums:
-- sum: 'Mite + '
-  respelling: mite
+- respelling: mite
+  sum: 'Mite + '
 ---

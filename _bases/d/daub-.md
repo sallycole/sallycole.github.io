@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: daub
-type: free
-title: daub
 reference_link: https://www.etymonline.com/word/daub
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: daub
+type: free
 word_sums:
-- sum: 'Daub + '
-  respelling: daub
+- respelling: daub
+  sum: 'Daub + '
 ---

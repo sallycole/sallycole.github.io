@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: mesh
-type: free
-title: mesh
 reference_link: https://www.etymonline.com/word/mesh
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: mesh
+type: free
 word_sums:
-- sum: 'Mesh + '
-  respelling: mesh
+- respelling: mesh
+  sum: 'Mesh + '
 ---

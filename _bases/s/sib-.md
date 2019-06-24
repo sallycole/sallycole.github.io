@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: sib
-type: free
-title: sib
 reference_link: https://www.etymonline.com/word/sib
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: sib
+type: free
 word_sums:
-- sum: 'Sib + '
-  respelling: sib
+- respelling: sib
+  sum: 'Sib + '
 ---

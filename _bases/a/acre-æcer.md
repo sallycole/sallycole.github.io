@@ -1,14 +1,15 @@
 ---
+category: 4-letters
+denotation: tilled field, open land
 name: acre
+reference_link: https://www.etymonline.com/word/acre
+root_language: Old English
+root_name: æcer
 title: acre
 type: free
-reference_link: https://www.etymonline.com/word/acre
-root_name: æcer
-root_language: Old English
-denotation: tilled field, open land
 word_sums:
-- sum: 'Acre + s'
-  respelling: acres
-- sum: 'Acre + age'
-  respelling: acreage
+- respelling: acres
+  sum: Acre + s
+- respelling: acreage
+  sum: Acre + age
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: king
-type: free
-title: king
 reference_link: https://www.etymonline.com/word/king
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: king
+type: free
 word_sums:
-- sum: 'King + '
-  respelling: king
+- respelling: king
+  sum: 'King + '
 ---

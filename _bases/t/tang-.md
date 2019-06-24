@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: tang
-type: free
-title: tang
 reference_link: https://www.etymonline.com/word/tang
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: tang
+type: free
 word_sums:
-- sum: 'Tang + '
-  respelling: tang
+- respelling: tang
+  sum: 'Tang + '
 ---

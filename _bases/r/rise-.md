@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: rise
-type: free
-title: rise
 reference_link: https://www.etymonline.com/word/rise
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: rise
+type: free
 word_sums:
-- sum: 'Rise + '
-  respelling: rise
+- respelling: rise
+  sum: 'Rise + '
 ---

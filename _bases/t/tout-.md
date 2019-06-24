@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: tout
-type: free
-title: tout
 reference_link: https://www.etymonline.com/word/tout
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: tout
+type: free
 word_sums:
-- sum: 'Tout + '
-  respelling: tout
+- respelling: tout
+  sum: 'Tout + '
 ---

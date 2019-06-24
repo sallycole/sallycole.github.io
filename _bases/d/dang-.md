@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: dang
-type: free
-title: dang
 reference_link: https://www.etymonline.com/word/dang
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: dang
+type: free
 word_sums:
-- sum: 'Dang + '
-  respelling: dang
+- respelling: dang
+  sum: 'Dang + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: jack
-type: free
-title: jack
 reference_link: https://www.etymonline.com/word/jack
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: jack
+type: free
 word_sums:
-- sum: 'Jack + '
-  respelling: jack
+- respelling: jack
+  sum: 'Jack + '
 ---

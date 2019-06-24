@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: pye
-type: free
-title: pye
 reference_link: https://www.etymonline.com/word/pye
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: pye
+type: free
 word_sums:
-- sum: 'Pye + '
-  respelling: pye
+- respelling: pye
+  sum: 'Pye + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: pry
-type: free
-title: pry
 reference_link: https://www.etymonline.com/word/pry
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: pry
+type: free
 word_sums:
-- sum: 'Pry + '
-  respelling: pry
+- respelling: pry
+  sum: 'Pry + '
 ---

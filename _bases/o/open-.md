@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: open
-type: free
-title: open
 reference_link: https://www.etymonline.com/word/open
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: open
+type: free
 word_sums:
-- sum: 'Open + '
-  respelling: open
+- respelling: open
+  sum: 'Open + '
 ---

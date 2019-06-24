@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: pouf
-type: free
-title: pouf
 reference_link: https://www.etymonline.com/word/pouf
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: pouf
+type: free
 word_sums:
-- sum: 'Pouf + '
-  respelling: pouf
+- respelling: pouf
+  sum: 'Pouf + '
 ---

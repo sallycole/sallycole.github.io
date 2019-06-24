@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: dork
-type: free
-title: dork
 reference_link: https://www.etymonline.com/word/dork
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: dork
+type: free
 word_sums:
-- sum: 'Dork + '
-  respelling: dork
+- respelling: dork
+  sum: 'Dork + '
 ---

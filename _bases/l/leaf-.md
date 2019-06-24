@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: leaf
-type: free
-title: leaf
 reference_link: https://www.etymonline.com/word/leaf
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: leaf
+type: free
 word_sums:
-- sum: 'Leaf + '
-  respelling: leaf
+- respelling: leaf
+  sum: 'Leaf + '
 ---

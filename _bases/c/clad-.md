@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: clad
-type: free
-title: clad
 reference_link: https://www.etymonline.com/word/clad
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: clad
+type: free
 word_sums:
-- sum: 'Clad + '
-  respelling: clad
+- respelling: clad
+  sum: 'Clad + '
 ---

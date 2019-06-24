@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: yew
-type: free
-title: yew
 reference_link: https://www.etymonline.com/word/yew
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: yew
+type: free
 word_sums:
-- sum: 'Yew + '
-  respelling: yew
+- respelling: yew
+  sum: 'Yew + '
 ---

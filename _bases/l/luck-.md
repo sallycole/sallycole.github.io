@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: luck
-type: free
-title: luck
 reference_link: https://www.etymonline.com/word/luck
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: luck
+type: free
 word_sums:
-- sum: 'Luck + '
-  respelling: luck
+- respelling: luck
+  sum: 'Luck + '
 ---

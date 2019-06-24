@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: mare
-type: free
-title: mare
 reference_link: https://www.etymonline.com/word/mare
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: mare
+type: free
 word_sums:
-- sum: 'Mare + '
-  respelling: mare
+- respelling: mare
+  sum: 'Mare + '
 ---

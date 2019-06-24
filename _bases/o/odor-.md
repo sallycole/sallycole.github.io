@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: odor
-type: free
-title: odor
 reference_link: https://www.etymonline.com/word/odor
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: odor
+type: free
 word_sums:
-- sum: 'Odor + '
-  respelling: odor
+- respelling: odor
+  sum: 'Odor + '
 ---

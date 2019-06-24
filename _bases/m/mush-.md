@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: mush
-type: free
-title: mush
 reference_link: https://www.etymonline.com/word/mush
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: mush
+type: free
 word_sums:
-- sum: 'Mush + '
-  respelling: mush
+- respelling: mush
+  sum: 'Mush + '
 ---

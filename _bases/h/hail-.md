@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: hail
-type: free
-title: hail
 reference_link: https://www.etymonline.com/word/hail
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: hail
+type: free
 word_sums:
-- sum: 'Hail + '
-  respelling: hail
+- respelling: hail
+  sum: 'Hail + '
 ---

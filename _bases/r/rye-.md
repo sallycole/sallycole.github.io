@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: rye
-type: free
-title: rye
 reference_link: https://www.etymonline.com/word/rye
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: rye
+type: free
 word_sums:
-- sum: 'Rye + '
-  respelling: rye
+- respelling: rye
+  sum: 'Rye + '
 ---

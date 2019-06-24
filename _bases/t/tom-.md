@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: tom
-type: free
-title: tom
 reference_link: https://www.etymonline.com/word/tom
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: tom
+type: free
 word_sums:
-- sum: 'Tom + '
-  respelling: tom
+- respelling: tom
+  sum: 'Tom + '
 ---

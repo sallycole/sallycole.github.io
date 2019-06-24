@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: sent
-type: free
-title: sent
 reference_link: https://www.etymonline.com/word/sent
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: sent
+type: free
 word_sums:
-- sum: 'Sent + '
-  respelling: sent
+- respelling: sent
+  sum: 'Sent + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: fiat
-type: free
-title: fiat
 reference_link: https://www.etymonline.com/word/fiat
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: fiat
+type: free
 word_sums:
-- sum: 'Fiat + '
-  respelling: fiat
+- respelling: fiat
+  sum: 'Fiat + '
 ---

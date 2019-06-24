@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: mask
-type: free
-title: mask
 reference_link: https://www.etymonline.com/word/mask
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: mask
+type: free
 word_sums:
-- sum: 'Mask + '
-  respelling: mask
+- respelling: mask
+  sum: 'Mask + '
 ---

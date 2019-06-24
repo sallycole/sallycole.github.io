@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: snow
-type: free
-title: snow
 reference_link: https://www.etymonline.com/word/snow
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: snow
+type: free
 word_sums:
-- sum: 'Snow + '
-  respelling: snow
+- respelling: snow
+  sum: 'Snow + '
 ---

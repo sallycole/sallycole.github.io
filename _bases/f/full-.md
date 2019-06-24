@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: full
-type: free
-title: full
 reference_link: https://www.etymonline.com/word/full
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: full
+type: free
 word_sums:
-- sum: 'Full + '
-  respelling: full
+- respelling: full
+  sum: 'Full + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: soap
-type: free
-title: soap
 reference_link: https://www.etymonline.com/word/soap
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: soap
+type: free
 word_sums:
-- sum: 'Soap + '
-  respelling: soap
+- respelling: soap
+  sum: 'Soap + '
 ---

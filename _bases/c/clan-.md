@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: clan
-type: free
-title: clan
 reference_link: https://www.etymonline.com/word/clan
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: clan
+type: free
 word_sums:
-- sum: 'Clan + '
-  respelling: clan
+- respelling: clan
+  sum: 'Clan + '
 ---

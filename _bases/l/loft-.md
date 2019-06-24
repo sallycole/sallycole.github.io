@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: loft
-type: free
-title: loft
 reference_link: https://www.etymonline.com/word/loft
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: loft
+type: free
 word_sums:
-- sum: 'Loft + '
-  respelling: loft
+- respelling: loft
+  sum: 'Loft + '
 ---

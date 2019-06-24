@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: peel
-type: free
-title: peel
 reference_link: https://www.etymonline.com/word/peel
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: peel
+type: free
 word_sums:
-- sum: 'Peel + '
-  respelling: peel
+- respelling: peel
+  sum: 'Peel + '
 ---

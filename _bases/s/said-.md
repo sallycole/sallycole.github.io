@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: said
-type: free
-title: said
 reference_link: https://www.etymonline.com/word/said
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: said
+type: free
 word_sums:
-- sum: 'Said + '
-  respelling: said
+- respelling: said
+  sum: 'Said + '
 ---

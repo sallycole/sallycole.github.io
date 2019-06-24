@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: ship
-type: free
-title: ship
 reference_link: https://www.etymonline.com/word/ship
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: ship
+type: free
 word_sums:
-- sum: 'Ship + '
-  respelling: ship
+- respelling: ship
+  sum: 'Ship + '
 ---

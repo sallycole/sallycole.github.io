@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: mix
-type: free
-title: mix
 reference_link: https://www.etymonline.com/word/mix
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: mix
+type: free
 word_sums:
-- sum: 'Mix + '
-  respelling: mix
+- respelling: mix
+  sum: 'Mix + '
 ---

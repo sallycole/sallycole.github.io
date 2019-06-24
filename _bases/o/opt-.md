@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: opt
-type: free
-title: opt
 reference_link: https://www.etymonline.com/word/opt
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: opt
+type: free
 word_sums:
-- sum: 'Opt + '
-  respelling: opt
+- respelling: opt
+  sum: 'Opt + '
 ---

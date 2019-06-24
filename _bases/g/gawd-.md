@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: gawd
-type: free
-title: gawd
 reference_link: https://www.etymonline.com/word/gawd
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: gawd
+type: free
 word_sums:
-- sum: 'Gawd + '
-  respelling: gawd
+- respelling: gawd
+  sum: 'Gawd + '
 ---

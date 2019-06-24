@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: gall
-type: free
-title: gall
 reference_link: https://www.etymonline.com/word/gall
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: gall
+type: free
 word_sums:
-- sum: 'Gall + '
-  respelling: gall
+- respelling: gall
+  sum: 'Gall + '
 ---

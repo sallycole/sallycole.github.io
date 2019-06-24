@@ -1,18 +1,19 @@
 ---
+category: 4-letters
+denotation: before
 name: ante
+reference_link: https://www.etymonline.com/word/ante
+root_language: Latin
+root_name: ante
 title: ante
 type: free
-reference_link: https://www.etymonline.com/word/ante
-root_name: ante
-root_language: Latin
-denotation: before
 word_sums:
-- sum: 'Ante'
-  respelling: ante
-- sum: 'Ante + ed'
-  respelling: anteed
-- sum: 'Ante + ing'
-  respelling: anteing
-- sum: 'Ante + s'
-  respelling: antes
+- respelling: ante
+  sum: Ante
+- respelling: anteed
+  sum: Ante + ed
+- respelling: anteing
+  sum: Ante + ing
+- respelling: antes
+  sum: Ante + s
 ---

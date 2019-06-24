@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: cult
-type: free
-title: cult
 reference_link: https://www.etymonline.com/word/cult
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: cult
+type: free
 word_sums:
-- sum: 'Cult + '
-  respelling: cult
+- respelling: cult
+  sum: 'Cult + '
 ---

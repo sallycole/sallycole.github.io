@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: mind
-type: free
-title: mind
 reference_link: https://www.etymonline.com/word/mind
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: mind
+type: free
 word_sums:
-- sum: 'Mind + '
-  respelling: mind
+- respelling: mind
+  sum: 'Mind + '
 ---

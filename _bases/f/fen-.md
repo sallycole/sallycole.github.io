@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: fen
-type: free
-title: fen
 reference_link: https://www.etymonline.com/word/fen
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: fen
+type: free
 word_sums:
-- sum: 'Fen + '
-  respelling: fen
+- respelling: fen
+  sum: 'Fen + '
 ---

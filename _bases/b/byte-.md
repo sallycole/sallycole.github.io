@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: byte
-type: free
-title: byte
 reference_link: https://www.etymonline.com/word/byte
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: byte
+type: free
 word_sums:
-- sum: 'Byte + '
-  respelling: byte
+- respelling: byte
+  sum: 'Byte + '
 ---

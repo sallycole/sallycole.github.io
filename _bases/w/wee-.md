@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: wee
-type: free
-title: wee
 reference_link: https://www.etymonline.com/word/wee
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: wee
+type: free
 word_sums:
-- sum: 'Wee + '
-  respelling: wee
+- respelling: wee
+  sum: 'Wee + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: toga
-type: free
-title: toga
 reference_link: https://www.etymonline.com/word/toga
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: toga
+type: free
 word_sums:
-- sum: 'Toga + '
-  respelling: toga
+- respelling: toga
+  sum: 'Toga + '
 ---

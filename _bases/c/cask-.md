@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: cask
-type: free
-title: cask
 reference_link: https://www.etymonline.com/word/cask
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: cask
+type: free
 word_sums:
-- sum: 'Cask + '
-  respelling: cask
+- respelling: cask
+  sum: 'Cask + '
 ---

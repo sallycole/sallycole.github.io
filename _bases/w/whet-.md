@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: whet
-type: free
-title: whet
 reference_link: https://www.etymonline.com/word/whet
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: whet
+type: free
 word_sums:
-- sum: 'Whet + '
-  respelling: whet
+- respelling: whet
+  sum: 'Whet + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: duel
-type: free
-title: duel
 reference_link: https://www.etymonline.com/word/duel
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: duel
+type: free
 word_sums:
-- sum: 'Duel + '
-  respelling: duel
+- respelling: duel
+  sum: 'Duel + '
 ---

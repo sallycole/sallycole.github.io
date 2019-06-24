@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: gawp
-type: free
-title: gawp
 reference_link: https://www.etymonline.com/word/gawp
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: gawp
+type: free
 word_sums:
-- sum: 'Gawp + '
-  respelling: gawp
+- respelling: gawp
+  sum: 'Gawp + '
 ---

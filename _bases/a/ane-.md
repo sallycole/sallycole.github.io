@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: ane
-type: free
-title: ane
 reference_link: https://www.etymonline.com/word/ane
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: ane
+type: free
 word_sums:
-- sum: 'Ane + '
-  respelling: ane
+- respelling: ane
+  sum: 'Ane + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: sane
-type: free
-title: sane
 reference_link: https://www.etymonline.com/word/sane
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: sane
+type: free
 word_sums:
-- sum: 'Sane + '
-  respelling: sane
+- respelling: sane
+  sum: 'Sane + '
 ---

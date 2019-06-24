@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: glow
-type: free
-title: glow
 reference_link: https://www.etymonline.com/word/glow
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: glow
+type: free
 word_sums:
-- sum: 'Glow + '
-  respelling: glow
+- respelling: glow
+  sum: 'Glow + '
 ---

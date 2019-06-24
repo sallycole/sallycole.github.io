@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: fub
-type: free
-title: fub
 reference_link: https://www.etymonline.com/word/fub
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: fub
+type: free
 word_sums:
-- sum: 'Fub + '
-  respelling: fub
+- respelling: fub
+  sum: 'Fub + '
 ---

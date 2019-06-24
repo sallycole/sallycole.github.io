@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: lute
-type: free
-title: lute
 reference_link: https://www.etymonline.com/word/lute
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: lute
+type: free
 word_sums:
-- sum: 'Lute + '
-  respelling: lute
+- respelling: lute
+  sum: 'Lute + '
 ---

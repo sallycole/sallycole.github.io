@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: neb
-type: free
-title: neb
 reference_link: https://www.etymonline.com/word/neb
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: neb
+type: free
 word_sums:
-- sum: 'Neb + '
-  respelling: neb
+- respelling: neb
+  sum: 'Neb + '
 ---

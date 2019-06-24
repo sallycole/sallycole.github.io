@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: kob
-type: free
-title: kob
 reference_link: https://www.etymonline.com/word/kob
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: kob
+type: free
 word_sums:
-- sum: 'Kob + '
-  respelling: kob
+- respelling: kob
+  sum: 'Kob + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: coil
-type: free
-title: coil
 reference_link: https://www.etymonline.com/word/coil
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: coil
+type: free
 word_sums:
-- sum: 'Coil + '
-  respelling: coil
+- respelling: coil
+  sum: 'Coil + '
 ---

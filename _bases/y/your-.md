@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: your
-type: free
-title: your
 reference_link: https://www.etymonline.com/word/your
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: your
+type: free
 word_sums:
-- sum: 'Your + '
-  respelling: your
+- respelling: your
+  sum: 'Your + '
 ---

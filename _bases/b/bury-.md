@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: bury
-type: free
-title: bury
 reference_link: https://www.etymonline.com/word/bury
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: bury
+type: free
 word_sums:
-- sum: 'Bury + '
-  respelling: bury
+- respelling: bury
+  sum: 'Bury + '
 ---

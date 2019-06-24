@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: just
-type: free
-title: just
 reference_link: https://www.etymonline.com/word/just
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: just
+type: free
 word_sums:
-- sum: 'Just + '
-  respelling: just
+- respelling: just
+  sum: 'Just + '
 ---

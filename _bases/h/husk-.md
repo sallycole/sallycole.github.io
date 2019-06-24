@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: husk
-type: free
-title: husk
 reference_link: https://www.etymonline.com/word/husk
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: husk
+type: free
 word_sums:
-- sum: 'Husk + '
-  respelling: husk
+- respelling: husk
+  sum: 'Husk + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: gap
-type: free
-title: gap
 reference_link: https://www.etymonline.com/word/gap
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: gap
+type: free
 word_sums:
-- sum: 'Gap + '
-  respelling: gap
+- respelling: gap
+  sum: 'Gap + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: oval
-type: free
-title: oval
 reference_link: https://www.etymonline.com/word/oval
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: oval
+type: free
 word_sums:
-- sum: 'Oval + '
-  respelling: oval
+- respelling: oval
+  sum: 'Oval + '
 ---

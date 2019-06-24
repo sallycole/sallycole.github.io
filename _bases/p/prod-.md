@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: prod
-type: free
-title: prod
 reference_link: https://www.etymonline.com/word/prod
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: prod
+type: free
 word_sums:
-- sum: 'Prod + '
-  respelling: prod
+- respelling: prod
+  sum: 'Prod + '
 ---

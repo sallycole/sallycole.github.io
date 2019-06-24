@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: fro
-type: free
-title: fro
 reference_link: https://www.etymonline.com/word/fro
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: fro
+type: free
 word_sums:
-- sum: 'Fro + '
-  respelling: fro
+- respelling: fro
+  sum: 'Fro + '
 ---

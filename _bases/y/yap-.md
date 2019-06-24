@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: yap
-type: free
-title: yap
 reference_link: https://www.etymonline.com/word/yap
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: yap
+type: free
 word_sums:
-- sum: 'Yap + '
-  respelling: yap
+- respelling: yap
+  sum: 'Yap + '
 ---

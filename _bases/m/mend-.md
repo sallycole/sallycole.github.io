@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: mend
-type: free
-title: mend
 reference_link: https://www.etymonline.com/word/mend
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: mend
+type: free
 word_sums:
-- sum: 'Mend + '
-  respelling: mend
+- respelling: mend
+  sum: 'Mend + '
 ---

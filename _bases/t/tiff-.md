@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: tiff
-type: free
-title: tiff
 reference_link: https://www.etymonline.com/word/tiff
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: tiff
+type: free
 word_sums:
-- sum: 'Tiff + '
-  respelling: tiff
+- respelling: tiff
+  sum: 'Tiff + '
 ---

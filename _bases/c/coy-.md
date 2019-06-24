@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: coy
-type: free
-title: coy
 reference_link: https://www.etymonline.com/word/coy
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: coy
+type: free
 word_sums:
-- sum: 'Coy + '
-  respelling: coy
+- respelling: coy
+  sum: 'Coy + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: ism
-type: free
-title: ism
 reference_link: https://www.etymonline.com/word/ism
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: ism
+type: free
 word_sums:
-- sum: 'Ism + '
-  respelling: ism
+- respelling: ism
+  sum: 'Ism + '
 ---

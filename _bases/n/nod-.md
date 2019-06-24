@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: nod
-type: free
-title: nod
 reference_link: https://www.etymonline.com/word/nod
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: nod
+type: free
 word_sums:
-- sum: 'Nod + '
-  respelling: nod
+- respelling: nod
+  sum: 'Nod + '
 ---

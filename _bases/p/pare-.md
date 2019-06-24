@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: pare
-type: free
-title: pare
 reference_link: https://www.etymonline.com/word/pare
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: pare
+type: free
 word_sums:
-- sum: 'Pare + '
-  respelling: pare
+- respelling: pare
+  sum: 'Pare + '
 ---

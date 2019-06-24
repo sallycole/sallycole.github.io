@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: rin
-type: free
-title: rin
 reference_link: https://www.etymonline.com/word/rin
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: rin
+type: free
 word_sums:
-- sum: 'Rin + '
-  respelling: rin
+- respelling: rin
+  sum: 'Rin + '
 ---

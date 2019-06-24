@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: ser
-type: free
-title: ser
 reference_link: https://www.etymonline.com/word/ser
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: ser
+type: free
 word_sums:
-- sum: 'Ser + '
-  respelling: ser
+- respelling: ser
+  sum: 'Ser + '
 ---

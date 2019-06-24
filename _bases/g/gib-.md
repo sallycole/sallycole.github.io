@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: gib
-type: free
-title: gib
 reference_link: https://www.etymonline.com/word/gib
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: gib
+type: free
 word_sums:
-- sum: 'Gib + '
-  respelling: gib
+- respelling: gib
+  sum: 'Gib + '
 ---

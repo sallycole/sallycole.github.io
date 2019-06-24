@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: gain
-type: free
-title: gain
 reference_link: https://www.etymonline.com/word/gain
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: gain
+type: free
 word_sums:
-- sum: 'Gain + '
-  respelling: gain
+- respelling: gain
+  sum: 'Gain + '
 ---

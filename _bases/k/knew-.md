@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: knew
-type: free
-title: knew
 reference_link: https://www.etymonline.com/word/knew
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: knew
+type: free
 word_sums:
-- sum: 'Knew + '
-  respelling: knew
+- respelling: knew
+  sum: 'Knew + '
 ---

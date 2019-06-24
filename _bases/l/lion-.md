@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: lion
-type: free
-title: lion
 reference_link: https://www.etymonline.com/word/lion
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: lion
+type: free
 word_sums:
-- sum: 'Lion + '
-  respelling: lion
+- respelling: lion
+  sum: 'Lion + '
 ---

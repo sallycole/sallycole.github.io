@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: red
-type: free
-title: red
 reference_link: https://www.etymonline.com/word/red
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: red
+type: free
 word_sums:
-- sum: 'Red + '
-  respelling: red
+- respelling: red
+  sum: 'Red + '
 ---

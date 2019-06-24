@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: keg
-type: free
-title: keg
 reference_link: https://www.etymonline.com/word/keg
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: keg
+type: free
 word_sums:
-- sum: 'Keg + '
-  respelling: keg
+- respelling: keg
+  sum: 'Keg + '
 ---

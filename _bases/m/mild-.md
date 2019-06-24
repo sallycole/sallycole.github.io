@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: mild
-type: free
-title: mild
 reference_link: https://www.etymonline.com/word/mild
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: mild
+type: free
 word_sums:
-- sum: 'Mild + '
-  respelling: mild
+- respelling: mild
+  sum: 'Mild + '
 ---

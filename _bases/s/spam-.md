@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: spam
-type: free
-title: spam
 reference_link: https://www.etymonline.com/word/spam
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: spam
+type: free
 word_sums:
-- sum: 'Spam + '
-  respelling: spam
+- respelling: spam
+  sum: 'Spam + '
 ---

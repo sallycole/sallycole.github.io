@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: big
-type: free
-title: big
 reference_link: https://www.etymonline.com/word/big
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: big
+type: free
 word_sums:
-- sum: 'Big + '
-  respelling: big
+- respelling: big
+  sum: 'Big + '
 ---

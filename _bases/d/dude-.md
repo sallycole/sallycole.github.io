@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: dude
-type: free
-title: dude
 reference_link: https://www.etymonline.com/word/dude
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: dude
+type: free
 word_sums:
-- sum: 'Dude + '
-  respelling: dude
+- respelling: dude
+  sum: 'Dude + '
 ---

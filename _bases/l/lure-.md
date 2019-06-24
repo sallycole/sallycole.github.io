@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: lure
-type: free
-title: lure
 reference_link: https://www.etymonline.com/word/lure
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: lure
+type: free
 word_sums:
-- sum: 'Lure + '
-  respelling: lure
+- respelling: lure
+  sum: 'Lure + '
 ---

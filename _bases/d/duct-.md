@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: duct
-type: free
-title: duct
 reference_link: https://www.etymonline.com/word/duct
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: duct
+type: free
 word_sums:
-- sum: 'Duct + '
-  respelling: duct
+- respelling: duct
+  sum: 'Duct + '
 ---

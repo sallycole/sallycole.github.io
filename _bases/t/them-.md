@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: them
-type: free
-title: them
 reference_link: https://www.etymonline.com/word/them
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: them
+type: free
 word_sums:
-- sum: 'Them + '
-  respelling: them
+- respelling: them
+  sum: 'Them + '
 ---

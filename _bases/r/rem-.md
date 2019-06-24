@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: rem
-type: free
-title: rem
 reference_link: https://www.etymonline.com/word/rem
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: rem
+type: free
 word_sums:
-- sum: 'Rem + '
-  respelling: rem
+- respelling: rem
+  sum: 'Rem + '
 ---

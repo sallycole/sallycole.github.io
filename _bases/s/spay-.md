@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: spay
-type: free
-title: spay
 reference_link: https://www.etymonline.com/word/spay
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: spay
+type: free
 word_sums:
-- sum: 'Spay + '
-  respelling: spay
+- respelling: spay
+  sum: 'Spay + '
 ---

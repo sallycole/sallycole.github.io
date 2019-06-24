@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: ugh
-type: free
-title: ugh
 reference_link: https://www.etymonline.com/word/ugh
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: ugh
+type: free
 word_sums:
-- sum: 'Ugh + '
-  respelling: ugh
+- respelling: ugh
+  sum: 'Ugh + '
 ---

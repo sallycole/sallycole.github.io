@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: lime
-type: free
-title: lime
 reference_link: https://www.etymonline.com/word/lime
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: lime
+type: free
 word_sums:
-- sum: 'Lime + '
-  respelling: lime
+- respelling: lime
+  sum: 'Lime + '
 ---

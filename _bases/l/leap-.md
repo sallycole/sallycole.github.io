@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: leap
-type: free
-title: leap
 reference_link: https://www.etymonline.com/word/leap
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: leap
+type: free
 word_sums:
-- sum: 'Leap + '
-  respelling: leap
+- respelling: leap
+  sum: 'Leap + '
 ---

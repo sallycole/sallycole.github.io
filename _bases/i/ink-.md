@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: ink
-type: free
-title: ink
 reference_link: https://www.etymonline.com/word/ink
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: ink
+type: free
 word_sums:
-- sum: 'Ink + '
-  respelling: ink
+- respelling: ink
+  sum: 'Ink + '
 ---

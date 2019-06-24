@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: frat
-type: free
-title: frat
 reference_link: https://www.etymonline.com/word/frat
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: frat
+type: free
 word_sums:
-- sum: 'Frat + '
-  respelling: frat
+- respelling: frat
+  sum: 'Frat + '
 ---

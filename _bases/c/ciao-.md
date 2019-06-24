@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: ciao
-type: free
-title: ciao
 reference_link: https://www.etymonline.com/word/ciao
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: ciao
+type: free
 word_sums:
-- sum: 'Ciao + '
-  respelling: ciao
+- respelling: ciao
+  sum: 'Ciao + '
 ---

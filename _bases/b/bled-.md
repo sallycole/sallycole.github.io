@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: bled
-type: free
-title: bled
 reference_link: https://www.etymonline.com/word/bled
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: bled
+type: free
 word_sums:
-- sum: 'Bled + '
-  respelling: bled
+- respelling: bled
+  sum: 'Bled + '
 ---

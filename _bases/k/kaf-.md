@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: kaf
-type: free
-title: kaf
 reference_link: https://www.etymonline.com/word/kaf
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: kaf
+type: free
 word_sums:
-- sum: 'Kaf + '
-  respelling: kaf
+- respelling: kaf
+  sum: 'Kaf + '
 ---

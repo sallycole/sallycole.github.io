@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: gore
-type: free
-title: gore
 reference_link: https://www.etymonline.com/word/gore
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: gore
+type: free
 word_sums:
-- sum: 'Gore + '
-  respelling: gore
+- respelling: gore
+  sum: 'Gore + '
 ---

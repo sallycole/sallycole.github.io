@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: pomp
-type: free
-title: pomp
 reference_link: https://www.etymonline.com/word/pomp
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: pomp
+type: free
 word_sums:
-- sum: 'Pomp + '
-  respelling: pomp
+- respelling: pomp
+  sum: 'Pomp + '
 ---

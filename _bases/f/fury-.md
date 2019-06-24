@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: fury
-type: free
-title: fury
 reference_link: https://www.etymonline.com/word/fury
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: fury
+type: free
 word_sums:
-- sum: 'Fury + '
-  respelling: fury
+- respelling: fury
+  sum: 'Fury + '
 ---

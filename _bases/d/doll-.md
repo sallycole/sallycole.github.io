@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: doll
-type: free
-title: doll
 reference_link: https://www.etymonline.com/word/doll
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: doll
+type: free
 word_sums:
-- sum: 'Doll + '
-  respelling: doll
+- respelling: doll
+  sum: 'Doll + '
 ---

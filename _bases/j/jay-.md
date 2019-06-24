@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: jay
-type: free
-title: jay
 reference_link: https://www.etymonline.com/word/jay
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: jay
+type: free
 word_sums:
-- sum: 'Jay + '
-  respelling: jay
+- respelling: jay
+  sum: 'Jay + '
 ---

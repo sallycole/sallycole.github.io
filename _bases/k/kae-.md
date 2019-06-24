@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: kae
-type: free
-title: kae
 reference_link: https://www.etymonline.com/word/kae
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: kae
+type: free
 word_sums:
-- sum: 'Kae + '
-  respelling: kae
+- respelling: kae
+  sum: 'Kae + '
 ---

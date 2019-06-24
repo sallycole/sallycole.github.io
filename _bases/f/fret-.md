@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: fret
-type: free
-title: fret
 reference_link: https://www.etymonline.com/word/fret
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: fret
+type: free
 word_sums:
-- sum: 'Fret + '
-  respelling: fret
+- respelling: fret
+  sum: 'Fret + '
 ---

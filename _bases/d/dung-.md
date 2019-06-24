@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: dung
-type: free
-title: dung
 reference_link: https://www.etymonline.com/word/dung
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: dung
+type: free
 word_sums:
-- sum: 'Dung + '
-  respelling: dung
+- respelling: dung
+  sum: 'Dung + '
 ---

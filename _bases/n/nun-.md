@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: nun
-type: free
-title: nun
 reference_link: https://www.etymonline.com/word/nun
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: nun
+type: free
 word_sums:
-- sum: 'Nun + '
-  respelling: nun
+- respelling: nun
+  sum: 'Nun + '
 ---

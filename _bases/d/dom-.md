@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: dom
-type: free
-title: dom
 reference_link: https://www.etymonline.com/word/dom
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: dom
+type: free
 word_sums:
-- sum: 'Dom + '
-  respelling: dom
+- respelling: dom
+  sum: 'Dom + '
 ---

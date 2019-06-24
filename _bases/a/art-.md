@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: art
-type: free
-title: art
 reference_link: https://www.etymonline.com/word/art
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: art
+type: free
 word_sums:
-- sum: 'Art + '
-  respelling: art
+- respelling: art
+  sum: 'Art + '
 ---

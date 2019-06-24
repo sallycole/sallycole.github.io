@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: busy
-type: free
-title: busy
 reference_link: https://www.etymonline.com/word/busy
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: busy
+type: free
 word_sums:
-- sum: 'Busy + '
-  respelling: busy
+- respelling: busy
+  sum: 'Busy + '
 ---

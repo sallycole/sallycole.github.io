@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: owe
-type: free
-title: owe
 reference_link: https://www.etymonline.com/word/owe
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: owe
+type: free
 word_sums:
-- sum: 'Owe + '
-  respelling: owe
+- respelling: owe
+  sum: 'Owe + '
 ---

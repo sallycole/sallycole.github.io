@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: out
-type: free
-title: out
 reference_link: https://www.etymonline.com/word/out
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: out
+type: free
 word_sums:
-- sum: 'Out + '
-  respelling: out
+- respelling: out
+  sum: 'Out + '
 ---

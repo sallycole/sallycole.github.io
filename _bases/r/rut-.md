@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: rut
-type: free
-title: rut
 reference_link: https://www.etymonline.com/word/rut
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: rut
+type: free
 word_sums:
-- sum: 'Rut + '
-  respelling: rut
+- respelling: rut
+  sum: 'Rut + '
 ---

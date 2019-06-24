@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: cam
-type: free
-title: cam
 reference_link: https://www.etymonline.com/word/cam
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: cam
+type: free
 word_sums:
-- sum: 'Cam + '
-  respelling: cam
+- respelling: cam
+  sum: 'Cam + '
 ---

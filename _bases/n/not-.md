@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: not
-type: free
-title: not
 reference_link: https://www.etymonline.com/word/not
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: not
+type: free
 word_sums:
-- sum: 'Not + '
-  respelling: not
+- respelling: not
+  sum: 'Not + '
 ---

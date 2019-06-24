@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: feta
-type: free
-title: feta
 reference_link: https://www.etymonline.com/word/feta
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: feta
+type: free
 word_sums:
-- sum: 'Feta + '
-  respelling: feta
+- respelling: feta
+  sum: 'Feta + '
 ---

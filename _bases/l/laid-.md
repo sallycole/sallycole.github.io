@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: laid
-type: free
-title: laid
 reference_link: https://www.etymonline.com/word/laid
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: laid
+type: free
 word_sums:
-- sum: 'Laid + '
-  respelling: laid
+- respelling: laid
+  sum: 'Laid + '
 ---

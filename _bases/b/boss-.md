@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: boss
-type: free
-title: boss
 reference_link: https://www.etymonline.com/word/boss
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: boss
+type: free
 word_sums:
-- sum: 'Boss + '
-  respelling: boss
+- respelling: boss
+  sum: 'Boss + '
 ---

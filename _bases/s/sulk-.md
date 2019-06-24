@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: sulk
-type: free
-title: sulk
 reference_link: https://www.etymonline.com/word/sulk
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: sulk
+type: free
 word_sums:
-- sum: 'Sulk + '
-  respelling: sulk
+- respelling: sulk
+  sum: 'Sulk + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: warm
-type: free
-title: warm
 reference_link: https://www.etymonline.com/word/warm
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: warm
+type: free
 word_sums:
-- sum: 'Warm + '
-  respelling: warm
+- respelling: warm
+  sum: 'Warm + '
 ---

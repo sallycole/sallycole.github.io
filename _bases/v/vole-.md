@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: vole
-type: free
-title: vole
 reference_link: https://www.etymonline.com/word/vole
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: vole
+type: free
 word_sums:
-- sum: 'Vole + '
-  respelling: vole
+- respelling: vole
+  sum: 'Vole + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: self
-type: free
-title: self
 reference_link: https://www.etymonline.com/word/self
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: self
+type: free
 word_sums:
-- sum: 'Self + '
-  respelling: self
+- respelling: self
+  sum: 'Self + '
 ---

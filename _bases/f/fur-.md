@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: fur
-type: free
-title: fur
 reference_link: https://www.etymonline.com/word/fur
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: fur
+type: free
 word_sums:
-- sum: 'Fur + '
-  respelling: fur
+- respelling: fur
+  sum: 'Fur + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: blab
-type: free
-title: blab
 reference_link: https://www.etymonline.com/word/blab
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: blab
+type: free
 word_sums:
-- sum: 'Blab + '
-  respelling: blab
+- respelling: blab
+  sum: 'Blab + '
 ---

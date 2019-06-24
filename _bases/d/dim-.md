@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: dim
-type: free
-title: dim
 reference_link: https://www.etymonline.com/word/dim
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: dim
+type: free
 word_sums:
-- sum: 'Dim + '
-  respelling: dim
+- respelling: dim
+  sum: 'Dim + '
 ---

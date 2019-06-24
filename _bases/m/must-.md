@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: must
-type: free
-title: must
 reference_link: https://www.etymonline.com/word/must
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: must
+type: free
 word_sums:
-- sum: 'Must + '
-  respelling: must
+- respelling: must
+  sum: 'Must + '
 ---

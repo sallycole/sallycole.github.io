@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: brae
-type: free
-title: brae
 reference_link: https://www.etymonline.com/word/brae
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: brae
+type: free
 word_sums:
-- sum: 'Brae + '
-  respelling: brae
+- respelling: brae
+  sum: 'Brae + '
 ---

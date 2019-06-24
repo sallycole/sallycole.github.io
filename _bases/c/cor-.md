@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: cor
-type: free
-title: cor
 reference_link: https://www.etymonline.com/word/cor
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: cor
+type: free
 word_sums:
-- sum: 'Cor + '
-  respelling: cor
+- respelling: cor
+  sum: 'Cor + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: wall
-type: free
-title: wall
 reference_link: https://www.etymonline.com/word/wall
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: wall
+type: free
 word_sums:
-- sum: 'Wall + '
-  respelling: wall
+- respelling: wall
+  sum: 'Wall + '
 ---

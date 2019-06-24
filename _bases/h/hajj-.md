@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: hajj
-type: free
-title: hajj
 reference_link: https://www.etymonline.com/word/hajj
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: hajj
+type: free
 word_sums:
-- sum: 'Hajj + '
-  respelling: hajj
+- respelling: hajj
+  sum: 'Hajj + '
 ---

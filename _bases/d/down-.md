@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: down
-type: free
-title: down
 reference_link: https://www.etymonline.com/word/down
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: down
+type: free
 word_sums:
-- sum: 'Down + '
-  respelling: down
+- respelling: down
+  sum: 'Down + '
 ---

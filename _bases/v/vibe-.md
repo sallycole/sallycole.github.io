@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: vibe
-type: free
-title: vibe
 reference_link: https://www.etymonline.com/word/vibe
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: vibe
+type: free
 word_sums:
-- sum: 'Vibe + '
-  respelling: vibe
+- respelling: vibe
+  sum: 'Vibe + '
 ---

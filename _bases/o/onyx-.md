@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: onyx
-type: free
-title: onyx
 reference_link: https://www.etymonline.com/word/onyx
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: onyx
+type: free
 word_sums:
-- sum: 'Onyx + '
-  respelling: onyx
+- respelling: onyx
+  sum: 'Onyx + '
 ---

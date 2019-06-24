@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: poi
-type: free
-title: poi
 reference_link: https://www.etymonline.com/word/poi
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: poi
+type: free
 word_sums:
-- sum: 'Poi + '
-  respelling: poi
+- respelling: poi
+  sum: 'Poi + '
 ---

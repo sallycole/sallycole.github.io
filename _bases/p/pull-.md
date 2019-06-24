@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: pull
-type: free
-title: pull
 reference_link: https://www.etymonline.com/word/pull
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: pull
+type: free
 word_sums:
-- sum: 'Pull + '
-  respelling: pull
+- respelling: pull
+  sum: 'Pull + '
 ---

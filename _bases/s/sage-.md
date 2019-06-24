@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: sage
-type: free
-title: sage
 reference_link: https://www.etymonline.com/word/sage
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: sage
+type: free
 word_sums:
-- sum: 'Sage + '
-  respelling: sage
+- respelling: sage
+  sum: 'Sage + '
 ---

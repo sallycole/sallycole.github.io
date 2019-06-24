@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: ale
-type: free
-title: ale
 reference_link: https://www.etymonline.com/word/ale
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: ale
+type: free
 word_sums:
-- sum: 'Ale + '
-  respelling: ale
+- respelling: ale
+  sum: 'Ale + '
 ---

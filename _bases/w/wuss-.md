@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: wuss
-type: free
-title: wuss
 reference_link: https://www.etymonline.com/word/wuss
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: wuss
+type: free
 word_sums:
-- sum: 'Wuss + '
-  respelling: wuss
+- respelling: wuss
+  sum: 'Wuss + '
 ---

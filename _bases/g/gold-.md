@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: gold
-type: free
-title: gold
 reference_link: https://www.etymonline.com/word/gold
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: gold
+type: free
 word_sums:
-- sum: 'Gold + '
-  respelling: gold
+- respelling: gold
+  sum: 'Gold + '
 ---

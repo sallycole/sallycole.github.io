@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: then
-type: free
-title: then
 reference_link: https://www.etymonline.com/word/then
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: then
+type: free
 word_sums:
-- sum: 'Then + '
-  respelling: then
+- respelling: then
+  sum: 'Then + '
 ---

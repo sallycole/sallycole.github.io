@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: hoof
-type: free
-title: hoof
 reference_link: https://www.etymonline.com/word/hoof
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: hoof
+type: free
 word_sums:
-- sum: 'Hoof + '
-  respelling: hoof
+- respelling: hoof
+  sum: 'Hoof + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: swot
-type: free
-title: swot
 reference_link: https://www.etymonline.com/word/swot
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: swot
+type: free
 word_sums:
-- sum: 'Swot + '
-  respelling: swot
+- respelling: swot
+  sum: 'Swot + '
 ---

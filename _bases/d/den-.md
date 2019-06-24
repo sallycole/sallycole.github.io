@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: den
-type: free
-title: den
 reference_link: https://www.etymonline.com/word/den
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: den
+type: free
 word_sums:
-- sum: 'Den + '
-  respelling: den
+- respelling: den
+  sum: 'Den + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: with
-type: free
-title: with
 reference_link: https://www.etymonline.com/word/with
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: with
+type: free
 word_sums:
-- sum: 'With + '
-  respelling: with
+- respelling: with
+  sum: 'With + '
 ---

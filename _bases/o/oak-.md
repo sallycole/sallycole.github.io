@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: oak
-type: free
-title: oak
 reference_link: https://www.etymonline.com/word/oak
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: oak
+type: free
 word_sums:
-- sum: 'Oak + '
-  respelling: oak
+- respelling: oak
+  sum: 'Oak + '
 ---

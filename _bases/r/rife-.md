@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: rife
-type: free
-title: rife
 reference_link: https://www.etymonline.com/word/rife
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: rife
+type: free
 word_sums:
-- sum: 'Rife + '
-  respelling: rife
+- respelling: rife
+  sum: 'Rife + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: sim
-type: free
-title: sim
 reference_link: https://www.etymonline.com/word/sim
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: sim
+type: free
 word_sums:
-- sum: 'Sim + '
-  respelling: sim
+- respelling: sim
+  sum: 'Sim + '
 ---

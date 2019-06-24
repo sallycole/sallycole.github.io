@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: sub
-type: free
-title: sub
 reference_link: https://www.etymonline.com/word/sub
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: sub
+type: free
 word_sums:
-- sum: 'Sub + '
-  respelling: sub
+- respelling: sub
+  sum: 'Sub + '
 ---

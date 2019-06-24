@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: gran
-type: free
-title: gran
 reference_link: https://www.etymonline.com/word/gran
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: gran
+type: free
 word_sums:
-- sum: 'Gran + '
-  respelling: gran
+- respelling: gran
+  sum: 'Gran + '
 ---

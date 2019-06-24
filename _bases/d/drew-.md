@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: drew
-type: free
-title: drew
 reference_link: https://www.etymonline.com/word/drew
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: drew
+type: free
 word_sums:
-- sum: 'Drew + '
-  respelling: drew
+- respelling: drew
+  sum: 'Drew + '
 ---

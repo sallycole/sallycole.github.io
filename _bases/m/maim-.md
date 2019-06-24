@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: maim
-type: free
-title: maim
 reference_link: https://www.etymonline.com/word/maim
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: maim
+type: free
 word_sums:
-- sum: 'Maim + '
-  respelling: maim
+- respelling: maim
+  sum: 'Maim + '
 ---

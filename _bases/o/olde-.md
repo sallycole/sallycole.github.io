@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: olde
-type: free
-title: olde
 reference_link: https://www.etymonline.com/word/olde
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: olde
+type: free
 word_sums:
-- sum: 'Olde + '
-  respelling: olde
+- respelling: olde
+  sum: 'Olde + '
 ---

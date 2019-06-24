@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: blew
-type: free
-title: blew
 reference_link: https://www.etymonline.com/word/blew
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: blew
+type: free
 word_sums:
-- sum: 'Blew + '
-  respelling: blew
+- respelling: blew
+  sum: 'Blew + '
 ---

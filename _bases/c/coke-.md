@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: coke
-type: free
-title: coke
 reference_link: https://www.etymonline.com/word/coke
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: coke
+type: free
 word_sums:
-- sum: 'Coke + '
-  respelling: coke
+- respelling: coke
+  sum: 'Coke + '
 ---

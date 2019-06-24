@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: ora
-type: free
-title: ora
 reference_link: https://www.etymonline.com/word/ora
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: ora
+type: free
 word_sums:
-- sum: 'Ora + '
-  respelling: ora
+- respelling: ora
+  sum: 'Ora + '
 ---

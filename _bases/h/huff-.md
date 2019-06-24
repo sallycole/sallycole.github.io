@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: huff
-type: free
-title: huff
 reference_link: https://www.etymonline.com/word/huff
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: huff
+type: free
 word_sums:
-- sum: 'Huff + '
-  respelling: huff
+- respelling: huff
+  sum: 'Huff + '
 ---

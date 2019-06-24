@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: bunk
-type: free
-title: bunk
 reference_link: https://www.etymonline.com/word/bunk
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: bunk
+type: free
 word_sums:
-- sum: 'Bunk + '
-  respelling: bunk
+- respelling: bunk
+  sum: 'Bunk + '
 ---

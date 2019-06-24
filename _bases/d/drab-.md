@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: drab
-type: free
-title: drab
 reference_link: https://www.etymonline.com/word/drab
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: drab
+type: free
 word_sums:
-- sum: 'Drab + '
-  respelling: drab
+- respelling: drab
+  sum: 'Drab + '
 ---

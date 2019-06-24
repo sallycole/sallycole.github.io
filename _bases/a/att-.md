@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: att
-type: free
-title: att
 reference_link: https://www.etymonline.com/word/att
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: att
+type: free
 word_sums:
-- sum: 'Att + '
-  respelling: att
+- respelling: att
+  sum: 'Att + '
 ---

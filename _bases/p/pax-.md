@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: pax
-type: free
-title: pax
 reference_link: https://www.etymonline.com/word/pax
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: pax
+type: free
 word_sums:
-- sum: 'Pax + '
-  respelling: pax
+- respelling: pax
+  sum: 'Pax + '
 ---

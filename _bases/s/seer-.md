@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: seer
-type: free
-title: seer
 reference_link: https://www.etymonline.com/word/seer
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: seer
+type: free
 word_sums:
-- sum: 'Seer + '
-  respelling: seer
+- respelling: seer
+  sum: 'Seer + '
 ---

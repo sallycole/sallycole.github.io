@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: jute
-type: free
-title: jute
 reference_link: https://www.etymonline.com/word/jute
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: jute
+type: free
 word_sums:
-- sum: 'Jute + '
-  respelling: jute
+- respelling: jute
+  sum: 'Jute + '
 ---

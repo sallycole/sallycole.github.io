@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: date
-type: free
-title: date
 reference_link: https://www.etymonline.com/word/date
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: date
+type: free
 word_sums:
-- sum: 'Date + '
-  respelling: date
+- respelling: date
+  sum: 'Date + '
 ---

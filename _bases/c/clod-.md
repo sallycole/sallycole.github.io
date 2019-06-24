@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: clod
-type: free
-title: clod
 reference_link: https://www.etymonline.com/word/clod
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: clod
+type: free
 word_sums:
-- sum: 'Clod + '
-  respelling: clod
+- respelling: clod
+  sum: 'Clod + '
 ---

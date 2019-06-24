@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: best
-type: free
-title: best
 reference_link: https://www.etymonline.com/word/best
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: best
+type: free
 word_sums:
-- sum: 'Best + '
-  respelling: best
+- respelling: best
+  sum: 'Best + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: wadi
-type: free
-title: wadi
 reference_link: https://www.etymonline.com/word/wadi
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: wadi
+type: free
 word_sums:
-- sum: 'Wadi + '
-  respelling: wadi
+- respelling: wadi
+  sum: 'Wadi + '
 ---

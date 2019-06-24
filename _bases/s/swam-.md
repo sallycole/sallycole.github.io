@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: swam
-type: free
-title: swam
 reference_link: https://www.etymonline.com/word/swam
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: swam
+type: free
 word_sums:
-- sum: 'Swam + '
-  respelling: swam
+- respelling: swam
+  sum: 'Swam + '
 ---

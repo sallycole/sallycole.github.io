@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: prim
-type: free
-title: prim
 reference_link: https://www.etymonline.com/word/prim
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: prim
+type: free
 word_sums:
-- sum: 'Prim + '
-  respelling: prim
+- respelling: prim
+  sum: 'Prim + '
 ---

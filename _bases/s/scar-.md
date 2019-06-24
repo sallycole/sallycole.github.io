@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: scar
-type: free
-title: scar
 reference_link: https://www.etymonline.com/word/scar
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: scar
+type: free
 word_sums:
-- sum: 'Scar + '
-  respelling: scar
+- respelling: scar
+  sum: 'Scar + '
 ---

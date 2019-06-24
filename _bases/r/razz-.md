@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: razz
-type: free
-title: razz
 reference_link: https://www.etymonline.com/word/razz
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: razz
+type: free
 word_sums:
-- sum: 'Razz + '
-  respelling: razz
+- respelling: razz
+  sum: 'Razz + '
 ---

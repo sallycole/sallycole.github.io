@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: whir
-type: free
-title: whir
 reference_link: https://www.etymonline.com/word/whir
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: whir
+type: free
 word_sums:
-- sum: 'Whir + '
-  respelling: whir
+- respelling: whir
+  sum: 'Whir + '
 ---

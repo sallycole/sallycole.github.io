@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: rice
-type: free
-title: rice
 reference_link: https://www.etymonline.com/word/rice
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: rice
+type: free
 word_sums:
-- sum: 'Rice + '
-  respelling: rice
+- respelling: rice
+  sum: 'Rice + '
 ---

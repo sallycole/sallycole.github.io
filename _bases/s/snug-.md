@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: snug
-type: free
-title: snug
 reference_link: https://www.etymonline.com/word/snug
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: snug
+type: free
 word_sums:
-- sum: 'Snug + '
-  respelling: snug
+- respelling: snug
+  sum: 'Snug + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: dolt
-type: free
-title: dolt
 reference_link: https://www.etymonline.com/word/dolt
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: dolt
+type: free
 word_sums:
-- sum: 'Dolt + '
-  respelling: dolt
+- respelling: dolt
+  sum: 'Dolt + '
 ---

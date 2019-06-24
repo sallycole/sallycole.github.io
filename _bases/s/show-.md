@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: show
-type: free
-title: show
 reference_link: https://www.etymonline.com/word/show
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: show
+type: free
 word_sums:
-- sum: 'Show + '
-  respelling: show
+- respelling: show
+  sum: 'Show + '
 ---

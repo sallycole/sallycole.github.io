@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: crib
-type: free
-title: crib
 reference_link: https://www.etymonline.com/word/crib
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: crib
+type: free
 word_sums:
-- sum: 'Crib + '
-  respelling: crib
+- respelling: crib
+  sum: 'Crib + '
 ---

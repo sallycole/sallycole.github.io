@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: hype
-type: free
-title: hype
 reference_link: https://www.etymonline.com/word/hype
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: hype
+type: free
 word_sums:
-- sum: 'Hype + '
-  respelling: hype
+- respelling: hype
+  sum: 'Hype + '
 ---

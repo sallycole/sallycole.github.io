@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: sing
-type: free
-title: sing
 reference_link: https://www.etymonline.com/word/sing
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: sing
+type: free
 word_sums:
-- sum: 'Sing + '
-  respelling: sing
+- respelling: sing
+  sum: 'Sing + '
 ---

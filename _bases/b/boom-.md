@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: boom
-type: free
-title: boom
 reference_link: https://www.etymonline.com/word/boom
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: boom
+type: free
 word_sums:
-- sum: 'Boom + '
-  respelling: boom
+- respelling: boom
+  sum: 'Boom + '
 ---

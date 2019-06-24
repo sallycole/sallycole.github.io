@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: mus
-type: free
-title: mus
 reference_link: https://www.etymonline.com/word/mus
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: mus
+type: free
 word_sums:
-- sum: 'Mus + '
-  respelling: mus
+- respelling: mus
+  sum: 'Mus + '
 ---

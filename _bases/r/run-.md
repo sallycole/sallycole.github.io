@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: run
-type: free
-title: run
 reference_link: https://www.etymonline.com/word/run
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: run
+type: free
 word_sums:
-- sum: 'Run + '
-  respelling: run
+- respelling: run
+  sum: 'Run + '
 ---

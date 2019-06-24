@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: jog
-type: free
-title: jog
 reference_link: https://www.etymonline.com/word/jog
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: jog
+type: free
 word_sums:
-- sum: 'Jog + '
-  respelling: jog
+- respelling: jog
+  sum: 'Jog + '
 ---

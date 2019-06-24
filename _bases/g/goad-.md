@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: goad
-type: free
-title: goad
 reference_link: https://www.etymonline.com/word/goad
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: goad
+type: free
 word_sums:
-- sum: 'Goad + '
-  respelling: goad
+- respelling: goad
+  sum: 'Goad + '
 ---

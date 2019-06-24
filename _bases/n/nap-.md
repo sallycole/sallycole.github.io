@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: nap
-type: free
-title: nap
 reference_link: https://www.etymonline.com/word/nap
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: nap
+type: free
 word_sums:
-- sum: 'Nap + '
-  respelling: nap
+- respelling: nap
+  sum: 'Nap + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: upo
-type: free
-title: upo
 reference_link: https://www.etymonline.com/word/upo
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: upo
+type: free
 word_sums:
-- sum: 'Upo + '
-  respelling: upo
+- respelling: upo
+  sum: 'Upo + '
 ---

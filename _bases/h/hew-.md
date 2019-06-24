@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: hew
-type: free
-title: hew
 reference_link: https://www.etymonline.com/word/hew
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: hew
+type: free
 word_sums:
-- sum: 'Hew + '
-  respelling: hew
+- respelling: hew
+  sum: 'Hew + '
 ---

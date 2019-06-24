@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: hun
-type: free
-title: hun
 reference_link: https://www.etymonline.com/word/hun
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: hun
+type: free
 word_sums:
-- sum: 'Hun + '
-  respelling: hun
+- respelling: hun
+  sum: 'Hun + '
 ---

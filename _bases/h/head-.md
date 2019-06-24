@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: head
-type: free
-title: head
 reference_link: https://www.etymonline.com/word/head
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: head
+type: free
 word_sums:
-- sum: 'Head + '
-  respelling: head
+- respelling: head
+  sum: 'Head + '
 ---

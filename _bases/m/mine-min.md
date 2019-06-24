@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: belonging to me
 name: mine
+reference_link: https://www.etymonline.com/word/mine
+root_language: Old English
+root_name: min
 title: mine
 type: free
-reference_link: https://www.etymonline.com/word/mine
-root_name: min
-root_language: Old English
-denotation: belonging to me
 word_sums:
-- sum: 'Mine'
-  respelling: mine
+- respelling: mine
+  sum: Mine
 ---

@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: mel
-type: free
-title: mel
 reference_link: https://www.etymonline.com/word/mel
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: mel
+type: free
 word_sums:
-- sum: 'Mel + '
-  respelling: mel
+- respelling: mel
+  sum: 'Mel + '
 ---

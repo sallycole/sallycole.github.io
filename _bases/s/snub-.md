@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: snub
-type: free
-title: snub
 reference_link: https://www.etymonline.com/word/snub
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: snub
+type: free
 word_sums:
-- sum: 'Snub + '
-  respelling: snub
+- respelling: snub
+  sum: 'Snub + '
 ---

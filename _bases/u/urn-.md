@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: urn
-type: free
-title: urn
 reference_link: https://www.etymonline.com/word/urn
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: urn
+type: free
 word_sums:
-- sum: 'Urn + '
-  respelling: urn
+- respelling: urn
+  sum: 'Urn + '
 ---

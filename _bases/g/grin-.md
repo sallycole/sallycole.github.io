@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: grin
-type: free
-title: grin
 reference_link: https://www.etymonline.com/word/grin
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: grin
+type: free
 word_sums:
-- sum: 'Grin + '
-  respelling: grin
+- respelling: grin
+  sum: 'Grin + '
 ---

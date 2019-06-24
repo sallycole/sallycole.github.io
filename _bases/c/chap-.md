@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: chap
-type: free
-title: chap
 reference_link: https://www.etymonline.com/word/chap
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: chap
+type: free
 word_sums:
-- sum: 'Chap + '
-  respelling: chap
+- respelling: chap
+  sum: 'Chap + '
 ---

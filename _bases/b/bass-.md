@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: bass
-type: free
-title: bass
 reference_link: https://www.etymonline.com/word/bass
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: bass
+type: free
 word_sums:
-- sum: 'Bass + '
-  respelling: bass
+- respelling: bass
+  sum: 'Bass + '
 ---

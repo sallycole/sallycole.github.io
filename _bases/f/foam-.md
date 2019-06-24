@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: foam
-type: free
-title: foam
 reference_link: https://www.etymonline.com/word/foam
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: foam
+type: free
 word_sums:
-- sum: 'Foam + '
-  respelling: foam
+- respelling: foam
+  sum: 'Foam + '
 ---

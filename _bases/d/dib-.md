@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: dib
-type: free
-title: dib
 reference_link: https://www.etymonline.com/word/dib
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: dib
+type: free
 word_sums:
-- sum: 'Dib + '
-  respelling: dib
+- respelling: dib
+  sum: 'Dib + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: flog
-type: free
-title: flog
 reference_link: https://www.etymonline.com/word/flog
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: flog
+type: free
 word_sums:
-- sum: 'Flog + '
-  respelling: flog
+- respelling: flog
+  sum: 'Flog + '
 ---

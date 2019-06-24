@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: nib
-type: free
-title: nib
 reference_link: https://www.etymonline.com/word/nib
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: nib
+type: free
 word_sums:
-- sum: 'Nib + '
-  respelling: nib
+- respelling: nib
+  sum: 'Nib + '
 ---

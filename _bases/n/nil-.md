@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: nil
-type: free
-title: nil
 reference_link: https://www.etymonline.com/word/nil
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: nil
+type: free
 word_sums:
-- sum: 'Nil + '
-  respelling: nil
+- respelling: nil
+  sum: 'Nil + '
 ---

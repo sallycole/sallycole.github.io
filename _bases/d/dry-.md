@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: dry
-type: free
-title: dry
 reference_link: https://www.etymonline.com/word/dry
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: dry
+type: free
 word_sums:
-- sum: 'Dry + '
-  respelling: dry
+- respelling: dry
+  sum: 'Dry + '
 ---

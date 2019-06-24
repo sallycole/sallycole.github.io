@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: mosh
-type: free
-title: mosh
 reference_link: https://www.etymonline.com/word/mosh
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: mosh
+type: free
 word_sums:
-- sum: 'Mosh + '
-  respelling: mosh
+- respelling: mosh
+  sum: 'Mosh + '
 ---

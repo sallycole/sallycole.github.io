@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: wad
-type: free
-title: wad
 reference_link: https://www.etymonline.com/word/wad
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: wad
+type: free
 word_sums:
-- sum: 'Wad + '
-  respelling: wad
+- respelling: wad
+  sum: 'Wad + '
 ---

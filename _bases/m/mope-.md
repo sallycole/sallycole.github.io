@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: mope
-type: free
-title: mope
 reference_link: https://www.etymonline.com/word/mope
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: mope
+type: free
 word_sums:
-- sum: 'Mope + '
-  respelling: mope
+- respelling: mope
+  sum: 'Mope + '
 ---

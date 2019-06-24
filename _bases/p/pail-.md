@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: pail
-type: free
-title: pail
 reference_link: https://www.etymonline.com/word/pail
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: pail
+type: free
 word_sums:
-- sum: 'Pail + '
-  respelling: pail
+- respelling: pail
+  sum: 'Pail + '
 ---

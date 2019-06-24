@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: gan
-type: free
-title: gan
 reference_link: https://www.etymonline.com/word/gan
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: gan
+type: free
 word_sums:
-- sum: 'Gan + '
-  respelling: gan
+- respelling: gan
+  sum: 'Gan + '
 ---

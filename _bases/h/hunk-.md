@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: hunk
-type: free
-title: hunk
 reference_link: https://www.etymonline.com/word/hunk
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: hunk
+type: free
 word_sums:
-- sum: 'Hunk + '
-  respelling: hunk
+- respelling: hunk
+  sum: 'Hunk + '
 ---

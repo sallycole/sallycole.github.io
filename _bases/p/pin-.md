@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: pin
-type: free
-title: pin
 reference_link: https://www.etymonline.com/word/pin
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: pin
+type: free
 word_sums:
-- sum: 'Pin + '
-  respelling: pin
+- respelling: pin
+  sum: 'Pin + '
 ---

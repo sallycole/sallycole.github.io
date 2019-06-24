@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: pert
-type: free
-title: pert
 reference_link: https://www.etymonline.com/word/pert
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: pert
+type: free
 word_sums:
-- sum: 'Pert + '
-  respelling: pert
+- respelling: pert
+  sum: 'Pert + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: hey
-type: free
-title: hey
 reference_link: https://www.etymonline.com/word/hey
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: hey
+type: free
 word_sums:
-- sum: 'Hey + '
-  respelling: hey
+- respelling: hey
+  sum: 'Hey + '
 ---

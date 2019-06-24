@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: rube
-type: free
-title: rube
 reference_link: https://www.etymonline.com/word/rube
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: rube
+type: free
 word_sums:
-- sum: 'Rube + '
-  respelling: rube
+- respelling: rube
+  sum: 'Rube + '
 ---

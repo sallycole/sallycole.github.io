@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: hood
-type: free
-title: hood
 reference_link: https://www.etymonline.com/word/hood
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: hood
+type: free
 word_sums:
-- sum: 'Hood + '
-  respelling: hood
+- respelling: hood
+  sum: 'Hood + '
 ---

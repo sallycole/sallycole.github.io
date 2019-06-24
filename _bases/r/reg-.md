@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: reg
-type: free
-title: reg
 reference_link: https://www.etymonline.com/word/reg
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: reg
+type: free
 word_sums:
-- sum: 'Reg + '
-  respelling: reg
+- respelling: reg
+  sum: 'Reg + '
 ---

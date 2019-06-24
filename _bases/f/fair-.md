@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: fair
-type: free
-title: fair
 reference_link: https://www.etymonline.com/word/fair
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: fair
+type: free
 word_sums:
-- sum: 'Fair + '
-  respelling: fair
+- respelling: fair
+  sum: 'Fair + '
 ---

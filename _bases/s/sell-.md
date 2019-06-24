@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: sell
-type: free
-title: sell
 reference_link: https://www.etymonline.com/word/sell
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: sell
+type: free
 word_sums:
-- sum: 'Sell + '
-  respelling: sell
+- respelling: sell
+  sum: 'Sell + '
 ---

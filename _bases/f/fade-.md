@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: fade
-type: free
-title: fade
 reference_link: https://www.etymonline.com/word/fade
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: fade
+type: free
 word_sums:
-- sum: 'Fade + '
-  respelling: fade
+- respelling: fade
+  sum: 'Fade + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: cap
-type: free
-title: cap
 reference_link: https://www.etymonline.com/word/cap
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: cap
+type: free
 word_sums:
-- sum: 'Cap + '
-  respelling: cap
+- respelling: cap
+  sum: 'Cap + '
 ---

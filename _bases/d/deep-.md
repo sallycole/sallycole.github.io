@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: deep
-type: free
-title: deep
 reference_link: https://www.etymonline.com/word/deep
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: deep
+type: free
 word_sums:
-- sum: 'Deep + '
-  respelling: deep
+- respelling: deep
+  sum: 'Deep + '
 ---

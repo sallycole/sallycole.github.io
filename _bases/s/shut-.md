@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: shut
-type: free
-title: shut
 reference_link: https://www.etymonline.com/word/shut
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: shut
+type: free
 word_sums:
-- sum: 'Shut + '
-  respelling: shut
+- respelling: shut
+  sum: 'Shut + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: huh
-type: free
-title: huh
 reference_link: https://www.etymonline.com/word/huh
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: huh
+type: free
 word_sums:
-- sum: 'Huh + '
-  respelling: huh
+- respelling: huh
+  sum: 'Huh + '
 ---

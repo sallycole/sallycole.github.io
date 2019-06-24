@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: yok
-type: free
-title: yok
 reference_link: https://www.etymonline.com/word/yok
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: yok
+type: free
 word_sums:
-- sum: 'Yok + '
-  respelling: yok
+- respelling: yok
+  sum: 'Yok + '
 ---

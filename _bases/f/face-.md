@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: face
-type: free
-title: face
 reference_link: https://www.etymonline.com/word/face
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: face
+type: free
 word_sums:
-- sum: 'Face + '
-  respelling: face
+- respelling: face
+  sum: 'Face + '
 ---

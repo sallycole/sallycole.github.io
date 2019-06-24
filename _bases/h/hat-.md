@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: hat
-type: free
-title: hat
 reference_link: https://www.etymonline.com/word/hat
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: hat
+type: free
 word_sums:
-- sum: 'Hat + '
-  respelling: hat
+- respelling: hat
+  sum: 'Hat + '
 ---

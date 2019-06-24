@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: mane
-type: free
-title: mane
 reference_link: https://www.etymonline.com/word/mane
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: mane
+type: free
 word_sums:
-- sum: 'Mane + '
-  respelling: mane
+- respelling: mane
+  sum: 'Mane + '
 ---

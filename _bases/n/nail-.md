@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: nail
-type: free
-title: nail
 reference_link: https://www.etymonline.com/word/nail
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: nail
+type: free
 word_sums:
-- sum: 'Nail + '
-  respelling: nail
+- respelling: nail
+  sum: 'Nail + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: sled
-type: free
-title: sled
 reference_link: https://www.etymonline.com/word/sled
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: sled
+type: free
 word_sums:
-- sum: 'Sled + '
-  respelling: sled
+- respelling: sled
+  sum: 'Sled + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: yid
-type: free
-title: yid
 reference_link: https://www.etymonline.com/word/yid
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: yid
+type: free
 word_sums:
-- sum: 'Yid + '
-  respelling: yid
+- respelling: yid
+  sum: 'Yid + '
 ---

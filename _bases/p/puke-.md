@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: puke
-type: free
-title: puke
 reference_link: https://www.etymonline.com/word/puke
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: puke
+type: free
 word_sums:
-- sum: 'Puke + '
-  respelling: puke
+- respelling: puke
+  sum: 'Puke + '
 ---

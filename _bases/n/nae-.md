@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: nae
-type: free
-title: nae
 reference_link: https://www.etymonline.com/word/nae
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: nae
+type: free
 word_sums:
-- sum: 'Nae + '
-  respelling: nae
+- respelling: nae
+  sum: 'Nae + '
 ---

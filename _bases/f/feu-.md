@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: feu
-type: free
-title: feu
 reference_link: https://www.etymonline.com/word/feu
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: feu
+type: free
 word_sums:
-- sum: 'Feu + '
-  respelling: feu
+- respelling: feu
+  sum: 'Feu + '
 ---

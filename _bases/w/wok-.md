@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: wok
-type: free
-title: wok
 reference_link: https://www.etymonline.com/word/wok
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: wok
+type: free
 word_sums:
-- sum: 'Wok + '
-  respelling: wok
+- respelling: wok
+  sum: 'Wok + '
 ---

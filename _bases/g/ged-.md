@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: ged
-type: free
-title: ged
 reference_link: https://www.etymonline.com/word/ged
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: ged
+type: free
 word_sums:
-- sum: 'Ged + '
-  respelling: ged
+- respelling: ged
+  sum: 'Ged + '
 ---

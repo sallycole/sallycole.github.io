@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: yeh
-type: free
-title: yeh
 reference_link: https://www.etymonline.com/word/yeh
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: yeh
+type: free
 word_sums:
-- sum: 'Yeh + '
-  respelling: yeh
+- respelling: yeh
+  sum: 'Yeh + '
 ---

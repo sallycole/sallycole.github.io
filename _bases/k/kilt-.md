@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: kilt
-type: free
-title: kilt
 reference_link: https://www.etymonline.com/word/kilt
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: kilt
+type: free
 word_sums:
-- sum: 'Kilt + '
-  respelling: kilt
+- respelling: kilt
+  sum: 'Kilt + '
 ---

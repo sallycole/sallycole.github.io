@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: ping
-type: free
-title: ping
 reference_link: https://www.etymonline.com/word/ping
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: ping
+type: free
 word_sums:
-- sum: 'Ping + '
-  respelling: ping
+- respelling: ping
+  sum: 'Ping + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: nog
-type: free
-title: nog
 reference_link: https://www.etymonline.com/word/nog
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: nog
+type: free
 word_sums:
-- sum: 'Nog + '
-  respelling: nog
+- respelling: nog
+  sum: 'Nog + '
 ---

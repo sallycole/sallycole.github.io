@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: good
-type: free
-title: good
 reference_link: https://www.etymonline.com/word/good
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: good
+type: free
 word_sums:
-- sum: 'Good + '
-  respelling: good
+- respelling: good
+  sum: 'Good + '
 ---

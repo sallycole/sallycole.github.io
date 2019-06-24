@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: log
-type: free
-title: log
 reference_link: https://www.etymonline.com/word/log
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: log
+type: free
 word_sums:
-- sum: 'Log + '
-  respelling: log
+- respelling: log
+  sum: 'Log + '
 ---

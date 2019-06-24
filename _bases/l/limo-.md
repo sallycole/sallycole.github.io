@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: limo
-type: free
-title: limo
 reference_link: https://www.etymonline.com/word/limo
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: limo
+type: free
 word_sums:
-- sum: 'Limo + '
-  respelling: limo
+- respelling: limo
+  sum: 'Limo + '
 ---

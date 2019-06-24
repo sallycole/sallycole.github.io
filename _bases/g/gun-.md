@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: gun
-type: free
-title: gun
 reference_link: https://www.etymonline.com/word/gun
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: gun
+type: free
 word_sums:
-- sum: 'Gun + '
-  respelling: gun
+- respelling: gun
+  sum: 'Gun + '
 ---

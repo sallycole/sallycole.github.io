@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: ens
-type: free
-title: ens
 reference_link: https://www.etymonline.com/word/ens
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: ens
+type: free
 word_sums:
-- sum: 'Ens + '
-  respelling: ens
+- respelling: ens
+  sum: 'Ens + '
 ---

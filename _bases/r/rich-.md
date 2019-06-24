@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: rich
-type: free
-title: rich
 reference_link: https://www.etymonline.com/word/rich
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: rich
+type: free
 word_sums:
-- sum: 'Rich + '
-  respelling: rich
+- respelling: rich
+  sum: 'Rich + '
 ---

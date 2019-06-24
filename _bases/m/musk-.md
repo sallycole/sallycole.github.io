@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: musk
-type: free
-title: musk
 reference_link: https://www.etymonline.com/word/musk
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: musk
+type: free
 word_sums:
-- sum: 'Musk + '
-  respelling: musk
+- respelling: musk
+  sum: 'Musk + '
 ---

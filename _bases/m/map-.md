@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: map
-type: free
-title: map
 reference_link: https://www.etymonline.com/word/map
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: map
+type: free
 word_sums:
-- sum: 'Map + '
-  respelling: map
+- respelling: map
+  sum: 'Map + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: gust
-type: free
-title: gust
 reference_link: https://www.etymonline.com/word/gust
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: gust
+type: free
 word_sums:
-- sum: 'Gust + '
-  respelling: gust
+- respelling: gust
+  sum: 'Gust + '
 ---

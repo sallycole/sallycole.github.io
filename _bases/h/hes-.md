@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: hes
-type: free
-title: hes
 reference_link: https://www.etymonline.com/word/hes
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: hes
+type: free
 word_sums:
-- sum: 'Hes + '
-  respelling: hes
+- respelling: hes
+  sum: 'Hes + '
 ---

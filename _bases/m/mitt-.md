@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: mitt
-type: free
-title: mitt
 reference_link: https://www.etymonline.com/word/mitt
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: mitt
+type: free
 word_sums:
-- sum: 'Mitt + '
-  respelling: mitt
+- respelling: mitt
+  sum: 'Mitt + '
 ---

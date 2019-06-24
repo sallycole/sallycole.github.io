@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: cowl
-type: free
-title: cowl
 reference_link: https://www.etymonline.com/word/cowl
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: cowl
+type: free
 word_sums:
-- sum: 'Cowl + '
-  respelling: cowl
+- respelling: cowl
+  sum: 'Cowl + '
 ---

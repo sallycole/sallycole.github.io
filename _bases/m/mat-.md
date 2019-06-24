@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: mat
-type: free
-title: mat
 reference_link: https://www.etymonline.com/word/mat
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: mat
+type: free
 word_sums:
-- sum: 'Mat + '
-  respelling: mat
+- respelling: mat
+  sum: 'Mat + '
 ---

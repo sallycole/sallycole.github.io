@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: gala
-type: free
-title: gala
 reference_link: https://www.etymonline.com/word/gala
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: gala
+type: free
 word_sums:
-- sum: 'Gala + '
-  respelling: gala
+- respelling: gala
+  sum: 'Gala + '
 ---

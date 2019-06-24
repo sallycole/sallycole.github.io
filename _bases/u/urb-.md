@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: urb
-type: free
-title: urb
 reference_link: https://www.etymonline.com/word/urb
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: urb
+type: free
 word_sums:
-- sum: 'Urb + '
-  respelling: urb
+- respelling: urb
+  sum: 'Urb + '
 ---

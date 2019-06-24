@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: gasp
-type: free
-title: gasp
 reference_link: https://www.etymonline.com/word/gasp
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: gasp
+type: free
 word_sums:
-- sum: 'Gasp + '
-  respelling: gasp
+- respelling: gasp
+  sum: 'Gasp + '
 ---

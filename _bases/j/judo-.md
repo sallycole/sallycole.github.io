@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: judo
-type: free
-title: judo
 reference_link: https://www.etymonline.com/word/judo
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: judo
+type: free
 word_sums:
-- sum: 'Judo + '
-  respelling: judo
+- respelling: judo
+  sum: 'Judo + '
 ---

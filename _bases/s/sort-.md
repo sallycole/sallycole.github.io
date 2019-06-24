@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: sort
-type: free
-title: sort
 reference_link: https://www.etymonline.com/word/sort
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: sort
+type: free
 word_sums:
-- sum: 'Sort + '
-  respelling: sort
+- respelling: sort
+  sum: 'Sort + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: phi
-type: free
-title: phi
 reference_link: https://www.etymonline.com/word/phi
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: phi
+type: free
 word_sums:
-- sum: 'Phi + '
-  respelling: phi
+- respelling: phi
+  sum: 'Phi + '
 ---

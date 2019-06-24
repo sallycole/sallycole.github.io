@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: limp
-type: free
-title: limp
 reference_link: https://www.etymonline.com/word/limp
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: limp
+type: free
 word_sums:
-- sum: 'Limp + '
-  respelling: limp
+- respelling: limp
+  sum: 'Limp + '
 ---

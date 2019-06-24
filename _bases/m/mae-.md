@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: mae
-type: free
-title: mae
 reference_link: https://www.etymonline.com/word/mae
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: mae
+type: free
 word_sums:
-- sum: 'Mae + '
-  respelling: mae
+- respelling: mae
+  sum: 'Mae + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: hip
-type: free
-title: hip
 reference_link: https://www.etymonline.com/word/hip
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: hip
+type: free
 word_sums:
-- sum: 'Hip + '
-  respelling: hip
+- respelling: hip
+  sum: 'Hip + '
 ---

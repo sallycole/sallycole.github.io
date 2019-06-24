@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: fiz
-type: free
-title: fiz
 reference_link: https://www.etymonline.com/word/fiz
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: fiz
+type: free
 word_sums:
-- sum: 'Fiz + '
-  respelling: fiz
+- respelling: fiz
+  sum: 'Fiz + '
 ---

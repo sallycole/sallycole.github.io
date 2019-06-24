@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: copy
-type: free
-title: copy
 reference_link: https://www.etymonline.com/word/copy
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: copy
+type: free
 word_sums:
-- sum: 'Copy + '
-  respelling: copy
+- respelling: copy
+  sum: 'Copy + '
 ---

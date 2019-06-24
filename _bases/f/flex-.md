@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: flex
-type: free
-title: flex
 reference_link: https://www.etymonline.com/word/flex
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: flex
+type: free
 word_sums:
-- sum: 'Flex + '
-  respelling: flex
+- respelling: flex
+  sum: 'Flex + '
 ---

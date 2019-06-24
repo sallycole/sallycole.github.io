@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: tic
-type: free
-title: tic
 reference_link: https://www.etymonline.com/word/tic
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: tic
+type: free
 word_sums:
-- sum: 'Tic + '
-  respelling: tic
+- respelling: tic
+  sum: 'Tic + '
 ---

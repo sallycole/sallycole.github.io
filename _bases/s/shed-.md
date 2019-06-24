@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: shed
-type: free
-title: shed
 reference_link: https://www.etymonline.com/word/shed
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: shed
+type: free
 word_sums:
-- sum: 'Shed + '
-  respelling: shed
+- respelling: shed
+  sum: 'Shed + '
 ---

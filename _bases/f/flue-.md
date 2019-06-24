@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: flue
-type: free
-title: flue
 reference_link: https://www.etymonline.com/word/flue
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: flue
+type: free
 word_sums:
-- sum: 'Flue + '
-  respelling: flue
+- respelling: flue
+  sum: 'Flue + '
 ---

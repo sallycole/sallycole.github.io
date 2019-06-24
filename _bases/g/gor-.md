@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: gor
-type: free
-title: gor
 reference_link: https://www.etymonline.com/word/gor
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: gor
+type: free
 word_sums:
-- sum: 'Gor + '
-  respelling: gor
+- respelling: gor
+  sum: 'Gor + '
 ---

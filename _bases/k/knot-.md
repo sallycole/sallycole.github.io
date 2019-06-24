@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: knot
-type: free
-title: knot
 reference_link: https://www.etymonline.com/word/knot
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: knot
+type: free
 word_sums:
-- sum: 'Knot + '
-  respelling: knot
+- respelling: knot
+  sum: 'Knot + '
 ---

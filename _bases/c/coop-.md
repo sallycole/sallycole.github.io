@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: coop
-type: free
-title: coop
 reference_link: https://www.etymonline.com/word/coop
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: coop
+type: free
 word_sums:
-- sum: 'Coop + '
-  respelling: coop
+- respelling: coop
+  sum: 'Coop + '
 ---

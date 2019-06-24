@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: seat
-type: free
-title: seat
 reference_link: https://www.etymonline.com/word/seat
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: seat
+type: free
 word_sums:
-- sum: 'Seat + '
-  respelling: seat
+- respelling: seat
+  sum: 'Seat + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: ree
-type: free
-title: ree
 reference_link: https://www.etymonline.com/word/ree
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: ree
+type: free
 word_sums:
-- sum: 'Ree + '
-  respelling: ree
+- respelling: ree
+  sum: 'Ree + '
 ---

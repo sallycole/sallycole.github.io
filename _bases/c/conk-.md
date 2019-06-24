@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: conk
-type: free
-title: conk
 reference_link: https://www.etymonline.com/word/conk
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: conk
+type: free
 word_sums:
-- sum: 'Conk + '
-  respelling: conk
+- respelling: conk
+  sum: 'Conk + '
 ---

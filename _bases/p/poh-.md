@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: poh
-type: free
-title: poh
 reference_link: https://www.etymonline.com/word/poh
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: poh
+type: free
 word_sums:
-- sum: 'Poh + '
-  respelling: poh
+- respelling: poh
+  sum: 'Poh + '
 ---

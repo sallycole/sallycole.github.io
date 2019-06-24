@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: wick
-type: free
-title: wick
 reference_link: https://www.etymonline.com/word/wick
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: wick
+type: free
 word_sums:
-- sum: 'Wick + '
-  respelling: wick
+- respelling: wick
+  sum: 'Wick + '
 ---

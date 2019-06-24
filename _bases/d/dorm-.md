@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: dorm
-type: free
-title: dorm
 reference_link: https://www.etymonline.com/word/dorm
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: dorm
+type: free
 word_sums:
-- sum: 'Dorm + '
-  respelling: dorm
+- respelling: dorm
+  sum: 'Dorm + '
 ---

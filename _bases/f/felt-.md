@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: felt
-type: free
-title: felt
 reference_link: https://www.etymonline.com/word/felt
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: felt
+type: free
 word_sums:
-- sum: 'Felt + '
-  respelling: felt
+- respelling: felt
+  sum: 'Felt + '
 ---

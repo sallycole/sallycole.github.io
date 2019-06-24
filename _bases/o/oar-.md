@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: oar
-type: free
-title: oar
 reference_link: https://www.etymonline.com/word/oar
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: oar
+type: free
 word_sums:
-- sum: 'Oar + '
-  respelling: oar
+- respelling: oar
+  sum: 'Oar + '
 ---

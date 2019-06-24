@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: soak
-type: free
-title: soak
 reference_link: https://www.etymonline.com/word/soak
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: soak
+type: free
 word_sums:
-- sum: 'Soak + '
-  respelling: soak
+- respelling: soak
+  sum: 'Soak + '
 ---

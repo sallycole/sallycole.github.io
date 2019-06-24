@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: eke
-type: free
-title: eke
 reference_link: https://www.etymonline.com/word/eke
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: eke
+type: free
 word_sums:
-- sum: 'Eke + '
-  respelling: eke
+- respelling: eke
+  sum: 'Eke + '
 ---

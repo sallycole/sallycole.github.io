@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: role
-type: free
-title: role
 reference_link: https://www.etymonline.com/word/role
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: role
+type: free
 word_sums:
-- sum: 'Role + '
-  respelling: role
+- respelling: role
+  sum: 'Role + '
 ---

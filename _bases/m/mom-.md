@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: mom
-type: free
-title: mom
 reference_link: https://www.etymonline.com/word/mom
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: mom
+type: free
 word_sums:
-- sum: 'Mom + '
-  respelling: mom
+- respelling: mom
+  sum: 'Mom + '
 ---

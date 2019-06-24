@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: gunk
-type: free
-title: gunk
 reference_link: https://www.etymonline.com/word/gunk
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: gunk
+type: free
 word_sums:
-- sum: 'Gunk + '
-  respelling: gunk
+- respelling: gunk
+  sum: 'Gunk + '
 ---

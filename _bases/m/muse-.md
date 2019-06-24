@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: muse
-type: free
-title: muse
 reference_link: https://www.etymonline.com/word/muse
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: muse
+type: free
 word_sums:
-- sum: 'Muse + '
-  respelling: muse
+- respelling: muse
+  sum: 'Muse + '
 ---

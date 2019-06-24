@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: flan
-type: free
-title: flan
 reference_link: https://www.etymonline.com/word/flan
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: flan
+type: free
 word_sums:
-- sum: 'Flan + '
-  respelling: flan
+- respelling: flan
+  sum: 'Flan + '
 ---

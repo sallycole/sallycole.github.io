@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: sigh
-type: free
-title: sigh
 reference_link: https://www.etymonline.com/word/sigh
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: sigh
+type: free
 word_sums:
-- sum: 'Sigh + '
-  respelling: sigh
+- respelling: sigh
+  sum: 'Sigh + '
 ---

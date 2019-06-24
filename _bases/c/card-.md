@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: card
-type: free
-title: card
 reference_link: https://www.etymonline.com/word/card
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: card
+type: free
 word_sums:
-- sum: 'Card + '
-  respelling: card
+- respelling: card
+  sum: 'Card + '
 ---

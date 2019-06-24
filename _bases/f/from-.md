@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: from
-type: free
-title: from
 reference_link: https://www.etymonline.com/word/from
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: from
+type: free
 word_sums:
-- sum: 'From + '
-  respelling: from
+- respelling: from
+  sum: 'From + '
 ---

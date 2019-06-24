@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: suq
-type: free
-title: suq
 reference_link: https://www.etymonline.com/word/suq
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: suq
+type: free
 word_sums:
-- sum: 'Suq + '
-  respelling: suq
+- respelling: suq
+  sum: 'Suq + '
 ---

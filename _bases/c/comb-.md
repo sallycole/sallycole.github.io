@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: comb
-type: free
-title: comb
 reference_link: https://www.etymonline.com/word/comb
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: comb
+type: free
 word_sums:
-- sum: 'Comb + '
-  respelling: comb
+- respelling: comb
+  sum: 'Comb + '
 ---

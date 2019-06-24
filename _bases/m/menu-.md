@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: menu
-type: free
-title: menu
 reference_link: https://www.etymonline.com/word/menu
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: menu
+type: free
 word_sums:
-- sum: 'Menu + '
-  respelling: menu
+- respelling: menu
+  sum: 'Menu + '
 ---

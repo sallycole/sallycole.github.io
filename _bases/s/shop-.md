@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: shop
-type: free
-title: shop
 reference_link: https://www.etymonline.com/word/shop
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: shop
+type: free
 word_sums:
-- sum: 'Shop + '
-  respelling: shop
+- respelling: shop
+  sum: 'Shop + '
 ---

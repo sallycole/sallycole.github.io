@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: wind
-type: free
-title: wind
 reference_link: https://www.etymonline.com/word/wind
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: wind
+type: free
 word_sums:
-- sum: 'Wind + '
-  respelling: wind
+- respelling: wind
+  sum: 'Wind + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: late
-type: free
-title: late
 reference_link: https://www.etymonline.com/word/late
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: late
+type: free
 word_sums:
-- sum: 'Late + '
-  respelling: late
+- respelling: late
+  sum: 'Late + '
 ---

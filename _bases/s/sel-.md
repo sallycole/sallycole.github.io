@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: sel
-type: free
-title: sel
 reference_link: https://www.etymonline.com/word/sel
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: sel
+type: free
 word_sums:
-- sum: 'Sel + '
-  respelling: sel
+- respelling: sel
+  sum: 'Sel + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: hack
-type: free
-title: hack
 reference_link: https://www.etymonline.com/word/hack
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: hack
+type: free
 word_sums:
-- sum: 'Hack + '
-  respelling: hack
+- respelling: hack
+  sum: 'Hack + '
 ---

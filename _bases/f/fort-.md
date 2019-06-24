@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: fort
-type: free
-title: fort
 reference_link: https://www.etymonline.com/word/fort
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: fort
+type: free
 word_sums:
-- sum: 'Fort + '
-  respelling: fort
+- respelling: fort
+  sum: 'Fort + '
 ---

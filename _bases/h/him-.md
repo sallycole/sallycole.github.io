@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: him
-type: free
-title: him
 reference_link: https://www.etymonline.com/word/him
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: him
+type: free
 word_sums:
-- sum: 'Him + '
-  respelling: him
+- respelling: him
+  sum: 'Him + '
 ---

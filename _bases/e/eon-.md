@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: eon
-type: free
-title: eon
 reference_link: https://www.etymonline.com/word/eon
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: eon
+type: free
 word_sums:
-- sum: 'Eon + '
-  respelling: eon
+- respelling: eon
+  sum: 'Eon + '
 ---

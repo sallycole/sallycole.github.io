@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: land
-type: free
-title: land
 reference_link: https://www.etymonline.com/word/land
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: land
+type: free
 word_sums:
-- sum: 'Land + '
-  respelling: land
+- respelling: land
+  sum: 'Land + '
 ---

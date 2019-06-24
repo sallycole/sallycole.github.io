@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: camp
-type: free
-title: camp
 reference_link: https://www.etymonline.com/word/camp
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: camp
+type: free
 word_sums:
-- sum: 'Camp + '
-  respelling: camp
+- respelling: camp
+  sum: 'Camp + '
 ---

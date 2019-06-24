@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: kite
-type: free
-title: kite
 reference_link: https://www.etymonline.com/word/kite
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: kite
+type: free
 word_sums:
-- sum: 'Kite + '
-  respelling: kite
+- respelling: kite
+  sum: 'Kite + '
 ---

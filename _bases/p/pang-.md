@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: pang
-type: free
-title: pang
 reference_link: https://www.etymonline.com/word/pang
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: pang
+type: free
 word_sums:
-- sum: 'Pang + '
-  respelling: pang
+- respelling: pang
+  sum: 'Pang + '
 ---

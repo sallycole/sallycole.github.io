@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: harp
-type: free
-title: harp
 reference_link: https://www.etymonline.com/word/harp
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: harp
+type: free
 word_sums:
-- sum: 'Harp + '
-  respelling: harp
+- respelling: harp
+  sum: 'Harp + '
 ---

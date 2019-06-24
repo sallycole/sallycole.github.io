@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: dun
-type: free
-title: dun
 reference_link: https://www.etymonline.com/word/dun
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: dun
+type: free
 word_sums:
-- sum: 'Dun + '
-  respelling: dun
+- respelling: dun
+  sum: 'Dun + '
 ---

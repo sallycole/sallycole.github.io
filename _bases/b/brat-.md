@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: brat
-type: free
-title: brat
 reference_link: https://www.etymonline.com/word/brat
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: brat
+type: free
 word_sums:
-- sum: 'Brat + '
-  respelling: brat
+- respelling: brat
+  sum: 'Brat + '
 ---

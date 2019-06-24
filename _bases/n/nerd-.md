@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: nerd
-type: free
-title: nerd
 reference_link: https://www.etymonline.com/word/nerd
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: nerd
+type: free
 word_sums:
-- sum: 'Nerd + '
-  respelling: nerd
+- respelling: nerd
+  sum: 'Nerd + '
 ---

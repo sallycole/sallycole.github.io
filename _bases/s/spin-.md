@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: spin
-type: free
-title: spin
 reference_link: https://www.etymonline.com/word/spin
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: spin
+type: free
 word_sums:
-- sum: 'Spin + '
-  respelling: spin
+- respelling: spin
+  sum: 'Spin + '
 ---

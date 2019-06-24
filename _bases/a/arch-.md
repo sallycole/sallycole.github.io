@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: arch
-type: free
-title: arch
 reference_link: https://www.etymonline.com/word/arch
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: arch
+type: free
 word_sums:
-- sum: 'Arch + '
-  respelling: arch
+- respelling: arch
+  sum: 'Arch + '
 ---

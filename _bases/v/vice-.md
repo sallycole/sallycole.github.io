@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: vice
-type: free
-title: vice
 reference_link: https://www.etymonline.com/word/vice
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: vice
+type: free
 word_sums:
-- sum: 'Vice + '
-  respelling: vice
+- respelling: vice
+  sum: 'Vice + '
 ---

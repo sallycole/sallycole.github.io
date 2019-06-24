@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: key
-type: free
-title: key
 reference_link: https://www.etymonline.com/word/key
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: key
+type: free
 word_sums:
-- sum: 'Key + '
-  respelling: key
+- respelling: key
+  sum: 'Key + '
 ---

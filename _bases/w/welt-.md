@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: welt
-type: free
-title: welt
 reference_link: https://www.etymonline.com/word/welt
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: welt
+type: free
 word_sums:
-- sum: 'Welt + '
-  respelling: welt
+- respelling: welt
+  sum: 'Welt + '
 ---

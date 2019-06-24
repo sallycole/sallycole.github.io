@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: kab
-type: free
-title: kab
 reference_link: https://www.etymonline.com/word/kab
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: kab
+type: free
 word_sums:
-- sum: 'Kab + '
-  respelling: kab
+- respelling: kab
+  sum: 'Kab + '
 ---

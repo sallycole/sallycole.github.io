@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: tank
-type: free
-title: tank
 reference_link: https://www.etymonline.com/word/tank
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: tank
+type: free
 word_sums:
-- sum: 'Tank + '
-  respelling: tank
+- respelling: tank
+  sum: 'Tank + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: grog
-type: free
-title: grog
 reference_link: https://www.etymonline.com/word/grog
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: grog
+type: free
 word_sums:
-- sum: 'Grog + '
-  respelling: grog
+- respelling: grog
+  sum: 'Grog + '
 ---

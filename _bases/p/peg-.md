@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: peg
-type: free
-title: peg
 reference_link: https://www.etymonline.com/word/peg
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: peg
+type: free
 word_sums:
-- sum: 'Peg + '
-  respelling: peg
+- respelling: peg
+  sum: 'Peg + '
 ---

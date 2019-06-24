@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: hock
-type: free
-title: hock
 reference_link: https://www.etymonline.com/word/hock
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: hock
+type: free
 word_sums:
-- sum: 'Hock + '
-  respelling: hock
+- respelling: hock
+  sum: 'Hock + '
 ---

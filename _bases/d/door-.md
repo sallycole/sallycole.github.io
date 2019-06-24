@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: door
-type: free
-title: door
 reference_link: https://www.etymonline.com/word/door
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: door
+type: free
 word_sums:
-- sum: 'Door + '
-  respelling: door
+- respelling: door
+  sum: 'Door + '
 ---

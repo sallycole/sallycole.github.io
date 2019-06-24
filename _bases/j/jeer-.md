@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: jeer
-type: free
-title: jeer
 reference_link: https://www.etymonline.com/word/jeer
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: jeer
+type: free
 word_sums:
-- sum: 'Jeer + '
-  respelling: jeer
+- respelling: jeer
+  sum: 'Jeer + '
 ---

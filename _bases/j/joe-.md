@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: joe
-type: free
-title: joe
 reference_link: https://www.etymonline.com/word/joe
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: joe
+type: free
 word_sums:
-- sum: 'Joe + '
-  respelling: joe
+- respelling: joe
+  sum: 'Joe + '
 ---

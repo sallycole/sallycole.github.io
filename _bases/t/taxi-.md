@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: taxi
-type: free
-title: taxi
 reference_link: https://www.etymonline.com/word/taxi
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: taxi
+type: free
 word_sums:
-- sum: 'Taxi + '
-  respelling: taxi
+- respelling: taxi
+  sum: 'Taxi + '
 ---

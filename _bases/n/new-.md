@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: new
-type: free
-title: new
 reference_link: https://www.etymonline.com/word/new
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: new
+type: free
 word_sums:
-- sum: 'New + '
-  respelling: new
+- respelling: new
+  sum: 'New + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: deed
-type: free
-title: deed
 reference_link: https://www.etymonline.com/word/deed
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: deed
+type: free
 word_sums:
-- sum: 'Deed + '
-  respelling: deed
+- respelling: deed
+  sum: 'Deed + '
 ---

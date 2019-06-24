@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: fid
-type: free
-title: fid
 reference_link: https://www.etymonline.com/word/fid
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: fid
+type: free
 word_sums:
-- sum: 'Fid + '
-  respelling: fid
+- respelling: fid
+  sum: 'Fid + '
 ---

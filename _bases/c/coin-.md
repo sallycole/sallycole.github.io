@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: coin
-type: free
-title: coin
 reference_link: https://www.etymonline.com/word/coin
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: coin
+type: free
 word_sums:
-- sum: 'Coin + '
-  respelling: coin
+- respelling: coin
+  sum: 'Coin + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: slaw
-type: free
-title: slaw
 reference_link: https://www.etymonline.com/word/slaw
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: slaw
+type: free
 word_sums:
-- sum: 'Slaw + '
-  respelling: slaw
+- respelling: slaw
+  sum: 'Slaw + '
 ---

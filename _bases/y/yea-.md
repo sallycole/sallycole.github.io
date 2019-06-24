@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: yea
-type: free
-title: yea
 reference_link: https://www.etymonline.com/word/yea
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: yea
+type: free
 word_sums:
-- sum: 'Yea + '
-  respelling: yea
+- respelling: yea
+  sum: 'Yea + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: seg
-type: free
-title: seg
 reference_link: https://www.etymonline.com/word/seg
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: seg
+type: free
 word_sums:
-- sum: 'Seg + '
-  respelling: seg
+- respelling: seg
+  sum: 'Seg + '
 ---

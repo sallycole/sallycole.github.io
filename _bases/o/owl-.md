@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: owl
-type: free
-title: owl
 reference_link: https://www.etymonline.com/word/owl
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: owl
+type: free
 word_sums:
-- sum: 'Owl + '
-  respelling: owl
+- respelling: owl
+  sum: 'Owl + '
 ---

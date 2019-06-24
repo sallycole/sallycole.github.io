@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: bid
-type: free
-title: bid
 reference_link: https://www.etymonline.com/word/bid
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: bid
+type: free
 word_sums:
-- sum: 'Bid + '
-  respelling: bid
+- respelling: bid
+  sum: 'Bid + '
 ---

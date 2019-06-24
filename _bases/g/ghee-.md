@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: ghee
-type: free
-title: ghee
 reference_link: https://www.etymonline.com/word/ghee
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: ghee
+type: free
 word_sums:
-- sum: 'Ghee + '
-  respelling: ghee
+- respelling: ghee
+  sum: 'Ghee + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: lum
-type: free
-title: lum
 reference_link: https://www.etymonline.com/word/lum
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: lum
+type: free
 word_sums:
-- sum: 'Lum + '
-  respelling: lum
+- respelling: lum
+  sum: 'Lum + '
 ---

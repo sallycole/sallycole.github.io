@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: mien
-type: free
-title: mien
 reference_link: https://www.etymonline.com/word/mien
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: mien
+type: free
 word_sums:
-- sum: 'Mien + '
-  respelling: mien
+- respelling: mien
+  sum: 'Mien + '
 ---

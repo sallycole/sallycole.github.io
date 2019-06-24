@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: ave
-type: free
-title: ave
 reference_link: https://www.etymonline.com/word/ave
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: ave
+type: free
 word_sums:
-- sum: 'Ave + '
-  respelling: ave
+- respelling: ave
+  sum: 'Ave + '
 ---

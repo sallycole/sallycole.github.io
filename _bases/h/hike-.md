@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: hike
-type: free
-title: hike
 reference_link: https://www.etymonline.com/word/hike
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: hike
+type: free
 word_sums:
-- sum: 'Hike + '
-  respelling: hike
+- respelling: hike
+  sum: 'Hike + '
 ---

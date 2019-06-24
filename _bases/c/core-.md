@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: core
-type: free
-title: core
 reference_link: https://www.etymonline.com/word/core
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: core
+type: free
 word_sums:
-- sum: 'Core + '
-  respelling: core
+- respelling: core
+  sum: 'Core + '
 ---

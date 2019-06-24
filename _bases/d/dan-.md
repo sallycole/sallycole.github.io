@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: dan
-type: free
-title: dan
 reference_link: https://www.etymonline.com/word/dan
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: dan
+type: free
 word_sums:
-- sum: 'Dan + '
-  respelling: dan
+- respelling: dan
+  sum: 'Dan + '
 ---

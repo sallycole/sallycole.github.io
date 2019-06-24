@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: ait
-type: free
-title: ait
 reference_link: https://www.etymonline.com/word/ait
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: ait
+type: free
 word_sums:
-- sum: 'Ait + '
-  respelling: ait
+- respelling: ait
+  sum: 'Ait + '
 ---

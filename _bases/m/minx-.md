@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: minx
-type: free
-title: minx
 reference_link: https://www.etymonline.com/word/minx
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: minx
+type: free
 word_sums:
-- sum: 'Minx + '
-  respelling: minx
+- respelling: minx
+  sum: 'Minx + '
 ---

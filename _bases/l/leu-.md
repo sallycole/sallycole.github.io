@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: leu
-type: free
-title: leu
 reference_link: https://www.etymonline.com/word/leu
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: leu
+type: free
 word_sums:
-- sum: 'Leu + '
-  respelling: leu
+- respelling: leu
+  sum: 'Leu + '
 ---

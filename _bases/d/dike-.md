@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: dike
-type: free
-title: dike
 reference_link: https://www.etymonline.com/word/dike
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: dike
+type: free
 word_sums:
-- sum: 'Dike + '
-  respelling: dike
+- respelling: dike
+  sum: 'Dike + '
 ---

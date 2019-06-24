@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: lama
-type: free
-title: lama
 reference_link: https://www.etymonline.com/word/lama
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: lama
+type: free
 word_sums:
-- sum: 'Lama + '
-  respelling: lama
+- respelling: lama
+  sum: 'Lama + '
 ---

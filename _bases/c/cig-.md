@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: cig
-type: free
-title: cig
 reference_link: https://www.etymonline.com/word/cig
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: cig
+type: free
 word_sums:
-- sum: 'Cig + '
-  respelling: cig
+- respelling: cig
+  sum: 'Cig + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: sag
-type: free
-title: sag
 reference_link: https://www.etymonline.com/word/sag
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: sag
+type: free
 word_sums:
-- sum: 'Sag + '
-  respelling: sag
+- respelling: sag
+  sum: 'Sag + '
 ---

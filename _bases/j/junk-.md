@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: junk
-type: free
-title: junk
 reference_link: https://www.etymonline.com/word/junk
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: junk
+type: free
 word_sums:
-- sum: 'Junk + '
-  respelling: junk
+- respelling: junk
+  sum: 'Junk + '
 ---

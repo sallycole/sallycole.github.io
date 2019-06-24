@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: melt
-type: free
-title: melt
 reference_link: https://www.etymonline.com/word/melt
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: melt
+type: free
 word_sums:
-- sum: 'Melt + '
-  respelling: melt
+- respelling: melt
+  sum: 'Melt + '
 ---

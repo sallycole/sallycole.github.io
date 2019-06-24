@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: vig
-type: free
-title: vig
 reference_link: https://www.etymonline.com/word/vig
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: vig
+type: free
 word_sums:
-- sum: 'Vig + '
-  respelling: vig
+- respelling: vig
+  sum: 'Vig + '
 ---

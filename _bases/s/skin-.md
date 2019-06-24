@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: skin
-type: free
-title: skin
 reference_link: https://www.etymonline.com/word/skin
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: skin
+type: free
 word_sums:
-- sum: 'Skin + '
-  respelling: skin
+- respelling: skin
+  sum: 'Skin + '
 ---

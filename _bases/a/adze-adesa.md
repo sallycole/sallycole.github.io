@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: adze, hatchet
 name: adze
+reference_link: https://www.etymonline.com/word/adze
+root_language: Old English
+root_name: adesa
 title: adze
 type: free
-reference_link: https://www.etymonline.com/word/adze
-root_name: adesa
-root_language: Old English
-denotation: adze, hatchet
 word_sums:
-- sum: 'Adze + s'
-  respelling: adzes
+- respelling: adzes
+  sum: Adze + s
 ---

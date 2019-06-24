@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: tow
-type: free
-title: tow
 reference_link: https://www.etymonline.com/word/tow
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: tow
+type: free
 word_sums:
-- sum: 'Tow + '
-  respelling: tow
+- respelling: tow
+  sum: 'Tow + '
 ---

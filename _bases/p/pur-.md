@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: pur
-type: free
-title: pur
 reference_link: https://www.etymonline.com/word/pur
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: pur
+type: free
 word_sums:
-- sum: 'Pur + '
-  respelling: pur
+- respelling: pur
+  sum: 'Pur + '
 ---

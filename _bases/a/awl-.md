@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: awl
-type: free
-title: awl
 reference_link: https://www.etymonline.com/word/awl
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: awl
+type: free
 word_sums:
-- sum: 'Awl + '
-  respelling: awl
+- respelling: awl
+  sum: 'Awl + '
 ---

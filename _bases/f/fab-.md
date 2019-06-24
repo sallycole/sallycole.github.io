@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: fab
-type: free
-title: fab
 reference_link: https://www.etymonline.com/word/fab
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: fab
+type: free
 word_sums:
-- sum: 'Fab + '
-  respelling: fab
+- respelling: fab
+  sum: 'Fab + '
 ---

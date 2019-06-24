@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: job
-type: free
-title: job
 reference_link: https://www.etymonline.com/word/job
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: job
+type: free
 word_sums:
-- sum: 'Job + '
-  respelling: job
+- respelling: job
+  sum: 'Job + '
 ---

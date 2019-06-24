@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: dell
-type: free
-title: dell
 reference_link: https://www.etymonline.com/word/dell
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: dell
+type: free
 word_sums:
-- sum: 'Dell + '
-  respelling: dell
+- respelling: dell
+  sum: 'Dell + '
 ---

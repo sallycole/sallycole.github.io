@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: gosh
-type: free
-title: gosh
 reference_link: https://www.etymonline.com/word/gosh
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: gosh
+type: free
 word_sums:
-- sum: 'Gosh + '
-  respelling: gosh
+- respelling: gosh
+  sum: 'Gosh + '
 ---

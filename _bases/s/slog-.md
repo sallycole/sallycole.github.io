@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: slog
-type: free
-title: slog
 reference_link: https://www.etymonline.com/word/slog
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: slog
+type: free
 word_sums:
-- sum: 'Slog + '
-  respelling: slog
+- respelling: slog
+  sum: 'Slog + '
 ---

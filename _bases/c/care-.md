@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: care
-type: free
-title: care
 reference_link: https://www.etymonline.com/word/care
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: care
+type: free
 word_sums:
-- sum: 'Care + '
-  respelling: care
+- respelling: care
+  sum: 'Care + '
 ---

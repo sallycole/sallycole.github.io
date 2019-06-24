@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: erg
-type: free
-title: erg
 reference_link: https://www.etymonline.com/word/erg
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: erg
+type: free
 word_sums:
-- sum: 'Erg + '
-  respelling: erg
+- respelling: erg
+  sum: 'Erg + '
 ---

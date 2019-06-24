@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: task
-type: free
-title: task
 reference_link: https://www.etymonline.com/word/task
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: task
+type: free
 word_sums:
-- sum: 'Task + '
-  respelling: task
+- respelling: task
+  sum: 'Task + '
 ---

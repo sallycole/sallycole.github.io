@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: reap
-type: free
-title: reap
 reference_link: https://www.etymonline.com/word/reap
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: reap
+type: free
 word_sums:
-- sum: 'Reap + '
-  respelling: reap
+- respelling: reap
+  sum: 'Reap + '
 ---

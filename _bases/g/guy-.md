@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: guy
-type: free
-title: guy
 reference_link: https://www.etymonline.com/word/guy
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: guy
+type: free
 word_sums:
-- sum: 'Guy + '
-  respelling: guy
+- respelling: guy
+  sum: 'Guy + '
 ---

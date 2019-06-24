@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: here
-type: free
-title: here
 reference_link: https://www.etymonline.com/word/here
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: here
+type: free
 word_sums:
-- sum: 'Here + '
-  respelling: here
+- respelling: here
+  sum: 'Here + '
 ---

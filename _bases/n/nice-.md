@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: nice
-type: free
-title: nice
 reference_link: https://www.etymonline.com/word/nice
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: nice
+type: free
 word_sums:
-- sum: 'Nice + '
-  respelling: nice
+- respelling: nice
+  sum: 'Nice + '
 ---

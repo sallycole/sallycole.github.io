@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: rapt
-type: free
-title: rapt
 reference_link: https://www.etymonline.com/word/rapt
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: rapt
+type: free
 word_sums:
-- sum: 'Rapt + '
-  respelling: rapt
+- respelling: rapt
+  sum: 'Rapt + '
 ---

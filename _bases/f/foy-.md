@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: foy
-type: free
-title: foy
 reference_link: https://www.etymonline.com/word/foy
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: foy
+type: free
 word_sums:
-- sum: 'Foy + '
-  respelling: foy
+- respelling: foy
+  sum: 'Foy + '
 ---

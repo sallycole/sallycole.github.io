@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: exam
-type: free
-title: exam
 reference_link: https://www.etymonline.com/word/exam
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: exam
+type: free
 word_sums:
-- sum: 'Exam + '
-  respelling: exam
+- respelling: exam
+  sum: 'Exam + '
 ---

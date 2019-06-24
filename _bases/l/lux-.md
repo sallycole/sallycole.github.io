@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: lux
-type: free
-title: lux
 reference_link: https://www.etymonline.com/word/lux
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: lux
+type: free
 word_sums:
-- sum: 'Lux + '
-  respelling: lux
+- respelling: lux
+  sum: 'Lux + '
 ---

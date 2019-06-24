@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: fuss
-type: free
-title: fuss
 reference_link: https://www.etymonline.com/word/fuss
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: fuss
+type: free
 word_sums:
-- sum: 'Fuss + '
-  respelling: fuss
+- respelling: fuss
+  sum: 'Fuss + '
 ---

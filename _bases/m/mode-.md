@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: mode
-type: free
-title: mode
 reference_link: https://www.etymonline.com/word/mode
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: mode
+type: free
 word_sums:
-- sum: 'Mode + '
-  respelling: mode
+- respelling: mode
+  sum: 'Mode + '
 ---

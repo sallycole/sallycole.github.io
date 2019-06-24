@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: iota
-type: free
-title: iota
 reference_link: https://www.etymonline.com/word/iota
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: iota
+type: free
 word_sums:
-- sum: 'Iota + '
-  respelling: iota
+- respelling: iota
+  sum: 'Iota + '
 ---

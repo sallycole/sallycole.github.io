@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: aunt
-type: free
-title: aunt
 reference_link: https://www.etymonline.com/word/aunt
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: aunt
+type: free
 word_sums:
-- sum: 'Aunt + '
-  respelling: aunt
+- respelling: aunt
+  sum: 'Aunt + '
 ---

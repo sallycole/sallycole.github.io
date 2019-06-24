@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: bog
-type: free
-title: bog
 reference_link: https://www.etymonline.com/word/bog
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: bog
+type: free
 word_sums:
-- sum: 'Bog + '
-  respelling: bog
+- respelling: bog
+  sum: 'Bog + '
 ---

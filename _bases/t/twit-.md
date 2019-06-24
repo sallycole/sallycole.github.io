@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: twit
-type: free
-title: twit
 reference_link: https://www.etymonline.com/word/twit
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: twit
+type: free
 word_sums:
-- sum: 'Twit + '
-  respelling: twit
+- respelling: twit
+  sum: 'Twit + '
 ---

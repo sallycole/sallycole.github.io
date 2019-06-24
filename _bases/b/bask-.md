@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: bask
-type: free
-title: bask
 reference_link: https://www.etymonline.com/word/bask
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: bask
+type: free
 word_sums:
-- sum: 'Bask + '
-  respelling: bask
+- respelling: bask
+  sum: 'Bask + '
 ---

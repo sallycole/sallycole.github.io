@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: dumb
-type: free
-title: dumb
 reference_link: https://www.etymonline.com/word/dumb
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: dumb
+type: free
 word_sums:
-- sum: 'Dumb + '
-  respelling: dumb
+- respelling: dumb
+  sum: 'Dumb + '
 ---

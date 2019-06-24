@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: arc
-type: free
-title: arc
 reference_link: https://www.etymonline.com/word/arc
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: arc
+type: free
 word_sums:
-- sum: 'Arc + '
-  respelling: arc
+- respelling: arc
+  sum: 'Arc + '
 ---

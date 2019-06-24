@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: oba
-type: free
-title: oba
 reference_link: https://www.etymonline.com/word/oba
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: oba
+type: free
 word_sums:
-- sum: 'Oba + '
-  respelling: oba
+- respelling: oba
+  sum: 'Oba + '
 ---

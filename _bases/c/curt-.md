@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: curt
-type: free
-title: curt
 reference_link: https://www.etymonline.com/word/curt
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: curt
+type: free
 word_sums:
-- sum: 'Curt + '
-  respelling: curt
+- respelling: curt
+  sum: 'Curt + '
 ---

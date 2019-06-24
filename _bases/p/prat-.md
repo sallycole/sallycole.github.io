@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: prat
-type: free
-title: prat
 reference_link: https://www.etymonline.com/word/prat
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: prat
+type: free
 word_sums:
-- sum: 'Prat + '
-  respelling: prat
+- respelling: prat
+  sum: 'Prat + '
 ---

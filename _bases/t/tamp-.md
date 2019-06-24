@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: tamp
-type: free
-title: tamp
 reference_link: https://www.etymonline.com/word/tamp
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: tamp
+type: free
 word_sums:
-- sum: 'Tamp + '
-  respelling: tamp
+- respelling: tamp
+  sum: 'Tamp + '
 ---

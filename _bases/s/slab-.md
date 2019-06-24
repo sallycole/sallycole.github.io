@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: slab
-type: free
-title: slab
 reference_link: https://www.etymonline.com/word/slab
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: slab
+type: free
 word_sums:
-- sum: 'Slab + '
-  respelling: slab
+- respelling: slab
+  sum: 'Slab + '
 ---

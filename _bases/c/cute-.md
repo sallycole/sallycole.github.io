@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: cute
-type: free
-title: cute
 reference_link: https://www.etymonline.com/word/cute
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: cute
+type: free
 word_sums:
-- sum: 'Cute + '
-  respelling: cute
+- respelling: cute
+  sum: 'Cute + '
 ---

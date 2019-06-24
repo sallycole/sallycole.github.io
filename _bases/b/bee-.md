@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: bee
-type: free
-title: bee
 reference_link: https://www.etymonline.com/word/bee
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: bee
+type: free
 word_sums:
-- sum: 'Bee + '
-  respelling: bee
+- respelling: bee
+  sum: 'Bee + '
 ---

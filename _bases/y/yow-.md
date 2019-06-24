@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: yow
-type: free
-title: yow
 reference_link: https://www.etymonline.com/word/yow
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: yow
+type: free
 word_sums:
-- sum: 'Yow + '
-  respelling: yow
+- respelling: yow
+  sum: 'Yow + '
 ---

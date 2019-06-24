@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: take
-type: free
-title: take
 reference_link: https://www.etymonline.com/word/take
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: take
+type: free
 word_sums:
-- sum: 'Take + '
-  respelling: take
+- respelling: take
+  sum: 'Take + '
 ---

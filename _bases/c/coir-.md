@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: coir
-type: free
-title: coir
 reference_link: https://www.etymonline.com/word/coir
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: coir
+type: free
 word_sums:
-- sum: 'Coir + '
-  respelling: coir
+- respelling: coir
+  sum: 'Coir + '
 ---

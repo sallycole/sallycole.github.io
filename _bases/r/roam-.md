@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: roam
-type: free
-title: roam
 reference_link: https://www.etymonline.com/word/roam
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: roam
+type: free
 word_sums:
-- sum: 'Roam + '
-  respelling: roam
+- respelling: roam
+  sum: 'Roam + '
 ---

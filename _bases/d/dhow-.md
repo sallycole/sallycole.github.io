@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: dhow
-type: free
-title: dhow
 reference_link: https://www.etymonline.com/word/dhow
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: dhow
+type: free
 word_sums:
-- sum: 'Dhow + '
-  respelling: dhow
+- respelling: dhow
+  sum: 'Dhow + '
 ---

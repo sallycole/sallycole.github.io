@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: rung
-type: free
-title: rung
 reference_link: https://www.etymonline.com/word/rung
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: rung
+type: free
 word_sums:
-- sum: 'Rung + '
-  respelling: rung
+- respelling: rung
+  sum: 'Rung + '
 ---

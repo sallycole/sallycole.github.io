@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: ley
-type: free
-title: ley
 reference_link: https://www.etymonline.com/word/ley
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: ley
+type: free
 word_sums:
-- sum: 'Ley + '
-  respelling: ley
+- respelling: ley
+  sum: 'Ley + '
 ---

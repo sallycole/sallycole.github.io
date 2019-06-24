@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: act
-type: free
-title: act
 reference_link: https://www.etymonline.com/word/act
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: act
+type: free
 word_sums:
-- sum: 'Act + '
-  respelling: act
+- respelling: act
+  sum: 'Act + '
 ---

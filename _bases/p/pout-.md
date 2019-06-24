@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: pout
-type: free
-title: pout
 reference_link: https://www.etymonline.com/word/pout
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: pout
+type: free
 word_sums:
-- sum: 'Pout + '
-  respelling: pout
+- respelling: pout
+  sum: 'Pout + '
 ---

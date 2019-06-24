@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: rare
-type: free
-title: rare
 reference_link: https://www.etymonline.com/word/rare
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: rare
+type: free
 word_sums:
-- sum: 'Rare + '
-  respelling: rare
+- respelling: rare
+  sum: 'Rare + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: skua
-type: free
-title: skua
 reference_link: https://www.etymonline.com/word/skua
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: skua
+type: free
 word_sums:
-- sum: 'Skua + '
-  respelling: skua
+- respelling: skua
+  sum: 'Skua + '
 ---

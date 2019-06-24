@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: hod
-type: free
-title: hod
 reference_link: https://www.etymonline.com/word/hod
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: hod
+type: free
 word_sums:
-- sum: 'Hod + '
-  respelling: hod
+- respelling: hod
+  sum: 'Hod + '
 ---

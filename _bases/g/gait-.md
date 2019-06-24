@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: gait
-type: free
-title: gait
 reference_link: https://www.etymonline.com/word/gait
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: gait
+type: free
 word_sums:
-- sum: 'Gait + '
-  respelling: gait
+- respelling: gait
+  sum: 'Gait + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: chic
-type: free
-title: chic
 reference_link: https://www.etymonline.com/word/chic
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: chic
+type: free
 word_sums:
-- sum: 'Chic + '
-  respelling: chic
+- respelling: chic
+  sum: 'Chic + '
 ---

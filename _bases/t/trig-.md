@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: trig
-type: free
-title: trig
 reference_link: https://www.etymonline.com/word/trig
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: trig
+type: free
 word_sums:
-- sum: 'Trig + '
-  respelling: trig
+- respelling: trig
+  sum: 'Trig + '
 ---

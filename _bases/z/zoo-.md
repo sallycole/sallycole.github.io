@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: zoo
-type: free
-title: zoo
 reference_link: https://www.etymonline.com/word/zoo
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: zoo
+type: free
 word_sums:
-- sum: 'Zoo + '
-  respelling: zoo
+- respelling: zoo
+  sum: 'Zoo + '
 ---

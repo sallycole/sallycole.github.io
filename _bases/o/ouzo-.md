@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: ouzo
-type: free
-title: ouzo
 reference_link: https://www.etymonline.com/word/ouzo
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: ouzo
+type: free
 word_sums:
-- sum: 'Ouzo + '
-  respelling: ouzo
+- respelling: ouzo
+  sum: 'Ouzo + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: tho
-type: free
-title: tho
 reference_link: https://www.etymonline.com/word/tho
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: tho
+type: free
 word_sums:
-- sum: 'Tho + '
-  respelling: tho
+- respelling: tho
+  sum: 'Tho + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: vive
-type: free
-title: vive
 reference_link: https://www.etymonline.com/word/vive
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: vive
+type: free
 word_sums:
-- sum: 'Vive + '
-  respelling: vive
+- respelling: vive
+  sum: 'Vive + '
 ---

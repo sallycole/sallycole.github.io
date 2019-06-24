@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: live
-type: free
-title: live
 reference_link: https://www.etymonline.com/word/live
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: live
+type: free
 word_sums:
-- sum: 'Live + '
-  respelling: live
+- respelling: live
+  sum: 'Live + '
 ---

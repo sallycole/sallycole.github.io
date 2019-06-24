@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: egg
-type: free
-title: egg
 reference_link: https://www.etymonline.com/word/egg
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: egg
+type: free
 word_sums:
-- sum: 'Egg + '
-  respelling: egg
+- respelling: egg
+  sum: 'Egg + '
 ---

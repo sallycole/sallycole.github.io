@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: male
-type: free
-title: male
 reference_link: https://www.etymonline.com/word/male
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: male
+type: free
 word_sums:
-- sum: 'Male + '
-  respelling: male
+- respelling: male
+  sum: 'Male + '
 ---

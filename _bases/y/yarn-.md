@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: yarn
-type: free
-title: yarn
 reference_link: https://www.etymonline.com/word/yarn
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: yarn
+type: free
 word_sums:
-- sum: 'Yarn + '
-  respelling: yarn
+- respelling: yarn
+  sum: 'Yarn + '
 ---

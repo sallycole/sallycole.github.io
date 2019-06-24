@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: arf
-type: free
-title: arf
 reference_link: https://www.etymonline.com/word/arf
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: arf
+type: free
 word_sums:
-- sum: 'Arf + '
-  respelling: arf
+- respelling: arf
+  sum: 'Arf + '
 ---

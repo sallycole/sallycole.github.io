@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: mile
-type: free
-title: mile
 reference_link: https://www.etymonline.com/word/mile
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: mile
+type: free
 word_sums:
-- sum: 'Mile + '
-  respelling: mile
+- respelling: mile
+  sum: 'Mile + '
 ---

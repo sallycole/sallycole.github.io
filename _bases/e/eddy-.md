@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: eddy
-type: free
-title: eddy
 reference_link: https://www.etymonline.com/word/eddy
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: eddy
+type: free
 word_sums:
-- sum: 'Eddy + '
-  respelling: eddy
+- respelling: eddy
+  sum: 'Eddy + '
 ---

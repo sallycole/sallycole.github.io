@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: dare
-type: free
-title: dare
 reference_link: https://www.etymonline.com/word/dare
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: dare
+type: free
 word_sums:
-- sum: 'Dare + '
-  respelling: dare
+- respelling: dare
+  sum: 'Dare + '
 ---

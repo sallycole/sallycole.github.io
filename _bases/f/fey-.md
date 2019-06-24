@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: fey
-type: free
-title: fey
 reference_link: https://www.etymonline.com/word/fey
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: fey
+type: free
 word_sums:
-- sum: 'Fey + '
-  respelling: fey
+- respelling: fey
+  sum: 'Fey + '
 ---

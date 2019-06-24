@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: soon
-type: free
-title: soon
 reference_link: https://www.etymonline.com/word/soon
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: soon
+type: free
 word_sums:
-- sum: 'Soon + '
-  respelling: soon
+- respelling: soon
+  sum: 'Soon + '
 ---

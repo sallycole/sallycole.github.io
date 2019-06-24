@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: quiz
-type: free
-title: quiz
 reference_link: https://www.etymonline.com/word/quiz
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: quiz
+type: free
 word_sums:
-- sum: 'Quiz + '
-  respelling: quiz
+- respelling: quiz
+  sum: 'Quiz + '
 ---

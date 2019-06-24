@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: help
-type: free
-title: help
 reference_link: https://www.etymonline.com/word/help
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: help
+type: free
 word_sums:
-- sum: 'Help + '
-  respelling: help
+- respelling: help
+  sum: 'Help + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: maw
-type: free
-title: maw
 reference_link: https://www.etymonline.com/word/maw
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: maw
+type: free
 word_sums:
-- sum: 'Maw + '
-  respelling: maw
+- respelling: maw
+  sum: 'Maw + '
 ---

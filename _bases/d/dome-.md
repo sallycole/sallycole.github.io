@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: dome
-type: free
-title: dome
 reference_link: https://www.etymonline.com/word/dome
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: dome
+type: free
 word_sums:
-- sum: 'Dome + '
-  respelling: dome
+- respelling: dome
+  sum: 'Dome + '
 ---

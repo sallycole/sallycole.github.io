@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: vase
-type: free
-title: vase
 reference_link: https://www.etymonline.com/word/vase
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: vase
+type: free
 word_sums:
-- sum: 'Vase + '
-  respelling: vase
+- respelling: vase
+  sum: 'Vase + '
 ---

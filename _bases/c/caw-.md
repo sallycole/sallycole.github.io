@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: caw
-type: free
-title: caw
 reference_link: https://www.etymonline.com/word/caw
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: caw
+type: free
 word_sums:
-- sum: 'Caw + '
-  respelling: caw
+- respelling: caw
+  sum: 'Caw + '
 ---

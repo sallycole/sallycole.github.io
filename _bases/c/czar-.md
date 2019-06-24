@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: czar
-type: free
-title: czar
 reference_link: https://www.etymonline.com/word/czar
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: czar
+type: free
 word_sums:
-- sum: 'Czar + '
-  respelling: czar
+- respelling: czar
+  sum: 'Czar + '
 ---

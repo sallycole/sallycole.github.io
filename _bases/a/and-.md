@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: and
-type: free
-title: and
 reference_link: https://www.etymonline.com/word/and
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: and
+type: free
 word_sums:
-- sum: 'And + '
-  respelling: and
+- respelling: and
+  sum: 'And + '
 ---

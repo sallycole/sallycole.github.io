@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: tag
-type: free
-title: tag
 reference_link: https://www.etymonline.com/word/tag
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: tag
+type: free
 word_sums:
-- sum: 'Tag + '
-  respelling: tag
+- respelling: tag
+  sum: 'Tag + '
 ---

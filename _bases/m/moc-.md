@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: moc
-type: free
-title: moc
 reference_link: https://www.etymonline.com/word/moc
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: moc
+type: free
 word_sums:
-- sum: 'Moc + '
-  respelling: moc
+- respelling: moc
+  sum: 'Moc + '
 ---

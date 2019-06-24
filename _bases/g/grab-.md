@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: grab
-type: free
-title: grab
 reference_link: https://www.etymonline.com/word/grab
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: grab
+type: free
 word_sums:
-- sum: 'Grab + '
-  respelling: grab
+- respelling: grab
+  sum: 'Grab + '
 ---

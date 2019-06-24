@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: wham
-type: free
-title: wham
 reference_link: https://www.etymonline.com/word/wham
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: wham
+type: free
 word_sums:
-- sum: 'Wham + '
-  respelling: wham
+- respelling: wham
+  sum: 'Wham + '
 ---

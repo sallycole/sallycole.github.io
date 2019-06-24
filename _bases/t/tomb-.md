@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: tomb
-type: free
-title: tomb
 reference_link: https://www.etymonline.com/word/tomb
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: tomb
+type: free
 word_sums:
-- sum: 'Tomb + '
-  respelling: tomb
+- respelling: tomb
+  sum: 'Tomb + '
 ---

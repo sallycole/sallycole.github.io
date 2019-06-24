@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: rax
-type: free
-title: rax
 reference_link: https://www.etymonline.com/word/rax
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: rax
+type: free
 word_sums:
-- sum: 'Rax + '
-  respelling: rax
+- respelling: rax
+  sum: 'Rax + '
 ---

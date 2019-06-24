@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: sad
-type: free
-title: sad
 reference_link: https://www.etymonline.com/word/sad
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: sad
+type: free
 word_sums:
-- sum: 'Sad + '
-  respelling: sad
+- respelling: sad
+  sum: 'Sad + '
 ---

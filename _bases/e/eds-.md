@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: eds
-type: free
-title: eds
 reference_link: https://www.etymonline.com/word/eds
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: eds
+type: free
 word_sums:
-- sum: 'Eds + '
-  respelling: eds
+- respelling: eds
+  sum: 'Eds + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: ring
-type: free
-title: ring
 reference_link: https://www.etymonline.com/word/ring
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: ring
+type: free
 word_sums:
-- sum: 'Ring + '
-  respelling: ring
+- respelling: ring
+  sum: 'Ring + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: seek
-type: free
-title: seek
 reference_link: https://www.etymonline.com/word/seek
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: seek
+type: free
 word_sums:
-- sum: 'Seek + '
-  respelling: seek
+- respelling: seek
+  sum: 'Seek + '
 ---

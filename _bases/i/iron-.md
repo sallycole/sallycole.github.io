@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: iron
-type: free
-title: iron
 reference_link: https://www.etymonline.com/word/iron
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: iron
+type: free
 word_sums:
-- sum: 'Iron + '
-  respelling: iron
+- respelling: iron
+  sum: 'Iron + '
 ---

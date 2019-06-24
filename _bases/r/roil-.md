@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: roil
-type: free
-title: roil
 reference_link: https://www.etymonline.com/word/roil
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: roil
+type: free
 word_sums:
-- sum: 'Roil + '
-  respelling: roil
+- respelling: roil
+  sum: 'Roil + '
 ---

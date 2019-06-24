@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: ail
-type: free
-title: ail
 reference_link: https://www.etymonline.com/word/ail
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: ail
+type: free
 word_sums:
-- sum: 'Ail + '
-  respelling: ail
+- respelling: ail
+  sum: 'Ail + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: desk
-type: free
-title: desk
 reference_link: https://www.etymonline.com/word/desk
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: desk
+type: free
 word_sums:
-- sum: 'Desk + '
-  respelling: desk
+- respelling: desk
+  sum: 'Desk + '
 ---

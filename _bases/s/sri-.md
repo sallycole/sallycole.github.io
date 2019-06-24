@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: sri
-type: free
-title: sri
 reference_link: https://www.etymonline.com/word/sri
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: sri
+type: free
 word_sums:
-- sum: 'Sri + '
-  respelling: sri
+- respelling: sri
+  sum: 'Sri + '
 ---

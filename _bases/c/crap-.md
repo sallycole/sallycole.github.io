@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: crap
-type: free
-title: crap
 reference_link: https://www.etymonline.com/word/crap
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: crap
+type: free
 word_sums:
-- sum: 'Crap + '
-  respelling: crap
+- respelling: crap
+  sum: 'Crap + '
 ---

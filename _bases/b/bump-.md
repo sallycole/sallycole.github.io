@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: bump
-type: free
-title: bump
 reference_link: https://www.etymonline.com/word/bump
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: bump
+type: free
 word_sums:
-- sum: 'Bump + '
-  respelling: bump
+- respelling: bump
+  sum: 'Bump + '
 ---

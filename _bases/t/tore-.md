@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: tore
-type: free
-title: tore
 reference_link: https://www.etymonline.com/word/tore
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: tore
+type: free
 word_sums:
-- sum: 'Tore + '
-  respelling: tore
+- respelling: tore
+  sum: 'Tore + '
 ---

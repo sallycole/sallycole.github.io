@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: trad
-type: free
-title: trad
 reference_link: https://www.etymonline.com/word/trad
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: trad
+type: free
 word_sums:
-- sum: 'Trad + '
-  respelling: trad
+- respelling: trad
+  sum: 'Trad + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: jun
-type: free
-title: jun
 reference_link: https://www.etymonline.com/word/jun
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: jun
+type: free
 word_sums:
-- sum: 'Jun + '
-  respelling: jun
+- respelling: jun
+  sum: 'Jun + '
 ---

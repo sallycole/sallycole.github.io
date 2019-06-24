@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: idle
-type: free
-title: idle
 reference_link: https://www.etymonline.com/word/idle
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: idle
+type: free
 word_sums:
-- sum: 'Idle + '
-  respelling: idle
+- respelling: idle
+  sum: 'Idle + '
 ---

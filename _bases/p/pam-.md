@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: pam
-type: free
-title: pam
 reference_link: https://www.etymonline.com/word/pam
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: pam
+type: free
 word_sums:
-- sum: 'Pam + '
-  respelling: pam
+- respelling: pam
+  sum: 'Pam + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: eng
-type: free
-title: eng
 reference_link: https://www.etymonline.com/word/eng
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: eng
+type: free
 word_sums:
-- sum: 'Eng + '
-  respelling: eng
+- respelling: eng
+  sum: 'Eng + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: ado
-type: free
-title: ado
 reference_link: https://www.etymonline.com/word/ado
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: ado
+type: free
 word_sums:
-- sum: 'Ado + '
-  respelling: ado
+- respelling: ado
+  sum: 'Ado + '
 ---

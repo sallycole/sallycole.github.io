@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: tav
-type: free
-title: tav
 reference_link: https://www.etymonline.com/word/tav
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: tav
+type: free
 word_sums:
-- sum: 'Tav + '
-  respelling: tav
+- respelling: tav
+  sum: 'Tav + '
 ---

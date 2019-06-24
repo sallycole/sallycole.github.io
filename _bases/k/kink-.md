@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: kink
-type: free
-title: kink
 reference_link: https://www.etymonline.com/word/kink
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: kink
+type: free
 word_sums:
-- sum: 'Kink + '
-  respelling: kink
+- respelling: kink
+  sum: 'Kink + '
 ---

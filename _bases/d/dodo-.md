@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: dodo
-type: free
-title: dodo
 reference_link: https://www.etymonline.com/word/dodo
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: dodo
+type: free
 word_sums:
-- sum: 'Dodo + '
-  respelling: dodo
+- respelling: dodo
+  sum: 'Dodo + '
 ---

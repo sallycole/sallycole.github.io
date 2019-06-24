@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: dor
-type: free
-title: dor
 reference_link: https://www.etymonline.com/word/dor
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: dor
+type: free
 word_sums:
-- sum: 'Dor + '
-  respelling: dor
+- respelling: dor
+  sum: 'Dor + '
 ---

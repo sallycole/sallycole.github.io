@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: who
-type: free
-title: who
 reference_link: https://www.etymonline.com/word/who
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: who
+type: free
 word_sums:
-- sum: 'Who + '
-  respelling: who
+- respelling: who
+  sum: 'Who + '
 ---

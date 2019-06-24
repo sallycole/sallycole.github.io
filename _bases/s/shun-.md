@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: shun
-type: free
-title: shun
 reference_link: https://www.etymonline.com/word/shun
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: shun
+type: free
 word_sums:
-- sum: 'Shun + '
-  respelling: shun
+- respelling: shun
+  sum: 'Shun + '
 ---

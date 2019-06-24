@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: sale
-type: free
-title: sale
 reference_link: https://www.etymonline.com/word/sale
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: sale
+type: free
 word_sums:
-- sum: 'Sale + '
-  respelling: sale
+- respelling: sale
+  sum: 'Sale + '
 ---

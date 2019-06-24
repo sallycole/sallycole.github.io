@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: gite
-type: free
-title: gite
 reference_link: https://www.etymonline.com/word/gite
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: gite
+type: free
 word_sums:
-- sum: 'Gite + '
-  respelling: gite
+- respelling: gite
+  sum: 'Gite + '
 ---

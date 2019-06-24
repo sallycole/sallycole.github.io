@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: obe
-type: free
-title: obe
 reference_link: https://www.etymonline.com/word/obe
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: obe
+type: free
 word_sums:
-- sum: 'Obe + '
-  respelling: obe
+- respelling: obe
+  sum: 'Obe + '
 ---

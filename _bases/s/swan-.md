@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: swan
-type: free
-title: swan
 reference_link: https://www.etymonline.com/word/swan
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: swan
+type: free
 word_sums:
-- sum: 'Swan + '
-  respelling: swan
+- respelling: swan
+  sum: 'Swan + '
 ---

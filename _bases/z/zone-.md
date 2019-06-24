@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: zone
-type: free
-title: zone
 reference_link: https://www.etymonline.com/word/zone
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: zone
+type: free
 word_sums:
-- sum: 'Zone + '
-  respelling: zone
+- respelling: zone
+  sum: 'Zone + '
 ---

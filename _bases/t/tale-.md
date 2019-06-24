@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: tale
-type: free
-title: tale
 reference_link: https://www.etymonline.com/word/tale
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: tale
+type: free
 word_sums:
-- sum: 'Tale + '
-  respelling: tale
+- respelling: tale
+  sum: 'Tale + '
 ---

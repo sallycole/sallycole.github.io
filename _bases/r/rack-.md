@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: rack
-type: free
-title: rack
 reference_link: https://www.etymonline.com/word/rack
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: rack
+type: free
 word_sums:
-- sum: 'Rack + '
-  respelling: rack
+- respelling: rack
+  sum: 'Rack + '
 ---

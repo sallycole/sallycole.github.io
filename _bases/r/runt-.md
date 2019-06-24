@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: runt
-type: free
-title: runt
 reference_link: https://www.etymonline.com/word/runt
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: runt
+type: free
 word_sums:
-- sum: 'Runt + '
-  respelling: runt
+- respelling: runt
+  sum: 'Runt + '
 ---

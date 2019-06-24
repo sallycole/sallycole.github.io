@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: trim
-type: free
-title: trim
 reference_link: https://www.etymonline.com/word/trim
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: trim
+type: free
 word_sums:
-- sum: 'Trim + '
-  respelling: trim
+- respelling: trim
+  sum: 'Trim + '
 ---

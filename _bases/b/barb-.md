@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: barb
-type: free
-title: barb
 reference_link: https://www.etymonline.com/word/barb
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: barb
+type: free
 word_sums:
-- sum: 'Barb + '
-  respelling: barb
+- respelling: barb
+  sum: 'Barb + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: gist
-type: free
-title: gist
 reference_link: https://www.etymonline.com/word/gist
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: gist
+type: free
 word_sums:
-- sum: 'Gist + '
-  respelling: gist
+- respelling: gist
+  sum: 'Gist + '
 ---

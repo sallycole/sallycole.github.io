@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: prop
-type: free
-title: prop
 reference_link: https://www.etymonline.com/word/prop
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: prop
+type: free
 word_sums:
-- sum: 'Prop + '
-  respelling: prop
+- respelling: prop
+  sum: 'Prop + '
 ---

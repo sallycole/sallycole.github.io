@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: tie
-type: free
-title: tie
 reference_link: https://www.etymonline.com/word/tie
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: tie
+type: free
 word_sums:
-- sum: 'Tie + '
-  respelling: tie
+- respelling: tie
+  sum: 'Tie + '
 ---

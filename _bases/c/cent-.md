@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: cent
-type: free
-title: cent
 reference_link: https://www.etymonline.com/word/cent
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: cent
+type: free
 word_sums:
-- sum: 'Cent + '
-  respelling: cent
+- respelling: cent
+  sum: 'Cent + '
 ---

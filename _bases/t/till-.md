@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: till
-type: free
-title: till
 reference_link: https://www.etymonline.com/word/till
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: till
+type: free
 word_sums:
-- sum: 'Till + '
-  respelling: till
+- respelling: till
+  sum: 'Till + '
 ---

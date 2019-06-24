@@ -1,12 +1,13 @@
 ---
-name: yes
-type: free
-title: yes
+category: 3-letters
+denotation: null
+name: 'yes'
 reference_link: https://www.etymonline.com/word/yes
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: true
+type: free
 word_sums:
-- sum: 'Yes + '
-  respelling: yes
+- respelling: true
+  sum: 'Yes + '
 ---

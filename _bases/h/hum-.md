@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: hum
-type: free
-title: hum
 reference_link: https://www.etymonline.com/word/hum
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: hum
+type: free
 word_sums:
-- sum: 'Hum + '
-  respelling: hum
+- respelling: hum
+  sum: 'Hum + '
 ---

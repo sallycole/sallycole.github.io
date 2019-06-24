@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: hoot
-type: free
-title: hoot
 reference_link: https://www.etymonline.com/word/hoot
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: hoot
+type: free
 word_sums:
-- sum: 'Hoot + '
-  respelling: hoot
+- respelling: hoot
+  sum: 'Hoot + '
 ---

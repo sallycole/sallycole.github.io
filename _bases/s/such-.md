@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: such
-type: free
-title: such
 reference_link: https://www.etymonline.com/word/such
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: such
+type: free
 word_sums:
-- sum: 'Such + '
-  respelling: such
+- respelling: such
+  sum: 'Such + '
 ---

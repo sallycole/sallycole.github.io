@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: oxy
-type: free
-title: oxy
 reference_link: https://www.etymonline.com/word/oxy
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: oxy
+type: free
 word_sums:
-- sum: 'Oxy + '
-  respelling: oxy
+- respelling: oxy
+  sum: 'Oxy + '
 ---

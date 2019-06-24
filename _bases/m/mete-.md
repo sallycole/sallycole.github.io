@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: mete
-type: free
-title: mete
 reference_link: https://www.etymonline.com/word/mete
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: mete
+type: free
 word_sums:
-- sum: 'Mete + '
-  respelling: mete
+- respelling: mete
+  sum: 'Mete + '
 ---

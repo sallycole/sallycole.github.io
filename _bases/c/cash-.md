@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: cash
-type: free
-title: cash
 reference_link: https://www.etymonline.com/word/cash
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: cash
+type: free
 word_sums:
-- sum: 'Cash + '
-  respelling: cash
+- respelling: cash
+  sum: 'Cash + '
 ---

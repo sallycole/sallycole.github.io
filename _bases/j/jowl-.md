@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: jowl
-type: free
-title: jowl
 reference_link: https://www.etymonline.com/word/jowl
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: jowl
+type: free
 word_sums:
-- sum: 'Jowl + '
-  respelling: jowl
+- respelling: jowl
+  sum: 'Jowl + '
 ---

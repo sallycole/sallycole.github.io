@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: golf
-type: free
-title: golf
 reference_link: https://www.etymonline.com/word/golf
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: golf
+type: free
 word_sums:
-- sum: 'Golf + '
-  respelling: golf
+- respelling: golf
+  sum: 'Golf + '
 ---

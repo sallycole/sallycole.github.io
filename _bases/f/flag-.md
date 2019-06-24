@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: flag
-type: free
-title: flag
 reference_link: https://www.etymonline.com/word/flag
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: flag
+type: free
 word_sums:
-- sum: 'Flag + '
-  respelling: flag
+- respelling: flag
+  sum: 'Flag + '
 ---

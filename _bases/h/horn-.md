@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: horn
-type: free
-title: horn
 reference_link: https://www.etymonline.com/word/horn
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: horn
+type: free
 word_sums:
-- sum: 'Horn + '
-  respelling: horn
+- respelling: horn
+  sum: 'Horn + '
 ---

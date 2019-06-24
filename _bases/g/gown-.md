@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: gown
-type: free
-title: gown
 reference_link: https://www.etymonline.com/word/gown
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: gown
+type: free
 word_sums:
-- sum: 'Gown + '
-  respelling: gown
+- respelling: gown
+  sum: 'Gown + '
 ---

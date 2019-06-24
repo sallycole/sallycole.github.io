@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: mist
-type: free
-title: mist
 reference_link: https://www.etymonline.com/word/mist
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: mist
+type: free
 word_sums:
-- sum: 'Mist + '
-  respelling: mist
+- respelling: mist
+  sum: 'Mist + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: lope
-type: free
-title: lope
 reference_link: https://www.etymonline.com/word/lope
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: lope
+type: free
 word_sums:
-- sum: 'Lope + '
-  respelling: lope
+- respelling: lope
+  sum: 'Lope + '
 ---

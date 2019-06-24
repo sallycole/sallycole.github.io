@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: knee
-type: free
-title: knee
 reference_link: https://www.etymonline.com/word/knee
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: knee
+type: free
 word_sums:
-- sum: 'Knee + '
-  respelling: knee
+- respelling: knee
+  sum: 'Knee + '
 ---

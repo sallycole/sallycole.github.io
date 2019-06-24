@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: dray
-type: free
-title: dray
 reference_link: https://www.etymonline.com/word/dray
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: dray
+type: free
 word_sums:
-- sum: 'Dray + '
-  respelling: dray
+- respelling: dray
+  sum: 'Dray + '
 ---

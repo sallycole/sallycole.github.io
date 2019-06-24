@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: hyp
-type: free
-title: hyp
 reference_link: https://www.etymonline.com/word/hyp
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: hyp
+type: free
 word_sums:
-- sum: 'Hyp + '
-  respelling: hyp
+- respelling: hyp
+  sum: 'Hyp + '
 ---

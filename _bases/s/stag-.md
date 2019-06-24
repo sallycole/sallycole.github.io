@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: stag
-type: free
-title: stag
 reference_link: https://www.etymonline.com/word/stag
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: stag
+type: free
 word_sums:
-- sum: 'Stag + '
-  respelling: stag
+- respelling: stag
+  sum: 'Stag + '
 ---

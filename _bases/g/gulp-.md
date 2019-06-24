@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: gulp
-type: free
-title: gulp
 reference_link: https://www.etymonline.com/word/gulp
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: gulp
+type: free
 word_sums:
-- sum: 'Gulp + '
-  respelling: gulp
+- respelling: gulp
+  sum: 'Gulp + '
 ---

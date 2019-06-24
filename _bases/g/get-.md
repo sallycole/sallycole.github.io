@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: get
-type: free
-title: get
 reference_link: https://www.etymonline.com/word/get
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: get
+type: free
 word_sums:
-- sum: 'Get + '
-  respelling: get
+- respelling: get
+  sum: 'Get + '
 ---

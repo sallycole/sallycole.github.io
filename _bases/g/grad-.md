@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: grad
-type: free
-title: grad
 reference_link: https://www.etymonline.com/word/grad
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: grad
+type: free
 word_sums:
-- sum: 'Grad + '
-  respelling: grad
+- respelling: grad
+  sum: 'Grad + '
 ---

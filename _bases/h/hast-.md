@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: hast
-type: free
-title: hast
 reference_link: https://www.etymonline.com/word/hast
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: hast
+type: free
 word_sums:
-- sum: 'Hast + '
-  respelling: hast
+- respelling: hast
+  sum: 'Hast + '
 ---

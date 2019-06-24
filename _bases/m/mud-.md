@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: mud
-type: free
-title: mud
 reference_link: https://www.etymonline.com/word/mud
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: mud
+type: free
 word_sums:
-- sum: 'Mud + '
-  respelling: mud
+- respelling: mud
+  sum: 'Mud + '
 ---

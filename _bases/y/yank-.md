@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: yank
-type: free
-title: yank
 reference_link: https://www.etymonline.com/word/yank
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: yank
+type: free
 word_sums:
-- sum: 'Yank + '
-  respelling: yank
+- respelling: yank
+  sum: 'Yank + '
 ---

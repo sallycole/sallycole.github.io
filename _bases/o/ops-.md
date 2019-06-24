@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: ops
-type: free
-title: ops
 reference_link: https://www.etymonline.com/word/ops
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: ops
+type: free
 word_sums:
-- sum: 'Ops + '
-  respelling: ops
+- respelling: ops
+  sum: 'Ops + '
 ---

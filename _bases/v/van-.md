@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: van
-type: free
-title: van
 reference_link: https://www.etymonline.com/word/van
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: van
+type: free
 word_sums:
-- sum: 'Van + '
-  respelling: van
+- respelling: van
+  sum: 'Van + '
 ---

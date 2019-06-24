@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: dear
-type: free
-title: dear
 reference_link: https://www.etymonline.com/word/dear
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: dear
+type: free
 word_sums:
-- sum: 'Dear + '
-  respelling: dear
+- respelling: dear
+  sum: 'Dear + '
 ---

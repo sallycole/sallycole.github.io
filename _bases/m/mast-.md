@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: mast
-type: free
-title: mast
 reference_link: https://www.etymonline.com/word/mast
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: mast
+type: free
 word_sums:
-- sum: 'Mast + '
-  respelling: mast
+- respelling: mast
+  sum: 'Mast + '
 ---

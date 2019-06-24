@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: lone
-type: free
-title: lone
 reference_link: https://www.etymonline.com/word/lone
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: lone
+type: free
 word_sums:
-- sum: 'Lone + '
-  respelling: lone
+- respelling: lone
+  sum: 'Lone + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: slur
-type: free
-title: slur
 reference_link: https://www.etymonline.com/word/slur
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: slur
+type: free
 word_sums:
-- sum: 'Slur + '
-  respelling: slur
+- respelling: slur
+  sum: 'Slur + '
 ---

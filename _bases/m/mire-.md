@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: mire
-type: free
-title: mire
 reference_link: https://www.etymonline.com/word/mire
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: mire
+type: free
 word_sums:
-- sum: 'Mire + '
-  respelling: mire
+- respelling: mire
+  sum: 'Mire + '
 ---

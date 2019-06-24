@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: ill
-type: free
-title: ill
 reference_link: https://www.etymonline.com/word/ill
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: ill
+type: free
 word_sums:
-- sum: 'Ill + '
-  respelling: ill
+- respelling: ill
+  sum: 'Ill + '
 ---

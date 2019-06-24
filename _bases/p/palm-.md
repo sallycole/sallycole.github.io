@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: palm
-type: free
-title: palm
 reference_link: https://www.etymonline.com/word/palm
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: palm
+type: free
 word_sums:
-- sum: 'Palm + '
-  respelling: palm
+- respelling: palm
+  sum: 'Palm + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: scum
-type: free
-title: scum
 reference_link: https://www.etymonline.com/word/scum
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: scum
+type: free
 word_sums:
-- sum: 'Scum + '
-  respelling: scum
+- respelling: scum
+  sum: 'Scum + '
 ---

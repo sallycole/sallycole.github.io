@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: tosh
-type: free
-title: tosh
 reference_link: https://www.etymonline.com/word/tosh
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: tosh
+type: free
 word_sums:
-- sum: 'Tosh + '
-  respelling: tosh
+- respelling: tosh
+  sum: 'Tosh + '
 ---

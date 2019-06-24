@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: cyan
-type: free
-title: cyan
 reference_link: https://www.etymonline.com/word/cyan
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: cyan
+type: free
 word_sums:
-- sum: 'Cyan + '
-  respelling: cyan
+- respelling: cyan
+  sum: 'Cyan + '
 ---

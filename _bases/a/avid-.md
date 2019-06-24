@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: avid
-type: free
-title: avid
 reference_link: https://www.etymonline.com/word/avid
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: avid
+type: free
 word_sums:
-- sum: 'Avid + '
-  respelling: avid
+- respelling: avid
+  sum: 'Avid + '
 ---

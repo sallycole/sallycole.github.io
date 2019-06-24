@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: loom
-type: free
-title: loom
 reference_link: https://www.etymonline.com/word/loom
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: loom
+type: free
 word_sums:
-- sum: 'Loom + '
-  respelling: loom
+- respelling: loom
+  sum: 'Loom + '
 ---

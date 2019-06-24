@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: malt
-type: free
-title: malt
 reference_link: https://www.etymonline.com/word/malt
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: malt
+type: free
 word_sums:
-- sum: 'Malt + '
-  respelling: malt
+- respelling: malt
+  sum: 'Malt + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: wow
-type: free
-title: wow
 reference_link: https://www.etymonline.com/word/wow
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: wow
+type: free
 word_sums:
-- sum: 'Wow + '
-  respelling: wow
+- respelling: wow
+  sum: 'Wow + '
 ---

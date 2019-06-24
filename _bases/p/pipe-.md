@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: pipe
-type: free
-title: pipe
 reference_link: https://www.etymonline.com/word/pipe
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: pipe
+type: free
 word_sums:
-- sum: 'Pipe + '
-  respelling: pipe
+- respelling: pipe
+  sum: 'Pipe + '
 ---

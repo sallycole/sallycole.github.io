@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: flap
-type: free
-title: flap
 reference_link: https://www.etymonline.com/word/flap
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: flap
+type: free
 word_sums:
-- sum: 'Flap + '
-  respelling: flap
+- respelling: flap
+  sum: 'Flap + '
 ---

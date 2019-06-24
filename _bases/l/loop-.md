@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: loop
-type: free
-title: loop
 reference_link: https://www.etymonline.com/word/loop
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: loop
+type: free
 word_sums:
-- sum: 'Loop + '
-  respelling: loop
+- respelling: loop
+  sum: 'Loop + '
 ---

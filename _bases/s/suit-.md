@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: suit
-type: free
-title: suit
 reference_link: https://www.etymonline.com/word/suit
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: suit
+type: free
 word_sums:
-- sum: 'Suit + '
-  respelling: suit
+- respelling: suit
+  sum: 'Suit + '
 ---

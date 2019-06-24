@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: coda
-type: free
-title: coda
 reference_link: https://www.etymonline.com/word/coda
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: coda
+type: free
 word_sums:
-- sum: 'Coda + '
-  respelling: coda
+- respelling: coda
+  sum: 'Coda + '
 ---

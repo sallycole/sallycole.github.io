@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: mig
-type: free
-title: mig
 reference_link: https://www.etymonline.com/word/mig
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: mig
+type: free
 word_sums:
-- sum: 'Mig + '
-  respelling: mig
+- respelling: mig
+  sum: 'Mig + '
 ---

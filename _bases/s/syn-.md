@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: syn
-type: free
-title: syn
 reference_link: https://www.etymonline.com/word/syn
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: syn
+type: free
 word_sums:
-- sum: 'Syn + '
-  respelling: syn
+- respelling: syn
+  sum: 'Syn + '
 ---

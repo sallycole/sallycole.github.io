@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: form
-type: free
-title: form
 reference_link: https://www.etymonline.com/word/form
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: form
+type: free
 word_sums:
-- sum: 'Form + '
-  respelling: form
+- respelling: form
+  sum: 'Form + '
 ---

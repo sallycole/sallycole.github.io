@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: nam
-type: free
-title: nam
 reference_link: https://www.etymonline.com/word/nam
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: nam
+type: free
 word_sums:
-- sum: 'Nam + '
-  respelling: nam
+- respelling: nam
+  sum: 'Nam + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: when
-type: free
-title: when
 reference_link: https://www.etymonline.com/word/when
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: when
+type: free
 word_sums:
-- sum: 'When + '
-  respelling: when
+- respelling: when
+  sum: 'When + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: rude
-type: free
-title: rude
 reference_link: https://www.etymonline.com/word/rude
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: rude
+type: free
 word_sums:
-- sum: 'Rude + '
-  respelling: rude
+- respelling: rude
+  sum: 'Rude + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: howl
-type: free
-title: howl
 reference_link: https://www.etymonline.com/word/howl
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: howl
+type: free
 word_sums:
-- sum: 'Howl + '
-  respelling: howl
+- respelling: howl
+  sum: 'Howl + '
 ---

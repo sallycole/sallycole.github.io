@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: eff
-type: free
-title: eff
 reference_link: https://www.etymonline.com/word/eff
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: eff
+type: free
 word_sums:
-- sum: 'Eff + '
-  respelling: eff
+- respelling: eff
+  sum: 'Eff + '
 ---

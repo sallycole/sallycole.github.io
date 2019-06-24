@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: talc
-type: free
-title: talc
 reference_link: https://www.etymonline.com/word/talc
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: talc
+type: free
 word_sums:
-- sum: 'Talc + '
-  respelling: talc
+- respelling: talc
+  sum: 'Talc + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: beer
-type: free
-title: beer
 reference_link: https://www.etymonline.com/word/beer
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: beer
+type: free
 word_sums:
-- sum: 'Beer + '
-  respelling: beer
+- respelling: beer
+  sum: 'Beer + '
 ---

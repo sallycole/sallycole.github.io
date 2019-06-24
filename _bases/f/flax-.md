@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: flax
-type: free
-title: flax
 reference_link: https://www.etymonline.com/word/flax
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: flax
+type: free
 word_sums:
-- sum: 'Flax + '
-  respelling: flax
+- respelling: flax
+  sum: 'Flax + '
 ---

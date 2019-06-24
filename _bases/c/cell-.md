@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: cell
-type: free
-title: cell
 reference_link: https://www.etymonline.com/word/cell
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: cell
+type: free
 word_sums:
-- sum: 'Cell + '
-  respelling: cell
+- respelling: cell
+  sum: 'Cell + '
 ---

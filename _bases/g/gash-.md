@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: gash
-type: free
-title: gash
 reference_link: https://www.etymonline.com/word/gash
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: gash
+type: free
 word_sums:
-- sum: 'Gash + '
-  respelling: gash
+- respelling: gash
+  sum: 'Gash + '
 ---

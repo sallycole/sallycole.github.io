@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: drip
-type: free
-title: drip
 reference_link: https://www.etymonline.com/word/drip
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: drip
+type: free
 word_sums:
-- sum: 'Drip + '
-  respelling: drip
+- respelling: drip
+  sum: 'Drip + '
 ---

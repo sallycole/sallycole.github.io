@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: mayo
-type: free
-title: mayo
 reference_link: https://www.etymonline.com/word/mayo
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: mayo
+type: free
 word_sums:
-- sum: 'Mayo + '
-  respelling: mayo
+- respelling: mayo
+  sum: 'Mayo + '
 ---

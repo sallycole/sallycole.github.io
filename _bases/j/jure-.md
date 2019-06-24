@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: jure
-type: free
-title: jure
 reference_link: https://www.etymonline.com/word/Jure
-root_name:
-root_language:
-denotation:
+root_language: null
+root_name: null
+title: jure
+type: free
 word_sums:
-- sum: 'Jure + '
-  respelling: Jure
+- respelling: Jure
+  sum: 'Jure + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: pity
-type: free
-title: pity
 reference_link: https://www.etymonline.com/word/pity
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: pity
+type: free
 word_sums:
-- sum: 'Pity + '
-  respelling: pity
+- respelling: pity
+  sum: 'Pity + '
 ---

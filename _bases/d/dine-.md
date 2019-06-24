@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: dine
-type: free
-title: dine
 reference_link: https://www.etymonline.com/word/dine
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: dine
+type: free
 word_sums:
-- sum: 'Dine + '
-  respelling: dine
+- respelling: dine
+  sum: 'Dine + '
 ---

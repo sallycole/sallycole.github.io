@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: some
-type: free
-title: some
 reference_link: https://www.etymonline.com/word/some
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: some
+type: free
 word_sums:
-- sum: 'Some + '
-  respelling: some
+- respelling: some
+  sum: 'Some + '
 ---

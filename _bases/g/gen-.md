@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: gen
-type: free
-title: gen
 reference_link: https://www.etymonline.com/word/gen
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: gen
+type: free
 word_sums:
-- sum: 'Gen + '
-  respelling: gen
+- respelling: gen
+  sum: 'Gen + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: beta
-type: free
-title: beta
 reference_link: https://www.etymonline.com/word/beta
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: beta
+type: free
 word_sums:
-- sum: 'Beta + '
-  respelling: beta
+- respelling: beta
+  sum: 'Beta + '
 ---

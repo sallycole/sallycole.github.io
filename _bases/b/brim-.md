@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: brim
-type: free
-title: brim
 reference_link: https://www.etymonline.com/word/brim
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: brim
+type: free
 word_sums:
-- sum: 'Brim + '
-  respelling: brim
+- respelling: brim
+  sum: 'Brim + '
 ---

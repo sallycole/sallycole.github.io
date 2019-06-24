@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: wart
-type: free
-title: wart
 reference_link: https://www.etymonline.com/word/wart
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: wart
+type: free
 word_sums:
-- sum: 'Wart + '
-  respelling: wart
+- respelling: wart
+  sum: 'Wart + '
 ---

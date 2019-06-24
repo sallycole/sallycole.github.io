@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: gie
-type: free
-title: gie
 reference_link: https://www.etymonline.com/word/gie
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: gie
+type: free
 word_sums:
-- sum: 'Gie + '
-  respelling: gie
+- respelling: gie
+  sum: 'Gie + '
 ---

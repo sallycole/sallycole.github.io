@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: gear
-type: free
-title: gear
 reference_link: https://www.etymonline.com/word/gear
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: gear
+type: free
 word_sums:
-- sum: 'Gear + '
-  respelling: gear
+- respelling: gear
+  sum: 'Gear + '
 ---

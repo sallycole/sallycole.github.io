@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: ick
-type: free
-title: ick
 reference_link: https://www.etymonline.com/word/ick
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: ick
+type: free
 word_sums:
-- sum: 'Ick + '
-  respelling: ick
+- respelling: ick
+  sum: 'Ick + '
 ---

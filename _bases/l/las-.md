@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: las
-type: free
-title: las
 reference_link: https://www.etymonline.com/word/las
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: las
+type: free
 word_sums:
-- sum: 'Las + '
-  respelling: las
+- respelling: las
+  sum: 'Las + '
 ---

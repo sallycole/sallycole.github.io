@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: oboe
-type: free
-title: oboe
 reference_link: https://www.etymonline.com/word/oboe
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: oboe
+type: free
 word_sums:
-- sum: 'Oboe + '
-  respelling: oboe
+- respelling: oboe
+  sum: 'Oboe + '
 ---

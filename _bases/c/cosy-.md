@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: cosy
-type: free
-title: cosy
 reference_link: https://www.etymonline.com/word/cosy
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: cosy
+type: free
 word_sums:
-- sum: 'Cosy + '
-  respelling: cosy
+- respelling: cosy
+  sum: 'Cosy + '
 ---

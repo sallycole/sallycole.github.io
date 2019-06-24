@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: boll
-type: free
-title: boll
 reference_link: https://www.etymonline.com/word/boll
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: boll
+type: free
 word_sums:
-- sum: 'Boll + '
-  respelling: boll
+- respelling: boll
+  sum: 'Boll + '
 ---

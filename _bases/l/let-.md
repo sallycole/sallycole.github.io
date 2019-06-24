@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: let
-type: free
-title: let
 reference_link: https://www.etymonline.com/word/let
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: let
+type: free
 word_sums:
-- sum: 'Let + '
-  respelling: let
+- respelling: let
+  sum: 'Let + '
 ---

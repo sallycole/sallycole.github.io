@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: mug
-type: free
-title: mug
 reference_link: https://www.etymonline.com/word/mug
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: mug
+type: free
 word_sums:
-- sum: 'Mug + '
-  respelling: mug
+- respelling: mug
+  sum: 'Mug + '
 ---

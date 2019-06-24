@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: mob
-type: free
-title: mob
 reference_link: https://www.etymonline.com/word/mob
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: mob
+type: free
 word_sums:
-- sum: 'Mob + '
-  respelling: mob
+- respelling: mob
+  sum: 'Mob + '
 ---

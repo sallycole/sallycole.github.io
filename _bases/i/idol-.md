@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: idol
-type: free
-title: idol
 reference_link: https://www.etymonline.com/word/idol
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: idol
+type: free
 word_sums:
-- sum: 'Idol + '
-  respelling: idol
+- respelling: idol
+  sum: 'Idol + '
 ---

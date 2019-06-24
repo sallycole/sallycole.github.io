@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: gin
-type: free
-title: gin
 reference_link: https://www.etymonline.com/word/gin
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: gin
+type: free
 word_sums:
-- sum: 'Gin + '
-  respelling: gin
+- respelling: gin
+  sum: 'Gin + '
 ---

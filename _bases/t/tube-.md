@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: tube
-type: free
-title: tube
 reference_link: https://www.etymonline.com/word/tube
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: tube
+type: free
 word_sums:
-- sum: 'Tube + '
-  respelling: tube
+- respelling: tube
+  sum: 'Tube + '
 ---

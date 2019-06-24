@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: jolt
-type: free
-title: jolt
 reference_link: https://www.etymonline.com/word/jolt
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: jolt
+type: free
 word_sums:
-- sum: 'Jolt + '
-  respelling: jolt
+- respelling: jolt
+  sum: 'Jolt + '
 ---

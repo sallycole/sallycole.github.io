@@ -1,34 +1,35 @@
 ---
+category: 3-letters
+denotation: ant
 name: ant
+reference_link: https://www.etymonline.com/word/ant
+root_language: Old English
+root_name: æmette
 title: ant
 type: free
-reference_link: https://www.etymonline.com/word/ant
-root_name: æmette
-root_language: Old English
-denotation: ant
 word_sums:
-- sum: 'Ant + s'
-  respelling: ants
-- sum: 'Ant + s + y'
-  respelling: antsy
-- sum: 'Piss + Ant'
-  respelling: pissant
-- sum: 'Piss + Ant + s'
-  respelling: pissants
-- sum: 'Ant + Eat + er'
-  respelling: anteater
-- sum: 'Ant + Eat + er + s'
-  respelling: anteaters
-- sum: 'Ant + Lion'
-  respelling: antlion
-- sum: 'Ant + Lion + s'
-  respelling: antlions
-- sum: 'Ant + Bird'
-  respelling: antbird
-- sum: 'Ant + Bird+ s'
-  respelling: antbirds
-- sum: 'Ant + Hill'
-  respelling: anthill
-- sum: 'Ant + Hill + s'
-  respelling: anthills
+- respelling: ants
+  sum: Ant + s
+- respelling: antsy
+  sum: Ant + s + y
+- respelling: pissant
+  sum: Piss + Ant
+- respelling: pissants
+  sum: Piss + Ant + s
+- respelling: anteater
+  sum: Ant + Eat + er
+- respelling: anteaters
+  sum: Ant + Eat + er + s
+- respelling: antlion
+  sum: Ant + Lion
+- respelling: antlions
+  sum: Ant + Lion + s
+- respelling: antbird
+  sum: Ant + Bird
+- respelling: antbirds
+  sum: Ant + Bird+ s
+- respelling: anthill
+  sum: Ant + Hill
+- respelling: anthills
+  sum: Ant + Hill + s
 ---

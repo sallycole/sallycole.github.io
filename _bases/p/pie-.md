@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: pie
-type: free
-title: pie
 reference_link: https://www.etymonline.com/word/pie
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: pie
+type: free
 word_sums:
-- sum: 'Pie + '
-  respelling: pie
+- respelling: pie
+  sum: 'Pie + '
 ---

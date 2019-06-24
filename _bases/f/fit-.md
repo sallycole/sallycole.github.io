@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: fit
-type: free
-title: fit
 reference_link: https://www.etymonline.com/word/fit
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: fit
+type: free
 word_sums:
-- sum: 'Fit + '
-  respelling: fit
+- respelling: fit
+  sum: 'Fit + '
 ---

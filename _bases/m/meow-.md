@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: meow
-type: free
-title: meow
 reference_link: https://www.etymonline.com/word/meow
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: meow
+type: free
 word_sums:
-- sum: 'Meow + '
-  respelling: meow
+- respelling: meow
+  sum: 'Meow + '
 ---

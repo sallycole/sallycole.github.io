@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: walk
-type: free
-title: walk
 reference_link: https://www.etymonline.com/word/walk
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: walk
+type: free
 word_sums:
-- sum: 'Walk + '
-  respelling: walk
+- respelling: walk
+  sum: 'Walk + '
 ---

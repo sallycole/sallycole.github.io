@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: park
-type: free
-title: park
 reference_link: https://www.etymonline.com/word/park
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: park
+type: free
 word_sums:
-- sum: 'Park + '
-  respelling: park
+- respelling: park
+  sum: 'Park + '
 ---

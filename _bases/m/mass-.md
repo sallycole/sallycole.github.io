@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: mass
-type: free
-title: mass
 reference_link: https://www.etymonline.com/word/mass
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: mass
+type: free
 word_sums:
-- sum: 'Mass + '
-  respelling: mass
+- respelling: mass
+  sum: 'Mass + '
 ---

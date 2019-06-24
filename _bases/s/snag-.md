@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: snag
-type: free
-title: snag
 reference_link: https://www.etymonline.com/word/snag
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: snag
+type: free
 word_sums:
-- sum: 'Snag + '
-  respelling: snag
+- respelling: snag
+  sum: 'Snag + '
 ---

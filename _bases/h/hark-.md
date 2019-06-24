@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: hark
-type: free
-title: hark
 reference_link: https://www.etymonline.com/word/hark
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: hark
+type: free
 word_sums:
-- sum: 'Hark + '
-  respelling: hark
+- respelling: hark
+  sum: 'Hark + '
 ---

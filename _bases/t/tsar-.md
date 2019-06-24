@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: tsar
-type: free
-title: tsar
 reference_link: https://www.etymonline.com/word/tsar
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: tsar
+type: free
 word_sums:
-- sum: 'Tsar + '
-  respelling: tsar
+- respelling: tsar
+  sum: 'Tsar + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: haze
-type: free
-title: haze
 reference_link: https://www.etymonline.com/word/haze
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: haze
+type: free
 word_sums:
-- sum: 'Haze + '
-  respelling: haze
+- respelling: haze
+  sum: 'Haze + '
 ---

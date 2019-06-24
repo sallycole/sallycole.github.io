@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: mime
-type: free
-title: mime
 reference_link: https://www.etymonline.com/word/mime
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: mime
+type: free
 word_sums:
-- sum: 'Mime + '
-  respelling: mime
+- respelling: mime
+  sum: 'Mime + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: hung
-type: free
-title: hung
 reference_link: https://www.etymonline.com/word/hung
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: hung
+type: free
 word_sums:
-- sum: 'Hung + '
-  respelling: hung
+- respelling: hung
+  sum: 'Hung + '
 ---

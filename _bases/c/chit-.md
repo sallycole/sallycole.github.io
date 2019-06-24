@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: chit
-type: free
-title: chit
 reference_link: https://www.etymonline.com/word/chit
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: chit
+type: free
 word_sums:
-- sum: 'Chit + '
-  respelling: chit
+- respelling: chit
+  sum: 'Chit + '
 ---

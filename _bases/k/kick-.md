@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: kick
-type: free
-title: kick
 reference_link: https://www.etymonline.com/word/kick
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: kick
+type: free
 word_sums:
-- sum: 'Kick + '
-  respelling: kick
+- respelling: kick
+  sum: 'Kick + '
 ---

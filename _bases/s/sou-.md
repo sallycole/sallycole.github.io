@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: sou
-type: free
-title: sou
 reference_link: https://www.etymonline.com/word/sou
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: sou
+type: free
 word_sums:
-- sum: 'Sou + '
-  respelling: sou
+- respelling: sou
+  sum: 'Sou + '
 ---

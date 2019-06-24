@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: bean
-type: free
-title: bean
 reference_link: https://www.etymonline.com/word/bean
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: bean
+type: free
 word_sums:
-- sum: 'Bean + '
-  respelling: bean
+- respelling: bean
+  sum: 'Bean + '
 ---

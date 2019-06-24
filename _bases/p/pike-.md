@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: pike
-type: free
-title: pike
 reference_link: https://www.etymonline.com/word/pike
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: pike
+type: free
 word_sums:
-- sum: 'Pike + '
-  respelling: pike
+- respelling: pike
+  sum: 'Pike + '
 ---

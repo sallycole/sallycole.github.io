@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: weep
-type: free
-title: weep
 reference_link: https://www.etymonline.com/word/weep
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: weep
+type: free
 word_sums:
-- sum: 'Weep + '
-  respelling: weep
+- respelling: weep
+  sum: 'Weep + '
 ---

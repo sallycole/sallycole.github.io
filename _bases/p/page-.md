@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: page
-type: free
-title: page
 reference_link: https://www.etymonline.com/word/page
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: page
+type: free
 word_sums:
-- sum: 'Page + '
-  respelling: page
+- respelling: page
+  sum: 'Page + '
 ---

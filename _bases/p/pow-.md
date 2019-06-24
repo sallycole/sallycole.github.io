@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: pow
-type: free
-title: pow
 reference_link: https://www.etymonline.com/word/pow
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: pow
+type: free
 word_sums:
-- sum: 'Pow + '
-  respelling: pow
+- respelling: pow
+  sum: 'Pow + '
 ---

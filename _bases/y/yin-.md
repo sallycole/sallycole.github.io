@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: yin
-type: free
-title: yin
 reference_link: https://www.etymonline.com/word/yin
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: yin
+type: free
 word_sums:
-- sum: 'Yin + '
-  respelling: yin
+- respelling: yin
+  sum: 'Yin + '
 ---

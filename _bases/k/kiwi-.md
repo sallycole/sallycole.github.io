@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: kiwi
-type: free
-title: kiwi
 reference_link: https://www.etymonline.com/word/kiwi
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: kiwi
+type: free
 word_sums:
-- sum: 'Kiwi + '
-  respelling: kiwi
+- respelling: kiwi
+  sum: 'Kiwi + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: boa
-type: free
-title: boa
 reference_link: https://www.etymonline.com/word/boa
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: boa
+type: free
 word_sums:
-- sum: 'Boa + '
-  respelling: boa
+- respelling: boa
+  sum: 'Boa + '
 ---

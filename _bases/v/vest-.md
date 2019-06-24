@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: vest
-type: free
-title: vest
 reference_link: https://www.etymonline.com/word/vest
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: vest
+type: free
 word_sums:
-- sum: 'Vest + '
-  respelling: vest
+- respelling: vest
+  sum: 'Vest + '
 ---

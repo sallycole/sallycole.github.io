@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: team
-type: free
-title: team
 reference_link: https://www.etymonline.com/word/team
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: team
+type: free
 word_sums:
-- sum: 'Team + '
-  respelling: team
+- respelling: team
+  sum: 'Team + '
 ---

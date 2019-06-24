@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: lard
-type: free
-title: lard
 reference_link: https://www.etymonline.com/word/lard
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: lard
+type: free
 word_sums:
-- sum: 'Lard + '
-  respelling: lard
+- respelling: lard
+  sum: 'Lard + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: aft
-type: free
-title: aft
 reference_link: https://www.etymonline.com/word/aft
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: aft
+type: free
 word_sums:
-- sum: 'Aft + '
-  respelling: aft
+- respelling: aft
+  sum: 'Aft + '
 ---

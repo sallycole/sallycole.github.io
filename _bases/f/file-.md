@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: file
-type: free
-title: file
 reference_link: https://www.etymonline.com/word/file
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: file
+type: free
 word_sums:
-- sum: 'File + '
-  respelling: file
+- respelling: file
+  sum: 'File + '
 ---

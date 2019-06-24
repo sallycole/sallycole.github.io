@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: dow
-type: free
-title: dow
 reference_link: https://www.etymonline.com/word/dow
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: dow
+type: free
 word_sums:
-- sum: 'Dow + '
-  respelling: dow
+- respelling: dow
+  sum: 'Dow + '
 ---

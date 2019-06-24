@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: ugly
-type: free
-title: ugly
 reference_link: https://www.etymonline.com/word/ugly
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: ugly
+type: free
 word_sums:
-- sum: 'Ugly + '
-  respelling: ugly
+- respelling: ugly
+  sum: 'Ugly + '
 ---

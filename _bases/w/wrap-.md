@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: wrap
-type: free
-title: wrap
 reference_link: https://www.etymonline.com/word/wrap
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: wrap
+type: free
 word_sums:
-- sum: 'Wrap + '
-  respelling: wrap
+- respelling: wrap
+  sum: 'Wrap + '
 ---

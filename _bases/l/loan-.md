@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: loan
-type: free
-title: loan
 reference_link: https://www.etymonline.com/word/loan
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: loan
+type: free
 word_sums:
-- sum: 'Loan + '
-  respelling: loan
+- respelling: loan
+  sum: 'Loan + '
 ---

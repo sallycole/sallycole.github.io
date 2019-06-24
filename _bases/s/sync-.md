@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: sync
-type: free
-title: sync
 reference_link: https://www.etymonline.com/word/sync
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: sync
+type: free
 word_sums:
-- sum: 'Sync + '
-  respelling: sync
+- respelling: sync
+  sum: 'Sync + '
 ---

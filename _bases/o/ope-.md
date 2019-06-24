@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: ope
-type: free
-title: ope
 reference_link: https://www.etymonline.com/word/ope
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: ope
+type: free
 word_sums:
-- sum: 'Ope + '
-  respelling: ope
+- respelling: ope
+  sum: 'Ope + '
 ---

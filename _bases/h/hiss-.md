@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: hiss
-type: free
-title: hiss
 reference_link: https://www.etymonline.com/word/hiss
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: hiss
+type: free
 word_sums:
-- sum: 'Hiss + '
-  respelling: hiss
+- respelling: hiss
+  sum: 'Hiss + '
 ---

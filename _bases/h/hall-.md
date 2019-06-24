@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: hall
-type: free
-title: hall
 reference_link: https://www.etymonline.com/word/hall
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: hall
+type: free
 word_sums:
-- sum: 'Hall + '
-  respelling: hall
+- respelling: hall
+  sum: 'Hall + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: pain
-type: free
-title: pain
 reference_link: https://www.etymonline.com/word/pain
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: pain
+type: free
 word_sums:
-- sum: 'Pain + '
-  respelling: pain
+- respelling: pain
+  sum: 'Pain + '
 ---

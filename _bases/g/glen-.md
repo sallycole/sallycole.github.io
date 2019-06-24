@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: glen
-type: free
-title: glen
 reference_link: https://www.etymonline.com/word/glen
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: glen
+type: free
 word_sums:
-- sum: 'Glen + '
-  respelling: glen
+- respelling: glen
+  sum: 'Glen + '
 ---

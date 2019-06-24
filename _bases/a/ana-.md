@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: ana
-type: free
-title: ana
 reference_link: https://www.etymonline.com/word/ana
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: ana
+type: free
 word_sums:
-- sum: 'Ana + '
-  respelling: ana
+- respelling: ana
+  sum: 'Ana + '
 ---

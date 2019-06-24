@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: rat
-type: free
-title: rat
 reference_link: https://www.etymonline.com/word/rat
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: rat
+type: free
 word_sums:
-- sum: 'Rat + '
-  respelling: rat
+- respelling: rat
+  sum: 'Rat + '
 ---

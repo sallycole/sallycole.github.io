@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: lop
-type: free
-title: lop
 reference_link: https://www.etymonline.com/word/lop
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: lop
+type: free
 word_sums:
-- sum: 'Lop + '
-  respelling: lop
+- respelling: lop
+  sum: 'Lop + '
 ---

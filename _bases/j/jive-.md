@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: jive
-type: free
-title: jive
 reference_link: https://www.etymonline.com/word/jive
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: jive
+type: free
 word_sums:
-- sum: 'Jive + '
-  respelling: jive
+- respelling: jive
+  sum: 'Jive + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: pole
-type: free
-title: pole
 reference_link: https://www.etymonline.com/word/pole
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: pole
+type: free
 word_sums:
-- sum: 'Pole + '
-  respelling: pole
+- respelling: pole
+  sum: 'Pole + '
 ---

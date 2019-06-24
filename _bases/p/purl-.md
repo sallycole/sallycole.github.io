@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: purl
-type: free
-title: purl
 reference_link: https://www.etymonline.com/word/purl
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: purl
+type: free
 word_sums:
-- sum: 'Purl + '
-  respelling: purl
+- respelling: purl
+  sum: 'Purl + '
 ---

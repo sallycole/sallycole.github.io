@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: loth
-type: free
-title: loth
 reference_link: https://www.etymonline.com/word/loth
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: loth
+type: free
 word_sums:
-- sum: 'Loth + '
-  respelling: loth
+- respelling: loth
+  sum: 'Loth + '
 ---

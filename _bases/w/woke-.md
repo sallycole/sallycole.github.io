@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: woke
-type: free
-title: woke
 reference_link: https://www.etymonline.com/word/woke
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: woke
+type: free
 word_sums:
-- sum: 'Woke + '
-  respelling: woke
+- respelling: woke
+  sum: 'Woke + '
 ---

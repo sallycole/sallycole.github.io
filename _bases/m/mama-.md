@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: mama
-type: free
-title: mama
 reference_link: https://www.etymonline.com/word/mama
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: mama
+type: free
 word_sums:
-- sum: 'Mama + '
-  respelling: mama
+- respelling: mama
+  sum: 'Mama + '
 ---

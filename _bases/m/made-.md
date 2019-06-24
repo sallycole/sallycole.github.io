@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: made
-type: free
-title: made
 reference_link: https://www.etymonline.com/word/made
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: made
+type: free
 word_sums:
-- sum: 'Made + '
-  respelling: made
+- respelling: made
+  sum: 'Made + '
 ---

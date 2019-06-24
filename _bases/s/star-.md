@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: star
-type: free
-title: star
 reference_link: https://www.etymonline.com/word/star
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: star
+type: free
 word_sums:
-- sum: 'Star + '
-  respelling: star
+- respelling: star
+  sum: 'Star + '
 ---

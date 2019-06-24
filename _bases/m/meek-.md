@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: meek
-type: free
-title: meek
 reference_link: https://www.etymonline.com/word/meek
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: meek
+type: free
 word_sums:
-- sum: 'Meek + '
-  respelling: meek
+- respelling: meek
+  sum: 'Meek + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: pic
-type: free
-title: pic
 reference_link: https://www.etymonline.com/word/pic
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: pic
+type: free
 word_sums:
-- sum: 'Pic + '
-  respelling: pic
+- respelling: pic
+  sum: 'Pic + '
 ---

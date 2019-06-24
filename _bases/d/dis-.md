@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: dis
-type: free
-title: dis
 reference_link: https://www.etymonline.com/word/dis
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: dis
+type: free
 word_sums:
-- sum: 'Dis + '
-  respelling: dis
+- respelling: dis
+  sum: 'Dis + '
 ---

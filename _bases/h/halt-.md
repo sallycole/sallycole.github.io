@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: halt
-type: free
-title: halt
 reference_link: https://www.etymonline.com/word/halt
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: halt
+type: free
 word_sums:
-- sum: 'Halt + '
-  respelling: halt
+- respelling: halt
+  sum: 'Halt + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: fou
-type: free
-title: fou
 reference_link: https://www.etymonline.com/word/fou
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: fou
+type: free
 word_sums:
-- sum: 'Fou + '
-  respelling: fou
+- respelling: fou
+  sum: 'Fou + '
 ---

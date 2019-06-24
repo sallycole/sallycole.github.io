@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: bed
-type: free
-title: bed
 reference_link: https://www.etymonline.com/word/bed
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: bed
+type: free
 word_sums:
-- sum: 'Bed + '
-  respelling: bed
+- respelling: bed
+  sum: 'Bed + '
 ---

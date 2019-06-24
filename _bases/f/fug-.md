@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: fug
-type: free
-title: fug
 reference_link: https://www.etymonline.com/word/fug
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: fug
+type: free
 word_sums:
-- sum: 'Fug + '
-  respelling: fug
+- respelling: fug
+  sum: 'Fug + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: man
-type: free
-title: man
 reference_link: https://www.etymonline.com/word/man
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: man
+type: free
 word_sums:
-- sum: 'Man + '
-  respelling: man
+- respelling: man
+  sum: 'Man + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: crux
-type: free
-title: crux
 reference_link: https://www.etymonline.com/word/crux
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: crux
+type: free
 word_sums:
-- sum: 'Crux + '
-  respelling: crux
+- respelling: crux
+  sum: 'Crux + '
 ---

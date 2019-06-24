@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: pelt
-type: free
-title: pelt
 reference_link: https://www.etymonline.com/word/pelt
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: pelt
+type: free
 word_sums:
-- sum: 'Pelt + '
-  respelling: pelt
+- respelling: pelt
+  sum: 'Pelt + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: ogle
-type: free
-title: ogle
 reference_link: https://www.etymonline.com/word/ogle
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: ogle
+type: free
 word_sums:
-- sum: 'Ogle + '
-  respelling: ogle
+- respelling: ogle
+  sum: 'Ogle + '
 ---

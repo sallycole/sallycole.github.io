@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: rang
-type: free
-title: rang
 reference_link: https://www.etymonline.com/word/rang
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: rang
+type: free
 word_sums:
-- sum: 'Rang + '
-  respelling: rang
+- respelling: rang
+  sum: 'Rang + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: wail
-type: free
-title: wail
 reference_link: https://www.etymonline.com/word/wail
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: wail
+type: free
 word_sums:
-- sum: 'Wail + '
-  respelling: wail
+- respelling: wail
+  sum: 'Wail + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: qis
-type: free
-title: qis
 reference_link: https://www.etymonline.com/word/qis
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: qis
+type: free
 word_sums:
-- sum: 'Qis + '
-  respelling: qis
+- respelling: qis
+  sum: 'Qis + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: list
-type: free
-title: list
 reference_link: https://www.etymonline.com/word/list
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: list
+type: free
 word_sums:
-- sum: 'List + '
-  respelling: list
+- respelling: list
+  sum: 'List + '
 ---

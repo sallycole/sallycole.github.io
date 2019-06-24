@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: were
-type: free
-title: were
 reference_link: https://www.etymonline.com/word/were
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: were
+type: free
 word_sums:
-- sum: 'Were + '
-  respelling: were
+- respelling: were
+  sum: 'Were + '
 ---

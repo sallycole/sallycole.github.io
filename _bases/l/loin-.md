@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: loin
-type: free
-title: loin
 reference_link: https://www.etymonline.com/word/loin
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: loin
+type: free
 word_sums:
-- sum: 'Loin + '
-  respelling: loin
+- respelling: loin
+  sum: 'Loin + '
 ---

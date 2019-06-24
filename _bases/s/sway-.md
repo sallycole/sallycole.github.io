@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: sway
-type: free
-title: sway
 reference_link: https://www.etymonline.com/word/sway
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: sway
+type: free
 word_sums:
-- sum: 'Sway + '
-  respelling: sway
+- respelling: sway
+  sum: 'Sway + '
 ---

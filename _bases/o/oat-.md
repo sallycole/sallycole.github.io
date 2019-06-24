@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: oat
-type: free
-title: oat
 reference_link: https://www.etymonline.com/word/oat
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: oat
+type: free
 word_sums:
-- sum: 'Oat + '
-  respelling: oat
+- respelling: oat
+  sum: 'Oat + '
 ---

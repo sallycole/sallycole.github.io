@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: gulf
-type: free
-title: gulf
 reference_link: https://www.etymonline.com/word/gulf
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: gulf
+type: free
 word_sums:
-- sum: 'Gulf + '
-  respelling: gulf
+- respelling: gulf
+  sum: 'Gulf + '
 ---

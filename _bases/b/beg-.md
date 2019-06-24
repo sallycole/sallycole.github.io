@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: beg
-type: free
-title: beg
 reference_link: https://www.etymonline.com/word/beg
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: beg
+type: free
 word_sums:
-- sum: 'Beg + '
-  respelling: beg
+- respelling: beg
+  sum: 'Beg + '
 ---

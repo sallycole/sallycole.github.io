@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: for
-type: free
-title: for
 reference_link: https://www.etymonline.com/word/for
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: for
+type: free
 word_sums:
-- sum: 'For + '
-  respelling: for
+- respelling: for
+  sum: 'For + '
 ---

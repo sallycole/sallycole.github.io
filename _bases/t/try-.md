@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: try
-type: free
-title: try
 reference_link: https://www.etymonline.com/word/try
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: try
+type: free
 word_sums:
-- sum: 'Try + '
-  respelling: try
+- respelling: try
+  sum: 'Try + '
 ---

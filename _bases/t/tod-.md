@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: tod
-type: free
-title: tod
 reference_link: https://www.etymonline.com/word/tod
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: tod
+type: free
 word_sums:
-- sum: 'Tod + '
-  respelling: tod
+- respelling: tod
+  sum: 'Tod + '
 ---

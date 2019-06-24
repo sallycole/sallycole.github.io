@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: puss
-type: free
-title: puss
 reference_link: https://www.etymonline.com/word/puss
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: puss
+type: free
 word_sums:
-- sum: 'Puss + '
-  respelling: puss
+- respelling: puss
+  sum: 'Puss + '
 ---

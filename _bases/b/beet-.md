@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: beet
-type: free
-title: beet
 reference_link: https://www.etymonline.com/word/beet
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: beet
+type: free
 word_sums:
-- sum: 'Beet + '
-  respelling: beet
+- respelling: beet
+  sum: 'Beet + '
 ---

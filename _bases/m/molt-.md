@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: molt
-type: free
-title: molt
 reference_link: https://www.etymonline.com/word/molt
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: molt
+type: free
 word_sums:
-- sum: 'Molt + '
-  respelling: molt
+- respelling: molt
+  sum: 'Molt + '
 ---

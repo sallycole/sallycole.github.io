@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: fuel
-type: free
-title: fuel
 reference_link: https://www.etymonline.com/word/fuel
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: fuel
+type: free
 word_sums:
-- sum: 'Fuel + '
-  respelling: fuel
+- respelling: fuel
+  sum: 'Fuel + '
 ---

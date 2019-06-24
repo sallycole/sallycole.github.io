@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: barn
-type: free
-title: barn
 reference_link: https://www.etymonline.com/word/barn
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: barn
+type: free
 word_sums:
-- sum: 'Barn + '
-  respelling: barn
+- respelling: barn
+  sum: 'Barn + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: fay
-type: free
-title: fay
 reference_link: https://www.etymonline.com/word/fay
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: fay
+type: free
 word_sums:
-- sum: 'Fay + '
-  respelling: fay
+- respelling: fay
+  sum: 'Fay + '
 ---

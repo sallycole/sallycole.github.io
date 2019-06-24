@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: seep
-type: free
-title: seep
 reference_link: https://www.etymonline.com/word/seep
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: seep
+type: free
 word_sums:
-- sum: 'Seep + '
-  respelling: seep
+- respelling: seep
+  sum: 'Seep + '
 ---

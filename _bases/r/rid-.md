@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: rid
-type: free
-title: rid
 reference_link: https://www.etymonline.com/word/rid
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: rid
+type: free
 word_sums:
-- sum: 'Rid + '
-  respelling: rid
+- respelling: rid
+  sum: 'Rid + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: sac
-type: free
-title: sac
 reference_link: https://www.etymonline.com/word/sac
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: sac
+type: free
 word_sums:
-- sum: 'Sac + '
-  respelling: sac
+- respelling: sac
+  sum: 'Sac + '
 ---

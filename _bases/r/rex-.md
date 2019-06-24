@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: rex
-type: free
-title: rex
 reference_link: https://www.etymonline.com/word/rex
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: rex
+type: free
 word_sums:
-- sum: 'Rex + '
-  respelling: rex
+- respelling: rex
+  sum: 'Rex + '
 ---

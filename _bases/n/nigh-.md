@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: nigh
-type: free
-title: nigh
 reference_link: https://www.etymonline.com/word/nigh
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: nigh
+type: free
 word_sums:
-- sum: 'Nigh + '
-  respelling: nigh
+- respelling: nigh
+  sum: 'Nigh + '
 ---

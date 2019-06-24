@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: bulb
-type: free
-title: bulb
 reference_link: https://www.etymonline.com/word/bulb
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: bulb
+type: free
 word_sums:
-- sum: 'Bulb + '
-  respelling: bulb
+- respelling: bulb
+  sum: 'Bulb + '
 ---

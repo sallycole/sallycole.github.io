@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: writ
-type: free
-title: writ
 reference_link: https://www.etymonline.com/word/writ
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: writ
+type: free
 word_sums:
-- sum: 'Writ + '
-  respelling: writ
+- respelling: writ
+  sum: 'Writ + '
 ---

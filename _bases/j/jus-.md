@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: jus
-type: free
-title: jus
 reference_link: https://www.etymonline.com/word/jus
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: jus
+type: free
 word_sums:
-- sum: 'Jus + '
-  respelling: jus
+- respelling: jus
+  sum: 'Jus + '
 ---

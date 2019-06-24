@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: eat
-type: free
-title: eat
 reference_link: https://www.etymonline.com/word/eat
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: eat
+type: free
 word_sums:
-- sum: 'Eat + '
-  respelling: eat
+- respelling: eat
+  sum: 'Eat + '
 ---

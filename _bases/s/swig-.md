@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: swig
-type: free
-title: swig
 reference_link: https://www.etymonline.com/word/swig
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: swig
+type: free
 word_sums:
-- sum: 'Swig + '
-  respelling: swig
+- respelling: swig
+  sum: 'Swig + '
 ---

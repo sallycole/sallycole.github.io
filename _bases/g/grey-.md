@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: grey
-type: free
-title: grey
 reference_link: https://www.etymonline.com/word/grey
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: grey
+type: free
 word_sums:
-- sum: 'Grey + '
-  respelling: grey
+- respelling: grey
+  sum: 'Grey + '
 ---

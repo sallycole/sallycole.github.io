@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: she
-type: free
-title: she
 reference_link: https://www.etymonline.com/word/she
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: she
+type: free
 word_sums:
-- sum: 'She + '
-  respelling: she
+- respelling: she
+  sum: 'She + '
 ---

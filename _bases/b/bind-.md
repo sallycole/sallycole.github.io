@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: bind
-type: free
-title: bind
 reference_link: https://www.etymonline.com/word/bind
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: bind
+type: free
 word_sums:
-- sum: 'Bind + '
-  respelling: bind
+- respelling: bind
+  sum: 'Bind + '
 ---

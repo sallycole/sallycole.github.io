@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: lust
-type: free
-title: lust
 reference_link: https://www.etymonline.com/word/lust
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: lust
+type: free
 word_sums:
-- sum: 'Lust + '
-  respelling: lust
+- respelling: lust
+  sum: 'Lust + '
 ---

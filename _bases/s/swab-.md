@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: swab
-type: free
-title: swab
 reference_link: https://www.etymonline.com/word/swab
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: swab
+type: free
 word_sums:
-- sum: 'Swab + '
-  respelling: swab
+- respelling: swab
+  sum: 'Swab + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: dub
-type: free
-title: dub
 reference_link: https://www.etymonline.com/word/dub
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: dub
+type: free
 word_sums:
-- sum: 'Dub + '
-  respelling: dub
+- respelling: dub
+  sum: 'Dub + '
 ---

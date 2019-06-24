@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: sha
-type: free
-title: sha
 reference_link: https://www.etymonline.com/word/sha
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: sha
+type: free
 word_sums:
-- sum: 'Sha + '
-  respelling: sha
+- respelling: sha
+  sum: 'Sha + '
 ---

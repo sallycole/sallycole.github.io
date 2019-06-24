@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: ala
-type: free
-title: ala
 reference_link: https://www.etymonline.com/word/ala
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: ala
+type: free
 word_sums:
-- sum: 'Ala + '
-  respelling: ala
+- respelling: ala
+  sum: 'Ala + '
 ---

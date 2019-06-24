@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: con
-type: free
-title: con
 reference_link: https://www.etymonline.com/word/con
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: con
+type: free
 word_sums:
-- sum: 'Con + '
-  respelling: con
+- respelling: con
+  sum: 'Con + '
 ---

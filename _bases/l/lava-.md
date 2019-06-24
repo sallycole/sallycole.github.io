@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: lava
-type: free
-title: lava
 reference_link: https://www.etymonline.com/word/lava
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: lava
+type: free
 word_sums:
-- sum: 'Lava + '
-  respelling: lava
+- respelling: lava
+  sum: 'Lava + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: glue
-type: free
-title: glue
 reference_link: https://www.etymonline.com/word/glue
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: glue
+type: free
 word_sums:
-- sum: 'Glue + '
-  respelling: glue
+- respelling: glue
+  sum: 'Glue + '
 ---

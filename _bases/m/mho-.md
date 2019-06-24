@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: mho
-type: free
-title: mho
 reference_link: https://www.etymonline.com/word/mho
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: mho
+type: free
 word_sums:
-- sum: 'Mho + '
-  respelling: mho
+- respelling: mho
+  sum: 'Mho + '
 ---

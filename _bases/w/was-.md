@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: was
-type: free
-title: was
 reference_link: https://www.etymonline.com/word/was
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: was
+type: free
 word_sums:
-- sum: 'Was + '
-  respelling: was
+- respelling: was
+  sum: 'Was + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: aria
-type: free
-title: aria
 reference_link: https://www.etymonline.com/word/aria
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: aria
+type: free
 word_sums:
-- sum: 'Aria + '
-  respelling: aria
+- respelling: aria
+  sum: 'Aria + '
 ---

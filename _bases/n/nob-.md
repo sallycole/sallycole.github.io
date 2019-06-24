@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: nob
-type: free
-title: nob
 reference_link: https://www.etymonline.com/word/nob
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: nob
+type: free
 word_sums:
-- sum: 'Nob + '
-  respelling: nob
+- respelling: nob
+  sum: 'Nob + '
 ---

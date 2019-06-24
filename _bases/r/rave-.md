@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: rave
-type: free
-title: rave
 reference_link: https://www.etymonline.com/word/rave
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: rave
+type: free
 word_sums:
-- sum: 'Rave + '
-  respelling: rave
+- respelling: rave
+  sum: 'Rave + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: fast
-type: free
-title: fast
 reference_link: https://www.etymonline.com/word/fast
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: fast
+type: free
 word_sums:
-- sum: 'Fast + '
-  respelling: fast
+- respelling: fast
+  sum: 'Fast + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: pram
-type: free
-title: pram
 reference_link: https://www.etymonline.com/word/pram
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: pram
+type: free
 word_sums:
-- sum: 'Pram + '
-  respelling: pram
+- respelling: pram
+  sum: 'Pram + '
 ---

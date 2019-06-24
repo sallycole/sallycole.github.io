@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: flow
-type: free
-title: flow
 reference_link: https://www.etymonline.com/word/flow
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: flow
+type: free
 word_sums:
-- sum: 'Flow + '
-  respelling: flow
+- respelling: flow
+  sum: 'Flow + '
 ---

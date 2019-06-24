@@ -1,30 +1,31 @@
 ---
+category: 4-letters
+denotation: see
 name: view
+reference_link: null
+root_language: Latin
+root_name: videre
 title: view
 type: free
-reference_link: null
-root_name: videre
-root_language: Latin
-denotation: see
 word_sums:
-- sum: 'inter + View'
-  respelling: interview
-- sum: 're + View'
-  respelling: review
-- sum: 'View + Find + er'
-  respelling: viewfinder
-- sum: 'View + Point'
-  respelling: viewpoint
-- sum: 're + View + er'
-  respelling: reviewer
-- sum: 'View + er'
-  respelling: viewer
-- sum: 're + View + ing'
-  respelling: reviewing
-- sum: 'View + ing'
-  respelling: viewing
-- sum: 'inter + View + er'
-  respelling: interviewer
-- sum: re + View + er
-  respelling: reviewer
+- respelling: interview
+  sum: inter + View
+- respelling: review
+  sum: re + View
+- respelling: viewfinder
+  sum: View + Find + er
+- respelling: viewpoint
+  sum: View + Point
+- respelling: reviewer
+  sum: re + View + er
+- respelling: viewer
+  sum: View + er
+- respelling: reviewing
+  sum: re + View + ing
+- respelling: viewing
+  sum: View + ing
+- respelling: interviewer
+  sum: inter + View + er
+- respelling: reviewer
+  sum: re + View + er
 ---

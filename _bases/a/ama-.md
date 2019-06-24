@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: ama
-type: free
-title: ama
 reference_link: https://www.etymonline.com/word/ama
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: ama
+type: free
 word_sums:
-- sum: 'Ama + '
-  respelling: ama
+- respelling: ama
+  sum: 'Ama + '
 ---

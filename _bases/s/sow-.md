@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: sow
-type: free
-title: sow
 reference_link: https://www.etymonline.com/word/sow
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: sow
+type: free
 word_sums:
-- sum: 'Sow + '
-  respelling: sow
+- respelling: sow
+  sum: 'Sow + '
 ---

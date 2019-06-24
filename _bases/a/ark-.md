@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: ark
-type: free
-title: ark
 reference_link: https://www.etymonline.com/word/ark
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: ark
+type: free
 word_sums:
-- sum: 'Ark + '
-  respelling: ark
+- respelling: ark
+  sum: 'Ark + '
 ---

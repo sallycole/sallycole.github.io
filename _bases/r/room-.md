@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: room
-type: free
-title: room
 reference_link: https://www.etymonline.com/word/room
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: room
+type: free
 word_sums:
-- sum: 'Room + '
-  respelling: room
+- respelling: room
+  sum: 'Room + '
 ---

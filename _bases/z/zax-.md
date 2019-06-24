@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: zax
-type: free
-title: zax
 reference_link: https://www.etymonline.com/word/zax
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: zax
+type: free
 word_sums:
-- sum: 'Zax + '
-  respelling: zax
+- respelling: zax
+  sum: 'Zax + '
 ---

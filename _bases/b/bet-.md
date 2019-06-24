@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: bet
-type: free
-title: bet
 reference_link: https://www.etymonline.com/word/bet
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: bet
+type: free
 word_sums:
-- sum: 'Bet + '
-  respelling: bet
+- respelling: bet
+  sum: 'Bet + '
 ---

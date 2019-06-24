@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: void
-type: free
-title: void
 reference_link: https://www.etymonline.com/word/void
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: void
+type: free
 word_sums:
-- sum: 'Void + '
-  respelling: void
+- respelling: void
+  sum: 'Void + '
 ---

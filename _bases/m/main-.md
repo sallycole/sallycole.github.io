@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: main
-type: free
-title: main
 reference_link: https://www.etymonline.com/word/main
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: main
+type: free
 word_sums:
-- sum: 'Main + '
-  respelling: main
+- respelling: main
+  sum: 'Main + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: avo
-type: free
-title: avo
 reference_link: https://www.etymonline.com/word/avo
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: avo
+type: free
 word_sums:
-- sum: 'Avo + '
-  respelling: avo
+- respelling: avo
+  sum: 'Avo + '
 ---

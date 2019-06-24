@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: ego
-type: free
-title: ego
 reference_link: https://www.etymonline.com/word/ego
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: ego
+type: free
 word_sums:
-- sum: 'Ego + '
-  respelling: ego
+- respelling: ego
+  sum: 'Ego + '
 ---

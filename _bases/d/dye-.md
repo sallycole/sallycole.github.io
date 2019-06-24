@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: dye
-type: free
-title: dye
 reference_link: https://www.etymonline.com/word/dye
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: dye
+type: free
 word_sums:
-- sum: 'Dye + '
-  respelling: dye
+- respelling: dye
+  sum: 'Dye + '
 ---

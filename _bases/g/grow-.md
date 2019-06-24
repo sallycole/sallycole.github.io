@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: grow
-type: free
-title: grow
 reference_link: https://www.etymonline.com/word/grow
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: grow
+type: free
 word_sums:
-- sum: 'Grow + '
-  respelling: grow
+- respelling: grow
+  sum: 'Grow + '
 ---

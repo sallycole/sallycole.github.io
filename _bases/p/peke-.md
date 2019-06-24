@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: peke
-type: free
-title: peke
 reference_link: https://www.etymonline.com/word/peke
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: peke
+type: free
 word_sums:
-- sum: 'Peke + '
-  respelling: peke
+- respelling: peke
+  sum: 'Peke + '
 ---

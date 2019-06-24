@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: jug
-type: free
-title: jug
 reference_link: https://www.etymonline.com/word/jug
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: jug
+type: free
 word_sums:
-- sum: 'Jug + '
-  respelling: jug
+- respelling: jug
+  sum: 'Jug + '
 ---

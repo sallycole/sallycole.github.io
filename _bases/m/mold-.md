@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: mold
-type: free
-title: mold
 reference_link: https://www.etymonline.com/word/mold
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: mold
+type: free
 word_sums:
-- sum: 'Mold + '
-  respelling: mold
+- respelling: mold
+  sum: 'Mold + '
 ---

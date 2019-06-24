@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: git
-type: free
-title: git
 reference_link: https://www.etymonline.com/word/git
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: git
+type: free
 word_sums:
-- sum: 'Git + '
-  respelling: git
+- respelling: git
+  sum: 'Git + '
 ---

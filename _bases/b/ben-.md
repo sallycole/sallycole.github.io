@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: ben
-type: free
-title: ben
 reference_link: https://www.etymonline.com/word/ben
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: ben
+type: free
 word_sums:
-- sum: 'Ben + '
-  respelling: ben
+- respelling: ben
+  sum: 'Ben + '
 ---

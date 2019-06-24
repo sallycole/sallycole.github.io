@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: tye
-type: free
-title: tye
 reference_link: https://www.etymonline.com/word/tye
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: tye
+type: free
 word_sums:
-- sum: 'Tye + '
-  respelling: tye
+- respelling: tye
+  sum: 'Tye + '
 ---

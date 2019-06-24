@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: hah
-type: free
-title: hah
 reference_link: https://www.etymonline.com/word/hah
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: hah
+type: free
 word_sums:
-- sum: 'Hah + '
-  respelling: hah
+- respelling: hah
+  sum: 'Hah + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: find
-type: free
-title: find
 reference_link: https://www.etymonline.com/word/find
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: find
+type: free
 word_sums:
-- sum: 'Find + '
-  respelling: find
+- respelling: find
+  sum: 'Find + '
 ---

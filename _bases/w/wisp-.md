@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: wisp
-type: free
-title: wisp
 reference_link: https://www.etymonline.com/word/wisp
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: wisp
+type: free
 word_sums:
-- sum: 'Wisp + '
-  respelling: wisp
+- respelling: wisp
+  sum: 'Wisp + '
 ---

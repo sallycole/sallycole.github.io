@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: day
-type: free
-title: day
 reference_link: https://www.etymonline.com/word/day
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: day
+type: free
 word_sums:
-- sum: 'Day + '
-  respelling: day
+- respelling: day
+  sum: 'Day + '
 ---

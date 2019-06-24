@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: slum
-type: free
-title: slum
 reference_link: https://www.etymonline.com/word/slum
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: slum
+type: free
 word_sums:
-- sum: 'Slum + '
-  respelling: slum
+- respelling: slum
+  sum: 'Slum + '
 ---

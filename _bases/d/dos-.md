@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: dos
-type: free
-title: dos
 reference_link: https://www.etymonline.com/word/dos
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: dos
+type: free
 word_sums:
-- sum: 'Dos + '
-  respelling: dos
+- respelling: dos
+  sum: 'Dos + '
 ---

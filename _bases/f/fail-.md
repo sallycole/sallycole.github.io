@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: fail
-type: free
-title: fail
 reference_link: https://www.etymonline.com/word/fail
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: fail
+type: free
 word_sums:
-- sum: 'Fail + '
-  respelling: fail
+- respelling: fail
+  sum: 'Fail + '
 ---

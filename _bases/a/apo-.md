@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: apo
-type: free
-title: apo
 reference_link: https://www.etymonline.com/word/apo
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: apo
+type: free
 word_sums:
-- sum: 'Apo + '
-  respelling: apo
+- respelling: apo
+  sum: 'Apo + '
 ---

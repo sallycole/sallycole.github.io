@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: ava
-type: free
-title: ava
 reference_link: https://www.etymonline.com/word/ava
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: ava
+type: free
 word_sums:
-- sum: 'Ava + '
-  respelling: ava
+- respelling: ava
+  sum: 'Ava + '
 ---

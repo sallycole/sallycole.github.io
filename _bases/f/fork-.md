@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: fork
-type: free
-title: fork
 reference_link: https://www.etymonline.com/word/fork
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: fork
+type: free
 word_sums:
-- sum: 'Fork + '
-  respelling: fork
+- respelling: fork
+  sum: 'Fork + '
 ---

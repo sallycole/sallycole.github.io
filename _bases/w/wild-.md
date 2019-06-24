@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: wild
-type: free
-title: wild
 reference_link: https://www.etymonline.com/word/wild
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: wild
+type: free
 word_sums:
-- sum: 'Wild + '
-  respelling: wild
+- respelling: wild
+  sum: 'Wild + '
 ---

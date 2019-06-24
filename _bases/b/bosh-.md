@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: bosh
-type: free
-title: bosh
 reference_link: https://www.etymonline.com/word/bosh
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: bosh
+type: free
 word_sums:
-- sum: 'Bosh + '
-  respelling: bosh
+- respelling: bosh
+  sum: 'Bosh + '
 ---

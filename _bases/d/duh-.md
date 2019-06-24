@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: duh
-type: free
-title: duh
 reference_link: https://www.etymonline.com/word/duh
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: duh
+type: free
 word_sums:
-- sum: 'Duh + '
-  respelling: duh
+- respelling: duh
+  sum: 'Duh + '
 ---

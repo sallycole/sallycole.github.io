@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: fish
-type: free
-title: fish
 reference_link: https://www.etymonline.com/word/fish
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: fish
+type: free
 word_sums:
-- sum: 'Fish + '
-  respelling: fish
+- respelling: fish
+  sum: 'Fish + '
 ---

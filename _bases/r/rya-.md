@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: rya
-type: free
-title: rya
 reference_link: https://www.etymonline.com/word/rya
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: rya
+type: free
 word_sums:
-- sum: 'Rya + '
-  respelling: rya
+- respelling: rya
+  sum: 'Rya + '
 ---

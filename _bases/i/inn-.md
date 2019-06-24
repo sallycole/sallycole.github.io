@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: inn
-type: free
-title: inn
 reference_link: https://www.etymonline.com/word/inn
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: inn
+type: free
 word_sums:
-- sum: 'Inn + '
-  respelling: inn
+- respelling: inn
+  sum: 'Inn + '
 ---

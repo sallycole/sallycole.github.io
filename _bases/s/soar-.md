@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: soar
-type: free
-title: soar
 reference_link: https://www.etymonline.com/word/soar
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: soar
+type: free
 word_sums:
-- sum: 'Soar + '
-  respelling: soar
+- respelling: soar
+  sum: 'Soar + '
 ---

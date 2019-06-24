@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: wage
-type: free
-title: wage
 reference_link: https://www.etymonline.com/word/wage
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: wage
+type: free
 word_sums:
-- sum: 'Wage + '
-  respelling: wage
+- respelling: wage
+  sum: 'Wage + '
 ---

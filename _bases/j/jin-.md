@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: jin
-type: free
-title: jin
 reference_link: https://www.etymonline.com/word/jin
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: jin
+type: free
 word_sums:
-- sum: 'Jin + '
-  respelling: jin
+- respelling: jin
+  sum: 'Jin + '
 ---

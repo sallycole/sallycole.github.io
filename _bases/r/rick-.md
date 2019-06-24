@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: rick
-type: free
-title: rick
 reference_link: https://www.etymonline.com/word/rick
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: rick
+type: free
 word_sums:
-- sum: 'Rick + '
-  respelling: rick
+- respelling: rick
+  sum: 'Rick + '
 ---

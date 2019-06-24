@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: dank
-type: free
-title: dank
 reference_link: https://www.etymonline.com/word/dank
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: dank
+type: free
 word_sums:
-- sum: 'Dank + '
-  respelling: dank
+- respelling: dank
+  sum: 'Dank + '
 ---

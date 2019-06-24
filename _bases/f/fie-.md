@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: fie
-type: free
-title: fie
 reference_link: https://www.etymonline.com/word/fie
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: fie
+type: free
 word_sums:
-- sum: 'Fie + '
-  respelling: fie
+- respelling: fie
+  sum: 'Fie + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: psst
-type: free
-title: psst
 reference_link: https://www.etymonline.com/word/psst
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: psst
+type: free
 word_sums:
-- sum: 'Psst + '
-  respelling: psst
+- respelling: psst
+  sum: 'Psst + '
 ---

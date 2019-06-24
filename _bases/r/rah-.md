@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: rah
-type: free
-title: rah
 reference_link: https://www.etymonline.com/word/rah
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: rah
+type: free
 word_sums:
-- sum: 'Rah + '
-  respelling: rah
+- respelling: rah
+  sum: 'Rah + '
 ---

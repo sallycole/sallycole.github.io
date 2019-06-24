@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: weir
-type: free
-title: weir
 reference_link: https://www.etymonline.com/word/weir
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: weir
+type: free
 word_sums:
-- sum: 'Weir + '
-  respelling: weir
+- respelling: weir
+  sum: 'Weir + '
 ---

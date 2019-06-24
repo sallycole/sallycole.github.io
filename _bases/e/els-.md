@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: els
-type: free
-title: els
 reference_link: https://www.etymonline.com/word/els
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: els
+type: free
 word_sums:
-- sum: 'Els + '
-  respelling: els
+- respelling: els
+  sum: 'Els + '
 ---

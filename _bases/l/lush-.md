@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: lush
-type: free
-title: lush
 reference_link: https://www.etymonline.com/word/lush
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: lush
+type: free
 word_sums:
-- sum: 'Lush + '
-  respelling: lush
+- respelling: lush
+  sum: 'Lush + '
 ---

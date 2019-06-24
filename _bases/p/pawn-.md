@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: pawn
-type: free
-title: pawn
 reference_link: https://www.etymonline.com/word/pawn
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: pawn
+type: free
 word_sums:
-- sum: 'Pawn + '
-  respelling: pawn
+- respelling: pawn
+  sum: 'Pawn + '
 ---

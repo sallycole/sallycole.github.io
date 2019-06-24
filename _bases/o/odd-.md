@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: odd
-type: free
-title: odd
 reference_link: https://www.etymonline.com/word/odd
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: odd
+type: free
 word_sums:
-- sum: 'Odd + '
-  respelling: odd
+- respelling: odd
+  sum: 'Odd + '
 ---

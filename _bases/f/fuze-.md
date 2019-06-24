@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: fuze
-type: free
-title: fuze
 reference_link: https://www.etymonline.com/word/fuze
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: fuze
+type: free
 word_sums:
-- sum: 'Fuze + '
-  respelling: fuze
+- respelling: fuze
+  sum: 'Fuze + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: has
-type: free
-title: has
 reference_link: https://www.etymonline.com/word/has
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: has
+type: free
 word_sums:
-- sum: 'Has + '
-  respelling: has
+- respelling: has
+  sum: 'Has + '
 ---

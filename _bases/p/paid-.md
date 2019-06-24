@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: paid
-type: free
-title: paid
 reference_link: https://www.etymonline.com/word/paid
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: paid
+type: free
 word_sums:
-- sum: 'Paid + '
-  respelling: paid
+- respelling: paid
+  sum: 'Paid + '
 ---

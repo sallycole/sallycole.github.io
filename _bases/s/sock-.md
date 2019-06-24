@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: sock
-type: free
-title: sock
 reference_link: https://www.etymonline.com/word/sock
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: sock
+type: free
 word_sums:
-- sum: 'Sock + '
-  respelling: sock
+- respelling: sock
+  sum: 'Sock + '
 ---

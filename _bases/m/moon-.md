@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: moon
-type: free
-title: moon
 reference_link: https://www.etymonline.com/word/moon
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: moon
+type: free
 word_sums:
-- sum: 'Moon + '
-  respelling: moon
+- respelling: moon
+  sum: 'Moon + '
 ---

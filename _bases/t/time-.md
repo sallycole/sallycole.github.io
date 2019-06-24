@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: time
-type: free
-title: time
 reference_link: https://www.etymonline.com/word/time
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: time
+type: free
 word_sums:
-- sum: 'Time + '
-  respelling: time
+- respelling: time
+  sum: 'Time + '
 ---

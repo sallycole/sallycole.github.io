@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: guv
-type: free
-title: guv
 reference_link: https://www.etymonline.com/word/guv
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: guv
+type: free
 word_sums:
-- sum: 'Guv + '
-  respelling: guv
+- respelling: guv
+  sum: 'Guv + '
 ---

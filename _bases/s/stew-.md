@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: stew
-type: free
-title: stew
 reference_link: https://www.etymonline.com/word/stew
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: stew
+type: free
 word_sums:
-- sum: 'Stew + '
-  respelling: stew
+- respelling: stew
+  sum: 'Stew + '
 ---

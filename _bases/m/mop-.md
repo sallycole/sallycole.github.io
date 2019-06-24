@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: mop
-type: free
-title: mop
 reference_link: https://www.etymonline.com/word/mop
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: mop
+type: free
 word_sums:
-- sum: 'Mop + '
-  respelling: mop
+- respelling: mop
+  sum: 'Mop + '
 ---

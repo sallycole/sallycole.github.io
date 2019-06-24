@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: ooh
-type: free
-title: ooh
 reference_link: https://www.etymonline.com/word/ooh
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: ooh
+type: free
 word_sums:
-- sum: 'Ooh + '
-  respelling: ooh
+- respelling: ooh
+  sum: 'Ooh + '
 ---

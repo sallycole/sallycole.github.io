@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: col
-type: free
-title: col
 reference_link: https://www.etymonline.com/word/col
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: col
+type: free
 word_sums:
-- sum: 'Col + '
-  respelling: col
+- respelling: col
+  sum: 'Col + '
 ---

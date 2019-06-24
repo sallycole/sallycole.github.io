@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: goof
-type: free
-title: goof
 reference_link: https://www.etymonline.com/word/goof
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: goof
+type: free
 word_sums:
-- sum: 'Goof + '
-  respelling: goof
+- respelling: goof
+  sum: 'Goof + '
 ---

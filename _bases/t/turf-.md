@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: turf
-type: free
-title: turf
 reference_link: https://www.etymonline.com/word/turf
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: turf
+type: free
 word_sums:
-- sum: 'Turf + '
-  respelling: turf
+- respelling: turf
+  sum: 'Turf + '
 ---

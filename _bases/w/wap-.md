@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: wap
-type: free
-title: wap
 reference_link: https://www.etymonline.com/word/wap
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: wap
+type: free
 word_sums:
-- sum: 'Wap + '
-  respelling: wap
+- respelling: wap
+  sum: 'Wap + '
 ---

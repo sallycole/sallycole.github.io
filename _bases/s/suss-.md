@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: suss
-type: free
-title: suss
 reference_link: https://www.etymonline.com/word/suss
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: suss
+type: free
 word_sums:
-- sum: 'Suss + '
-  respelling: suss
+- respelling: suss
+  sum: 'Suss + '
 ---

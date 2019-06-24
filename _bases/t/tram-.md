@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: tram
-type: free
-title: tram
 reference_link: https://www.etymonline.com/word/tram
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: tram
+type: free
 word_sums:
-- sum: 'Tram + '
-  respelling: tram
+- respelling: tram
+  sum: 'Tram + '
 ---

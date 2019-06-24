@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: suck
-type: free
-title: suck
 reference_link: https://www.etymonline.com/word/suck
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: suck
+type: free
 word_sums:
-- sum: 'Suck + '
-  respelling: suck
+- respelling: suck
+  sum: 'Suck + '
 ---

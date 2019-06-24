@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: oil
-type: free
-title: oil
 reference_link: https://www.etymonline.com/word/oil
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: oil
+type: free
 word_sums:
-- sum: 'Oil + '
-  respelling: oil
+- respelling: oil
+  sum: 'Oil + '
 ---

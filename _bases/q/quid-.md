@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: quid
-type: free
-title: quid
 reference_link: https://www.etymonline.com/word/quid
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: quid
+type: free
 word_sums:
-- sum: 'Quid + '
-  respelling: quid
+- respelling: quid
+  sum: 'Quid + '
 ---

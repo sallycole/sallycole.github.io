@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: noo
-type: free
-title: noo
 reference_link: https://www.etymonline.com/word/noo
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: noo
+type: free
 word_sums:
-- sum: 'Noo + '
-  respelling: noo
+- respelling: noo
+  sum: 'Noo + '
 ---

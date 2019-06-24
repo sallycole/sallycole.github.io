@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: wade
-type: free
-title: wade
 reference_link: https://www.etymonline.com/word/wade
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: wade
+type: free
 word_sums:
-- sum: 'Wade + '
-  respelling: wade
+- respelling: wade
+  sum: 'Wade + '
 ---

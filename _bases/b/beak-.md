@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: beak
-type: free
-title: beak
 reference_link: https://www.etymonline.com/word/beak
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: beak
+type: free
 word_sums:
-- sum: 'Beak + '
-  respelling: beak
+- respelling: beak
+  sum: 'Beak + '
 ---

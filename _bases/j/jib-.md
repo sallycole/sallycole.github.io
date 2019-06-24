@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: jib
-type: free
-title: jib
 reference_link: https://www.etymonline.com/word/jib
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: jib
+type: free
 word_sums:
-- sum: 'Jib + '
-  respelling: jib
+- respelling: jib
+  sum: 'Jib + '
 ---

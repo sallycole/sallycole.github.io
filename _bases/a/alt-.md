@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: alt
-type: free
-title: alt
 reference_link: https://www.etymonline.com/word/alt
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: alt
+type: free
 word_sums:
-- sum: 'Alt + '
-  respelling: alt
+- respelling: alt
+  sum: 'Alt + '
 ---

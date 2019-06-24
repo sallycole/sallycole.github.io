@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: emir
-type: free
-title: emir
 reference_link: https://www.etymonline.com/word/emir
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: emir
+type: free
 word_sums:
-- sum: 'Emir + '
-  respelling: emir
+- respelling: emir
+  sum: 'Emir + '
 ---

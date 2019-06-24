@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: ami
-type: free
-title: ami
 reference_link: https://www.etymonline.com/word/ami
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: ami
+type: free
 word_sums:
-- sum: 'Ami + '
-  respelling: ami
+- respelling: ami
+  sum: 'Ami + '
 ---

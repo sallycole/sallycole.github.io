@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: oft
-type: free
-title: oft
 reference_link: https://www.etymonline.com/word/oft
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: oft
+type: free
 word_sums:
-- sum: 'Oft + '
-  respelling: oft
+- respelling: oft
+  sum: 'Oft + '
 ---

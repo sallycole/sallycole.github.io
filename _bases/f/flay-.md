@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: flay
-type: free
-title: flay
 reference_link: https://www.etymonline.com/word/flay
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: flay
+type: free
 word_sums:
-- sum: 'Flay + '
-  respelling: flay
+- respelling: flay
+  sum: 'Flay + '
 ---

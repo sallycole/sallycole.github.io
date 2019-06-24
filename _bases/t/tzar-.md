@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: tzar
-type: free
-title: tzar
 reference_link: https://www.etymonline.com/word/tzar
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: tzar
+type: free
 word_sums:
-- sum: 'Tzar + '
-  respelling: tzar
+- respelling: tzar
+  sum: 'Tzar + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: pad
-type: free
-title: pad
 reference_link: https://www.etymonline.com/word/pad
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: pad
+type: free
 word_sums:
-- sum: 'Pad + '
-  respelling: pad
+- respelling: pad
+  sum: 'Pad + '
 ---

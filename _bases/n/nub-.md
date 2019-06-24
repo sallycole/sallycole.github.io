@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: nub
-type: free
-title: nub
 reference_link: https://www.etymonline.com/word/nub
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: nub
+type: free
 word_sums:
-- sum: 'Nub + '
-  respelling: nub
+- respelling: nub
+  sum: 'Nub + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: tea
-type: free
-title: tea
 reference_link: https://www.etymonline.com/word/tea
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: tea
+type: free
 word_sums:
-- sum: 'Tea + '
-  respelling: tea
+- respelling: tea
+  sum: 'Tea + '
 ---

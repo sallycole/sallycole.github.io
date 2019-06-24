@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: bane
-type: free
-title: bane
 reference_link: https://www.etymonline.com/word/bane
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: bane
+type: free
 word_sums:
-- sum: 'Bane + '
-  respelling: bane
+- respelling: bane
+  sum: 'Bane + '
 ---

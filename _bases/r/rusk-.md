@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: rusk
-type: free
-title: rusk
 reference_link: https://www.etymonline.com/word/rusk
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: rusk
+type: free
 word_sums:
-- sum: 'Rusk + '
-  respelling: rusk
+- respelling: rusk
+  sum: 'Rusk + '
 ---

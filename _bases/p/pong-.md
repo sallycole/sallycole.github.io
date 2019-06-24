@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: pong
-type: free
-title: pong
 reference_link: https://www.etymonline.com/word/pong
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: pong
+type: free
 word_sums:
-- sum: 'Pong + '
-  respelling: pong
+- respelling: pong
+  sum: 'Pong + '
 ---

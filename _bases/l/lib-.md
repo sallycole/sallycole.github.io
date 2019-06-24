@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: lib
-type: free
-title: lib
 reference_link: https://www.etymonline.com/word/lib
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: lib
+type: free
 word_sums:
-- sum: 'Lib + '
-  respelling: lib
+- respelling: lib
+  sum: 'Lib + '
 ---

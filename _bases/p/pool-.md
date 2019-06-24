@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: pool
-type: free
-title: pool
 reference_link: https://www.etymonline.com/word/pool
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: pool
+type: free
 word_sums:
-- sum: 'Pool + '
-  respelling: pool
+- respelling: pool
+  sum: 'Pool + '
 ---

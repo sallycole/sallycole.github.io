@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: eld
-type: free
-title: eld
 reference_link: https://www.etymonline.com/word/eld
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: eld
+type: free
 word_sums:
-- sum: 'Eld + '
-  respelling: eld
+- respelling: eld
+  sum: 'Eld + '
 ---

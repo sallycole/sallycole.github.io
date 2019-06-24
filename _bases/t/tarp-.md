@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: tarp
-type: free
-title: tarp
 reference_link: https://www.etymonline.com/word/tarp
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: tarp
+type: free
 word_sums:
-- sum: 'Tarp + '
-  respelling: tarp
+- respelling: tarp
+  sum: 'Tarp + '
 ---

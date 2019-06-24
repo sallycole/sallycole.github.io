@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: wren
-type: free
-title: wren
 reference_link: https://www.etymonline.com/word/wren
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: wren
+type: free
 word_sums:
-- sum: 'Wren + '
-  respelling: wren
+- respelling: wren
+  sum: 'Wren + '
 ---

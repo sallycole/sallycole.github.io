@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: lose
-type: free
-title: lose
 reference_link: https://www.etymonline.com/word/lose
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: lose
+type: free
 word_sums:
-- sum: 'Lose + '
-  respelling: lose
+- respelling: lose
+  sum: 'Lose + '
 ---

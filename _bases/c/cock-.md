@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: cock
-type: free
-title: cock
 reference_link: https://www.etymonline.com/word/cock
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: cock
+type: free
 word_sums:
-- sum: 'Cock + '
-  respelling: cock
+- respelling: cock
+  sum: 'Cock + '
 ---

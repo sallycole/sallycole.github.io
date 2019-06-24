@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: deem
-type: free
-title: deem
 reference_link: https://www.etymonline.com/word/deem
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: deem
+type: free
 word_sums:
-- sum: 'Deem + '
-  respelling: deem
+- respelling: deem
+  sum: 'Deem + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: what
-type: free
-title: what
 reference_link: https://www.etymonline.com/word/what
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: what
+type: free
 word_sums:
-- sum: 'What + '
-  respelling: what
+- respelling: what
+  sum: 'What + '
 ---

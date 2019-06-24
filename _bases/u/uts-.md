@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: uts
-type: free
-title: uts
 reference_link: https://www.etymonline.com/word/uts
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: uts
+type: free
 word_sums:
-- sum: 'Uts + '
-  respelling: uts
+- respelling: uts
+  sum: 'Uts + '
 ---

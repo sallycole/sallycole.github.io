@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: tun
-type: free
-title: tun
 reference_link: https://www.etymonline.com/word/tun
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: tun
+type: free
 word_sums:
-- sum: 'Tun + '
-  respelling: tun
+- respelling: tun
+  sum: 'Tun + '
 ---

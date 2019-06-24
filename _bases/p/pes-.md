@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: pes
-type: free
-title: pes
 reference_link: https://www.etymonline.com/word/pes
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: pes
+type: free
 word_sums:
-- sum: 'Pes + '
-  respelling: pes
+- respelling: pes
+  sum: 'Pes + '
 ---

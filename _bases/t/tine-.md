@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: tine
-type: free
-title: tine
 reference_link: https://www.etymonline.com/word/tine
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: tine
+type: free
 word_sums:
-- sum: 'Tine + '
-  respelling: tine
+- respelling: tine
+  sum: 'Tine + '
 ---

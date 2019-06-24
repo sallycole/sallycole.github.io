@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: raw
-type: free
-title: raw
 reference_link: https://www.etymonline.com/word/raw
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: raw
+type: free
 word_sums:
-- sum: 'Raw + '
-  respelling: raw
+- respelling: raw
+  sum: 'Raw + '
 ---

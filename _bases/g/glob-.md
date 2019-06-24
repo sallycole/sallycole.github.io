@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: glob
-type: free
-title: glob
 reference_link: https://www.etymonline.com/word/glob
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: glob
+type: free
 word_sums:
-- sum: 'Glob + '
-  respelling: glob
+- respelling: glob
+  sum: 'Glob + '
 ---

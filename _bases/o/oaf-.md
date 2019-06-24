@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: oaf
-type: free
-title: oaf
 reference_link: https://www.etymonline.com/word/oaf
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: oaf
+type: free
 word_sums:
-- sum: 'Oaf + '
-  respelling: oaf
+- respelling: oaf
+  sum: 'Oaf + '
 ---

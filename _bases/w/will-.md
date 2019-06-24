@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: will
-type: free
-title: will
 reference_link: https://www.etymonline.com/word/will
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: will
+type: free
 word_sums:
-- sum: 'Will + '
-  respelling: will
+- respelling: will
+  sum: 'Will + '
 ---

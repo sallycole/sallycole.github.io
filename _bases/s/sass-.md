@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: sass
-type: free
-title: sass
 reference_link: https://www.etymonline.com/word/sass
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: sass
+type: free
 word_sums:
-- sum: 'Sass + '
-  respelling: sass
+- respelling: sass
+  sum: 'Sass + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: girl
-type: free
-title: girl
 reference_link: https://www.etymonline.com/word/girl
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: girl
+type: free
 word_sums:
-- sum: 'Girl + '
-  respelling: girl
+- respelling: girl
+  sum: 'Girl + '
 ---

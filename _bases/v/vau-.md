@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: vau
-type: free
-title: vau
 reference_link: https://www.etymonline.com/word/vau
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: vau
+type: free
 word_sums:
-- sum: 'Vau + '
-  respelling: vau
+- respelling: vau
+  sum: 'Vau + '
 ---

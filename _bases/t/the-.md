@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: the
-type: free
-title: the
 reference_link: https://www.etymonline.com/word/the
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: the
+type: free
 word_sums:
-- sum: 'The + '
-  respelling: the
+- respelling: the
+  sum: 'The + '
 ---

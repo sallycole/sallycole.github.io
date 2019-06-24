@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: mor
-type: free
-title: mor
 reference_link: https://www.etymonline.com/word/mor
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: mor
+type: free
 word_sums:
-- sum: 'Mor + '
-  respelling: mor
+- respelling: mor
+  sum: 'Mor + '
 ---

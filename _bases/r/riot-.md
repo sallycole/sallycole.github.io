@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: riot
-type: free
-title: riot
 reference_link: https://www.etymonline.com/word/riot
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: riot
+type: free
 word_sums:
-- sum: 'Riot + '
-  respelling: riot
+- respelling: riot
+  sum: 'Riot + '
 ---

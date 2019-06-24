@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: glam
-type: free
-title: glam
 reference_link: https://www.etymonline.com/word/glam
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: glam
+type: free
 word_sums:
-- sum: 'Glam + '
-  respelling: glam
+- respelling: glam
+  sum: 'Glam + '
 ---

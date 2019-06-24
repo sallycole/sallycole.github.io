@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: lino
-type: free
-title: lino
 reference_link: https://www.etymonline.com/word/lino
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: lino
+type: free
 word_sums:
-- sum: 'Lino + '
-  respelling: lino
+- respelling: lino
+  sum: 'Lino + '
 ---

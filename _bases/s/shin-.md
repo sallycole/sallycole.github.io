@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: shin
-type: free
-title: shin
 reference_link: https://www.etymonline.com/word/shin
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: shin
+type: free
 word_sums:
-- sum: 'Shin + '
-  respelling: shin
+- respelling: shin
+  sum: 'Shin + '
 ---

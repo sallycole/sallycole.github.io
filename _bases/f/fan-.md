@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: fan
-type: free
-title: fan
 reference_link: https://www.etymonline.com/word/fan
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: fan
+type: free
 word_sums:
-- sum: 'Fan + '
-  respelling: fan
+- respelling: fan
+  sum: 'Fan + '
 ---

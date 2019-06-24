@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: math
-type: free
-title: math
 reference_link: https://www.etymonline.com/word/math
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: math
+type: free
 word_sums:
-- sum: 'Math + '
-  respelling: math
+- respelling: math
+  sum: 'Math + '
 ---

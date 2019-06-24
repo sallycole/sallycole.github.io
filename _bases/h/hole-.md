@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: hole
-type: free
-title: hole
 reference_link: https://www.etymonline.com/word/hole
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: hole
+type: free
 word_sums:
-- sum: 'Hole + '
-  respelling: hole
+- respelling: hole
+  sum: 'Hole + '
 ---

@@ -1,16 +1,17 @@
 ---
+category: 3-letters
+denotation: a unit, one, a whole, unity
 name: ace
+reference_link: https://www.etymonline.com/word/ace
+root language: Latin
+root name: as
 title: ace
 type: free
-reference_link: https://www.etymonline.com/word/ace
-root name: as
-root language: Latin
-denotation: a unit, one, a whole, unity
 word_sums:
-- sum: 'Ace + ed'
-  respelling: aced
-- sum: 'Ace + ing'
-  respelling: acing
-- sum: 'Ace + s'
-  respelling: aces
+- respelling: aced
+  sum: Ace + ed
+- respelling: acing
+  sum: Ace + ing
+- respelling: aces
+  sum: Ace + s
 ---

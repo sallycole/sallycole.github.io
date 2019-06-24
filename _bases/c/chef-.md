@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: chef
-type: free
-title: chef
 reference_link: https://www.etymonline.com/word/chef
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: chef
+type: free
 word_sums:
-- sum: 'Chef + '
-  respelling: chef
+- respelling: chef
+  sum: 'Chef + '
 ---

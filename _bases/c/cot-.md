@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: cot
-type: free
-title: cot
 reference_link: https://www.etymonline.com/word/cot
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: cot
+type: free
 word_sums:
-- sum: 'Cot + '
-  respelling: cot
+- respelling: cot
+  sum: 'Cot + '
 ---

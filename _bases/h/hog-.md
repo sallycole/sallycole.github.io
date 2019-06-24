@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: hog
-type: free
-title: hog
 reference_link: https://www.etymonline.com/word/hog
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: hog
+type: free
 word_sums:
-- sum: 'Hog + '
-  respelling: hog
+- respelling: hog
+  sum: 'Hog + '
 ---

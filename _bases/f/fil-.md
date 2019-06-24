@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: fil
-type: free
-title: fil
 reference_link: https://www.etymonline.com/word/fil
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: fil
+type: free
 word_sums:
-- sum: 'Fil + '
-  respelling: fil
+- respelling: fil
+  sum: 'Fil + '
 ---

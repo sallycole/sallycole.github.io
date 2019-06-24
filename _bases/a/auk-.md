@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: auk
-type: free
-title: auk
 reference_link: https://www.etymonline.com/word/auk
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: auk
+type: free
 word_sums:
-- sum: 'Auk + '
-  respelling: auk
+- respelling: auk
+  sum: 'Auk + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: fire
-type: free
-title: fire
 reference_link: https://www.etymonline.com/word/fire
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: fire
+type: free
 word_sums:
-- sum: 'Fire + '
-  respelling: fire
+- respelling: fire
+  sum: 'Fire + '
 ---

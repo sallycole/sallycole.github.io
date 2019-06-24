@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: hap
-type: free
-title: hap
 reference_link: https://www.etymonline.com/word/hap
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: hap
+type: free
 word_sums:
-- sum: 'Hap + '
-  respelling: hap
+- respelling: hap
+  sum: 'Hap + '
 ---

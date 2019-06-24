@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: pill
-type: free
-title: pill
 reference_link: https://www.etymonline.com/word/pill
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: pill
+type: free
 word_sums:
-- sum: 'Pill + '
-  respelling: pill
+- respelling: pill
+  sum: 'Pill + '
 ---

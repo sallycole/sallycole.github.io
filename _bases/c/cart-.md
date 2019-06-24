@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: cart
-type: free
-title: cart
 reference_link: https://www.etymonline.com/word/cart
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: cart
+type: free
 word_sums:
-- sum: 'Cart + '
-  respelling: cart
+- respelling: cart
+  sum: 'Cart + '
 ---

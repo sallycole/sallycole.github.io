@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: lace
-type: free
-title: lace
 reference_link: https://www.etymonline.com/word/lace
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: lace
+type: free
 word_sums:
-- sum: 'Lace + '
-  respelling: lace
+- respelling: lace
+  sum: 'Lace + '
 ---

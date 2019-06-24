@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: plus
-type: free
-title: plus
 reference_link: https://www.etymonline.com/word/plus
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: plus
+type: free
 word_sums:
-- sum: 'Plus + '
-  respelling: plus
+- respelling: plus
+  sum: 'Plus + '
 ---

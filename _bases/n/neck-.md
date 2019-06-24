@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: neck
-type: free
-title: neck
 reference_link: https://www.etymonline.com/word/neck
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: neck
+type: free
 word_sums:
-- sum: 'Neck + '
-  respelling: neck
+- respelling: neck
+  sum: 'Neck + '
 ---

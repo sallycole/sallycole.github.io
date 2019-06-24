@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: jeez
-type: free
-title: jeez
 reference_link: https://www.etymonline.com/word/jeez
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: jeez
+type: free
 word_sums:
-- sum: 'Jeez + '
-  respelling: jeez
+- respelling: jeez
+  sum: 'Jeez + '
 ---

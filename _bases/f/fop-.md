@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: fop
-type: free
-title: fop
 reference_link: https://www.etymonline.com/word/fop
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: fop
+type: free
 word_sums:
-- sum: 'Fop + '
-  respelling: fop
+- respelling: fop
+  sum: 'Fop + '
 ---

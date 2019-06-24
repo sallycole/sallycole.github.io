@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: shod
-type: free
-title: shod
 reference_link: https://www.etymonline.com/word/shod
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: shod
+type: free
 word_sums:
-- sum: 'Shod + '
-  respelling: shod
+- respelling: shod
+  sum: 'Shod + '
 ---

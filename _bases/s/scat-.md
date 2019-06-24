@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: scat
-type: free
-title: scat
 reference_link: https://www.etymonline.com/word/scat
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: scat
+type: free
 word_sums:
-- sum: 'Scat + '
-  respelling: scat
+- respelling: scat
+  sum: 'Scat + '
 ---

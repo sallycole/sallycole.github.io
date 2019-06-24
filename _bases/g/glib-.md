@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: glib
-type: free
-title: glib
 reference_link: https://www.etymonline.com/word/glib
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: glib
+type: free
 word_sums:
-- sum: 'Glib + '
-  respelling: glib
+- respelling: glib
+  sum: 'Glib + '
 ---

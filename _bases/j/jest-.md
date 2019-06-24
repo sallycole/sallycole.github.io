@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: jest
-type: free
-title: jest
 reference_link: https://www.etymonline.com/word/jest
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: jest
+type: free
 word_sums:
-- sum: 'Jest + '
-  respelling: jest
+- respelling: jest
+  sum: 'Jest + '
 ---

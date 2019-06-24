@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: watt
-type: free
-title: watt
 reference_link: https://www.etymonline.com/word/watt
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: watt
+type: free
 word_sums:
-- sum: 'Watt + '
-  respelling: watt
+- respelling: watt
+  sum: 'Watt + '
 ---

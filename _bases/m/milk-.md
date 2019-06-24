@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: milk
-type: free
-title: milk
 reference_link: https://www.etymonline.com/word/milk
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: milk
+type: free
 word_sums:
-- sum: 'Milk + '
-  respelling: milk
+- respelling: milk
+  sum: 'Milk + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: dint
-type: free
-title: dint
 reference_link: https://www.etymonline.com/word/dint
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: dint
+type: free
 word_sums:
-- sum: 'Dint + '
-  respelling: dint
+- respelling: dint
+  sum: 'Dint + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: fend
-type: free
-title: fend
 reference_link: https://www.etymonline.com/word/fend
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: fend
+type: free
 word_sums:
-- sum: 'Fend + '
-  respelling: fend
+- respelling: fend
+  sum: 'Fend + '
 ---

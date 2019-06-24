@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: oho
-type: free
-title: oho
 reference_link: https://www.etymonline.com/word/oho
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: oho
+type: free
 word_sums:
-- sum: 'Oho + '
-  respelling: oho
+- respelling: oho
+  sum: 'Oho + '
 ---

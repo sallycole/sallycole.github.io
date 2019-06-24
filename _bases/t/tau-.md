@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: tau
-type: free
-title: tau
 reference_link: https://www.etymonline.com/word/tau
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: tau
+type: free
 word_sums:
-- sum: 'Tau + '
-  respelling: tau
+- respelling: tau
+  sum: 'Tau + '
 ---

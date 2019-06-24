@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: nape
-type: free
-title: nape
 reference_link: https://www.etymonline.com/word/nape
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: nape
+type: free
 word_sums:
-- sum: 'Nape + '
-  respelling: nape
+- respelling: nape
+  sum: 'Nape + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: heft
-type: free
-title: heft
 reference_link: https://www.etymonline.com/word/heft
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: heft
+type: free
 word_sums:
-- sum: 'Heft + '
-  respelling: heft
+- respelling: heft
+  sum: 'Heft + '
 ---

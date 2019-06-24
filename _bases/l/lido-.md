@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: lido
-type: free
-title: lido
 reference_link: https://www.etymonline.com/word/lido
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: lido
+type: free
 word_sums:
-- sum: 'Lido + '
-  respelling: lido
+- respelling: lido
+  sum: 'Lido + '
 ---

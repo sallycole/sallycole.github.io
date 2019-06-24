@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: ball
-type: free
-title: ball
 reference_link: https://www.etymonline.com/word/ball
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: ball
+type: free
 word_sums:
-- sum: 'Ball + '
-  respelling: ball
+- respelling: ball
+  sum: 'Ball + '
 ---

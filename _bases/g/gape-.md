@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: gape
-type: free
-title: gape
 reference_link: https://www.etymonline.com/word/gape
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: gape
+type: free
 word_sums:
-- sum: 'Gape + '
-  respelling: gape
+- respelling: gape
+  sum: 'Gape + '
 ---

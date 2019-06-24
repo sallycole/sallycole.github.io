@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: dawn
-type: free
-title: dawn
 reference_link: https://www.etymonline.com/word/dawn
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: dawn
+type: free
 word_sums:
-- sum: 'Dawn + '
-  respelling: dawn
+- respelling: dawn
+  sum: 'Dawn + '
 ---

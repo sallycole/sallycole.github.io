@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: reb
-type: free
-title: reb
 reference_link: https://www.etymonline.com/word/reb
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: reb
+type: free
 word_sums:
-- sum: 'Reb + '
-  respelling: reb
+- respelling: reb
+  sum: 'Reb + '
 ---

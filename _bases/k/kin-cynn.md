@@ -1,38 +1,39 @@
 ---
+category: 3-letters
+denotation: family, race; kind, sort, rank, nature
 name: kin
+reference_link: https://parentingpatch.com/word-matrix-kin/
+root_language: Old English
+root_name: cynn
 title: kin
 type: free
-reference_link: https://parentingpatch.com/word-matrix-kin/
-root_name: cynn
-root_language: Old English
-denotation: family, race; kind, sort, rank, nature
 word_sums:
-- sum: 'a + Kin'
-  respelling: akin
-- sum: 'Kin + Folk'
-  respelling: kinfolk
-- sum: 'Kin + s + Folk'
-  respelling: kinsfolk
-- sum: 'Kin + Ship'
-  respelling: kinship
-- sum: 'Kin + Hood'
-  respelling: kinhood
-- sum: 'Kin + State'
-  respelling: kinstate
-- sum: 'Kin + State + s'
-  respelling: kinstates
-- sum: 'Kin + s + Man'
-  respelling: kinsman
-- sum: 'Kin + s + Men'
-  respelling: kinsmen
-- sum: 'Kin + s + Woman'
-  respelling: kinswoman
-- sum: 'Kin + s + Women'
-  respelling: kinswomen
-- sum: Kin + less'
-  respelling: kinless
-- sum: 'Other + Kin'
-  respelling: otherkin
-- sum: 'Otaku + Kin'
-  respelling: otakukin
+- respelling: akin
+  sum: a + Kin
+- respelling: kinfolk
+  sum: Kin + Folk
+- respelling: kinsfolk
+  sum: Kin + s + Folk
+- respelling: kinship
+  sum: Kin + Ship
+- respelling: kinhood
+  sum: Kin + Hood
+- respelling: kinstate
+  sum: Kin + State
+- respelling: kinstates
+  sum: Kin + State + s
+- respelling: kinsman
+  sum: Kin + s + Man
+- respelling: kinsmen
+  sum: Kin + s + Men
+- respelling: kinswoman
+  sum: Kin + s + Woman
+- respelling: kinswomen
+  sum: Kin + s + Women
+- respelling: kinless
+  sum: Kin + less'
+- respelling: otherkin
+  sum: Other + Kin
+- respelling: otakukin
+  sum: Otaku + Kin
 ---

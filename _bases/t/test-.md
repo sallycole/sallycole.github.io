@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: test
-type: free
-title: test
 reference_link: https://www.etymonline.com/word/test
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: test
+type: free
 word_sums:
-- sum: 'Test + '
-  respelling: test
+- respelling: test
+  sum: 'Test + '
 ---

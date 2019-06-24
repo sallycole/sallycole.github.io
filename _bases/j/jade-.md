@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: jade
-type: free
-title: jade
 reference_link: https://www.etymonline.com/word/jade
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: jade
+type: free
 word_sums:
-- sum: 'Jade + '
-  respelling: jade
+- respelling: jade
+  sum: 'Jade + '
 ---

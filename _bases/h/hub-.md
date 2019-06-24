@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: hub
-type: free
-title: hub
 reference_link: https://www.etymonline.com/word/hub
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: hub
+type: free
 word_sums:
-- sum: 'Hub + '
-  respelling: hub
+- respelling: hub
+  sum: 'Hub + '
 ---

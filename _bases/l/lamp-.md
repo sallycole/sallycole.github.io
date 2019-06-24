@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: lamp
-type: free
-title: lamp
 reference_link: https://www.etymonline.com/word/lamp
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: lamp
+type: free
 word_sums:
-- sum: 'Lamp + '
-  respelling: lamp
+- respelling: lamp
+  sum: 'Lamp + '
 ---

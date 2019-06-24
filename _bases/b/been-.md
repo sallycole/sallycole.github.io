@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: been
-type: free
-title: been
 reference_link: https://www.etymonline.com/word/been
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: been
+type: free
 word_sums:
-- sum: 'Been + '
-  respelling: been
+- respelling: been
+  sum: 'Been + '
 ---

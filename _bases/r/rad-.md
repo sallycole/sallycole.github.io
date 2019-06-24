@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: rad
-type: free
-title: rad
 reference_link: https://www.etymonline.com/word/rad
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: rad
+type: free
 word_sums:
-- sum: 'Rad + '
-  respelling: rad
+- respelling: rad
+  sum: 'Rad + '
 ---

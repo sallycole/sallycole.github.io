@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: cred
-type: free
-title: cred
 reference_link: https://www.etymonline.com/word/cred
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: cred
+type: free
 word_sums:
-- sum: 'Cred + '
-  respelling: cred
+- respelling: cred
+  sum: 'Cred + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: earl
-type: free
-title: earl
 reference_link: https://www.etymonline.com/word/earl
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: earl
+type: free
 word_sums:
-- sum: 'Earl + '
-  respelling: earl
+- respelling: earl
+  sum: 'Earl + '
 ---

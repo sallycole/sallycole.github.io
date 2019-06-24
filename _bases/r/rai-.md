@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: rai
-type: free
-title: rai
 reference_link: https://www.etymonline.com/word/rai
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: rai
+type: free
 word_sums:
-- sum: 'Rai + '
-  respelling: rai
+- respelling: rai
+  sum: 'Rai + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: dire
-type: free
-title: dire
 reference_link: https://www.etymonline.com/word/dire
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: dire
+type: free
 word_sums:
-- sum: 'Dire + '
-  respelling: dire
+- respelling: dire
+  sum: 'Dire + '
 ---

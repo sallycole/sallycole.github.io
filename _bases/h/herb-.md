@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: herb
-type: free
-title: herb
 reference_link: https://www.etymonline.com/word/herb
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: herb
+type: free
 word_sums:
-- sum: 'Herb + '
-  respelling: herb
+- respelling: herb
+  sum: 'Herb + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: pale
-type: free
-title: pale
 reference_link: https://www.etymonline.com/word/pale
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: pale
+type: free
 word_sums:
-- sum: 'Pale + '
-  respelling: pale
+- respelling: pale
+  sum: 'Pale + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: loam
-type: free
-title: loam
 reference_link: https://www.etymonline.com/word/loam
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: loam
+type: free
 word_sums:
-- sum: 'Loam + '
-  respelling: loam
+- respelling: loam
+  sum: 'Loam + '
 ---

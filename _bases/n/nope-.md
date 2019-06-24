@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: nope
-type: free
-title: nope
 reference_link: https://www.etymonline.com/word/nope
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: nope
+type: free
 word_sums:
-- sum: 'Nope + '
-  respelling: nope
+- respelling: nope
+  sum: 'Nope + '
 ---

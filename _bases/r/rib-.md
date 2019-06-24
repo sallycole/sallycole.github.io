@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: rib
-type: free
-title: rib
 reference_link: https://www.etymonline.com/word/rib
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: rib
+type: free
 word_sums:
-- sum: 'Rib + '
-  respelling: rib
+- respelling: rib
+  sum: 'Rib + '
 ---

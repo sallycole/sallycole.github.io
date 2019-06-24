@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: gene
-type: free
-title: gene
 reference_link: https://www.etymonline.com/word/gene
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: gene
+type: free
 word_sums:
-- sum: 'Gene + '
-  respelling: gene
+- respelling: gene
+  sum: 'Gene + '
 ---

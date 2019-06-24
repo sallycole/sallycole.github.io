@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: aha
-type: free
-title: aha
 reference_link: https://www.etymonline.com/word/aha
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: aha
+type: free
 word_sums:
-- sum: 'Aha + '
-  respelling: aha
+- respelling: aha
+  sum: 'Aha + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: pure
-type: free
-title: pure
 reference_link: https://www.etymonline.com/word/pure
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: pure
+type: free
 word_sums:
-- sum: 'Pure + '
-  respelling: pure
+- respelling: pure
+  sum: 'Pure + '
 ---

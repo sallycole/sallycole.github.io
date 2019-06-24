@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: rain
-type: free
-title: rain
 reference_link: https://www.etymonline.com/word/rain
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: rain
+type: free
 word_sums:
-- sum: 'Rain + '
-  respelling: rain
+- respelling: rain
+  sum: 'Rain + '
 ---

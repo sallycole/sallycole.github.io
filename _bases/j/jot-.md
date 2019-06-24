@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: jot
-type: free
-title: jot
 reference_link: https://www.etymonline.com/word/jot
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: jot
+type: free
 word_sums:
-- sum: 'Jot + '
-  respelling: jot
+- respelling: jot
+  sum: 'Jot + '
 ---

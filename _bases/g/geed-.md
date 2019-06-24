@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: geed
-type: free
-title: geed
 reference_link: https://www.etymonline.com/word/geed
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: geed
+type: free
 word_sums:
-- sum: 'Geed + '
-  respelling: geed
+- respelling: geed
+  sum: 'Geed + '
 ---

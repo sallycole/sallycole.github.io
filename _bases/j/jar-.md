@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: jar
-type: free
-title: jar
 reference_link: https://www.etymonline.com/word/jar
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: jar
+type: free
 word_sums:
-- sum: 'Jar + '
-  respelling: jar
+- respelling: jar
+  sum: 'Jar + '
 ---

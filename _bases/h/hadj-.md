@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: hadj
-type: free
-title: hadj
 reference_link: https://www.etymonline.com/word/hadj
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: hadj
+type: free
 word_sums:
-- sum: 'Hadj + '
-  respelling: hadj
+- respelling: hadj
+  sum: 'Hadj + '
 ---

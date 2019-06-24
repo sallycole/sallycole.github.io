@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: slim
-type: free
-title: slim
 reference_link: https://www.etymonline.com/word/slim
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: slim
+type: free
 word_sums:
-- sum: 'Slim + '
-  respelling: slim
+- respelling: slim
+  sum: 'Slim + '
 ---

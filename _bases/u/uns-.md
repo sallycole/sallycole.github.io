@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: uns
-type: free
-title: uns
 reference_link: https://www.etymonline.com/word/uns
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: uns
+type: free
 word_sums:
-- sum: 'Uns + '
-  respelling: uns
+- respelling: uns
+  sum: 'Uns + '
 ---

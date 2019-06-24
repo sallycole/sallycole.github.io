@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: swim
-type: free
-title: swim
 reference_link: https://www.etymonline.com/word/swim
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: swim
+type: free
 word_sums:
-- sum: 'Swim + '
-  respelling: swim
+- respelling: swim
+  sum: 'Swim + '
 ---

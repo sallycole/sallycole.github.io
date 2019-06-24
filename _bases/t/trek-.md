@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: trek
-type: free
-title: trek
 reference_link: https://www.etymonline.com/word/trek
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: trek
+type: free
 word_sums:
-- sum: 'Trek + '
-  respelling: trek
+- respelling: trek
+  sum: 'Trek + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: burr
-type: free
-title: burr
 reference_link: https://www.etymonline.com/word/burr
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: burr
+type: free
 word_sums:
-- sum: 'Burr + '
-  respelling: burr
+- respelling: burr
+  sum: 'Burr + '
 ---

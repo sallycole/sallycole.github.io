@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: kale
-type: free
-title: kale
 reference_link: https://www.etymonline.com/word/kale
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: kale
+type: free
 word_sums:
-- sum: 'Kale + '
-  respelling: kale
+- respelling: kale
+  sum: 'Kale + '
 ---

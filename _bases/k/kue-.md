@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: kue
-type: free
-title: kue
 reference_link: https://www.etymonline.com/word/kue
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: kue
+type: free
 word_sums:
-- sum: 'Kue + '
-  respelling: kue
+- respelling: kue
+  sum: 'Kue + '
 ---

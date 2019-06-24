@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: perm
-type: free
-title: perm
 reference_link: https://www.etymonline.com/word/perm
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: perm
+type: free
 word_sums:
-- sum: 'Perm + '
-  respelling: perm
+- respelling: perm
+  sum: 'Perm + '
 ---

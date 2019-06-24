@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: lip
-type: free
-title: lip
 reference_link: https://www.etymonline.com/word/lip
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: lip
+type: free
 word_sums:
-- sum: 'Lip + '
-  respelling: lip
+- respelling: lip
+  sum: 'Lip + '
 ---

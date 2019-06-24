@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: foil
-type: free
-title: foil
 reference_link: https://www.etymonline.com/word/foil
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: foil
+type: free
 word_sums:
-- sum: 'Foil + '
-  respelling: foil
+- respelling: foil
+  sum: 'Foil + '
 ---

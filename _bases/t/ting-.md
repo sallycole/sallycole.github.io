@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: ting
-type: free
-title: ting
 reference_link: https://www.etymonline.com/word/ting
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: ting
+type: free
 word_sums:
-- sum: 'Ting + '
-  respelling: ting
+- respelling: ting
+  sum: 'Ting + '
 ---

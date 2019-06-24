@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: mole
-type: free
-title: mole
 reference_link: https://www.etymonline.com/word/mole
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: mole
+type: free
 word_sums:
-- sum: 'Mole + '
-  respelling: mole
+- respelling: mole
+  sum: 'Mole + '
 ---

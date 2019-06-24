@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: helm
-type: free
-title: helm
 reference_link: https://www.etymonline.com/word/helm
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: helm
+type: free
 word_sums:
-- sum: 'Helm + '
-  respelling: helm
+- respelling: helm
+  sum: 'Helm + '
 ---

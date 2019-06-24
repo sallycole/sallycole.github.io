@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: haj
-type: free
-title: haj
 reference_link: https://www.etymonline.com/word/haj
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: haj
+type: free
 word_sums:
-- sum: 'Haj + '
-  respelling: haj
+- respelling: haj
+  sum: 'Haj + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: bal
-type: free
-title: bal
 reference_link: https://www.etymonline.com/word/bal
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: bal
+type: free
 word_sums:
-- sum: 'Bal + '
-  respelling: bal
+- respelling: bal
+  sum: 'Bal + '
 ---

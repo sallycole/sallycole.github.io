@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: dirk
-type: free
-title: dirk
 reference_link: https://www.etymonline.com/word/dirk
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: dirk
+type: free
 word_sums:
-- sum: 'Dirk + '
-  respelling: dirk
+- respelling: dirk
+  sum: 'Dirk + '
 ---

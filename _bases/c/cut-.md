@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: cut
-type: free
-title: cut
 reference_link: https://www.etymonline.com/word/cut
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: cut
+type: free
 word_sums:
-- sum: 'Cut + '
-  respelling: cut
+- respelling: cut
+  sum: 'Cut + '
 ---

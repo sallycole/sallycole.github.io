@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: lea
-type: free
-title: lea
 reference_link: https://www.etymonline.com/word/lea
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: lea
+type: free
 word_sums:
-- sum: 'Lea + '
-  respelling: lea
+- respelling: lea
+  sum: 'Lea + '
 ---

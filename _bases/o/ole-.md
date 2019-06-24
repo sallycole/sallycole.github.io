@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: ole
-type: free
-title: ole
 reference_link: https://www.etymonline.com/word/ole
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: ole
+type: free
 word_sums:
-- sum: 'Ole + '
-  respelling: ole
+- respelling: ole
+  sum: 'Ole + '
 ---

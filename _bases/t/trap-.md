@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: trap
-type: free
-title: trap
 reference_link: https://www.etymonline.com/word/trap
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: trap
+type: free
 word_sums:
-- sum: 'Trap + '
-  respelling: trap
+- respelling: trap
+  sum: 'Trap + '
 ---

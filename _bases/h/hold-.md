@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: hold
-type: free
-title: hold
 reference_link: https://www.etymonline.com/word/hold
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: hold
+type: free
 word_sums:
-- sum: 'Hold + '
-  respelling: hold
+- respelling: hold
+  sum: 'Hold + '
 ---

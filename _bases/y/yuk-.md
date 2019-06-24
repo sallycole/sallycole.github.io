@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: yuk
-type: free
-title: yuk
 reference_link: https://www.etymonline.com/word/yuk
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: yuk
+type: free
 word_sums:
-- sum: 'Yuk + '
-  respelling: yuk
+- respelling: yuk
+  sum: 'Yuk + '
 ---

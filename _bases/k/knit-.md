@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: knit
-type: free
-title: knit
 reference_link: https://www.etymonline.com/word/knit
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: knit
+type: free
 word_sums:
-- sum: 'Knit + '
-  respelling: knit
+- respelling: knit
+  sum: 'Knit + '
 ---

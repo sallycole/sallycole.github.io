@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: hex
-type: free
-title: hex
 reference_link: https://www.etymonline.com/word/hex
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: hex
+type: free
 word_sums:
-- sum: 'Hex + '
-  respelling: hex
+- respelling: hex
+  sum: 'Hex + '
 ---

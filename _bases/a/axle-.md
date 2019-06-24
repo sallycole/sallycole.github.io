@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: axle
-type: free
-title: axle
 reference_link: https://www.etymonline.com/word/axle
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: axle
+type: free
 word_sums:
-- sum: 'Axle + '
-  respelling: axle
+- respelling: axle
+  sum: 'Axle + '
 ---

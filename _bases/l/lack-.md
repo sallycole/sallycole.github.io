@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: lack
-type: free
-title: lack
 reference_link: https://www.etymonline.com/word/lack
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: lack
+type: free
 word_sums:
-- sum: 'Lack + '
-  respelling: lack
+- respelling: lack
+  sum: 'Lack + '
 ---

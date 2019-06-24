@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: may
-type: free
-title: may
 reference_link: https://www.etymonline.com/word/may
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: may
+type: free
 word_sums:
-- sum: 'May + '
-  respelling: may
+- respelling: may
+  sum: 'May + '
 ---

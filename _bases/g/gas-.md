@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: gas
-type: free
-title: gas
 reference_link: https://www.etymonline.com/word/gas
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: gas
+type: free
 word_sums:
-- sum: 'Gas + '
-  respelling: gas
+- respelling: gas
+  sum: 'Gas + '
 ---

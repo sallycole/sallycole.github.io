@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: tome
-type: free
-title: tome
 reference_link: https://www.etymonline.com/word/tome
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: tome
+type: free
 word_sums:
-- sum: 'Tome + '
-  respelling: tome
+- respelling: tome
+  sum: 'Tome + '
 ---

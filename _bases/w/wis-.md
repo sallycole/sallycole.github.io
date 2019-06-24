@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: wis
-type: free
-title: wis
 reference_link: https://www.etymonline.com/word/wis
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: wis
+type: free
 word_sums:
-- sum: 'Wis + '
-  respelling: wis
+- respelling: wis
+  sum: 'Wis + '
 ---

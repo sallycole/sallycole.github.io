@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: herd
-type: free
-title: herd
 reference_link: https://www.etymonline.com/word/herd
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: herd
+type: free
 word_sums:
-- sum: 'Herd + '
-  respelling: herd
+- respelling: herd
+  sum: 'Herd + '
 ---

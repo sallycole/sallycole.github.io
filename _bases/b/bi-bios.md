@@ -1,20 +1,21 @@
 ---
+category: 2-letters
+denotation: life
 name: bi
+reference_link: null
+root_language: Greek
+root_name: bios
 title: bi
 type: bound
-reference_link: null
-root_name: bios
-root_language: Greek
-denotation: life
 word_sums:
-- sum: 'Aut + o + Bi + o + Graph + y'
-  respelling: autobiography
-- sum: 'Bi + o + Sphere'
-  respelling: biosphere
-- sum: 'Bi + ome'
-  respelling: biome
-- sum: 'Bi + o + di + Verse + i + ty'
-  respelling: biodiversity
-- sum: 'Bi + o + Loge + y'
-  respelling: biology
+- respelling: autobiography
+  sum: Aut + o + Bi + o + Graph + y
+- respelling: biosphere
+  sum: Bi + o + Sphere
+- respelling: biome
+  sum: Bi + ome
+- respelling: biodiversity
+  sum: Bi + o + di + Verse + i + ty
+- respelling: biology
+  sum: Bi + o + Loge + y
 ---

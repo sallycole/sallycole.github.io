@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: ouch
-type: free
-title: ouch
 reference_link: https://www.etymonline.com/word/ouch
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: ouch
+type: free
 word_sums:
-- sum: 'Ouch + '
-  respelling: ouch
+- respelling: ouch
+  sum: 'Ouch + '
 ---

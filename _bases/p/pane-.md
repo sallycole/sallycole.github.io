@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: pane
-type: free
-title: pane
 reference_link: https://www.etymonline.com/word/pane
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: pane
+type: free
 word_sums:
-- sum: 'Pane + '
-  respelling: pane
+- respelling: pane
+  sum: 'Pane + '
 ---

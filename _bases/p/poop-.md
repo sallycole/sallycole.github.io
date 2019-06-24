@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: poop
-type: free
-title: poop
 reference_link: https://www.etymonline.com/word/poop
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: poop
+type: free
 word_sums:
-- sum: 'Poop + '
-  respelling: poop
+- respelling: poop
+  sum: 'Poop + '
 ---

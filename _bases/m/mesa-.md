@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: mesa
-type: free
-title: mesa
 reference_link: https://www.etymonline.com/word/mesa
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: mesa
+type: free
 word_sums:
-- sum: 'Mesa + '
-  respelling: mesa
+- respelling: mesa
+  sum: 'Mesa + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: bald
-type: free
-title: bald
 reference_link: https://www.etymonline.com/word/bald
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: bald
+type: free
 word_sums:
-- sum: 'Bald + '
-  respelling: bald
+- respelling: bald
+  sum: 'Bald + '
 ---

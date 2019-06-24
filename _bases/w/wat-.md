@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: wat
-type: free
-title: wat
 reference_link: https://www.etymonline.com/word/wat
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: wat
+type: free
 word_sums:
-- sum: 'Wat + '
-  respelling: wat
+- respelling: wat
+  sum: 'Wat + '
 ---

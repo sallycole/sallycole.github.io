@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: bail
-type: free
-title: bail
 reference_link: https://www.etymonline.com/word/bail
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: bail
+type: free
 word_sums:
-- sum: 'Bail + '
-  respelling: bail
+- respelling: bail
+  sum: 'Bail + '
 ---

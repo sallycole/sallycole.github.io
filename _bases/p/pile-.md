@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: pile
-type: free
-title: pile
 reference_link: https://www.etymonline.com/word/pile
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: pile
+type: free
 word_sums:
-- sum: 'Pile + '
-  respelling: pile
+- respelling: pile
+  sum: 'Pile + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: cube
-type: free
-title: cube
 reference_link: https://www.etymonline.com/word/cube
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: cube
+type: free
 word_sums:
-- sum: 'Cube + '
-  respelling: cube
+- respelling: cube
+  sum: 'Cube + '
 ---

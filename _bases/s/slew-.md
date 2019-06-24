@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: slew
-type: free
-title: slew
 reference_link: https://www.etymonline.com/word/slew
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: slew
+type: free
 word_sums:
-- sum: 'Slew + '
-  respelling: slew
+- respelling: slew
+  sum: 'Slew + '
 ---

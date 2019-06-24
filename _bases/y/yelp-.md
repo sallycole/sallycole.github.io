@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: yelp
-type: free
-title: yelp
 reference_link: https://www.etymonline.com/word/yelp
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: yelp
+type: free
 word_sums:
-- sum: 'Yelp + '
-  respelling: yelp
+- respelling: yelp
+  sum: 'Yelp + '
 ---

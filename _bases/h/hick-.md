@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: hick
-type: free
-title: hick
 reference_link: https://www.etymonline.com/word/hick
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: hick
+type: free
 word_sums:
-- sum: 'Hick + '
-  respelling: hick
+- respelling: hick
+  sum: 'Hick + '
 ---

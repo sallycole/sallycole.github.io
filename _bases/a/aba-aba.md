@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: outer garment
 name: aba
+reference_link: https://www.etymonline.com/word/aba
+root_language: Arabic
+root_name: aba
 title: aba
 type: free
-reference_link: https://www.etymonline.com/word/aba
-root_name: aba
-root_language: Arabic
-denotation: outer garment
 word_sums:
-- sum: 'Aba'
-  respelling: aba
+- respelling: aba
+  sum: Aba
 ---

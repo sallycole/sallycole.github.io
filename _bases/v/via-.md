@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: via
-type: free
-title: via
 reference_link: https://www.etymonline.com/word/via
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: via
+type: free
 word_sums:
-- sum: 'Via + '
-  respelling: via
+- respelling: via
+  sum: 'Via + '
 ---

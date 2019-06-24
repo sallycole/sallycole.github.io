@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: grew
-type: free
-title: grew
 reference_link: https://www.etymonline.com/word/grew
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: grew
+type: free
 word_sums:
-- sum: 'Grew + '
-  respelling: grew
+- respelling: grew
+  sum: 'Grew + '
 ---

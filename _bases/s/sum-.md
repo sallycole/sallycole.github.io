@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: sum
-type: free
-title: sum
 reference_link: https://www.etymonline.com/word/sum
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: sum
+type: free
 word_sums:
-- sum: 'Sum + '
-  respelling: sum
+- respelling: sum
+  sum: 'Sum + '
 ---

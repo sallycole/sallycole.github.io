@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: apt
-type: free
-title: apt
 reference_link: https://www.etymonline.com/word/apt
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: apt
+type: free
 word_sums:
-- sum: 'Apt + '
-  respelling: apt
+- respelling: apt
+  sum: 'Apt + '
 ---

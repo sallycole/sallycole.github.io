@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: souk
-type: free
-title: souk
 reference_link: https://www.etymonline.com/word/souk
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: souk
+type: free
 word_sums:
-- sum: 'Souk + '
-  respelling: souk
+- respelling: souk
+  sum: 'Souk + '
 ---

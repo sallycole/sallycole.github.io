@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: yang
-type: free
-title: yang
 reference_link: https://www.etymonline.com/word/yang
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: yang
+type: free
 word_sums:
-- sum: 'Yang + '
-  respelling: yang
+- respelling: yang
+  sum: 'Yang + '
 ---

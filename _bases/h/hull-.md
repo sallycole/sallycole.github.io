@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: hull
-type: free
-title: hull
 reference_link: https://www.etymonline.com/word/hull
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: hull
+type: free
 word_sums:
-- sum: 'Hull + '
-  respelling: hull
+- respelling: hull
+  sum: 'Hull + '
 ---

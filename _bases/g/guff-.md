@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: guff
-type: free
-title: guff
 reference_link: https://www.etymonline.com/word/guff
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: guff
+type: free
 word_sums:
-- sum: 'Guff + '
-  respelling: guff
+- respelling: guff
+  sum: 'Guff + '
 ---

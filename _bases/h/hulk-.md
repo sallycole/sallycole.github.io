@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: hulk
-type: free
-title: hulk
 reference_link: https://www.etymonline.com/word/hulk
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: hulk
+type: free
 word_sums:
-- sum: 'Hulk + '
-  respelling: hulk
+- respelling: hulk
+  sum: 'Hulk + '
 ---

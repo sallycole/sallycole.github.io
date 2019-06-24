@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: sop
-type: free
-title: sop
 reference_link: https://www.etymonline.com/word/sop
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: sop
+type: free
 word_sums:
-- sum: 'Sop + '
-  respelling: sop
+- respelling: sop
+  sum: 'Sop + '
 ---

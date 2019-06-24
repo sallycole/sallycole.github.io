@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: well
-type: free
-title: well
 reference_link: https://www.etymonline.com/word/well
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: well
+type: free
 word_sums:
-- sum: 'Well + '
-  respelling: well
+- respelling: well
+  sum: 'Well + '
 ---

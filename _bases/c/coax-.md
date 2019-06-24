@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: coax
-type: free
-title: coax
 reference_link: https://www.etymonline.com/word/coax
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: coax
+type: free
 word_sums:
-- sum: 'Coax + '
-  respelling: coax
+- respelling: coax
+  sum: 'Coax + '
 ---

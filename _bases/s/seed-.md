@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: seed
-type: free
-title: seed
 reference_link: https://www.etymonline.com/word/seed
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: seed
+type: free
 word_sums:
-- sum: 'Seed + '
-  respelling: seed
+- respelling: seed
+  sum: 'Seed + '
 ---

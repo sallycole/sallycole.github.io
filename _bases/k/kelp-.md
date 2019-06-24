@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: kelp
-type: free
-title: kelp
 reference_link: https://www.etymonline.com/word/kelp
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: kelp
+type: free
 word_sums:
-- sum: 'Kelp + '
-  respelling: kelp
+- respelling: kelp
+  sum: 'Kelp + '
 ---

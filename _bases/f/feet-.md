@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: feet
-type: free
-title: feet
 reference_link: https://www.etymonline.com/word/feet
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: feet
+type: free
 word_sums:
-- sum: 'Feet + '
-  respelling: feet
+- respelling: feet
+  sum: 'Feet + '
 ---

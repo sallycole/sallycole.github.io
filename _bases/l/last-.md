@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: last
-type: free
-title: last
 reference_link: https://www.etymonline.com/word/last
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: last
+type: free
 word_sums:
-- sum: 'Last + '
-  respelling: last
+- respelling: last
+  sum: 'Last + '
 ---

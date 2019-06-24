@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: pear
-type: free
-title: pear
 reference_link: https://www.etymonline.com/word/pear
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: pear
+type: free
 word_sums:
-- sum: 'Pear + '
-  respelling: pear
+- respelling: pear
+  sum: 'Pear + '
 ---

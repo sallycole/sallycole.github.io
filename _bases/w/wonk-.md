@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: wonk
-type: free
-title: wonk
 reference_link: https://www.etymonline.com/word/wonk
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: wonk
+type: free
 word_sums:
-- sum: 'Wonk + '
-  respelling: wonk
+- respelling: wonk
+  sum: 'Wonk + '
 ---

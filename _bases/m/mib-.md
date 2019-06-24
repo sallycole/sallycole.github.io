@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: mib
-type: free
-title: mib
 reference_link: https://www.etymonline.com/word/mib
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: mib
+type: free
 word_sums:
-- sum: 'Mib + '
-  respelling: mib
+- respelling: mib
+  sum: 'Mib + '
 ---

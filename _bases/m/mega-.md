@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: mega
-type: free
-title: mega
 reference_link: https://www.etymonline.com/word/mega
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: mega
+type: free
 word_sums:
-- sum: 'Mega + '
-  respelling: mega
+- respelling: mega
+  sum: 'Mega + '
 ---

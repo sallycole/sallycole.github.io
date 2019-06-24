@@ -1,140 +1,141 @@
 ---
+category: 4-letters
+denotation: water from clouds
 name: rain
+reference_link: https://parentingpatch.com/word-matrix-rain/
+root_language: Old English
+root_name: regn
 title: rain
 type: free
-reference_link: https://parentingpatch.com/word-matrix-rain/
-root_name: regn
-root_language: Old English
-denotation: water from clouds
 word_sums:
-- sum: 'Rain + s'
-  respelling: rains
-- sum: 'Rain + ed'
-  respelling: rained
-- sum: 'Rain + ing'
-  respelling: raining
-- sum: 'Rain + y'
-  respelling: rainy
-- sum: 'Rain + y + er'
-  respelling: rainier
-- sum: 'Rain + y + est'
-  respelling: rainiest
-- sum: 'Rain + y + ly'
-  respelling: rainily
-- sum: 'Rain + y + ness'
-  respelling: raininess
-- sum: 'Rain + less'
-  respelling: rainless
-- sum: 'Rain + less + ly'
-  respelling: rainlessly
-- sum: 'Rain + Like'
-  respelling: rainlike
-- sum: 'Rain + ish'
-  respelling: rainish
-- sum: 'Rain + Make + er'
-  respelling: rainmaker
-- sum: 'Rain + Make + er + s'
-  respelling: rainmakers
-- sum: 'Rain + Make + ing'
-  respelling: rainmaking
-- sum: 'Rain + Make + ing + s'
-  respelling: rainmakings
-- sum: 'Rain + Proof'
-  respelling: rainproof
-- sum: 'Rain + Proof + s'
-  respelling: rainproofs
-- sum: 'Rain + Proof + ed'
-  respelling: rainproofed
-- sum: 'Rain + Proof + ing'
-  respelling: rainproofing
-- sum: 'Rain + Proof + er'
-  respelling: rainproofer
-- sum: 'Rain + Proof + er + s'
-  respelling: rainproofers
-- sum: 'Rain + Band'
-  respelling: rainband
-- sum: 'Rain + Band + s'
-  respelling: rainbands
-- sum: 'Rain + Bird'
-  respelling: rainbird
-- sum: 'Rain + Bird + s'
-  respelling: rainbirds
-- sum: 'Rain + Boot'
-  respelling: rainboot
-- sum: 'Rain + Boot + s'
-  respelling: rainboots
-- sum: 'Rain + Bow'
-  respelling: rainbow
-- sum: 'Rain + Bow + s'
-  respelling: rainbows
-- sum: 'Rain + Check'
-  respelling: raincheck
-- sum: 'Rain + Check + s'
-  respelling: rainchecks
-- sum: 'Rain + Coat'
-  respelling: raincoat
-- sum: 'Rain + Coat + s'
-  respelling: raincoats
-- sum: 'Rain + Drop'
-  respelling: raindrop
-- sum: 'Rain + Drop + s'
-  respelling: raindrops
-- sum: 'Rain + Fall'
-  respelling: rainfall
-- sum: 'Rain + Fall + s'
-  respelling: rainfalls
-- sum: 'Rain + Forest'
-  respelling: rainforest
-- sum: 'Rain + Forest + s'
-  respelling: rainforests
-- sum: 'Rain + Gear'
-  respelling: raingear
-- sum: 'Rain + Jack + et'
-  respelling: rainjacket
-- sum: 'Rain + Jack + et + s'
-  respelling: rainjackets
-- sum: 'Rain + Out'
-  respelling: rainout
-- sum: 'Rain + Out + s'
-  respelling: rainouts
-- sum: 'Rain + Shower'
-  respelling: rainshower
-- sum: 'Rain + Shower + s'
-  respelling: rainshowers
-- sum: 'Rain + Soak + ed'
-  respelling: rainsoaked
-- sum: 'Rain + Spout'
-  respelling: rainspout
-- sum: 'Rain + Spout + s'
-  respelling: rainspouts
-- sum: 'Rain + Squall'
-  respelling: rainsquall
-- sum: 'Rain + Squall + s'
-  respelling: rainsqualls
-- sum: 'Rain + Storm'
-  respelling: rainstorm
-- sum: 'Rain + Storm + s'
-  respelling: rainstorms
-- sum: 'Rain + Storm + y'
-  respelling: rainstormy
-- sum: 'Rain + Wash'
-  respelling: rainwash
-- sum: 'Rain + Wash + es'
-  respelling: rainwashes
-- sum: 'Rain + Wash + ed'
-  respelling: rainwashed
-- sum: 'Rain + Water'
-  respelling: rainwater
-- sum: 'Rain + Water + s'
-  respelling: rainwaters
-- sum: 'Rain + Wear'
-  respelling: rainwear
-- sum: 'be + Rain'
-  respelling: berain
-- sum: 'be + Rain + s'
-  respelling: berains
-- sum: 'be + Rain + ed'
-  respelling: berained
-- sum: 'be + Rain + ing'
-  respelling: beraining
+- respelling: rains
+  sum: Rain + s
+- respelling: rained
+  sum: Rain + ed
+- respelling: raining
+  sum: Rain + ing
+- respelling: rainy
+  sum: Rain + y
+- respelling: rainier
+  sum: Rain + y + er
+- respelling: rainiest
+  sum: Rain + y + est
+- respelling: rainily
+  sum: Rain + y + ly
+- respelling: raininess
+  sum: Rain + y + ness
+- respelling: rainless
+  sum: Rain + less
+- respelling: rainlessly
+  sum: Rain + less + ly
+- respelling: rainlike
+  sum: Rain + Like
+- respelling: rainish
+  sum: Rain + ish
+- respelling: rainmaker
+  sum: Rain + Make + er
+- respelling: rainmakers
+  sum: Rain + Make + er + s
+- respelling: rainmaking
+  sum: Rain + Make + ing
+- respelling: rainmakings
+  sum: Rain + Make + ing + s
+- respelling: rainproof
+  sum: Rain + Proof
+- respelling: rainproofs
+  sum: Rain + Proof + s
+- respelling: rainproofed
+  sum: Rain + Proof + ed
+- respelling: rainproofing
+  sum: Rain + Proof + ing
+- respelling: rainproofer
+  sum: Rain + Proof + er
+- respelling: rainproofers
+  sum: Rain + Proof + er + s
+- respelling: rainband
+  sum: Rain + Band
+- respelling: rainbands
+  sum: Rain + Band + s
+- respelling: rainbird
+  sum: Rain + Bird
+- respelling: rainbirds
+  sum: Rain + Bird + s
+- respelling: rainboot
+  sum: Rain + Boot
+- respelling: rainboots
+  sum: Rain + Boot + s
+- respelling: rainbow
+  sum: Rain + Bow
+- respelling: rainbows
+  sum: Rain + Bow + s
+- respelling: raincheck
+  sum: Rain + Check
+- respelling: rainchecks
+  sum: Rain + Check + s
+- respelling: raincoat
+  sum: Rain + Coat
+- respelling: raincoats
+  sum: Rain + Coat + s
+- respelling: raindrop
+  sum: Rain + Drop
+- respelling: raindrops
+  sum: Rain + Drop + s
+- respelling: rainfall
+  sum: Rain + Fall
+- respelling: rainfalls
+  sum: Rain + Fall + s
+- respelling: rainforest
+  sum: Rain + Forest
+- respelling: rainforests
+  sum: Rain + Forest + s
+- respelling: raingear
+  sum: Rain + Gear
+- respelling: rainjacket
+  sum: Rain + Jack + et
+- respelling: rainjackets
+  sum: Rain + Jack + et + s
+- respelling: rainout
+  sum: Rain + Out
+- respelling: rainouts
+  sum: Rain + Out + s
+- respelling: rainshower
+  sum: Rain + Shower
+- respelling: rainshowers
+  sum: Rain + Shower + s
+- respelling: rainsoaked
+  sum: Rain + Soak + ed
+- respelling: rainspout
+  sum: Rain + Spout
+- respelling: rainspouts
+  sum: Rain + Spout + s
+- respelling: rainsquall
+  sum: Rain + Squall
+- respelling: rainsqualls
+  sum: Rain + Squall + s
+- respelling: rainstorm
+  sum: Rain + Storm
+- respelling: rainstorms
+  sum: Rain + Storm + s
+- respelling: rainstormy
+  sum: Rain + Storm + y
+- respelling: rainwash
+  sum: Rain + Wash
+- respelling: rainwashes
+  sum: Rain + Wash + es
+- respelling: rainwashed
+  sum: Rain + Wash + ed
+- respelling: rainwater
+  sum: Rain + Water
+- respelling: rainwaters
+  sum: Rain + Water + s
+- respelling: rainwear
+  sum: Rain + Wear
+- respelling: berain
+  sum: be + Rain
+- respelling: berains
+  sum: be + Rain + s
+- respelling: berained
+  sum: be + Rain + ed
+- respelling: beraining
+  sum: be + Rain + ing
 ---

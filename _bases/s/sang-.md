@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: sang
-type: free
-title: sang
 reference_link: https://www.etymonline.com/word/sang
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: sang
+type: free
 word_sums:
-- sum: 'Sang + '
-  respelling: sang
+- respelling: sang
+  sum: 'Sang + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: spud
-type: free
-title: spud
 reference_link: https://www.etymonline.com/word/spud
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: spud
+type: free
 word_sums:
-- sum: 'Spud + '
-  respelling: spud
+- respelling: spud
+  sum: 'Spud + '
 ---

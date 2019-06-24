@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: base
-type: free
-title: base
 reference_link: https://www.etymonline.com/word/base
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: base
+type: free
 word_sums:
-- sum: 'Base + '
-  respelling: base
+- respelling: base
+  sum: 'Base + '
 ---

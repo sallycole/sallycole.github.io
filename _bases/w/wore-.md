@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: wore
-type: free
-title: wore
 reference_link: https://www.etymonline.com/word/wore
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: wore
+type: free
 word_sums:
-- sum: 'Wore + '
-  respelling: wore
+- respelling: wore
+  sum: 'Wore + '
 ---

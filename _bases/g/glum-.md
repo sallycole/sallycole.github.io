@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: glum
-type: free
-title: glum
 reference_link: https://www.etymonline.com/word/glum
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: glum
+type: free
 word_sums:
-- sum: 'Glum + '
-  respelling: glum
+- respelling: glum
+  sum: 'Glum + '
 ---

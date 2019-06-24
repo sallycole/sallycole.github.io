@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: moor
-type: free
-title: moor
 reference_link: https://www.etymonline.com/word/moor
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: moor
+type: free
 word_sums:
-- sum: 'Moor + '
-  respelling: moor
+- respelling: moor
+  sum: 'Moor + '
 ---

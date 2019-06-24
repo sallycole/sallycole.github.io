@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: bra
-type: free
-title: bra
 reference_link: https://www.etymonline.com/word/bra
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: bra
+type: free
 word_sums:
-- sum: 'Bra + '
-  respelling: bra
+- respelling: bra
+  sum: 'Bra + '
 ---

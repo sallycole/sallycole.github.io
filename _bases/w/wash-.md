@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: wash
-type: free
-title: wash
 reference_link: https://www.etymonline.com/word/wash
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: wash
+type: free
 word_sums:
-- sum: 'Wash + '
-  respelling: wash
+- respelling: wash
+  sum: 'Wash + '
 ---

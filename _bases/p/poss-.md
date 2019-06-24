@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: poss
-type: free
-title: poss
 reference_link: https://www.etymonline.com/word/poss
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: poss
+type: free
 word_sums:
-- sum: 'Poss + '
-  respelling: poss
+- respelling: poss
+  sum: 'Poss + '
 ---

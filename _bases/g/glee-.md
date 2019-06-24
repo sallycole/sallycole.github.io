@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: glee
-type: free
-title: glee
 reference_link: https://www.etymonline.com/word/glee
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: glee
+type: free
 word_sums:
-- sum: 'Glee + '
-  respelling: glee
+- respelling: glee
+  sum: 'Glee + '
 ---

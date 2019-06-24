@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: rim
-type: free
-title: rim
 reference_link: https://www.etymonline.com/word/rim
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: rim
+type: free
 word_sums:
-- sum: 'Rim + '
-  respelling: rim
+- respelling: rim
+  sum: 'Rim + '
 ---

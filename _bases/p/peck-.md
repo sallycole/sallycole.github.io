@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: peck
-type: free
-title: peck
 reference_link: https://www.etymonline.com/word/peck
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: peck
+type: free
 word_sums:
-- sum: 'Peck + '
-  respelling: peck
+- respelling: peck
+  sum: 'Peck + '
 ---

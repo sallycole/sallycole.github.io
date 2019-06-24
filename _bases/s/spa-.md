@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: spa
-type: free
-title: spa
 reference_link: https://www.etymonline.com/word/spa
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: spa
+type: free
 word_sums:
-- sum: 'Spa + '
-  respelling: spa
+- respelling: spa
+  sum: 'Spa + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: each
-type: free
-title: each
 reference_link: https://www.etymonline.com/word/each
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: each
+type: free
 word_sums:
-- sum: 'Each + '
-  respelling: each
+- respelling: each
+  sum: 'Each + '
 ---

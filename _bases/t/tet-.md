@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: tet
-type: free
-title: tet
 reference_link: https://www.etymonline.com/word/tet
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: tet
+type: free
 word_sums:
-- sum: 'Tet + '
-  respelling: tet
+- respelling: tet
+  sum: 'Tet + '
 ---

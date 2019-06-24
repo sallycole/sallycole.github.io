@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: clip
-type: free
-title: clip
 reference_link: https://www.etymonline.com/word/clip
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: clip
+type: free
 word_sums:
-- sum: 'Clip + '
-  respelling: clip
+- respelling: clip
+  sum: 'Clip + '
 ---

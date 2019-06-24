@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: peso
-type: free
-title: peso
 reference_link: https://www.etymonline.com/word/peso
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: peso
+type: free
 word_sums:
-- sum: 'Peso + '
-  respelling: peso
+- respelling: peso
+  sum: 'Peso + '
 ---

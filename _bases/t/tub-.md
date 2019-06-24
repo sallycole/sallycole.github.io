@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: tub
-type: free
-title: tub
 reference_link: https://www.etymonline.com/word/tub
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: tub
+type: free
 word_sums:
-- sum: 'Tub + '
-  respelling: tub
+- respelling: tub
+  sum: 'Tub + '
 ---

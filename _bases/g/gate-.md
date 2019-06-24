@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: gate
-type: free
-title: gate
 reference_link: https://www.etymonline.com/word/gate
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: gate
+type: free
 word_sums:
-- sum: 'Gate + '
-  respelling: gate
+- respelling: gate
+  sum: 'Gate + '
 ---

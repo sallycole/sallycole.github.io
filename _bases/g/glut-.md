@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: glut
-type: free
-title: glut
 reference_link: https://www.etymonline.com/word/glut
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: glut
+type: free
 word_sums:
-- sum: 'Glut + '
-  respelling: glut
+- respelling: glut
+  sum: 'Glut + '
 ---

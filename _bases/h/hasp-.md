@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: hasp
-type: free
-title: hasp
 reference_link: https://www.etymonline.com/word/hasp
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: hasp
+type: free
 word_sums:
-- sum: 'Hasp + '
-  respelling: hasp
+- respelling: hasp
+  sum: 'Hasp + '
 ---

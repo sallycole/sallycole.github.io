@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: cope
-type: free
-title: cope
 reference_link: https://www.etymonline.com/word/cope
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: cope
+type: free
 word_sums:
-- sum: 'Cope + '
-  respelling: cope
+- respelling: cope
+  sum: 'Cope + '
 ---

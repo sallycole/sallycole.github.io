@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: sift
-type: free
-title: sift
 reference_link: https://www.etymonline.com/word/sift
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: sift
+type: free
 word_sums:
-- sum: 'Sift + '
-  respelling: sift
+- respelling: sift
+  sum: 'Sift + '
 ---

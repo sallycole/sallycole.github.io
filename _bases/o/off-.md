@@ -1,12 +1,13 @@
 ---
-name: "off"
-type: free
-title: "off"
+category: 3-letters
+denotation: null
+name: 'off'
 reference_link: https://www.etymonline.com/word/off
-root_name:
-root_language:
-denotation:
+root_language: null
+root_name: null
+title: 'off'
+type: free
 word_sums:
-- sum: 'Off + '
-  respelling: "off"
+- respelling: 'off'
+  sum: 'Off + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: air
-type: free
-title: air
 reference_link: https://www.etymonline.com/word/air
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: air
+type: free
 word_sums:
-- sum: 'Air + '
-  respelling: air
+- respelling: air
+  sum: 'Air + '
 ---

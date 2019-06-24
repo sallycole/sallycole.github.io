@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: slit
-type: free
-title: slit
 reference_link: https://www.etymonline.com/word/slit
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: slit
+type: free
 word_sums:
-- sum: 'Slit + '
-  respelling: slit
+- respelling: slit
+  sum: 'Slit + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: lost
-type: free
-title: lost
 reference_link: https://www.etymonline.com/word/lost
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: lost
+type: free
 word_sums:
-- sum: 'Lost + '
-  respelling: lost
+- respelling: lost
+  sum: 'Lost + '
 ---

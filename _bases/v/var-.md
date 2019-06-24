@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: var
-type: free
-title: var
 reference_link: https://www.etymonline.com/word/var
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: var
+type: free
 word_sums:
-- sum: 'Var + '
-  respelling: var
+- respelling: var
+  sum: 'Var + '
 ---

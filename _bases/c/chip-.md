@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: chip
-type: free
-title: chip
 reference_link: https://www.etymonline.com/word/chip
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: chip
+type: free
 word_sums:
-- sum: 'Chip + '
-  respelling: chip
+- respelling: chip
+  sum: 'Chip + '
 ---

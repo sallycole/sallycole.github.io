@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: dull
-type: free
-title: dull
 reference_link: https://www.etymonline.com/word/dull
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: dull
+type: free
 word_sums:
-- sum: 'Dull + '
-  respelling: dull
+- respelling: dull
+  sum: 'Dull + '
 ---

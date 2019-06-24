@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: clog
-type: free
-title: clog
 reference_link: https://www.etymonline.com/word/clog
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: clog
+type: free
 word_sums:
-- sum: 'Clog + '
-  respelling: clog
+- respelling: clog
+  sum: 'Clog + '
 ---

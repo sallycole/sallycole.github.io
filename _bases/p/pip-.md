@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: pip
-type: free
-title: pip
 reference_link: https://www.etymonline.com/word/pip
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: pip
+type: free
 word_sums:
-- sum: 'Pip + '
-  respelling: pip
+- respelling: pip
+  sum: 'Pip + '
 ---

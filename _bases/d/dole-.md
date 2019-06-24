@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: dole
-type: free
-title: dole
 reference_link: https://www.etymonline.com/word/dole
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: dole
+type: free
 word_sums:
-- sum: 'Dole + '
-  respelling: dole
+- respelling: dole
+  sum: 'Dole + '
 ---

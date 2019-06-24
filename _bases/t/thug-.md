@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: thug
-type: free
-title: thug
 reference_link: https://www.etymonline.com/word/thug
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: thug
+type: free
 word_sums:
-- sum: 'Thug + '
-  respelling: thug
+- respelling: thug
+  sum: 'Thug + '
 ---

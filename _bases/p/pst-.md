@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: pst
-type: free
-title: pst
 reference_link: https://www.etymonline.com/word/pst
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: pst
+type: free
 word_sums:
-- sum: 'Pst + '
-  respelling: pst
+- respelling: pst
+  sum: 'Pst + '
 ---

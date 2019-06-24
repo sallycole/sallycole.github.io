@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: duo
-type: free
-title: duo
 reference_link: https://www.etymonline.com/word/duo
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: duo
+type: free
 word_sums:
-- sum: 'Duo + '
-  respelling: duo
+- respelling: duo
+  sum: 'Duo + '
 ---

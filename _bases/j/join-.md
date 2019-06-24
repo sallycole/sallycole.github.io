@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: join
-type: free
-title: join
 reference_link: https://www.etymonline.com/word/join
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: join
+type: free
 word_sums:
-- sum: 'Join + '
-  respelling: join
+- respelling: join
+  sum: 'Join + '
 ---

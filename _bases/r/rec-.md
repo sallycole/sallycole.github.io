@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: rec
-type: free
-title: rec
 reference_link: https://www.etymonline.com/word/rec
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: rec
+type: free
 word_sums:
-- sum: 'Rec + '
-  respelling: rec
+- respelling: rec
+  sum: 'Rec + '
 ---

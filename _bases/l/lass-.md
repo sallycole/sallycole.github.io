@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: lass
-type: free
-title: lass
 reference_link: https://www.etymonline.com/word/lass
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: lass
+type: free
 word_sums:
-- sum: 'Lass + '
-  respelling: lass
+- respelling: lass
+  sum: 'Lass + '
 ---

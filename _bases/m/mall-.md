@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: mall
-type: free
-title: mall
 reference_link: https://www.etymonline.com/word/mall
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: mall
+type: free
 word_sums:
-- sum: 'Mall + '
-  respelling: mall
+- respelling: mall
+  sum: 'Mall + '
 ---

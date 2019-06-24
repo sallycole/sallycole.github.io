@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: cake
-type: free
-title: cake
 reference_link: https://www.etymonline.com/word/cake
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: cake
+type: free
 word_sums:
-- sum: 'Cake + '
-  respelling: cake
+- respelling: cake
+  sum: 'Cake + '
 ---

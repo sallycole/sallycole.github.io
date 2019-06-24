@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: zag
-type: free
-title: zag
 reference_link: https://www.etymonline.com/word/zag
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: zag
+type: free
 word_sums:
-- sum: 'Zag + '
-  respelling: zag
+- respelling: zag
+  sum: 'Zag + '
 ---

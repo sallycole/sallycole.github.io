@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: race
-type: free
-title: race
 reference_link: https://www.etymonline.com/word/race
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: race
+type: free
 word_sums:
-- sum: 'Race + '
-  respelling: race
+- respelling: race
+  sum: 'Race + '
 ---

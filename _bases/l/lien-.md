@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: lien
-type: free
-title: lien
 reference_link: https://www.etymonline.com/word/lien
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: lien
+type: free
 word_sums:
-- sum: 'Lien + '
-  respelling: lien
+- respelling: lien
+  sum: 'Lien + '
 ---

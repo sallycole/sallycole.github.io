@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: dill
-type: free
-title: dill
 reference_link: https://www.etymonline.com/word/dill
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: dill
+type: free
 word_sums:
-- sum: 'Dill + '
-  respelling: dill
+- respelling: dill
+  sum: 'Dill + '
 ---

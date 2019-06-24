@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: boy
-type: free
-title: boy
 reference_link: https://www.etymonline.com/word/boy
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: boy
+type: free
 word_sums:
-- sum: 'Boy + '
-  respelling: boy
+- respelling: boy
+  sum: 'Boy + '
 ---

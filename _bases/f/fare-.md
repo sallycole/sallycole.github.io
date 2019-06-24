@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: fare
-type: free
-title: fare
 reference_link: https://www.etymonline.com/word/fare
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: fare
+type: free
 word_sums:
-- sum: 'Fare + '
-  respelling: fare
+- respelling: fare
+  sum: 'Fare + '
 ---

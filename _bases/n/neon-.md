@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: neon
-type: free
-title: neon
 reference_link: https://www.etymonline.com/word/neon
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: neon
+type: free
 word_sums:
-- sum: 'Neon + '
-  respelling: neon
+- respelling: neon
+  sum: 'Neon + '
 ---

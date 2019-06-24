@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: bow
-type: free
-title: bow
 reference_link: https://www.etymonline.com/word/bow
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: bow
+type: free
 word_sums:
-- sum: 'Bow + '
-  respelling: bow
+- respelling: bow
+  sum: 'Bow + '
 ---

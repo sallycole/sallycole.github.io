@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: putz
-type: free
-title: putz
 reference_link: https://www.etymonline.com/word/putz
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: putz
+type: free
 word_sums:
-- sum: 'Putz + '
-  respelling: putz
+- respelling: putz
+  sum: 'Putz + '
 ---

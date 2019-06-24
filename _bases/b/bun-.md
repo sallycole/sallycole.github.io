@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: bun
-type: free
-title: bun
 reference_link: https://www.etymonline.com/word/bun
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: bun
+type: free
 word_sums:
-- sum: 'Bun + '
-  respelling: bun
+- respelling: bun
+  sum: 'Bun + '
 ---

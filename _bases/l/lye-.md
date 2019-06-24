@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: lye
-type: free
-title: lye
 reference_link: https://www.etymonline.com/word/lye
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: lye
+type: free
 word_sums:
-- sum: 'Lye + '
-  respelling: lye
+- respelling: lye
+  sum: 'Lye + '
 ---

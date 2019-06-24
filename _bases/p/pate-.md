@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: pate
-type: free
-title: pate
 reference_link: https://www.etymonline.com/word/pate
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: pate
+type: free
 word_sums:
-- sum: 'Pate + '
-  respelling: pate
+- respelling: pate
+  sum: 'Pate + '
 ---

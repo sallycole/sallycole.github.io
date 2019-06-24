@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: dab
-type: free
-title: dab
 reference_link: https://www.etymonline.com/word/dab
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: dab
+type: free
 word_sums:
-- sum: 'Dab + '
-  respelling: dab
+- respelling: dab
+  sum: 'Dab + '
 ---

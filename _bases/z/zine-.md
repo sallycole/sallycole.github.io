@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: zine
-type: free
-title: zine
 reference_link: https://www.etymonline.com/word/zine
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: zine
+type: free
 word_sums:
-- sum: 'Zine + '
-  respelling: zine
+- respelling: zine
+  sum: 'Zine + '
 ---

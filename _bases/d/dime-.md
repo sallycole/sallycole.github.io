@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: dime
-type: free
-title: dime
 reference_link: https://www.etymonline.com/word/dime
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: dime
+type: free
 word_sums:
-- sum: 'Dime + '
-  respelling: dime
+- respelling: dime
+  sum: 'Dime + '
 ---

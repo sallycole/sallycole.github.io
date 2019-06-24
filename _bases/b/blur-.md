@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: blur
-type: free
-title: blur
 reference_link: https://www.etymonline.com/word/blur
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: blur
+type: free
 word_sums:
-- sum: 'Blur + '
-  respelling: blur
+- respelling: blur
+  sum: 'Blur + '
 ---

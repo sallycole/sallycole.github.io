@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: dump
-type: free
-title: dump
 reference_link: https://www.etymonline.com/word/dump
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: dump
+type: free
 word_sums:
-- sum: 'Dump + '
-  respelling: dump
+- respelling: dump
+  sum: 'Dump + '
 ---

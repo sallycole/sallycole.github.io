@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: want
-type: free
-title: want
 reference_link: https://www.etymonline.com/word/want
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: want
+type: free
 word_sums:
-- sum: 'Want + '
-  respelling: want
+- respelling: want
+  sum: 'Want + '
 ---

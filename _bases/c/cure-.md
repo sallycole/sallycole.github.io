@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: cure
-type: free
-title: cure
 reference_link: https://www.etymonline.com/word/cure
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: cure
+type: free
 word_sums:
-- sum: 'Cure + '
-  respelling: cure
+- respelling: cure
+  sum: 'Cure + '
 ---

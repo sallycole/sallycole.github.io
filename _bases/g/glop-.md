@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: glop
-type: free
-title: glop
 reference_link: https://www.etymonline.com/word/glop
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: glop
+type: free
 word_sums:
-- sum: 'Glop + '
-  respelling: glop
+- respelling: glop
+  sum: 'Glop + '
 ---

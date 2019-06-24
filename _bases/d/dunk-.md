@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: dunk
-type: free
-title: dunk
 reference_link: https://www.etymonline.com/word/dunk
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: dunk
+type: free
 word_sums:
-- sum: 'Dunk + '
-  respelling: dunk
+- respelling: dunk
+  sum: 'Dunk + '
 ---

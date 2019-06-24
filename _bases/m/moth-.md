@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: moth
-type: free
-title: moth
 reference_link: https://www.etymonline.com/word/moth
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: moth
+type: free
 word_sums:
-- sum: 'Moth + '
-  respelling: moth
+- respelling: moth
+  sum: 'Moth + '
 ---

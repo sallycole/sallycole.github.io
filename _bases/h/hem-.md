@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: hem
-type: free
-title: hem
 reference_link: https://www.etymonline.com/word/hem
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: hem
+type: free
 word_sums:
-- sum: 'Hem + '
-  respelling: hem
+- respelling: hem
+  sum: 'Hem + '
 ---

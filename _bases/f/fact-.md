@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: fact
-type: free
-title: fact
 reference_link: https://www.etymonline.com/word/fact
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: fact
+type: free
 word_sums:
-- sum: 'Fact + '
-  respelling: fact
+- respelling: fact
+  sum: 'Fact + '
 ---

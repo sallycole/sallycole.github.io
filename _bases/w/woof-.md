@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: woof
-type: free
-title: woof
 reference_link: https://www.etymonline.com/word/woof
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: woof
+type: free
 word_sums:
-- sum: 'Woof + '
-  respelling: woof
+- respelling: woof
+  sum: 'Woof + '
 ---

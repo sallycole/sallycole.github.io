@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: cab
-type: free
-title: cab
 reference_link: https://www.etymonline.com/word/cab
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: cab
+type: free
 word_sums:
-- sum: 'Cab + '
-  respelling: cab
+- respelling: cab
+  sum: 'Cab + '
 ---

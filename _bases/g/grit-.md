@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: grit
-type: free
-title: grit
 reference_link: https://www.etymonline.com/word/grit
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: grit
+type: free
 word_sums:
-- sum: 'Grit + '
-  respelling: grit
+- respelling: grit
+  sum: 'Grit + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: spy
-type: free
-title: spy
 reference_link: https://www.etymonline.com/word/spy
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: spy
+type: free
 word_sums:
-- sum: 'Spy + '
-  respelling: spy
+- respelling: spy
+  sum: 'Spy + '
 ---

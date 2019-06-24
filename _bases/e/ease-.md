@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: ease
-type: free
-title: ease
 reference_link: https://www.etymonline.com/word/ease
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: ease
+type: free
 word_sums:
-- sum: 'Ease + '
-  respelling: ease
+- respelling: ease
+  sum: 'Ease + '
 ---

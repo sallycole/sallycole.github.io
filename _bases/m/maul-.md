@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: maul
-type: free
-title: maul
 reference_link: https://www.etymonline.com/word/maul
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: maul
+type: free
 word_sums:
-- sum: 'Maul + '
-  respelling: maul
+- respelling: maul
+  sum: 'Maul + '
 ---

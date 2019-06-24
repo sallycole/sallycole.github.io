@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: ohs
-type: free
-title: ohs
 reference_link: https://www.etymonline.com/word/ohs
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: ohs
+type: free
 word_sums:
-- sum: 'Ohs + '
-  respelling: ohs
+- respelling: ohs
+  sum: 'Ohs + '
 ---

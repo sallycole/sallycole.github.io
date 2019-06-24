@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: did
-type: free
-title: did
 reference_link: https://www.etymonline.com/word/did
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: did
+type: free
 word_sums:
-- sum: 'Did + '
-  respelling: did
+- respelling: did
+  sum: 'Did + '
 ---

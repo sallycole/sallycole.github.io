@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: vim
-type: free
-title: vim
 reference_link: https://www.etymonline.com/word/vim
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: vim
+type: free
 word_sums:
-- sum: 'Vim + '
-  respelling: vim
+- respelling: vim
+  sum: 'Vim + '
 ---

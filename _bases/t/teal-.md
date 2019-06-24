@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: teal
-type: free
-title: teal
 reference_link: https://www.etymonline.com/word/teal
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: teal
+type: free
 word_sums:
-- sum: 'Teal + '
-  respelling: teal
+- respelling: teal
+  sum: 'Teal + '
 ---

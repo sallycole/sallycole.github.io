@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: lac
-type: free
-title: lac
 reference_link: https://www.etymonline.com/word/lac
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: lac
+type: free
 word_sums:
-- sum: 'Lac + '
-  respelling: lac
+- respelling: lac
+  sum: 'Lac + '
 ---

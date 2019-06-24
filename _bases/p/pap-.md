@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: pap
-type: free
-title: pap
 reference_link: https://www.etymonline.com/word/pap
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: pap
+type: free
 word_sums:
-- sum: 'Pap + '
-  respelling: pap
+- respelling: pap
+  sum: 'Pap + '
 ---

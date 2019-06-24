@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: due
-type: free
-title: due
 reference_link: https://www.etymonline.com/word/due
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: due
+type: free
 word_sums:
-- sum: 'Due + '
-  respelling: due
+- respelling: due
+  sum: 'Due + '
 ---

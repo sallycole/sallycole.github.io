@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: keep
-type: free
-title: keep
 reference_link: https://www.etymonline.com/word/keep
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: keep
+type: free
 word_sums:
-- sum: 'Keep + '
-  respelling: keep
+- respelling: keep
+  sum: 'Keep + '
 ---

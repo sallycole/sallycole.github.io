@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: vine
-type: free
-title: vine
 reference_link: https://www.etymonline.com/word/vine
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: vine
+type: free
 word_sums:
-- sum: 'Vine + '
-  respelling: vine
+- respelling: vine
+  sum: 'Vine + '
 ---

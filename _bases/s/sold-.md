@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: sold
-type: free
-title: sold
 reference_link: https://www.etymonline.com/word/sold
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: sold
+type: free
 word_sums:
-- sum: 'Sold + '
-  respelling: sold
+- respelling: sold
+  sum: 'Sold + '
 ---

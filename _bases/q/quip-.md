@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: quip
-type: free
-title: quip
 reference_link: https://www.etymonline.com/word/quip
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: quip
+type: free
 word_sums:
-- sum: 'Quip + '
-  respelling: quip
+- respelling: quip
+  sum: 'Quip + '
 ---

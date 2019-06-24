@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: sago
-type: free
-title: sago
 reference_link: https://www.etymonline.com/word/sago
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: sago
+type: free
 word_sums:
-- sum: 'Sago + '
-  respelling: sago
+- respelling: sago
+  sum: 'Sago + '
 ---

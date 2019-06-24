@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: hour
-type: free
-title: hour
 reference_link: https://www.etymonline.com/word/hour
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: hour
+type: free
 word_sums:
-- sum: 'Hour + '
-  respelling: hour
+- respelling: hour
+  sum: 'Hour + '
 ---

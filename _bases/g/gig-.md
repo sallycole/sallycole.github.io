@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: gig
-type: free
-title: gig
 reference_link: https://www.etymonline.com/word/gig
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: gig
+type: free
 word_sums:
-- sum: 'Gig + '
-  respelling: gig
+- respelling: gig
+  sum: 'Gig + '
 ---

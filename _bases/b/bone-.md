@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: bone
-type: free
-title: bone
 reference_link: https://www.etymonline.com/word/bone
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: bone
+type: free
 word_sums:
-- sum: 'Bone + '
-  respelling: bone
+- respelling: bone
+  sum: 'Bone + '
 ---

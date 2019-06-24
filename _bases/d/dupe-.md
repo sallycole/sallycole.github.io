@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: dupe
-type: free
-title: dupe
 reference_link: https://www.etymonline.com/word/dupe
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: dupe
+type: free
 word_sums:
-- sum: 'Dupe + '
-  respelling: dupe
+- respelling: dupe
+  sum: 'Dupe + '
 ---

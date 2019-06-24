@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: per
-type: free
-title: per
 reference_link: https://www.etymonline.com/word/per
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: per
+type: free
 word_sums:
-- sum: 'Per + '
-  respelling: per
+- respelling: per
+  sum: 'Per + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: folk
-type: free
-title: folk
 reference_link: https://www.etymonline.com/word/folk
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: folk
+type: free
 word_sums:
-- sum: 'Folk + '
-  respelling: folk
+- respelling: folk
+  sum: 'Folk + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: vav
-type: free
-title: vav
 reference_link: https://www.etymonline.com/word/vav
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: vav
+type: free
 word_sums:
-- sum: 'Vav + '
-  respelling: vav
+- respelling: vav
+  sum: 'Vav + '
 ---

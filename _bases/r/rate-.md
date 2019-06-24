@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: rate
-type: free
-title: rate
 reference_link: https://www.etymonline.com/word/rate
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: rate
+type: free
 word_sums:
-- sum: 'Rate + '
-  respelling: rate
+- respelling: rate
+  sum: 'Rate + '
 ---

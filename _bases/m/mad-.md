@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: mad
-type: free
-title: mad
 reference_link: https://www.etymonline.com/word/mad
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: mad
+type: free
 word_sums:
-- sum: 'Mad + '
-  respelling: mad
+- respelling: mad
+  sum: 'Mad + '
 ---

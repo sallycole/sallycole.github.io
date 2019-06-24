@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: lad
-type: free
-title: lad
 reference_link: https://www.etymonline.com/word/lad
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: lad
+type: free
 word_sums:
-- sum: 'Lad + '
-  respelling: lad
+- respelling: lad
+  sum: 'Lad + '
 ---

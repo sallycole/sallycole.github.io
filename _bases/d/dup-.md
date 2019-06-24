@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: dup
-type: free
-title: dup
 reference_link: https://www.etymonline.com/word/dup
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: dup
+type: free
 word_sums:
-- sum: 'Dup + '
-  respelling: dup
+- respelling: dup
+  sum: 'Dup + '
 ---

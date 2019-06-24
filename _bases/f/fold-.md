@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: fold
-type: free
-title: fold
 reference_link: https://www.etymonline.com/word/fold
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: fold
+type: free
 word_sums:
-- sum: 'Fold + '
-  respelling: fold
+- respelling: fold
+  sum: 'Fold + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: yom
-type: free
-title: yom
 reference_link: https://www.etymonline.com/word/yom
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: yom
+type: free
 word_sums:
-- sum: 'Yom + '
-  respelling: yom
+- respelling: yom
+  sum: 'Yom + '
 ---

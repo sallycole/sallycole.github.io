@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: gox
-type: free
-title: gox
 reference_link: https://www.etymonline.com/word/gox
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: gox
+type: free
 word_sums:
-- sum: 'Gox + '
-  respelling: gox
+- respelling: gox
+  sum: 'Gox + '
 ---

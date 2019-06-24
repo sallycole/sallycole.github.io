@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: hemp
-type: free
-title: hemp
 reference_link: https://www.etymonline.com/word/hemp
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: hemp
+type: free
 word_sums:
-- sum: 'Hemp + '
-  respelling: hemp
+- respelling: hemp
+  sum: 'Hemp + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: seal
-type: free
-title: seal
 reference_link: https://www.etymonline.com/word/seal
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: seal
+type: free
 word_sums:
-- sum: 'Seal + '
-  respelling: seal
+- respelling: seal
+  sum: 'Seal + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: hep
-type: free
-title: hep
 reference_link: https://www.etymonline.com/word/hep
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: hep
+type: free
 word_sums:
-- sum: 'Hep + '
-  respelling: hep
+- respelling: hep
+  sum: 'Hep + '
 ---

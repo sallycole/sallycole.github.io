@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: wab
-type: free
-title: wab
 reference_link: https://www.etymonline.com/word/wab
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: wab
+type: free
 word_sums:
-- sum: 'Wab + '
-  respelling: wab
+- respelling: wab
+  sum: 'Wab + '
 ---

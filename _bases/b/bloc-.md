@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: bloc
-type: free
-title: bloc
 reference_link: https://www.etymonline.com/word/bloc
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: bloc
+type: free
 word_sums:
-- sum: 'Bloc + '
-  respelling: bloc
+- respelling: bloc
+  sum: 'Bloc + '
 ---

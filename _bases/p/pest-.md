@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: pest
-type: free
-title: pest
 reference_link: https://www.etymonline.com/word/pest
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: pest
+type: free
 word_sums:
-- sum: 'Pest + '
-  respelling: pest
+- respelling: pest
+  sum: 'Pest + '
 ---

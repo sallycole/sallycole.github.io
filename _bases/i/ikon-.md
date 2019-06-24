@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: ikon
-type: free
-title: ikon
 reference_link: https://www.etymonline.com/word/ikon
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: ikon
+type: free
 word_sums:
-- sum: 'Ikon + '
-  respelling: ikon
+- respelling: ikon
+  sum: 'Ikon + '
 ---

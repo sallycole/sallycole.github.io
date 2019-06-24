@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: doth
-type: free
-title: doth
 reference_link: https://www.etymonline.com/word/doth
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: doth
+type: free
 word_sums:
-- sum: 'Doth + '
-  respelling: doth
+- respelling: doth
+  sum: 'Doth + '
 ---

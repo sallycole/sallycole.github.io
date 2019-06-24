@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: beep
-type: free
-title: beep
 reference_link: https://www.etymonline.com/word/beep
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: beep
+type: free
 word_sums:
-- sum: 'Beep + '
-  respelling: beep
+- respelling: beep
+  sum: 'Beep + '
 ---

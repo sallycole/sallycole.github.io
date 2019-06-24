@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: loud
-type: free
-title: loud
 reference_link: https://www.etymonline.com/word/loud
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: loud
+type: free
 word_sums:
-- sum: 'Loud + '
-  respelling: loud
+- respelling: loud
+  sum: 'Loud + '
 ---

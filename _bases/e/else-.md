@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: else
-type: free
-title: else
 reference_link: https://www.etymonline.com/word/else
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: else
+type: free
 word_sums:
-- sum: 'Else + '
-  respelling: else
+- respelling: else
+  sum: 'Else + '
 ---

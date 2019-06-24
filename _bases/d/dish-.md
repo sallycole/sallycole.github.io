@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: dish
-type: free
-title: dish
 reference_link: https://www.etymonline.com/word/dish
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: dish
+type: free
 word_sums:
-- sum: 'Dish + '
-  respelling: dish
+- respelling: dish
+  sum: 'Dish + '
 ---

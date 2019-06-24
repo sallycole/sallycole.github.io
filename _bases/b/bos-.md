@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: bos
-type: free
-title: bos
 reference_link: https://www.etymonline.com/word/bos
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: bos
+type: free
 word_sums:
-- sum: 'Bos + '
-  respelling: bos
+- respelling: bos
+  sum: 'Bos + '
 ---

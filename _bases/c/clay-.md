@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: clay
-type: free
-title: clay
 reference_link: https://www.etymonline.com/word/clay
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: clay
+type: free
 word_sums:
-- sum: 'Clay + '
-  respelling: clay
+- respelling: clay
+  sum: 'Clay + '
 ---

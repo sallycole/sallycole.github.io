@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: tile
-type: free
-title: tile
 reference_link: https://www.etymonline.com/word/tile
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: tile
+type: free
 word_sums:
-- sum: 'Tile + '
-  respelling: tile
+- respelling: tile
+  sum: 'Tile + '
 ---

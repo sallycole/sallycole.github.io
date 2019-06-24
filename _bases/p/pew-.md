@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: pew
-type: free
-title: pew
 reference_link: https://www.etymonline.com/word/pew
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: pew
+type: free
 word_sums:
-- sum: 'Pew + '
-  respelling: pew
+- respelling: pew
+  sum: 'Pew + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: tyke
-type: free
-title: tyke
 reference_link: https://www.etymonline.com/word/tyke
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: tyke
+type: free
 word_sums:
-- sum: 'Tyke + '
-  respelling: tyke
+- respelling: tyke
+  sum: 'Tyke + '
 ---

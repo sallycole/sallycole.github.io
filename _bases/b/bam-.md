@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: bam
-type: free
-title: bam
 reference_link: https://www.etymonline.com/word/bam
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: bam
+type: free
 word_sums:
-- sum: 'Bam + '
-  respelling: bam
+- respelling: bam
+  sum: 'Bam + '
 ---

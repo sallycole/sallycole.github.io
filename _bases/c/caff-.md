@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: caff
-type: free
-title: caff
 reference_link: https://www.etymonline.com/word/caff
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: caff
+type: free
 word_sums:
-- sum: 'Caff + '
-  respelling: caff
+- respelling: caff
+  sum: 'Caff + '
 ---

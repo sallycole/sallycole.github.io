@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: turd
-type: free
-title: turd
 reference_link: https://www.etymonline.com/word/turd
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: turd
+type: free
 word_sums:
-- sum: 'Turd + '
-  respelling: turd
+- respelling: turd
+  sum: 'Turd + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: snip
-type: free
-title: snip
 reference_link: https://www.etymonline.com/word/snip
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: snip
+type: free
 word_sums:
-- sum: 'Snip + '
-  respelling: snip
+- respelling: snip
+  sum: 'Snip + '
 ---

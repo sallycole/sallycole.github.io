@@ -1,11 +1,12 @@
 ---
-name: alto
-title: alto
-reference_link: https://www.etymonline.com/word/alto
-root_name: altus
-root_language: Latin
+category: 4-letters
 denotation: high, grown tall
+name: alto
+reference_link: https://www.etymonline.com/word/alto
+root_language: Latin
+root_name: altus
+title: alto
 word_sums:
-- sum: 'Alto + s'
-  respelling: altos
+- respelling: altos
+  sum: Alto + s
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: lynx
-type: free
-title: lynx
 reference_link: https://www.etymonline.com/word/lynx
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: lynx
+type: free
 word_sums:
-- sum: 'Lynx + '
-  respelling: lynx
+- respelling: lynx
+  sum: 'Lynx + '
 ---

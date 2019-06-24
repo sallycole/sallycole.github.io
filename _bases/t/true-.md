@@ -1,12 +1,13 @@
 ---
-name: true
-type: free
-title: true
+category: 4-letters
+denotation: null
+name: 'true'
 reference_link: https://www.etymonline.com/word/true
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: true
+type: free
 word_sums:
-- sum: 'True + '
-  respelling: true
+- respelling: true
+  sum: 'True + '
 ---

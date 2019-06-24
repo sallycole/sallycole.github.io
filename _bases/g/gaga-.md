@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: gaga
-type: free
-title: gaga
 reference_link: https://www.etymonline.com/word/gaga
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: gaga
+type: free
 word_sums:
-- sum: 'Gaga + '
-  respelling: gaga
+- respelling: gaga
+  sum: 'Gaga + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: kop
-type: free
-title: kop
 reference_link: https://www.etymonline.com/word/kop
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: kop
+type: free
 word_sums:
-- sum: 'Kop + '
-  respelling: kop
+- respelling: kop
+  sum: 'Kop + '
 ---

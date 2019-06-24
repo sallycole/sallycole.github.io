@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: plow
-type: free
-title: plow
 reference_link: https://www.etymonline.com/word/plow
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: plow
+type: free
 word_sums:
-- sum: 'Plow + '
-  respelling: plow
+- respelling: plow
+  sum: 'Plow + '
 ---

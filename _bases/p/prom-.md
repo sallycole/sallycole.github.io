@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: prom
-type: free
-title: prom
 reference_link: https://www.etymonline.com/word/prom
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: prom
+type: free
 word_sums:
-- sum: 'Prom + '
-  respelling: prom
+- respelling: prom
+  sum: 'Prom + '
 ---

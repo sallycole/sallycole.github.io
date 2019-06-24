@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: peer
-type: free
-title: peer
 reference_link: https://www.etymonline.com/word/peer
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: peer
+type: free
 word_sums:
-- sum: 'Peer + '
-  respelling: peer
+- respelling: peer
+  sum: 'Peer + '
 ---

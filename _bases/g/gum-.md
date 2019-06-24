@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: gum
-type: free
-title: gum
 reference_link: https://www.etymonline.com/word/gum
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: gum
+type: free
 word_sums:
-- sum: 'Gum + '
-  respelling: gum
+- respelling: gum
+  sum: 'Gum + '
 ---

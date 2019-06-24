@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: laze
-type: free
-title: laze
 reference_link: https://www.etymonline.com/word/laze
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: laze
+type: free
 word_sums:
-- sum: 'Laze + '
-  respelling: laze
+- respelling: laze
+  sum: 'Laze + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: bide
-type: free
-title: bide
 reference_link: https://www.etymonline.com/word/bide
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: bide
+type: free
 word_sums:
-- sum: 'Bide + '
-  respelling: bide
+- respelling: bide
+  sum: 'Bide + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: burk
-type: free
-title: burk
 reference_link: https://www.etymonline.com/word/burk
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: burk
+type: free
 word_sums:
-- sum: 'Burk + '
-  respelling: burk
+- respelling: burk
+  sum: 'Burk + '
 ---

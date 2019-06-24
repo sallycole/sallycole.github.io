@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: skim
-type: free
-title: skim
 reference_link: https://www.etymonline.com/word/skim
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: skim
+type: free
 word_sums:
-- sum: 'Skim + '
-  respelling: skim
+- respelling: skim
+  sum: 'Skim + '
 ---

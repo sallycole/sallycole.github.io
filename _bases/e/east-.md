@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: east
-type: free
-title: east
 reference_link: https://www.etymonline.com/word/east
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: east
+type: free
 word_sums:
-- sum: 'East + '
-  respelling: east
+- respelling: east
+  sum: 'East + '
 ---

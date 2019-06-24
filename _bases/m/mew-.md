@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: mew
-type: free
-title: mew
 reference_link: https://www.etymonline.com/word/mew
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: mew
+type: free
 word_sums:
-- sum: 'Mew + '
-  respelling: mew
+- respelling: mew
+  sum: 'Mew + '
 ---

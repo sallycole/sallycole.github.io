@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: bush
-type: free
-title: bush
 reference_link: https://www.etymonline.com/word/bush
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: bush
+type: free
 word_sums:
-- sum: 'Bush + '
-  respelling: bush
+- respelling: bush
+  sum: 'Bush + '
 ---

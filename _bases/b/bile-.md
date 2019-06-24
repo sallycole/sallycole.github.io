@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: bile
-type: free
-title: bile
 reference_link: https://www.etymonline.com/word/bile
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: bile
+type: free
 word_sums:
-- sum: 'Bile + '
-  respelling: bile
+- respelling: bile
+  sum: 'Bile + '
 ---

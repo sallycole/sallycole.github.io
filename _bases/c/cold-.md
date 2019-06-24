@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: cold
-type: free
-title: cold
 reference_link: https://www.etymonline.com/word/cold
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: cold
+type: free
 word_sums:
-- sum: 'Cold + '
-  respelling: cold
+- respelling: cold
+  sum: 'Cold + '
 ---

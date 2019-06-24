@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: her
-type: free
-title: her
 reference_link: https://www.etymonline.com/word/her
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: her
+type: free
 word_sums:
-- sum: 'Her + '
-  respelling: her
+- respelling: her
+  sum: 'Her + '
 ---

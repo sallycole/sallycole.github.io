@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: ploy
-type: free
-title: ploy
 reference_link: https://www.etymonline.com/word/ploy
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: ploy
+type: free
 word_sums:
-- sum: 'Ploy + '
-  respelling: ploy
+- respelling: ploy
+  sum: 'Ploy + '
 ---

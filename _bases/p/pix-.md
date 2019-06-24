@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: pix
-type: free
-title: pix
 reference_link: https://www.etymonline.com/word/pix
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: pix
+type: free
 word_sums:
-- sum: 'Pix + '
-  respelling: pix
+- respelling: pix
+  sum: 'Pix + '
 ---

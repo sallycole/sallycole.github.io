@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: mar
-type: free
-title: mar
 reference_link: https://www.etymonline.com/word/mar
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: mar
+type: free
 word_sums:
-- sum: 'Mar + '
-  respelling: mar
+- respelling: mar
+  sum: 'Mar + '
 ---

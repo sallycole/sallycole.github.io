@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: stud
-type: free
-title: stud
 reference_link: https://www.etymonline.com/word/stud
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: stud
+type: free
 word_sums:
-- sum: 'Stud + '
-  respelling: stud
+- respelling: stud
+  sum: 'Stud + '
 ---

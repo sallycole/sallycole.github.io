@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: hit
-type: free
-title: hit
 reference_link: https://www.etymonline.com/word/hit
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: hit
+type: free
 word_sums:
-- sum: 'Hit + '
-  respelling: hit
+- respelling: hit
+  sum: 'Hit + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: mog
-type: free
-title: mog
 reference_link: https://www.etymonline.com/word/mog
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: mog
+type: free
 word_sums:
-- sum: 'Mog + '
-  respelling: mog
+- respelling: mog
+  sum: 'Mog + '
 ---

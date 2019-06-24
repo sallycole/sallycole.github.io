@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: mint
-type: free
-title: mint
 reference_link: https://www.etymonline.com/word/mint
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: mint
+type: free
 word_sums:
-- sum: 'Mint + '
-  respelling: mint
+- respelling: mint
+  sum: 'Mint + '
 ---

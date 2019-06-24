@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: oke
-type: free
-title: oke
 reference_link: https://www.etymonline.com/word/oke
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: oke
+type: free
 word_sums:
-- sum: 'Oke + '
-  respelling: oke
+- respelling: oke
+  sum: 'Oke + '
 ---

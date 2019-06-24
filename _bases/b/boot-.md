@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: boot
-type: free
-title: boot
 reference_link: https://www.etymonline.com/word/boot
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: boot
+type: free
 word_sums:
-- sum: 'Boot + '
-  respelling: boot
+- respelling: boot
+  sum: 'Boot + '
 ---

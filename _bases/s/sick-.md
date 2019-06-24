@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: sick
-type: free
-title: sick
 reference_link: https://www.etymonline.com/word/sick
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: sick
+type: free
 word_sums:
-- sum: 'Sick + '
-  respelling: sick
+- respelling: sick
+  sum: 'Sick + '
 ---

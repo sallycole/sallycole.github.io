@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: ped
-type: free
-title: ped
 reference_link: https://www.etymonline.com/word/ped
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: ped
+type: free
 word_sums:
-- sum: 'Ped + '
-  respelling: ped
+- respelling: ped
+  sum: 'Ped + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: perv
-type: free
-title: perv
 reference_link: https://www.etymonline.com/word/perv
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: perv
+type: free
 word_sums:
-- sum: 'Perv + '
-  respelling: perv
+- respelling: perv
+  sum: 'Perv + '
 ---

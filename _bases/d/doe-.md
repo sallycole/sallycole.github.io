@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: doe
-type: free
-title: doe
 reference_link: https://www.etymonline.com/word/doe
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: doe
+type: free
 word_sums:
-- sum: 'Doe + '
-  respelling: doe
+- respelling: doe
+  sum: 'Doe + '
 ---

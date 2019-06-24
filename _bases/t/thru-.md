@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: thru
-type: free
-title: thru
 reference_link: https://www.etymonline.com/word/thru
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: thru
+type: free
 word_sums:
-- sum: 'Thru + '
-  respelling: thru
+- respelling: thru
+  sum: 'Thru + '
 ---

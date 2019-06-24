@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: goo
-type: free
-title: goo
 reference_link: https://www.etymonline.com/word/goo
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: goo
+type: free
 word_sums:
-- sum: 'Goo + '
-  respelling: goo
+- respelling: goo
+  sum: 'Goo + '
 ---

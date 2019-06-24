@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: snap
-type: free
-title: snap
 reference_link: https://www.etymonline.com/word/snap
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: snap
+type: free
 word_sums:
-- sum: 'Snap + '
-  respelling: snap
+- respelling: snap
+  sum: 'Snap + '
 ---

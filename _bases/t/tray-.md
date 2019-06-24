@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: tray
-type: free
-title: tray
 reference_link: https://www.etymonline.com/word/tray
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: tray
+type: free
 word_sums:
-- sum: 'Tray + '
-  respelling: tray
+- respelling: tray
+  sum: 'Tray + '
 ---

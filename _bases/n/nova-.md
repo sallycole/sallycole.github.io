@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: nova
-type: free
-title: nova
 reference_link: https://www.etymonline.com/word/nova
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: nova
+type: free
 word_sums:
-- sum: 'Nova + '
-  respelling: nova
+- respelling: nova
+  sum: 'Nova + '
 ---

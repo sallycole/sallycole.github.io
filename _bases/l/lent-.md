@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: lent
-type: free
-title: lent
 reference_link: https://www.etymonline.com/word/lent
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: lent
+type: free
 word_sums:
-- sum: 'Lent + '
-  respelling: lent
+- respelling: lent
+  sum: 'Lent + '
 ---

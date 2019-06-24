@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: awe
-type: free
-title: awe
 reference_link: https://www.etymonline.com/word/awe
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: awe
+type: free
 word_sums:
-- sum: 'Awe + '
-  respelling: awe
+- respelling: awe
+  sum: 'Awe + '
 ---

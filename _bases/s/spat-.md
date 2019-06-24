@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: spat
-type: free
-title: spat
 reference_link: https://www.etymonline.com/word/spat
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: spat
+type: free
 word_sums:
-- sum: 'Spat + '
-  respelling: spat
+- respelling: spat
+  sum: 'Spat + '
 ---

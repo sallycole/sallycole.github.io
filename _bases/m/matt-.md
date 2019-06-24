@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: matt
-type: free
-title: matt
 reference_link: https://www.etymonline.com/word/matt
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: matt
+type: free
 word_sums:
-- sum: 'Matt + '
-  respelling: matt
+- respelling: matt
+  sum: 'Matt + '
 ---

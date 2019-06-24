@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: fake
-type: free
-title: fake
 reference_link: https://www.etymonline.com/word/fake
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: fake
+type: free
 word_sums:
-- sum: 'Fake + '
-  respelling: fake
+- respelling: fake
+  sum: 'Fake + '
 ---

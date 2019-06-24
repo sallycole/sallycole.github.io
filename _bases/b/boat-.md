@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: boat
-type: free
-title: boat
 reference_link: https://www.etymonline.com/word/boat
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: boat
+type: free
 word_sums:
-- sum: 'Boat + '
-  respelling: boat
+- respelling: boat
+  sum: 'Boat + '
 ---

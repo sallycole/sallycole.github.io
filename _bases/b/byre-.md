@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: byre
-type: free
-title: byre
 reference_link: https://www.etymonline.com/word/byre
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: byre
+type: free
 word_sums:
-- sum: 'Byre + '
-  respelling: byre
+- respelling: byre
+  sum: 'Byre + '
 ---

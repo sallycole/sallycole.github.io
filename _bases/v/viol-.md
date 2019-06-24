@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: viol
-type: free
-title: viol
 reference_link: https://www.etymonline.com/word/viol
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: viol
+type: free
 word_sums:
-- sum: 'Viol + '
-  respelling: viol
+- respelling: viol
+  sum: 'Viol + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: peep
-type: free
-title: peep
 reference_link: https://www.etymonline.com/word/peep
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: peep
+type: free
 word_sums:
-- sum: 'Peep + '
-  respelling: peep
+- respelling: peep
+  sum: 'Peep + '
 ---

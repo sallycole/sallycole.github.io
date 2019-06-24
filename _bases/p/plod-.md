@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: plod
-type: free
-title: plod
 reference_link: https://www.etymonline.com/word/plod
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: plod
+type: free
 word_sums:
-- sum: 'Plod + '
-  respelling: plod
+- respelling: plod
+  sum: 'Plod + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: pone
-type: free
-title: pone
 reference_link: https://www.etymonline.com/word/pone
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: pone
+type: free
 word_sums:
-- sum: 'Pone + '
-  respelling: pone
+- respelling: pone
+  sum: 'Pone + '
 ---

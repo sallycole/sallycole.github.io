@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: cue
-type: free
-title: cue
 reference_link: https://www.etymonline.com/word/cue
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: cue
+type: free
 word_sums:
-- sum: 'Cue + '
-  respelling: cue
+- respelling: cue
+  sum: 'Cue + '
 ---

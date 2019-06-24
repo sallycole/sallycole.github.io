@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: hose
-type: free
-title: hose
 reference_link: https://www.etymonline.com/word/hose
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: hose
+type: free
 word_sums:
-- sum: 'Hose + '
-  respelling: hose
+- respelling: hose
+  sum: 'Hose + '
 ---

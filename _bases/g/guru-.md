@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: guru
-type: free
-title: guru
 reference_link: https://www.etymonline.com/word/guru
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: guru
+type: free
 word_sums:
-- sum: 'Guru + '
-  respelling: guru
+- respelling: guru
+  sum: 'Guru + '
 ---

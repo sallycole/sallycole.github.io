@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: slut
-type: free
-title: slut
 reference_link: https://www.etymonline.com/word/slut
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: slut
+type: free
 word_sums:
-- sum: 'Slut + '
-  respelling: slut
+- respelling: slut
+  sum: 'Slut + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: kex
-type: free
-title: kex
 reference_link: https://www.etymonline.com/word/kex
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: kex
+type: free
 word_sums:
-- sum: 'Kex + '
-  respelling: kex
+- respelling: kex
+  sum: 'Kex + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: maid
-type: free
-title: maid
 reference_link: https://www.etymonline.com/word/maid
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: maid
+type: free
 word_sums:
-- sum: 'Maid + '
-  respelling: maid
+- respelling: maid
+  sum: 'Maid + '
 ---

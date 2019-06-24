@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: bait
-type: free
-title: bait
 reference_link: https://www.etymonline.com/word/bait
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: bait
+type: free
 word_sums:
-- sum: 'Bait + '
-  respelling: bait
+- respelling: bait
+  sum: 'Bait + '
 ---

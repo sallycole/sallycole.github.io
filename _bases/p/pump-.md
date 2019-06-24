@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: pump
-type: free
-title: pump
 reference_link: https://www.etymonline.com/word/pump
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: pump
+type: free
 word_sums:
-- sum: 'Pump + '
-  respelling: pump
+- respelling: pump
+  sum: 'Pump + '
 ---

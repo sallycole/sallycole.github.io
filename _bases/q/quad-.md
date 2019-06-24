@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: quad
-type: free
-title: quad
 reference_link: https://www.etymonline.com/word/quad
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: quad
+type: free
 word_sums:
-- sum: 'Quad + '
-  respelling: quad
+- respelling: quad
+  sum: 'Quad + '
 ---

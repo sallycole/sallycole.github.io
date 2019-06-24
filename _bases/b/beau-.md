@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: beau
-type: free
-title: beau
 reference_link: https://www.etymonline.com/word/beau
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: beau
+type: free
 word_sums:
-- sum: 'Beau + '
-  respelling: beau
+- respelling: beau
+  sum: 'Beau + '
 ---

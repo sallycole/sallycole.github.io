@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: safe
-type: free
-title: safe
 reference_link: https://www.etymonline.com/word/safe
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: safe
+type: free
 word_sums:
-- sum: 'Safe + '
-  respelling: safe
+- respelling: safe
+  sum: 'Safe + '
 ---

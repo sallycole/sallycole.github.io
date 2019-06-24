@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: whew
-type: free
-title: whew
 reference_link: https://www.etymonline.com/word/whew
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: whew
+type: free
 word_sums:
-- sum: 'Whew + '
-  respelling: whew
+- respelling: whew
+  sum: 'Whew + '
 ---

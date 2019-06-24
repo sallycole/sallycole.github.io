@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: ken
-type: free
-title: ken
 reference_link: https://www.etymonline.com/word/ken
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: ken
+type: free
 word_sums:
-- sum: 'Ken + '
-  respelling: ken
+- respelling: ken
+  sum: 'Ken + '
 ---

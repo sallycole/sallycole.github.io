@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: hmm
-type: free
-title: hmm
 reference_link: https://www.etymonline.com/word/hmm
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: hmm
+type: free
 word_sums:
-- sum: 'Hmm + '
-  respelling: hmm
+- respelling: hmm
+  sum: 'Hmm + '
 ---

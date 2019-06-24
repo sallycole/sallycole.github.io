@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: wag
-type: free
-title: wag
 reference_link: https://www.etymonline.com/word/wag
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: wag
+type: free
 word_sums:
-- sum: 'Wag + '
-  respelling: wag
+- respelling: wag
+  sum: 'Wag + '
 ---

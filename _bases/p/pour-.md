@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: pour
-type: free
-title: pour
 reference_link: https://www.etymonline.com/word/pour
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: pour
+type: free
 word_sums:
-- sum: 'Pour + '
-  respelling: pour
+- respelling: pour
+  sum: 'Pour + '
 ---

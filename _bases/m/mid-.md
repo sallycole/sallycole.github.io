@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: mid
-type: free
-title: mid
 reference_link: https://www.etymonline.com/word/mid
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: mid
+type: free
 word_sums:
-- sum: 'Mid + '
-  respelling: mid
+- respelling: mid
+  sum: 'Mid + '
 ---

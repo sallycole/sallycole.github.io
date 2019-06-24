@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: blip
-type: free
-title: blip
 reference_link: https://www.etymonline.com/word/blip
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: blip
+type: free
 word_sums:
-- sum: 'Blip + '
-  respelling: blip
+- respelling: blip
+  sum: 'Blip + '
 ---

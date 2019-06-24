@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: past
-type: free
-title: past
 reference_link: https://www.etymonline.com/word/past
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: past
+type: free
 word_sums:
-- sum: 'Past + '
-  respelling: past
+- respelling: past
+  sum: 'Past + '
 ---

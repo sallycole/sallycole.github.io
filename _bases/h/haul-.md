@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: haul
-type: free
-title: haul
 reference_link: https://www.etymonline.com/word/haul
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: haul
+type: free
 word_sums:
-- sum: 'Haul + '
-  respelling: haul
+- respelling: haul
+  sum: 'Haul + '
 ---

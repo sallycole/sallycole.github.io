@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: gaol
-type: free
-title: gaol
 reference_link: https://www.etymonline.com/word/gaol
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: gaol
+type: free
 word_sums:
-- sum: 'Gaol + '
-  respelling: gaol
+- respelling: gaol
+  sum: 'Gaol + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: hale
-type: free
-title: hale
 reference_link: https://www.etymonline.com/word/hale
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: hale
+type: free
 word_sums:
-- sum: 'Hale + '
-  respelling: hale
+- respelling: hale
+  sum: 'Hale + '
 ---

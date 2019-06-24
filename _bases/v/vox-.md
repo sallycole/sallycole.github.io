@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: vox
-type: free
-title: vox
 reference_link: https://www.etymonline.com/word/vox
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: vox
+type: free
 word_sums:
-- sum: 'Vox + '
-  respelling: vox
+- respelling: vox
+  sum: 'Vox + '
 ---

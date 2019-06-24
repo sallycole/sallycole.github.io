@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: tour
-type: free
-title: tour
 reference_link: https://www.etymonline.com/word/tour
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: tour
+type: free
 word_sums:
-- sum: 'Tour + '
-  respelling: tour
+- respelling: tour
+  sum: 'Tour + '
 ---

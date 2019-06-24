@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: chew
-type: free
-title: chew
 reference_link: https://www.etymonline.com/word/chew
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: chew
+type: free
 word_sums:
-- sum: 'Chew + '
-  respelling: chew
+- respelling: chew
+  sum: 'Chew + '
 ---

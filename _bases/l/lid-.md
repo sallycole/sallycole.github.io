@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: lid
-type: free
-title: lid
 reference_link: https://www.etymonline.com/word/lid
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: lid
+type: free
 word_sums:
-- sum: 'Lid + '
-  respelling: lid
+- respelling: lid
+  sum: 'Lid + '
 ---

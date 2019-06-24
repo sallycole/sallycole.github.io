@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: sot
-type: free
-title: sot
 reference_link: https://www.etymonline.com/word/sot
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: sot
+type: free
 word_sums:
-- sum: 'Sot + '
-  respelling: sot
+- respelling: sot
+  sum: 'Sot + '
 ---

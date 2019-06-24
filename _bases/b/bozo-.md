@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: bozo
-type: free
-title: bozo
 reference_link: https://www.etymonline.com/word/bozo
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: bozo
+type: free
 word_sums:
-- sum: 'Bozo + '
-  respelling: bozo
+- respelling: bozo
+  sum: 'Bozo + '
 ---

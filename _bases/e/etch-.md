@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: etch
-type: free
-title: etch
 reference_link: https://www.etymonline.com/word/etch
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: etch
+type: free
 word_sums:
-- sum: 'Etch + '
-  respelling: etch
+- respelling: etch
+  sum: 'Etch + '
 ---

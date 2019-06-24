@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: awn
-type: free
-title: awn
 reference_link: https://www.etymonline.com/word/awn
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: awn
+type: free
 word_sums:
-- sum: 'Awn + '
-  respelling: awn
+- respelling: awn
+  sum: 'Awn + '
 ---

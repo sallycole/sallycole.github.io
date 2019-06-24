@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: stub
-type: free
-title: stub
 reference_link: https://www.etymonline.com/word/stub
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: stub
+type: free
 word_sums:
-- sum: 'Stub + '
-  respelling: stub
+- respelling: stub
+  sum: 'Stub + '
 ---

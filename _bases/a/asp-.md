@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: asp
-type: free
-title: asp
 reference_link: https://www.etymonline.com/word/asp
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: asp
+type: free
 word_sums:
-- sum: 'Asp + '
-  respelling: asp
+- respelling: asp
+  sum: 'Asp + '
 ---

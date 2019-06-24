@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: mule
-type: free
-title: mule
 reference_link: https://www.etymonline.com/word/mule
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: mule
+type: free
 word_sums:
-- sum: 'Mule + '
-  respelling: mule
+- respelling: mule
+  sum: 'Mule + '
 ---

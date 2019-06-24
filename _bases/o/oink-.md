@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: oink
-type: free
-title: oink
 reference_link: https://www.etymonline.com/word/oink
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: oink
+type: free
 word_sums:
-- sum: 'Oink + '
-  respelling: oink
+- respelling: oink
+  sum: 'Oink + '
 ---

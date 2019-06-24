@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: node
-type: free
-title: node
 reference_link: https://www.etymonline.com/word/node
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: node
+type: free
 word_sums:
-- sum: 'Node + '
-  respelling: node
+- respelling: node
+  sum: 'Node + '
 ---

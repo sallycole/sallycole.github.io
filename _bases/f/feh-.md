@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: feh
-type: free
-title: feh
 reference_link: https://www.etymonline.com/word/feh
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: feh
+type: free
 word_sums:
-- sum: 'Feh + '
-  respelling: feh
+- respelling: feh
+  sum: 'Feh + '
 ---

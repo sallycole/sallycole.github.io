@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: hire
-type: free
-title: hire
 reference_link: https://www.etymonline.com/word/hire
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: hire
+type: free
 word_sums:
-- sum: 'Hire + '
-  respelling: hire
+- respelling: hire
+  sum: 'Hire + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: puny
-type: free
-title: puny
 reference_link: https://www.etymonline.com/word/puny
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: puny
+type: free
 word_sums:
-- sum: 'Puny + '
-  respelling: puny
+- respelling: puny
+  sum: 'Puny + '
 ---

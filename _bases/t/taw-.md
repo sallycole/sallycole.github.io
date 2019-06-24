@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: taw
-type: free
-title: taw
 reference_link: https://www.etymonline.com/word/taw
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: taw
+type: free
 word_sums:
-- sum: 'Taw + '
-  respelling: taw
+- respelling: taw
+  sum: 'Taw + '
 ---

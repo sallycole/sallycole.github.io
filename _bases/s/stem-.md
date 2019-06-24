@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: stem
-type: free
-title: stem
 reference_link: https://www.etymonline.com/word/stem
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: stem
+type: free
 word_sums:
-- sum: 'Stem + '
-  respelling: stem
+- respelling: stem
+  sum: 'Stem + '
 ---

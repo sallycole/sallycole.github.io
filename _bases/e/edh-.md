@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: edh
-type: free
-title: edh
 reference_link: https://www.etymonline.com/word/edh
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: edh
+type: free
 word_sums:
-- sum: 'Edh + '
-  respelling: edh
+- respelling: edh
+  sum: 'Edh + '
 ---

@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: itch
-type: free
-title: itch
 reference_link: https://www.etymonline.com/word/itch
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: itch
+type: free
 word_sums:
-- sum: 'Itch + '
-  respelling: itch
+- respelling: itch
+  sum: 'Itch + '
 ---

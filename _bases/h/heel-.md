@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: heel
-type: free
-title: heel
 reference_link: https://www.etymonline.com/word/heel
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: heel
+type: free
 word_sums:
-- sum: 'Heel + '
-  respelling: heel
+- respelling: heel
+  sum: 'Heel + '
 ---

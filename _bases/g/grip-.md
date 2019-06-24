@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: grip
-type: free
-title: grip
 reference_link: https://www.etymonline.com/word/grip
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: grip
+type: free
 word_sums:
-- sum: 'Grip + '
-  respelling: grip
+- respelling: grip
+  sum: 'Grip + '
 ---

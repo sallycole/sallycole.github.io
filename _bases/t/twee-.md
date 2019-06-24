@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: twee
-type: free
-title: twee
 reference_link: https://www.etymonline.com/word/twee
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: twee
+type: free
 word_sums:
-- sum: 'Twee + '
-  respelling: twee
+- respelling: twee
+  sum: 'Twee + '
 ---

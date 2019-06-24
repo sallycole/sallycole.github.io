@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: bell
-type: free
-title: bell
 reference_link: https://www.etymonline.com/word/bell
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: bell
+type: free
 word_sums:
-- sum: 'Bell + '
-  respelling: bell
+- respelling: bell
+  sum: 'Bell + '
 ---

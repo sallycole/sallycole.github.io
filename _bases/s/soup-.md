@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: soup
-type: free
-title: soup
 reference_link: https://www.etymonline.com/word/soup
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: soup
+type: free
 word_sums:
-- sum: 'Soup + '
-  respelling: soup
+- respelling: soup
+  sum: 'Soup + '
 ---

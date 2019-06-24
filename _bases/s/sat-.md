@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: sat
-type: free
-title: sat
 reference_link: https://www.etymonline.com/word/sat
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: sat
+type: free
 word_sums:
-- sum: 'Sat + '
-  respelling: sat
+- respelling: sat
+  sum: 'Sat + '
 ---

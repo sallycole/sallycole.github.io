@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: nee
-type: free
-title: nee
 reference_link: https://www.etymonline.com/word/nee
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: nee
+type: free
 word_sums:
-- sum: 'Nee + '
-  respelling: nee
+- respelling: nee
+  sum: 'Nee + '
 ---

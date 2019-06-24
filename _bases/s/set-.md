@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: set
-type: free
-title: set
 reference_link: https://www.etymonline.com/word/set
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: set
+type: free
 word_sums:
-- sum: 'Set + '
-  respelling: set
+- respelling: set
+  sum: 'Set + '
 ---

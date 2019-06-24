@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: yoke
-type: free
-title: yoke
 reference_link: https://www.etymonline.com/word/yoke
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: yoke
+type: free
 word_sums:
-- sum: 'Yoke + '
-  respelling: yoke
+- respelling: yoke
+  sum: 'Yoke + '
 ---

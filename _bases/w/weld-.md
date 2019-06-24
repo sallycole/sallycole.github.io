@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: weld
-type: free
-title: weld
 reference_link: https://www.etymonline.com/word/weld
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: weld
+type: free
 word_sums:
-- sum: 'Weld + '
-  respelling: weld
+- respelling: weld
+  sum: 'Weld + '
 ---

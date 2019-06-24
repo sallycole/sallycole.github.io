@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: tick
-type: free
-title: tick
 reference_link: https://www.etymonline.com/word/tick
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: tick
+type: free
 word_sums:
-- sum: 'Tick + '
-  respelling: tick
+- respelling: tick
+  sum: 'Tick + '
 ---

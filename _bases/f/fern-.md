@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: fern
-type: free
-title: fern
 reference_link: https://www.etymonline.com/word/fern
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: fern
+type: free
 word_sums:
-- sum: 'Fern + '
-  respelling: fern
+- respelling: fern
+  sum: 'Fern + '
 ---

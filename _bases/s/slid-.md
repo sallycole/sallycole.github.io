@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: slid
-type: free
-title: slid
 reference_link: https://www.etymonline.com/word/slid
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: slid
+type: free
 word_sums:
-- sum: 'Slid + '
-  respelling: slid
+- respelling: slid
+  sum: 'Slid + '
 ---

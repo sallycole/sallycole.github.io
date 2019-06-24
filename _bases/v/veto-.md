@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: veto
-type: free
-title: veto
 reference_link: https://www.etymonline.com/word/veto
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: veto
+type: free
 word_sums:
-- sum: 'Veto + '
-  respelling: veto
+- respelling: veto
+  sum: 'Veto + '
 ---

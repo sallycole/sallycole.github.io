@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: hind
-type: free
-title: hind
 reference_link: https://www.etymonline.com/word/hind
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: hind
+type: free
 word_sums:
-- sum: 'Hind + '
-  respelling: hind
+- respelling: hind
+  sum: 'Hind + '
 ---

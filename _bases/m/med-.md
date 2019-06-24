@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: med
-type: free
-title: med
 reference_link: https://www.etymonline.com/word/med
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: med
+type: free
 word_sums:
-- sum: 'Med + '
-  respelling: med
+- respelling: med
+  sum: 'Med + '
 ---

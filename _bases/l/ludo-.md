@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: ludo
-type: free
-title: ludo
 reference_link: https://www.etymonline.com/word/ludo
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: ludo
+type: free
 word_sums:
-- sum: 'Ludo + '
-  respelling: ludo
+- respelling: ludo
+  sum: 'Ludo + '
 ---

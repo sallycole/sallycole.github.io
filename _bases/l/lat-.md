@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: lat
-type: free
-title: lat
 reference_link: https://www.etymonline.com/word/lat
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: lat
+type: free
 word_sums:
-- sum: 'Lat + '
-  respelling: lat
+- respelling: lat
+  sum: 'Lat + '
 ---

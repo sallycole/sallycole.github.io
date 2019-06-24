@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: eme
-type: free
-title: eme
 reference_link: https://www.etymonline.com/word/eme
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: eme
+type: free
 word_sums:
-- sum: 'Eme + '
-  respelling: eme
+- respelling: eme
+  sum: 'Eme + '
 ---

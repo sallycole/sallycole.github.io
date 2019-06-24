@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: term
-type: free
-title: term
 reference_link: https://www.etymonline.com/word/term
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: term
+type: free
 word_sums:
-- sum: 'Term + '
-  respelling: term
+- respelling: term
+  sum: 'Term + '
 ---

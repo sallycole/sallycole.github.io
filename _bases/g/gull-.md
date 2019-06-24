@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: gull
-type: free
-title: gull
 reference_link: https://www.etymonline.com/word/gull
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: gull
+type: free
 word_sums:
-- sum: 'Gull + '
-  respelling: gull
+- respelling: gull
+  sum: 'Gull + '
 ---

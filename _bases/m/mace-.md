@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: mace
-type: free
-title: mace
 reference_link: https://www.etymonline.com/word/mace
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: mace
+type: free
 word_sums:
-- sum: 'Mace + '
-  respelling: mace
+- respelling: mace
+  sum: 'Mace + '
 ---

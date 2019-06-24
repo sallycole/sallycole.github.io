@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: tone
-type: free
-title: tone
 reference_link: https://www.etymonline.com/word/tone
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: tone
+type: free
 word_sums:
-- sum: 'Tone + '
-  respelling: tone
+- respelling: tone
+  sum: 'Tone + '
 ---

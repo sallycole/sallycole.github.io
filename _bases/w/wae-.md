@@ -1,12 +1,13 @@
 ---
+category: 3-letters
+denotation: null
 name: wae
-type: free
-title: wae
 reference_link: https://www.etymonline.com/word/wae
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: wae
+type: free
 word_sums:
-- sum: 'Wae + '
-  respelling: wae
+- respelling: wae
+  sum: 'Wae + '
 ---

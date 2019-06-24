@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: hank
-type: free
-title: hank
 reference_link: https://www.etymonline.com/word/hank
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: hank
+type: free
 word_sums:
-- sum: 'Hank + '
-  respelling: hank
+- respelling: hank
+  sum: 'Hank + '
 ---

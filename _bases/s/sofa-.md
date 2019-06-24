@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: sofa
-type: free
-title: sofa
 reference_link: https://www.etymonline.com/word/sofa
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: sofa
+type: free
 word_sums:
-- sum: 'Sofa + '
-  respelling: sofa
+- respelling: sofa
+  sum: 'Sofa + '
 ---

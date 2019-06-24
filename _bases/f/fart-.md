@@ -1,12 +1,13 @@
 ---
+category: 4-letters
+denotation: null
 name: fart
-type: free
-title: fart
 reference_link: https://www.etymonline.com/word/fart
-root_name: 
-root_language: 
-denotation: 
+root_language: null
+root_name: null
+title: fart
+type: free
 word_sums:
-- sum: 'Fart + '
-  respelling: fart
+- respelling: fart
+  sum: 'Fart + '
 ---
