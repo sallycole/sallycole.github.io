@@ -1,0 +1,43 @@
+---
+category: 6-letters
+denotation: "to make a thing like another"
+name: simul(e)
+reference_link: https://www.latin-dictionary.net/definition/35101/simulo-simulare-simulavi-simulatus
+root_language: Latin
+root_name: simulare
+title: simul(e)
+type: bound
+word_sums:
+- respelling: simulacra
+  sum: 'Simul(e) + a + cr + a'
+- respelling: simulacrum
+  sum: 'Simul(e) + a + cr + um'
+- respelling: simulacrums
+  sum: 'Simul(e) + a + cr + um + s'
+- respelling: simular
+  sum: 'Simul(e) + ar'
+- respelling: simulate
+  sum: 'Simul(e) + ate'
+- respelling: simulation
+  sum: 'Simul(e) + ate + ion'
+- respelling: simulations
+  sum: 'Simul(e) + ate + ion + s'
+- respelling: simulator
+  sum: 'Simul(e) + ate + or'
+- respelling: simulators
+  sum: 'Simul(e) + ate + or + s'
+- respelling: simulated
+  sum: 'Simul(e) + ate + ed'
+- respelling: simulating
+  sum: 'Simul(e) + ate + ing'
+- respelling: simulates
+  sum: 'Simul(e) + ate + s'
+- respelling: simulcast
+  sum: 'Simul(e) + Cast'
+- respelling: simulcasts
+  sum: 'Simul(e) + Cast + s'
+- respelling: simulcasting
+  sum: 'Simul(e) + Cast + ing'
+- respelling: dissimulate
+  sum: 'dis + Simul(e) + ate'
+---
