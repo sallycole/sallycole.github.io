@@ -8,8 +8,8 @@ root_name: akme
 title: acne
 type: free
 word_sums:
-- respelling: acne
-  sum: Acne
+- respelling: acnes
+  sum: Acne + s
 - respelling: acned
   sum: Acne + ed
 ---

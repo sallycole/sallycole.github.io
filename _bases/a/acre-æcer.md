@@ -12,4 +12,6 @@ word_sums:
   sum: Acre + s
 - respelling: acreage
   sum: Acre + age
+- respelling: acreable
+  sum: Acre + able
 ---

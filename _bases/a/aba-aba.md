@@ -8,6 +8,6 @@ root_name: aba
 title: aba
 type: free
 word_sums:
-- respelling: aba
-  sum: Aba
+- respelling: abas
+  sum: Aba + s
 ---

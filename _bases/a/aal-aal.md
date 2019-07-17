@@ -8,6 +8,6 @@ root_name: aal
 title: aal
 type: free
 word_sums:
-- respelling: aal
-  sum: Aal
+- respelling: aals
+  sum: Aal + s
 ---
