@@ -6,9 +6,12 @@ layout: default
   {%- if page.title -%}
     <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%}
-  <p align="center"><iframe src="https://duckduckgo.com/search.html?width=250&site=swi.storyhouracademy.com&prefill=Search for a base" style="overflow:hidden;margin:0;padding:0;width:308px;height:40px;" frameborder="0" align="center"></iframe></p>
 
   {{ content }}
+
+<h2>Sort Bases by Length</h2>
+
+<h3><a href="https://swi.storyhouracademy.com/bases/1-letter/">1 letter</a> - <a href="https://swi.storyhouracademy.com/bases/2-letters/">2 letters</a> - <a href="https://swi.storyhouracademy.com/bases/3-letters/">3 letters</a> - <a href="https://swi.storyhouracademy.com/bases/4-letters/">4 letters</a> - <a href="https://swi.storyhouracademy.com/bases/5-letters/">5 letters</a> - <a href="https://swi.storyhouracademy.com/bases/6-letters/">6 letters</a> - <a href="https://swi.storyhouracademy.com/bases/7-letters/">7 letters</a> - <a href="https://swi.storyhouracademy.com/bases/8-letters-and-up/">8 letters and up</a></h3>
 
   {%- if site.bases.size > 0 -%}
     <h2 class="post-list-heading">{{ page.list_title | default: "Bases" }}</h2>

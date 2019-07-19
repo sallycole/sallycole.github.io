@@ -1,13 +1,13 @@
 ---
 category: 3-letters
-denotation: null
+denotation: yellowfin tuna
 name: ahi
 reference_link: https://www.etymonline.com/word/ahi
-root_language: null
-root_name: null
+root_language: Hawaiian
+root_name: ahi
 title: ahi
 type: free
 word_sums:
-- respelling: ahi
-  sum: 'Ahi + '
+- respelling: ahis
+  sum: Ahi + s
 ---

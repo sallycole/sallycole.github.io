@@ -4,7 +4,7 @@ denotation: to give help to
 name: aid
 reference_link: https://www.etymonline.com/word/aide
 root_language: Latin
-root_name: adiuvare
+root_name: adiuvo, adiuvare, adiuvi, adiutum
 title: aid
 type: free
 word_sums:

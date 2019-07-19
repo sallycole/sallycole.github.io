@@ -13,4 +13,6 @@ word_sums:
   sum: Aeon + i + an
 - respelling: aeonic
   sum: Aeon + ic
+- respelling: aeons
+  sum: Aeon + s
 ---

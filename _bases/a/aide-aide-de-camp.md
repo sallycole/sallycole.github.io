@@ -1,15 +1,13 @@
 ---
 category: 4-letters
-denotation: to give help to
+denotation: aid, assistant
 name: aide
 reference_link: https://www.etymonline.com/word/aide
-root_language: Latin
-root_name: adiuvare
+root_language: French
+root_name: aide-de-camp
 title: aide
 type: free
 word_sums:
-- respelling: aide
-  sum: Aide
 - respelling: aides
   sum: Aide + s
 ---
