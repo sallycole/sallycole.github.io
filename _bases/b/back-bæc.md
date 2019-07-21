@@ -1,13 +1,13 @@
 ---
 category: 4-letters
-denotation: null
+denotation: back
 name: back
 reference_link: https://www.etymonline.com/word/back
-root_language: null
-root_name: null
+root_language: Old English
+root_name: bæc
 title: back
 type: free
 word_sums:
-- respelling: back
-  sum: 'Back + '
+- respelling: aback
+  sum: a + Back
 ---

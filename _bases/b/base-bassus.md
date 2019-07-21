@@ -1,13 +1,13 @@
 ---
 category: 4-letters
-denotation: null
+denotation: thick, stumpy, low
 name: base
 reference_link: https://www.etymonline.com/word/base
-root_language: null
-root_name: null
+root_language: Late Latin
+root_name: bassus
 title: base
 type: free
 word_sums:
-- respelling: base
-  sum: 'Base + '
+- respelling: abase
+  sum: a + Base
 ---
