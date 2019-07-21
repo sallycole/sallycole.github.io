@@ -2,7 +2,7 @@
 category: 5-letters
 denotation: keep watch, maintain
 name: serve
-reference_link: https://en.wiktionary.org/wiki/servo
+reference_link: https://www.etymonline.com/search?q=servare
 root_language: Latin
 root_name: servo, servare, servavi, servatum
 title: serve
