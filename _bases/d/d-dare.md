@@ -28,4 +28,20 @@ word_sums:
   sum: Add + end + um
 - respelling: addenda
   sum: Add + end + a
+- respelling: addition
+  sum: Add + ite + ion
+- respelling: additions
+  sum: Add + ite + ion + s
+- respelling: additional
+  sum: Add + ite + ion + al
+- respelling: additionally
+  sum: Add + ite + ion + al + ly
+- respelling: additive
+  sum: Add + ite + ive
+- respelling: additives
+  sum: Add + ite + ive + s
+- respelling: additament
+  sum: Add + ite + a + ment
+- respelling: additaments
+  sum: Add + ite + a + ment + s
 ---
