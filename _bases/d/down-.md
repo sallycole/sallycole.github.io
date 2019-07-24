@@ -1,13 +1,13 @@
 ---
 category: 4-letters
-denotation: null
+denotation: downwards
 name: down
 reference_link: https://www.etymonline.com/word/down
-root_language: null
-root_name: null
+root_language: Old English
+root_name: dune
 title: down
 type: free
 word_sums:
 - respelling: down
-  sum: 'Down + '
+  sum: a + Down
 ---

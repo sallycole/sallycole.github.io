@@ -1,13 +1,13 @@
 ---
 category: 4-letters
-denotation: null
+denotation: door, gate, wicket
 name: door
 reference_link: https://www.etymonline.com/word/door
-root_language: null
-root_name: null
+root_language: Old English
+root_name: duru
 title: door
 type: free
 word_sums:
-- respelling: door
-  sum: 'Door + '
+- respelling: adoors
+  sum: a + Door + s
 ---
