@@ -1,13 +1,13 @@
 ---
 category: 4-letters
-denotation: null
+denotation: foot
 name: foot
 reference_link: https://www.etymonline.com/word/foot
-root_language: null
-root_name: null
+root_language: Old English
+root_name: fot
 title: foot
 type: free
 word_sums:
 - respelling: foot
-  sum: 'Foot + '
+  sum: a + Foot
 ---

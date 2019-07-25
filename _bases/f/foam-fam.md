@@ -1,13 +1,13 @@
 ---
 category: 4-letters
-denotation: null
+denotation: foam, saliva froth; sea
 name: foam
 reference_link: https://www.etymonline.com/word/foam
-root_language: null
-root_name: null
+root_language: Old English
+root_name: fam
 title: foam
 type: free
 word_sums:
-- respelling: foam
-  sum: 'Foam + '
+- respelling: afoam
+  sum: a + Foam
 ---

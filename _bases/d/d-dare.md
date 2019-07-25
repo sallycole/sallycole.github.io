@@ -1,47 +1,47 @@
 ---
-category: 3-letters
-denotation: add to, join, attach, place upon
-name: add
-reference_link: https://www.etymonline.com/word/add
+category: 1-letter
+denotation: to put, place, to give
+name: d
+reference_link: https://www.etymonline.com/search?q=-dere
 root_language: Latin
-root_name: addo, addere, addidi, additum
-title: add
-type: free
+root_name: -dere, dare
+title: d
+type: bound
 word_sums:
 - respelling: added
-  sum: Add + ed
+  sum: ad + D + ed
 - respelling: adder
-  sum: Add + er
+  sum: ad + D + er
 - respelling: adders
-  sum: Add + er + s
+  sum: ad + D + er + s
 - respelling: adding
-  sum: Add + ing
+  sum: ad + D + ing
 - respelling: adds
-  sum: Add + s
+  sum: ad + D + s
 - respelling: addable
-  sum: Add + able
+  sum: ad + D + able
 - respelling: addible
-  sum: Add + ible
+  sum: ad + D + ible
 - respelling: addend
-  sum: Add + end
+  sum: ad + D + end
 - respelling: addendum
-  sum: Add + end + um
+  sum: ad + D + end + um
 - respelling: addenda
-  sum: Add + end + a
+  sum: ad + D + end + a
 - respelling: addition
-  sum: Add + ite + ion
+  sum: ad + D + ite + ion
 - respelling: additions
-  sum: Add + ite + ion + s
+  sum: ad + D + ite + ion + s
 - respelling: additional
-  sum: Add + ite + ion + al
+  sum: ad + D + ite + ion + al
 - respelling: additionally
-  sum: Add + ite + ion + al + ly
+  sum: ad + D + ite + ion + al + ly
 - respelling: additive
-  sum: Add + ite + ive
+  sum: ad + D + ite + ive
 - respelling: additives
-  sum: Add + ite + ive + s
+  sum: ad + D + ite + ive + s
 - respelling: additament
-  sum: Add + ite + a + ment
+  sum: ad + D + ite + a + ment
 - respelling: additaments
-  sum: Add + ite + a + ment + s
+  sum: ad + D + ite + a + ment + s
 ---

@@ -1,13 +1,13 @@
 ---
 category: 4-letters
-denotation: null
+denotation: flat
 name: flat
 reference_link: https://www.etymonline.com/word/flat
-root_language: null
-root_name: null
+root_language: Old Norse
+root_name: flatr
 title: flat
 type: free
 word_sums:
-- respelling: flat
-  sum: 'Flat + '
+- respelling: aflat
+  sum: a + Flat
 ---
