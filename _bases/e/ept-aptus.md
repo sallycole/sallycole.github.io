@@ -1,6 +1,6 @@
 ---
 category: 3-letters
-denotation: apt
+denotation: fit, suited, proper, appropriate
 name: ept
 reference_link: https://www.etymonline.com/search?q=aptus
 root_language: Latin
@@ -10,8 +10,8 @@ type: bound
 word_sums:
 - respelling: inept
   sum: in + ept
-- respelling: adeptly
+- respelling: ineptly
   sum: in + ept + ly
-- respelling: adeptness
+- respelling: ineptness
   sum: in + ept + ness
 ---
