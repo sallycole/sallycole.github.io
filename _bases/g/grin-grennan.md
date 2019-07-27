@@ -1,13 +1,13 @@
 ---
 category: 4-letters
-denotation: null
+denotation: to mutter
 name: grin
 reference_link: https://www.etymonline.com/word/grin
-root_language: null
-root_name: null
+root_language: Old High German
+root_name: grennan
 title: grin
 type: free
 word_sums:
-- respelling: grin
-  sum: 'Grin + '
+- respelling: agrin
+  sum: a + Grin
 ---

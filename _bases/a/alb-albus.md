@@ -1,13 +1,13 @@
 ---
 category: 3-letters
-denotation: null
+denotation: white
 name: alb
 reference_link: https://www.etymonline.com/word/alb
-root_language: null
-root_name: null
+root_language: Latin
+root_name: albus
 title: alb
 type: free
 word_sums:
 - respelling: alb
-  sum: 'Alb + '
+  sum: Alb + um
 ---

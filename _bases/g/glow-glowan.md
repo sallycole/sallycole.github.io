@@ -1,13 +1,13 @@
 ---
 category: 4-letters
-denotation: null
+denotation: to glow, shine as if red-hot
 name: glow
 reference_link: https://www.etymonline.com/word/glow
-root_language: null
-root_name: null
+root_language: Old English
+root_name: glowan
 title: glow
 type: free
 word_sums:
 - respelling: glow
-  sum: 'Glow + '
+  sum: a + Glow
 ---

@@ -10,6 +10,8 @@ type: free
 word_sums:
 - respelling: airs
   sum: Air + s
+- respelling: airer
+  sum: Air + er
 - respelling: airing
   sum: Air + ing
 - respelling: aired

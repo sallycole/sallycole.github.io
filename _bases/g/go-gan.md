@@ -10,6 +10,8 @@ type: free
 word_sums:
 - respelling: gone
   sum: Go + ne
+- respelling: agone
+  sum: a + Go + ne
 - respelling: going
   sum: Go + ing
 - respelling: goes

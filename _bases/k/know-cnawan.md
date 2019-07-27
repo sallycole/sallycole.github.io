@@ -1,13 +1,13 @@
 ---
 category: 4-letters
-denotation: null
+denotation: recognize
 name: know
 reference_link: https://www.etymonline.com/word/know
-root_language: null
-root_name: null
+root_language: Old English
+root_name: cnawan
 title: know
 type: free
 word_sums:
-- respelling: know
-  sum: 'Know + '
+- respelling: aknow
+  sum: a + Know
 ---

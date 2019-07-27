@@ -12,4 +12,6 @@ word_sums:
   sum: a + Day + s
 - respelling: nowadays
   sum: Now + a + Day + s
+- respelling: alday
+  sum: al + Day
 ---
