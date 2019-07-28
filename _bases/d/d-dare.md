@@ -2,7 +2,7 @@
 category: 1-letter
 denotation: to put, place, to give
 name: d
-reference_link: https://www.etymonline.com/search?q=-dere
+reference_link: https://parentingpatch.com/word-matrix-d/
 root_language: Latin
 root_name: -dere, dare
 title: d
