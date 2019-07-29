@@ -7,7 +7,7 @@ root_language: Latin
 root_name: do, dare, dedi, datum
 title: add
 type: stem
-note: <add> is typically treated as a free base element but can arguably be analyzed into <ad + [d](https://swi.storyhouracademy.com/bases/1-letter/d-dare/)>.
+note: <span>&LT;add&GT; is typically treated as a free base element, but it can arguably be analyzed into &LT;ad> + &LT;<a href="https://swi.storyhouracademy.com/bases/1-letter/d-dare/">D</a>&GT;, where &LT;D&LT; is the base element.</span>
 word_sums:
 - respelling: add
   sum: ad + D
