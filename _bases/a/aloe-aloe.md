@@ -12,4 +12,6 @@ word_sums:
   sum: Aloe + s
 - respelling: aloetic
   sum: Aloe + etic
+- respelling: aloin
+  sum: Aloe + in
 ---
