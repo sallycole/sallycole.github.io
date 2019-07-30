@@ -1,10 +1,10 @@
 ---
 category: 3-letters
-denotation:
+denotation: add to, join, attach, place upon
 name: add
-reference_link: https://www.etymonline.com/word/ace
+reference_link: https://www.etymonline.com/word/add
 root_language: Latin
-root_name: do, dare, dedi, datum
+root_name: addere from ad + dare (do, dare, dedi, datus)
 title: add
 type: stem
 note: <span>&LT;add&GT; is typically treated as a free base element, but it can arguably be analyzed into &LT;ad&GT; + &LT;<a href="https://swi.storyhouracademy.com/bases/1-letter/d-dare/">D</a>&GT;, where &LT;D&GT; is the base element.</span>

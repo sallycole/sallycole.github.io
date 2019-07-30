@@ -488,18 +488,6 @@ word_sums:
   sum: e + D + it + r + ess
 - respelling: editresses
   sum: e + D + it + r + ess + es
-- respelling: copyedit
-  sum: Copy + e + D + it
-- respelling: copyedits
-  sum: Copy + e + D + it + s
-- respelling: copyedited
-  sum: Copy + e + D + ite + ed
-- respelling: copyediting
-  sum: Copy + e + D + ite + ing
-- respelling: copyeditor
-  sum: Copy + e + D + ite + or
-- respelling: copyeditors
-  sum: Copy + e + D + ite + or + s
 - respelling: misedit
   sum: mis + e + D + it
 - respelling: misedits
@@ -509,13 +497,13 @@ word_sums:
 - respelling: misediting
   sum: mis + e + D + ite + ing
 - respelling: overedit
-  sum: Over + e + D + it
+  sum: over + e + D + it
 - respelling: overedits
-  sum: Over + e + D + it + s
+  sum: over + e + D + it + s
 - respelling: overedited
-  sum: Over + e + D + ite + ed
+  sum: over + e + D + ite + ed
 - respelling: overediting
-  sum: Over + e + D + ite + ing
+  sum: over + e + D + ite + ing
 - respelling: subedit
   sum: sub + e + D + it
 - respelling: subedits
@@ -596,16 +584,6 @@ word_sums:
   sum: per + D + ite + ion + s
 - respelling: properdin
   sum: pro + per + D + in
-- respelling: rend
-  sum: ren + D
-- respelling: rends
-  sum: ren + D + s
-- respelling: rended
-  sum: ren + D + ed
-- respelling: rending
-  sum: ren + D + ing
-- respelling: rendible
-  sum: ren + D + ible
 - respelling: rendition
   sum: ren + D + ite + ion
 - respelling: renditions
@@ -626,18 +604,18 @@ word_sums:
   sum: ren + D + er + er + s
 - respelling: renderable
   sum: ren + D + er + able
-- respelling: surrend
-  sum: sur + ren + D
-- respelling: surrends
-  sum: sur + ren + D + s
-- respelling: surrended
-  sum: sur + ren + D + ed
-- respelling: surrending
-  sum: sur + ren + D + ing
 - respelling: surrender
   sum: sur + ren + D + er
 - respelling: surrenders
   sum: sur + ren + D + er + s
+- respelling: surrendered
+  sum: sur + ren + D + er + ed
+- respelling: surrendering
+  sum: sur + ren + D + er + ing
+- respelling: surrenderer
+  sum: sur + ren + D + er + er
+- respelling: surrenderers
+  sum: sur + ren + D + er + er + s
 - respelling: surrenderee
   sum: sur + ren + D + er + ee
 - respelling: surrenderees
@@ -684,4 +662,14 @@ word_sums:
   sum: Ven + D + ite + ion + s
 - respelling: sacerdotal
   sum: Sacer + D + ote + al
+- respelling: sacerdotal
+  sum: Sacer + D + ote + al + ly
+- respelling: sacerdotalism
+  sum: Sacer + D + ote + ale + ism
+- respelling: sacerdotalisms
+  sum: Sacer + D + ote + ale + ism + s
+- respelling: sacerdotalist
+  sum: Sacer + D + ote + ale + ist
+- respelling: sacerdotalists
+  sum: Sacer + D + ote + ale + ist + s
 ---
