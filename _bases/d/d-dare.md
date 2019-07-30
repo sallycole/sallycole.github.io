@@ -173,9 +173,9 @@ word_sums:
 - respelling: playdate
   sum: Play + D + ate
 - respelling: playdates
-  sum: Play + D + ate
+  sum: Play + D + ate + s
 - respelling: postdate
-  sum: Play + D + ate
+  sum: post + D + ate
 - respelling: postdates
   sum: post + D + ate + s
 - respelling: postdated

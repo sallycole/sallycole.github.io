@@ -10,4 +10,12 @@ type: free
 word_sums:
 - respelling: afore
   sum: a + Fore
+- respelling: foredate
+  sum: Fore + D + ate
+- respelling: foredates
+  sum: Fore + D + ate + s
+- respelling: foredated
+  sum: Fore + D + ate + ed
+- respelling: foredating
+  sum: Fore + D + ate + ing
 ---

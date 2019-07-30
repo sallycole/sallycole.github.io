@@ -42,4 +42,8 @@ word_sums:
   sum: Air + Burst + s
 - respelling: airbus
   sum: Air + Bus
+- respelling: airdate
+  sum: Air + D + ate
+- respelling: airdates
+  sum: Air + D + ate + s
 ---
