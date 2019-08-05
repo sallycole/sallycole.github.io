@@ -1,13 +1,13 @@
 ---
 category: 4-letters
-denotation: null
+denotation: lump, heap, pile
 name: mass
 reference_link: https://www.etymonline.com/word/mass
-root_language: null
-root_name: null
+root_language: Old French
+root_name: masse
 title: mass
 type: free
 word_sums:
-- respelling: mass
-  sum: 'Mass + '
+- respelling: amass
+  sum: a + Mass
 ---

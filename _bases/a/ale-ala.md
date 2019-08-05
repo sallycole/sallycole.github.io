@@ -18,4 +18,12 @@ word_sums:
   sum: Ale + a
 - respelling: alae
   sum: Ale + ae
+- respelling: alula
+  sum: Ale + ule + a
+- respelling: alulae
+  sum: Ale + ule + ae
+- respelling: alulas
+  sum: Ale + ule + a + s
+- respelling: alular
+  sum: Ale + ule + ar
 ---

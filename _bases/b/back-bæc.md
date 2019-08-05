@@ -10,6 +10,8 @@ type: free
 word_sums:
 - respelling: aback
   sum: a + Back
+- respelling: backs
+  sum: Back + s
 - respelling: backdate
   sum: Back + D + ate
 - respelling: backdates

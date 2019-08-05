@@ -1,13 +1,13 @@
 ---
 category: 4-letters
-denotation: null
+denotation: power, strength, force
 name: main
 reference_link: https://www.etymonline.com/word/main
-root_language: null
-root_name: null
+root_language: Old English
+root_name: mægen-
 title: main
 type: free
 word_sums:
-- respelling: main
-  sum: 'Main + '
+- respelling: amain
+  sum: a + Main
 ---
