@@ -26,6 +26,8 @@ A word sum is a hypothesis about the morphemic structure of a word. One way this
   cut + ing -> cutting  
   per + mit + ed -> permitted
 
+  Note that a consonant at the end of a prefix will never double. Only a consonant at the end of a base or at the end of a suffix may double.
+
 2) With the **final e convention**, you must replace the final \<e\> in the morpheme on the left side of a join if the following conditions are met:
 
   * The final \<e\> is an orthographic marker and does not represent a phoneme.
