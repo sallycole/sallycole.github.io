@@ -31,23 +31,23 @@ word_sums:
 - respelling: energy
   sum: en + Erg + y
 - respelling: allergy
-  sum: al + Erg + y
+  sum: All + Erg + y
 - respelling: allergies
-  sum: al + Erg + y + es
+  sum: All + Erg + y + es
 - respelling: allergic
-  sum: al + Erg + ic
+  sum: All + Erg + ic
 - respelling: allergen
-  sum: al + Erg + en
+  sum: All + Erg + en
 - respelling: allergens
-  sum: al + Erg + en + s
+  sum: All + Erg + en + s
 - respelling: allergist
-  sum: al + Erg + ist
+  sum: All + Erg + ist
 - respelling: allergists
-  sum: al + Erg + ist + s
+  sum: All + Erg + ist + s
 - respelling: antiallergenic
-  sum: ant + i + al + Erg + en + ic
+  sum: ant + i + All + Erg + en + ic
 - respelling: antiallergenics
-  sum: ant + i + al + Erg + en + ic + s
+  sum: ant + i + All + Erg + en + ic + s
 - respelling: synergy
   sum: syn + Erg + y
 - respelling: ergometer
