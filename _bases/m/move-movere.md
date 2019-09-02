@@ -8,6 +8,14 @@ root_name: moveo, movere, movi, motum
 title: move
 type: free
 word_sums:
+- respelling: amove
+  sum: a + Move
+- respelling: amoves
+  sum: a + Move + s
+- respelling: amoving
+  sum: a + Move + ing
+- respelling: amoved
+  sum: a + Move + ed
 - respelling: moves
   sum: Move + s
 - respelling: moving

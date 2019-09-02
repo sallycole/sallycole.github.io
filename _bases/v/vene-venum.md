@@ -1,19 +1,15 @@
 ---
-category: 3-letters
+category: 4-letters
 denotation: for sale
-name: ven
+name: vene
 reference_link: https://www.etymonline.com/word/venal
 root_language: Latin
 root_name: venum
-title: ven
+title: vene
 type: bound
 word_sums:
 - respelling: venal
   sum: Vene + al
 - respelling: venal
-  sum: Vene + al
-- respelling: venal
   sum: Vene + al + ly
-- respelling: venal
-  sum: Vene + ale + ity
 ---
