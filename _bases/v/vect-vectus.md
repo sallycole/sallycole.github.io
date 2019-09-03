@@ -1,6 +1,6 @@
 ---
 category: 4-letters
-denotation: to draw, carry
+denotation: carry
 name: vect
 reference_link: https://www.etymonline.com/word/convection
 root_language: Latin

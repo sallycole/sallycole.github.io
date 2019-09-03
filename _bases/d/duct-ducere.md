@@ -1,6 +1,6 @@
 ---
 category: 4-letters
-denotation: to lead
+denotation: lead
 name: duct
 reference_link: https://www.etymonline.com/search?q=ductus
 root_language: Latin
@@ -35,11 +35,11 @@ word_sums:
 - respelling: conductional
   sum: con + Duct + ion + al
 - respelling: aqueduct
-  sum: aqu + e + Duct
+  sum: Aqu + e + Duct
 - respelling: aqueductal
-  sum: aqu + e + Duct + al
+  sum: Aqu + e + Duct + al
 - respelling: aqueducts
-  sum: aqu + e + Duct + s
+  sum: Aqu + e + Duct + s
 - respelling: oviduct
   sum: Ov + i + Duct
 - respelling: deduct

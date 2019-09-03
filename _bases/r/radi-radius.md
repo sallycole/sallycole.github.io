@@ -1,6 +1,6 @@
 ---
 category: 4-letters
-denotation: staff, stake, rod; spoke of a wheel; ray of light, beam of light; radius of a circle
+denotation: ray, beam
 name: radi
 reference_link: https://www.etymonline.com/word/radius
 root_language: Latin
