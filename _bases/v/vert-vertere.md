@@ -9,7 +9,7 @@ title: vert
 type: bound
 word_sums:
 - respelling: vertical
-  sum: Vert + ice + al
+  sum: Vert + ic + al
 - respelling: vertice
   sum: Vert + ice
 - respelling: vertices
