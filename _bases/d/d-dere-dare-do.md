@@ -1,10 +1,10 @@
 ---
 category: 1-letter
-denotation: to put, place, to give
+denotation: give
 name: d
 reference_link: https://parentingpatch.com/word-matrix-d/
 root_language: Latin
-root_name: -dere, dare
+root_name: -dere, dare, from PIE root *do-
 title: d
 type: bound
 word_sums:
@@ -71,47 +71,47 @@ word_sums:
 - respelling: addenda
   sum: ad + D + e + nd + a
 - respelling: addition
-  sum: ad + D + ite + ion
+  sum: ad + D + it + ion
 - respelling: additions
-  sum: ad + D + ite + ion + s
+  sum: ad + D + it + ion + s
 - respelling: additional
-  sum: ad + D + ite + ion + al
+  sum: ad + D + it + ion + al
 - respelling: additionally
-  sum: ad + D + ite + ion + al + ly
+  sum: ad + D + it + ion + al + ly
 - respelling: cycloaddition
-  sum: Cycl + o + ad + D + it(e) + ion
+  sum: Cycl + o + ad + D + it + ion
 - respelling: cycloadditions
-  sum: Cycl + o + ad + D + it(e) + ion + s
+  sum: Cycl + o + ad + D + it + ion + s
 - respelling: superaddition
-  sum: Super + ad + D + it(e) + ion
+  sum: Super + ad + D + it + ion
 - respelling: superadditions
-  sum: Super + ad + D + it(e) + ion + s
+  sum: Super + ad + D + it + ion + s
 - respelling: additive
-  sum: ad + D + ite + ive
+  sum: ad + D + it + ive
 - respelling: additives
-  sum: ad + D + ite + ive + s
+  sum: ad + D + it + ive + s
 - respelling: additively
-  sum: ad + D + ite + ive + ly
+  sum: ad + D + it + ive + ly
 - respelling: additivity
-  sum: ad + D + ite + ive + ity
+  sum: ad + D + it + ive + ity
 - respelling: additivities
-  sum: ad + D + ite + ive + ity + es
+  sum: ad + D + it + ive + ity + es
 - respelling: additament
-  sum: ad + D + ite + a + ment
+  sum: ad + D + it + a + ment
 - respelling: additaments
-  sum: ad + D + ite + a + ment + s
+  sum: ad + D + it + a + ment + s
 - respelling: nonadditive
-  sum: non + ad + D + ite + ive
+  sum: non + ad + D + it + ive
 - respelling: nonadditivity
-  sum: non + ad + D + ite + ive + ity
+  sum: non + ad + D + it + ive + ity
 - respelling: nonadditivities
-  sum: non + ad + D + ite + ive + ity + es
+  sum: non + ad + D + it + ive + ity + es
 - respelling: additory
-  sum: ad + D + ite + or + y
+  sum: ad + D + it + or + y
 - respelling: additament
-  sum: ad + D + ite + a + ment
+  sum: ad + D + it + a + ment
 - respelling: additaments
-  sum: ad + D + ite + a + ment + s
+  sum: ad + D + it + a + ment + s
 - respelling: date
   sum: D + ate
 - respelling: dates
@@ -287,7 +287,7 @@ word_sums:
 - respelling: commandeered
   sum: com + Man + D + eer + ed
 - respelling: commandeering
-  sum: com + Man + D + eer
+  sum: com + Man + D + eer + ing
 - respelling: commandant
   sum: com + Man + D + ant
 - respelling: commandants
@@ -317,7 +317,7 @@ word_sums:
 - respelling: demandingly
   sum: de + Man + D + ing + ly
 - respelling: demandingness
-  sum: de + Man + D + ing + nes
+  sum: de + Man + D + ing + ness
 - respelling: undemanding
   sum: un + de + Man + D + ing
 - respelling: demander
@@ -410,74 +410,56 @@ word_sums:
   sum: dis + com + Men + D + ed
 - respelling: discommending
   sum: dis + com + Men + D + ing
-- respelling: abscond
-  sum: abs + con + D
-- respelling: absconds
-  sum: abs + con + D + s
-- respelling: absconded
-  sum: abs + con + D + ed
-- respelling: absconding
-  sum: abs + con + D + ing
-- respelling: absconder
-  sum: abs + con + D + er
-- respelling: absconders
-  sum: abs + con + D + er + s
-- respelling: condiment
-  sum: con + D + i + ment
-- respelling: condiments
-  sum: con + D + i + ment + s
-- respelling: condimental
-  sum: con + D + i + ment + al
 - respelling: edit
   sum: e + D + it
 - respelling: edits
   sum: e + D + it + s
 - respelling: edited
-  sum: e + D + ite + ed
+  sum: e + D + it + ed
 - respelling: editing
-  sum: e + D + ite + ing
+  sum: e + D + it + ing
 - respelling: editable
-  sum: e + D + ite + able
+  sum: e + D + it + able
 - respelling: unedited
-  sum: un + e + D + ite + ed
+  sum: un + e + D + it + ed
 - respelling: edition
-  sum: e + D + ite + ion
+  sum: e + D + it + ion
 - respelling: editions
-  sum: e + D + ite + ion + s
+  sum: e + D + it + ion + s
 - respelling: editor
-  sum: e + D + ite + or
+  sum: e + D + it + or
 - respelling: editors
-  sum: e + D + ite + or + s
+  sum: e + D + it + or + s
 - respelling: editorial
-  sum: e + D + ite + or + i + al
+  sum: e + D + it + or + i + al
 - respelling: editorials
-  sum: e + D + ite + or + i + al + s
+  sum: e + D + it + or + i + al + s
 - respelling: editorialist
-  sum: e + D + ite + or + i + al + ist
+  sum: e + D + it + or + i + al + ist
 - respelling: editorialists
-  sum: e + D + ite + or + i + al + ist + s
+  sum: e + D + it + or + i + al + ist + s
 - respelling: editorialize
-  sum: e + D + ite + or + i + al + ize
+  sum: e + D + it + or + i + al + ize
 - respelling: editorializes
-  sum: e + D + ite + or + i + al + ize + s
+  sum: e + D + it + or + i + al + ize + s
 - respelling: editorialized
-  sum: e + D + ite + or + i + al + ize + ed
+  sum: e + D + it + or + i + al + ize + ed
 - respelling: editorializing
-  sum: e + D + ite + or + i + al + ize + ing
+  sum: e + D + it + or + i + al + ize + ing
 - respelling: editorializer
-  sum: e + D + ite + or + i + al + ize + er
+  sum: e + D + it + or + i + al + ize + er
 - respelling: editorializers
-  sum: e + D + ite + or + i + al + ize + er + s
+  sum: e + D + it + or + i + al + ize + er + s
 - respelling: editorialization
-  sum: e + D + ite + or + i + al + ize + ate + ion
+  sum: e + D + it + or + i + al + ize + ate + ion
 - respelling: editorializations
-  sum: e + D + ite + or + i + al + ize + ate + ion + s
+  sum: e + D + it + or + i + al + ize + ate + ion + s
 - respelling: editorially
-  sum: e + D + ite + or + i + al + ly
+  sum: e + D + it + or + i + al + ly
 - respelling: editorship
-  sum: e + D + ite + or + Ship
+  sum: e + D + it + or + Ship
 - respelling: editorships
-  sum: e + D + ite + or + Ship + s
+  sum: e + D + it + or + Ship + s
 - respelling: editrix
   sum: e + D + it + r + ix
 - respelling: editrixes
@@ -493,67 +475,67 @@ word_sums:
 - respelling: misedits
   sum: mis + e + D + it + s
 - respelling: misedited
-  sum: mis + e + D + ite + ed
+  sum: mis + e + D + it + ed
 - respelling: misediting
-  sum: mis + e + D + ite + ing
+  sum: mis + e + D + it + ing
 - respelling: overedit
   sum: over + e + D + it
 - respelling: overedits
   sum: over + e + D + it + s
 - respelling: overedited
-  sum: over + e + D + ite + ed
+  sum: over + e + D + it + ed
 - respelling: overediting
-  sum: over + e + D + ite + ing
+  sum: over + e + D + it + ing
 - respelling: subedit
   sum: sub + e + D + it
 - respelling: subedits
   sum: sub + e + D + it + s
 - respelling: subedited
-  sum: sub + e + D + ite + ed
+  sum: sub + e + D + it + ed
 - respelling: subediting
-  sum: sub + e + D + ite + ing
+  sum: sub + e + D + it + ing
 - respelling: subeditor
-  sum: sub + e + D + ite + or
+  sum: sub + e + D + it + or
 - respelling: subeditors
-  sum: sub + e + D + ite + or + s
+  sum: sub + e + D + it + or + s
 - respelling: tradition
-  sum: tra + D + ite + ion
+  sum: tra + D + it + ion
 - respelling: traditions
-  sum: tra + D + ite + ion + s
+  sum: tra + D + it + ion + s
 - respelling: traditional
-  sum: tra + D + ite + ion + al
+  sum: tra + D + it + ion + al
 - respelling: traditionally
-  sum: tra + D + ite + ion + al + ly
+  sum: tra + D + it + ion + al + ly
 - respelling: traditionalism
-  sum: tra + D + ite + ion + al + ism
+  sum: tra + D + it + ion + al + ism
 - respelling: traditionalisms
-  sum: tra + D + ite + ion + al + ism + s
+  sum: tra + D + it + ion + al + ism + s
 - respelling: traditionalist
-  sum: tra + D + ite + ion + al + ist
+  sum: tra + D + it + ion + al + ist
 - respelling: traditionalists
-  sum: tra + D + ite + ion + al + ist + s
+  sum: tra + D + it + ion + al + ist + s
 - respelling: traditionary
-  sum: tra + D + ite + ion + ar + y
+  sum: tra + D + it + ion + ar + y
 - respelling: traditionless
-  sum: tra + D + ite + ion + less
+  sum: tra + D + it + ion + less
 - respelling: traditionalize
-  sum: tra + D + ite + ion + al + ize
+  sum: tra + D + it + ion + al + ize
 - respelling: traditionalizes
-  sum: tra + D + ite + ion + al + ize + s
+  sum: tra + D + it + ion + al + ize + s
 - respelling: traditionalized
-  sum: tra + D + ite + ion + al + ize + ed
+  sum: tra + D + it + ion + al + ize + ed
 - respelling: traditionalizing
-  sum: tra + D + ite + ion + al + ize + ing
+  sum: tra + D + it + ion + al + ize + ing
 - respelling: traditionalization
-  sum: tra + D + ite + ion + al + ize + ate + ion
+  sum: tra + D + it + ion + al + ize + ate + ion
 - respelling: nontraditional
-  sum: non + tra + D + ite + ion + al
+  sum: non + tra + D + it + ion + al
 - respelling: untraditional
-  sum: un + tra + D + ite + ion + al
+  sum: un + tra + D + it + ion + al
 - respelling: untraditionally
-  sum: un + tra + D + ite + ion + al + ly
+  sum: un + tra + D + it + ion + al + ly
 - respelling: antitraditional
-  sum: ant + i + tra + D + ite + ion + al
+  sum: ant + i + tra + D + it + ion + al
 - respelling: extradite
   sum: ex + tra + D + ite
 - respelling: extradites
@@ -568,26 +550,20 @@ word_sums:
   sum: ex + tra + D + ite + ion + s
 - respelling: extraditable
   sum: ex + tra + D + ite + able
-- respelling: incondite
-  sum: in + con + D + ite
-- respelling: recondite
-  sum: re + con + D + ite
-- respelling: reconditely
-  sum: re + con + D + ite + ly
 - respelling: deodand
   sum: De + o + D + a + nd
 - respelling: deodands
   sum: De + o + D + a + nd + s
 - respelling: perdition
-  sum: per + D + ite + ion
+  sum: per + D + it + ion
 - respelling: perditions
-  sum: per + D + ite + ion + s
+  sum: per + D + it + ion + s
 - respelling: properdin
   sum: pro + per + D + in
 - respelling: rendition
-  sum: ren + D + ite + ion
+  sum: ren + D + it + ion
 - respelling: renditions
-  sum: ren + D + ite + ion + s
+  sum: ren + D + it + ion + s
 - respelling: render
   sum: ren + D + er
 - respelling: renders
@@ -657,9 +633,9 @@ word_sums:
 - respelling: vendibilities
   sum: Ven + D + ibility + es
 - respelling: vendition
-  sum: Ven + D + ite + ion
+  sum: Ven + D + it + ion
 - respelling: venditions
-  sum: Ven + D + ite + ion + s
+  sum: Ven + D + it + ion + s
 - respelling: sacerdotal
   sum: Sacer + D + ote + al
 - respelling: sacerdotal
