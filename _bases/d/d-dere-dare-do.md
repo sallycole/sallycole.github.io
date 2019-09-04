@@ -641,11 +641,11 @@ word_sums:
 - respelling: sacerdotal
   sum: Sacer + D + ote + al + ly
 - respelling: sacerdotalism
-  sum: Sacer + D + ote + ale + ism
+  sum: Sacer + D + ote + al + ism
 - respelling: sacerdotalisms
-  sum: Sacer + D + ote + ale + ism + s
+  sum: Sacer + D + ote + al + ism + s
 - respelling: sacerdotalist
-  sum: Sacer + D + ote + ale + ist
+  sum: Sacer + D + ote + al + ist
 - respelling: sacerdotalists
-  sum: Sacer + D + ote + ale + ist + s
+  sum: Sacer + D + ote + al + ist + s
 ---
