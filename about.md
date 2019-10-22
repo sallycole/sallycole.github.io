@@ -16,17 +16,17 @@ A base is a morpheme to which affixes, connecting vowel letters, or other bases 
 
 A word sum is a hypothesis about the morphemic structure of a word. One way this type of hypothesis can be falsified is to apply suffixing conventions to the joins between each of the elements being added together. There are three suffixing conventions to check your joins with. These are:
 
-1) With the **consonant doubling convention**, you must double the consonant letter of the morpheme on the left side of a join if the following conditions are met:
+1) With the **consonant doubling convention**, you must double the consonant letter of a base element if the following conditions are met:
 
   * There is a suffix on the right side of the join that begins with a vowel letter.
-  * There is a morpheme on the left side of the join that is either a single monosyllabic form or the stressed part of a polysyllabic form.
-  * The morpheme on the left side of the join ends with a vowel letter grapheme followed by a consonant letter grapheme, but not \<w\> or \<x\>.  
+  * The base element is either a single monosyllabic form or the stressed part of a polysyllabic form.
+  * The base ends with a vowel letter grapheme followed by a consonant letter grapheme, but not \<w\> or \<x\>.  
 
   Examples:  
   cut + ing -> cutting  
   per + mit + ed -> permitted
 
-  Note that a consonant at the end of a prefix will never double. Only a consonant at the end of a base or at the end of a suffix may double.
+  Note that a consonant at the end of a prefix will never double. Only a consonant at the end of a base element may double.
 
 2) With the **final e convention**, you must replace the final \<e\> in the morpheme on the left side of a join if the following conditions are met:
 
