@@ -29,7 +29,7 @@ word_sums:
 - respelling: wombless
   sum: Womb + less
 - respelling: womblike
-  sum: Womb + Like
+  sum: Womb + like
 - respelling: wombly
   sum: Womb + ly
 - respelling: wombmate
