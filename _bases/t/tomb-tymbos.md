@@ -9,39 +9,39 @@ title: tomb
 type: free
 word_sums:
 - respelling: tombs
-  sum: tomb + s
+  sum: Tomb + s
 - respelling: entomb
-  sum: en + tomb
+  sum: en + Tomb
 - respelling: entombed
-  sum: en + tomb + ed
+  sum: en + Tomb + ed
 - respelling: entombing
-  sum: en + tomb + ing
+  sum: en + Tomb + ing
 - respelling: entombment
-  sum: en + tomb + ment
+  sum: en + Tomb + ment
 - respelling: entombments
-  sum: en + tomb + ment + s
+  sum: en + Tomb + ment + s
 - respelling: entombs
-  sum: en + tomb + s
+  sum: en + Tomb + s
 - respelling: intomb
-  sum: in + tomb
+  sum: in + Tomb
 - respelling: intombs
-  sum: in + tomb + s   
+  sum: in + Tomb + s   
 - respelling: tombal
-  sum: tomb + al
+  sum: Tomb + al
 - respelling: tombic
-  sum: tomb + ic
+  sum: Tomb + ic
 - respelling: tombed
-  sum: tomb + ed
+  sum: Tomb + ed
 - respelling: tombing
-  sum: tomb + ing
+  sum: Tomb + ing
 - respelling: tombless
-  sum: tomb + less
+  sum: Tomb + less
 - respelling: tomblike
-  sum: tomb + like
+  sum: Tomb + Like
 - respelling: tombstone
-  sum: tomb + stone
+  sum: Tomb + Stone
 - respelling: tombstones
-  sum: tomb + stone + s
+  sum: Tomb + Stone + s
 
 
 
