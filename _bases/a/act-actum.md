@@ -76,7 +76,7 @@ word_sums:
   sum: Bi + o + Act + ive + ity
 - respelling: vasoactive
   sum: Vas + o + Act + ive
-- respelling: bioactivity
+- respelling: vasoactivity
   sum: Vas + o + Act + ive + ity
 - respelling: overact
   sum: Over + Act

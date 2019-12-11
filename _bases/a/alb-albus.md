@@ -8,6 +8,6 @@ root_name: albus
 title: alb
 type: free
 word_sums:
-- respelling: alb
+- respelling: album
   sum: Alb + um
 ---

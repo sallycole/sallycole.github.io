@@ -9,7 +9,7 @@ title: adze
 type: free
 word_sums:
 - respelling: adzes
-  sum: Adze + s
+  sum: Adze + es
 - respelling: adzing
   sum: Adze + ing
 - respelling: adzed

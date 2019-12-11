@@ -18,17 +18,19 @@ A word sum is a hypothesis about the morphemic structure of a word. One way this
 
 1) With the **consonant doubling convention**, you must double the consonant letter of a base element if the following conditions are met:
 
-  * There is a suffix on the right side of the join that begins with a vowel letter.
+  * There is a suffix being added to the base element that begins with a vowel letter.
   * The base element is either a single monosyllabic form or the stressed part of a polysyllabic form.
-  * The base ends with a vowel letter grapheme followed by a consonant letter grapheme, but not \<w\> or \<x\>.  
+  * The base element ends with a vowel letter grapheme followed by a consonant letter grapheme, but not \<w\> or \<x\>.  
 
   Examples:  
   cut + ing -> cutting  
   per + mit + ed -> permitted
+  sew + ing -> sewing
+  box + ing -> boxing
 
-  Note that a consonant at the end of a prefix will never double. Only a consonant at the end of a base element may double.
+  Note that a consonant at the end of a prefix or suffix will never double. Only a consonant at the end of a base element may double.
 
-2) With the **final e convention**, you must replace the final \<e\> in the morpheme on the left side of a join if the following conditions are met:
+2) With the **final e convention**, you must replace the final \<e\> in the morpheme on the left side of a join between two morphemes if the following conditions are met:
 
   * The final \<e\> is an orthographic marker and does not represent a phoneme.
   * The suffix on the right side of the join begins with a vowel letter.  
@@ -41,7 +43,7 @@ A word sum is a hypothesis about the morphemic structure of a word. One way this
 
   * If changing a \<y\> at the end of a morpheme to \<i\> forces an \<ii\> letter string, keep the \<y\>, and add the suffix. Example: cry + ing -> crying (not criing)
   * If the letter before the \<y\> is a vowel letter, keep the \<y\> and add the suffix. Example: stay + s -> stays
-  * If the element on the right side of the join is another base, keep the \<y\> and add the base. Example: play + mate -> playmate
+  * If the element on the right side of the join is another base element, keep the \<y\> and add the base element. Example: ply + wood -> plywood
 
 If you contribute to this project, please be sure to check the joins of your words sums and share the most accurate representation of morphemic structure as possible.
 
@@ -82,25 +84,19 @@ reference_link: https://www.etymonline.com/word/vide#etymonline_v_7775
 root_name: videre
 root_language: Latin
 denotation: "see"
+notes: <span>Write any special notes you have in HTML using the span tag.</span>
 word_sums:
-- sum: 'e + Vide + ence'
+- sum: e + Vide + ence
   respelling: evidence
-- sum: 'pro + vide + ed'
+- sum: pro + vide + ed
   respelling: provided
-- sum: 'pro + vide'
+- sum: pro + vide
   respelling: provide
-- sum: 'e + Vide + ent'
+- sum: e + Vide + ent
   respelling: evident
-- sum: 'e + Vide + ent + ly'
+- sum: e + Vide + ent + ly
   respelling: evidently
 ---
-```
-
-Please note that if you are putting a contraction such as the n't of don't into the value for a sum, you must type the apostrophe twice instead of once so as to adhere to the YAML code specification. For the respelling, you can type the apostrophe once per usual. Here is an example of that:
-
-```YAML
-  - sum: 'do + n''t'
-    respelling: don't
 ```
 
 If you've made a .md file and are not yet familiar enough with GitHub to check it in, feel free to put it in a .zip file and email it to sallycole at gmail dot com.
