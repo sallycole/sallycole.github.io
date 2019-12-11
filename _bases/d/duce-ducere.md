@@ -23,14 +23,34 @@ word_sums:
   sum: re + e + Duce + ate + ed
 - respelling: reeducate
   sum: re + e + Duce + ate
+- respelling: miseducates
+  sum: mis + e + Duce + ate + s
+- respelling: miseducate
+  sum: mis + e + Duce + ate
+- respelling: miseducated
+  sum: mis + e + Duce + ate + ed
+- respelling: miseducating
+  sum: mis + e + Duce + ate + ing
+- respelling: miseducation
+  sum: mis + e + Duce + ate + ion
+- respelling: overeducate
+  sum: Over + e + Duce + ate
+- respelling: overeducated
+  sum: Over + e + Duce + ate + ed
+- respelling: overeducating
+  sum: Over + e + Duce + ate + ing
 - respelling: educates
   sum: e + Duce + ate + s
 - respelling: educating
   sum: e + Duce + ate + ing
 - respelling: education
   sum: e + Duce + ate + ion
+- respelling: educationist
+  sum: e + Duce + ate + ion + ist
 - respelling: educational
   sum: e + Duce + ate + ion + al
+- respelling: educationalist
+  sum: e + Duce + ate + ion + al + ist
 - respelling: educationally
   sum: e + Duce + ate + ion + al + ly
 - respelling: educated
@@ -91,12 +111,26 @@ word_sums:
   sum: in + Duce + ed
 - respelling: induce
   sum: in + Duce
+- respelling: reinducing
+  sum: re + in + Duce + ing
+- respelling: reinduce
+  sum: re + in + Duce
+- respelling: reinduced
+  sum: re + in + Duce + ed
+- respelling: reinduces
+  sum: re + in + Duce + es
+- respelling: nonreducing
+  sum: non + re + Duce + ing
 - respelling: reducing
   sum: re + Duce + ing
 - respelling: reducibly
   sum: re + Duce + ible + y
 - respelling: reducibleness
   sum: re + Duce + ible + ness
+- respelling: irreducibly
+  sum: ir + re + Duce + ible + y
+- respelling: irreducible
+  sum: ir + re + Duce + ible
 - respelling: reducible
   sum: re + Duce + ible
 - respelling: reducibility
@@ -109,6 +143,22 @@ word_sums:
   sum: re + Duce + ed
 - respelling: reduce
   sum: re + Duce
+- respelling: reproduce
+  sum: re + pro + Duce
+- respelling: reproduced
+  sum: re + pro + Duce + ed
+- respelling: reproducing
+  sum: re + pro + Duce + ing
+- respelling: reproduces
+  sum: re + pro + Duce + es
+- respelling: reproducer
+  sum: re + pro + Duce + er
+- respelling: reproducibility
+  sum: re + pro + Duce + ibility
+- respelling: reproducible
+  sum: re + pro + Duce + ible
+- respelling: reproducibly
+  sum: re + pro + Duce + ible + y
 - respelling: produced
   sum: pro + Duce + ed
 - respelling: produceable
@@ -121,8 +171,26 @@ word_sums:
   sum: pro + Duce + es
 - respelling: producing
   sum: pro + Duce + ing
+- respelling: outproduced
+  sum: Out + pro + Duce + ed
+- respelling: outproducing
+  sum: Out + pro + Duce + ing
+- respelling: outproduces
+  sum: Out + pro + Duce + es
+- respelling: outproduce
+  sum: Out + pro + Duce
 - respelling: produce
   sum: pro + Duce
+- respelling: overproducer
+  sum: Over + pro + Duce + er
+- respelling: overproduces
+  sum: Over + pro + Duce + es
+- respelling: overproducing
+  sum: Over + pro + Duce + ing
+- respelling: overproduced
+  sum: Over + pro + Duce + ed
+- respelling: overproduce
+  sum: Over + pro + Duce
 - respelling: introducible
   sum: intro + Duce + ible
 - respelling: introducer
