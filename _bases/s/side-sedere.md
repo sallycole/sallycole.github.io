@@ -10,6 +10,8 @@ type: bound
 word_sums:
 - respelling: residuary
   sum: re + Side + ue + ary
+- respelling: residually
+  sum: re + Side + ue + al + ly
 - respelling: residual
   sum: re + Side + ue + al
 - respelling: residue
