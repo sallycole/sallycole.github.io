@@ -8,6 +8,10 @@ root_name: sedere
 title: side
 type: bound
 word_sums:
+- respelling: residual
+  sum: re + Side + ue + al
+- respelling: residue
+  sum: re + Side + ue
 - respelling: insidiousness
   sum: in + Side + ious + ness
 - respelling: insidiously
@@ -98,8 +102,6 @@ word_sums:
   sum: sub + Side + y
 - respelling: subsidence
   sum: sub + Side + ence
-- respelling: subside
-  sum: sub + Side
 - respelling: subside
   sum: sub + Side
 - respelling: presidencies
