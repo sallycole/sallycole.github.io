@@ -8,6 +8,8 @@ root_name: sedere
 title: side
 type: bound
 word_sums:
+- respelling: residuary
+  sum: re + Side + ue + ary
 - respelling: residual
   sum: re + Side + ue + al
 - respelling: residue
