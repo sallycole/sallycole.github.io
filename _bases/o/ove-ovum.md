@@ -14,4 +14,6 @@ word_sums:
   sum: Ove + um
 - respelling: ova
   sum: Ove + a
+- respelling: oval
+  sum: Ove + al
 ---
