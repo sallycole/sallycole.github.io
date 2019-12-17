@@ -4,7 +4,7 @@ denotation: egg
 name: ove
 reference_link: https://www.etymonline.com/word/ova
 root_language: Latin
-root_name: ove
+root_name: ovum
 title: ove
 type: bound
 word_sums:
