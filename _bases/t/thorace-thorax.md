@@ -7,7 +7,7 @@ root_language: Ancient Greek
 root_name: thorax
 title: thorace
 type: bound
-note: See also the related base thorax.
+note: <span>See also the related base &LT;<a href="https://swi.storyhouracademy.com/bases/6-letters/thorax-thorax/">thorax</a>&GT;.</span>
 word_sums:
 - respelling: thoracically
   sum: Thorace + ic + al + ly

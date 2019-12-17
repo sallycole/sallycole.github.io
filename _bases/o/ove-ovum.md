@@ -9,7 +9,7 @@ title: ove
 type: bound
 word_sums:
 - respelling: ovipositor
-  sum: Ove + i + po + Site + or
+  sum: Ove + i + Pose + it + or
 - respelling: ovum
   sum: Ove + um
 - respelling: ova
