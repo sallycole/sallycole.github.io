@@ -9,6 +9,10 @@ title: thorax
 type: free
 note: See also the related base thorace.
 word_sums:
+- respelling: prothorax
+  sum: pro + Thorax
+- respelling: prothoraxes
+  sum: pro + Thorax + es
 - respelling: thoraxes
   sum: Thorax + es
 - respelling: cephalothorax
