@@ -2,7 +2,7 @@
 category: 4-letters
 denotation: hold, handle, apt, skillful
 name: able
-reference_link: [etymonline.com](https://www.etymonline.com/word/able), [wiktionary.com](https://en.wiktionary.org/wiki/able)
+reference_link: https://www.etymonline.com/word/able
 root_language: Latin
 root_name: habeo, habere, habui, habitum
 title: able
