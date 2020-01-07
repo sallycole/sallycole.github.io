@@ -44,6 +44,6 @@ word_sums:
   sum: ad + Duce + Able
 - respelling: produceable
   sum: pro + Duce + Able
-image: ![Word Matrix for Able](/assets/a/able-habere.png)
+image: /assets/a/able-habere.png
 
 ---
