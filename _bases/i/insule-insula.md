@@ -8,11 +8,11 @@ root_name: insula
 title: insule
 type: bound
 relatives:
-- peninsula
-- insulinemic
-- isolated
-- isle
-- peninsular
+- relative: peninsula
+- relative: insulinemic
+- relative: isolated
+- relative: isle
+- relative: peninsular
 word_sums:
 - respelling: insularly
   sum: Insule + ar + ly
