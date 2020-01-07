@@ -32,3 +32,13 @@ layout: page
 <h3>Word matrix:</h3>
 <p><img src="{{page.image}}"></p>
 {% endif %}
+
+{% if page.relatives %}
+<h3>Relatives:</h3>
+{% endfor %}
+
+<ul>
+{% for relatives in page.relatives %}
+  <li>{{page.relatives}}</li>
+{% endfor %}
+</ul>
