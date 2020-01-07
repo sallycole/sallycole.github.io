@@ -21,16 +21,14 @@ layout: page
 {% endfor %}
 </ul>
 
-<h3>Optional notes:</h3>
-<ul>
 {% if page.note %}
-<li>{{page.note}}</li>
-{% endif %}
-</ul>
-
-<h3>Images:</h3>
+<h3>Notes:</h3>
 <ul>
-{% if page.image %}
-<li>{{page.image}}</li>
-{% endif %}
+<li>{{page.note}}</li>
 </ul>
+{% endif %}
+
+{% if page.image %}
+<h3>Images:</h3>
+<p class="img-responsive">{{page.image}}</p>
+{% endif %}
