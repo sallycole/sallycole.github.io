@@ -8,7 +8,7 @@ root_name: thorax
 title: thorace
 type: bound
 relatives:
-- relative: thorax
+- name: thorax
   url: https://swi.storyhouracademy.com/bases/6-letters/thorax-thorax/
 word_sums:
 - respelling: thoracically

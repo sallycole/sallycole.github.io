@@ -86,9 +86,9 @@ root_language: Latin
 denotation: "see"
 notes: <span>Write any special notes you have in HTML using the span tag.</span>
 relatives:
-- relative: a relative
+- name: a relative
   url: internal link to related base if it exists
-- relative: a relative
+- name: a relative
   url: internal link to related base if it exists
 word_sums:
 - sum: e + Vide + ence
