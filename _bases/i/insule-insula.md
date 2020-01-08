@@ -7,12 +7,7 @@ root_name: insula
 title: insule
 type: bound
 etymonline_root_search_link: https://www.etymonline.com/search?q=insula
-relatives:
-- name: peninsula
-- name: insulinemic
-- name: isolated
-- name: isle
-- name: peninsular
+wiktionary_root_link: https://en.wiktionary.org/wiki/insula#Latin
 word_sums:
 - respelling: insularly
   sum: Insule + ar + ly
@@ -62,5 +57,14 @@ word_sums:
   sum: Insule + a
 - respelling: insulate
   sum: Insule + ate
-word-matrix: /assets/i/insule-insula.png
+word_matrix: /assets/i/insule-insula.png
+related_bases:
+- name: isle
+  url: /bases/4-letters/isle-insula/
+other_relatives:
+- name: peninsula
+- name: insulinemic
+- name: isolated
+- name: isle
+- name: peninsular
 ---
