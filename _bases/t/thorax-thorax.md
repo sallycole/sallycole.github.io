@@ -8,7 +8,8 @@ root_name: thorax
 title: thorax
 type: free
 relatives:
-- relative: [thorace](https://swi.storyhouracademy.com/bases/6-letters/thorace-thorax/)
+- relative: thorace
+  url: https://swi.storyhouracademy.com/bases/6-letters/thorace-thorax/
 word_sums:
 - respelling: prothorax
   sum: pro + Thorax

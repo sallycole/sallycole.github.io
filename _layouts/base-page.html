@@ -39,7 +39,7 @@ layout: page
 
 <ul>
 {% for relatives in page.relatives %}
-  <li>{{relatives.relative}}</li>
+  <li><a href="{{relatives.relative}}">{{relatives.url}}</a></li>
 {% endfor %}
 </ul>
 
