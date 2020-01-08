@@ -23,8 +23,8 @@ layout: page
   {% if page.wiktionary_root_link %}
   <li><a href="{{page.wiktionary_root_link}}">Wiktionary Root Page</a></li>
   {% endif %}
-  {% if page.courtesy_of_link %}
-  <li>Courtesy of: <a href="{{page.courtesy_of_link}}">{{page.courtesy_of_link}}</a></li>
+  {% if page.courtesy_of %}
+  <li><a href="{{page.courtesy_of.link}}">Courtesy of {{page.courtesy_of.name}}</a></li>
   {% endif %}
 </ul>
 
