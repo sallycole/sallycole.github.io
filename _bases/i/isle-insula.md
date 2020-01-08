@@ -20,10 +20,20 @@ word_sums:
   sum: en + Isle + ed
 - respelling: enisle
   sum: en + Isle
+- respelling: islets
+  sum: Isle + et + s
 - respelling: islet
   sum: Isle + et
+- respelling: isleted
+  sum: Isle + et + ed
 - respelling: isles
   sum: Isle + s
+- respelling: isled
+  sum: Isle + ed
+- respelling: isling
+  sum: Isle + ing
+- respelling: isleless
+  sum: Isle + less
 related_bases:
 - name: insule
   url: /bases/6-letters/insule-insula/
