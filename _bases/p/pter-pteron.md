@@ -11,12 +11,6 @@ wiktionary_root_link: https://en.wiktionary.org/wiki/%CF%80%CF%84%CE%B5%CF%81%CF
 courtesy_link:
 - name: The Parenting Patch
   url: https://parentingpatch.com/word-matrix-pter/
-relatives:
-- name: copter
-- name: copters
-- name: pteryla
-- name: pterylas
-- name: pterylae
 word_sums:
 - respelling: pteridine
   sum: Pter + ide + ine
@@ -373,4 +367,10 @@ word_sums:
 - respelling: trichopterygids
   sum: Trich + o + Pter + yg + id + s
 word_matrix: /assets/p/pter-pteron.png
+relatives:
+- name: copter
+- name: copters
+- name: pteryla
+- name: pterylas
+- name: pterylae
 ---

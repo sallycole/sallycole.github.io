@@ -69,7 +69,7 @@ A tutorial video about getting setup with these tools is available [here on YouT
 
 # How to format your contributions prior to committing them
 
-This project stores data about English bases in a markdown file format that ends with .md. We use only one .md file per English base. Then, we use a human-readable data-serialization language called YAML within the file to store detailed information about each individual base. This includes whether the base is free or bound, the base's oldest known root, this root's language of origin, a denotation or primary meaning of the base, an Etymonline root search link, an Etymonline base link, a Wiktionary base link, a Wiktionary root link, a courtesy of link, notes, relatives of the base, all the word sums and words that can be built by adding affixes and other bases to the base, an image of the word matrix for the base, and other related images.
+This project stores data about English bases in a markdown file format that ends with .md. We use only one .md file per English base. Then, we use a human-readable data-serialization language called YAML within the file to store detailed information about each individual base. This includes whether the base is free or bound, the base's oldest known root, this root's language of origin, a denotation or primary meaning of the base, an Etymonline root search link, an Etymonline base link, a Wiktionary base link, a Wiktionary root link, a courtesy of link, notes, all the word sums and words that can be built by adding affixes and other bases to the base, an image of the word matrix for the base, relatives of the base, and other related images.
 
 You can contribute by making new .md files for bases not yet contributed. Or, by checking the work of others and updating the .md files that they have contributed with more or better information. Or, by adding images related to a base.
 
@@ -92,23 +92,25 @@ courtesy_link:
 - name: Site Name
   url: URL
 notes: <span>Write any special notes you have in HTML using the span tag.</span>
-relatives:
-- name: a relative
-  url: internal link to related base if it exists
-- name: a relative
-  url: internal link to related base if it exists
 word_sums:
 - sum: e + Vide + ence
   respelling: evidence
-- sum: pro + vide + ed
+- sum: pro + Vide + ed
   respelling: provided
-- sum: pro + vide
+- sum: pro + Vide
   respelling: provide
 - sum: e + Vide + ent
   respelling: evident
 - sum: e + Vide + ent + ly
   respelling: evidently
 word_matrix: /assets/letter/base-root.png
+relatives:
+- name: a relative
+  url: internal link to related base if it exists
+- name: a relative
+  url: internal link to related base if it exists
+other_images:
+- image: /assets/t/thorax_grasshopper.jpeg
 ---
 ```
 
