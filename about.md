@@ -84,6 +84,11 @@ reference_link: https://www.etymonline.com/word/vide#etymonline_v_7775
 root_name: videre
 root_language: Latin
 denotation: "see"
+etymonline_root_search_link: URL
+etymonline_base_link: URL
+wiktionary_base_link: URL
+wiktionary_root_link: URL
+courtesy_of_link: URL
 notes: <span>Write any special notes you have in HTML using the span tag.</span>
 relatives:
 - name: a relative

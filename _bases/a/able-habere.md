@@ -2,11 +2,13 @@
 category: 4-letters
 denotation: hold, handle, apt, skillful
 name: able
-reference_link: https://www.etymonline.com/word/able
 root_language: Latin
 root_name: habeo, habere, habui, habitum
 title: able
 type: free
+etymonline_root_search_link: https://www.etymonline.com/search?q=habere
+etymonline_base_link: https://www.etymonline.com/word/able
+wiktionary_base_link: https://en.wiktionary.org/wiki/able
 word_sums:
 - respelling: abler
   sum: Able + er

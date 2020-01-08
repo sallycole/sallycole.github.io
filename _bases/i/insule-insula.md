@@ -2,11 +2,11 @@
 category: 6-letters
 denotation: island
 name: insule
-reference_link: https://www.etymonline.com/search?q=insula
 root_language: Latin
 root_name: insula
 title: insule
 type: bound
+etymonline_root_search_link: https://www.etymonline.com/search?q=insula
 relatives:
 - name: peninsula
 - name: insulinemic

@@ -4,12 +4,27 @@ layout: page
 
 <h3>Base information:</h3>
 <ul>
-  <li>Type: {{page.type}}</li>
+  <li>Denotation: "{{page.denotation}}"</li>
   <li>Root: {{page.root_name}}</li>
   <li>Root Language: {{page.root_language}}</li>
-  <li>Denotation: "{{page.denotation}}"</li>
+  <li>Type: {{page.type}}</li>
   {% if page.reference_link %}
   <li><a href="{{page.reference_link}}">Reference Link</a></li>
+  {% endif %}
+  {% if page.etymonline_root_search_link %}
+  <li>Etymonline Root Search Link: <a href="{{page.etymonline_root_search_link}}">{{page.etymonline_root_search_link}}</a></li>
+  {% endif %}
+  {% if page.etymonline_base_link %}
+  <li>Etymonline Base Page Link: <a href="{{page.etymonline_base_link}}">{{page.etymonline_base_link}}</a></li>
+  {% endif %}
+  {% if page.wiktionary_base_link %}
+  <li>Wiktionary Base Page Link: <a href="{{page.wiktionary_base_link}}">{{page.wiktionary_base_link}}</a></li>
+  {% endif %}
+  {% if page.wiktionary_root_link %}
+  <li>Wiktionary Root Page Link: <a href="{{page.wiktionary_root_link}}">{{page.wiktionary_root_link}}</a></li>
+  {% endif %}
+  {% if page.courtesy_of_link %}
+  <li>Courtesy of: <a href="{{page.courtesy_of_link}}">{{page.courtesy_of_link}}</a></li>
   {% endif %}
 </ul>
 
@@ -39,7 +54,7 @@ layout: page
 
 <ul>
 {% for relatives in page.relatives %}
-  <li><a href="{{relatives.url}}">{{relatives.name}}</a></li>
+  <li><a href="{{relatives.internal_url}}">{{relatives.name}}</a></li>
 {% endfor %}
 </ul>
 

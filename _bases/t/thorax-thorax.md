@@ -7,6 +7,9 @@ root_language: Ancient Greek
 root_name: thorax
 title: thorax
 type: free
+etymonline_root_search_link: https://www.etymonline.com/search?q=thorax
+etymonline_base_link: https://www.etymonline.com/word/thorax
+wiktionary_base_link: https://en.wiktionary.org/wiki/thorax
 relatives:
 - name: thorace
   url: https://swi.storyhouracademy.com/bases/6-letters/thorace-thorax/
