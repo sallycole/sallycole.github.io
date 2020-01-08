@@ -2,7 +2,6 @@
 category: 6-letters
 denotation: breastplate, cuirass, corslet
 name: thorax
-reference_link: https://en.wiktionary.org/wiki/thorax
 root_language: Ancient Greek
 root_name: thorax
 title: thorax

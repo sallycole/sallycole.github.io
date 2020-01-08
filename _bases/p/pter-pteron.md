@@ -8,7 +8,9 @@ title: pter
 type: bound
 etymonline_root_search_link: https://www.etymonline.com/search?q=pteron
 wiktionary_root_link: https://en.wiktionary.org/wiki/%CF%80%CF%84%CE%B5%CF%81%CF%8C%CE%BD#Ancient_Greek
-courtesy_of_link: https://parentingpatch.com/word-matrix-pter/
+courtesy_of:
+  - link: https://parentingpatch.com/word-matrix-pter/
+  - name: The Parenting Patch
 relatives:
 - name: copter
 - name: copters
