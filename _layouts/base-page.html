@@ -28,9 +28,9 @@ layout: page
 </ul>
 {% endif %}
 
-{% if page.image %}
+{% if page.word_matrix %}
 <h3>Word matrix:</h3>
-<p><img src="{{page.image}}"></p>
+<p><img src="{{page.word_matrix}}"></p>
 {% endif %}
 
 {% if page.relatives %}
@@ -42,3 +42,11 @@ layout: page
   <li>{{relatives.relative}}</li>
 {% endfor %}
 </ul>
+
+{% if page.other_images %}
+<h3>Images:</h3>
+{% endif %}
+
+{% for other_images in page.other_images %}
+  <p>{{other_images.image}}</p>
+{% endfor %}

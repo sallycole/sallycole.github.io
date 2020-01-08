@@ -27,5 +27,7 @@ word_sums:
   sum: Pneum + o + Thorace + es
 - respelling: thoracotomy
   sum: Thorace + o + Tome + y
-image: /assets/t/thorace-thorax.png
+word_matrix: /assets/t/thorace-thorax.png
+other_images:
+- image: assets/t/thorax_grasshopper.png
 ---

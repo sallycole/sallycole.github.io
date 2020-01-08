@@ -62,5 +62,5 @@ word_sums:
   sum: Insule + a
 - respelling: insulate
   sum: Insule + ate
-image: /assets/i/insule-insula.png
+word-matrix: /assets/i/insule-insula.png
 ---
