@@ -23,4 +23,6 @@ word_sums:
   sum: Pneum + o + Thorax
 - respelling: pneumothoraxes
   sum: Pneum + o + Thorax + es
+other_images:
+- image: assets/t/thorax_grasshopper.png
 ---

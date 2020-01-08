@@ -28,6 +28,4 @@ word_sums:
 - respelling: thoracotomy
   sum: Thorace + o + Tome + y
 word_matrix: /assets/t/thorace-thorax.png
-other_images:
-- image: assets/t/thorax_grasshopper.png
 ---
