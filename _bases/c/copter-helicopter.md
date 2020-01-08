@@ -15,6 +15,7 @@ word_sums:
   sum: Copter + ing
 - respelling: coptered
   sum: Copter + ed
+word_matrix: /assets/c/copter-helicopter.png
 related_bases:
 - name: pter
   url: /bases/4-letters/pter-pteron/
