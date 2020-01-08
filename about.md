@@ -88,9 +88,9 @@ etymonline_root_search_link: URL
 etymonline_base_link: URL
 wiktionary_base_link: URL
 wiktionary_root_link: URL
-courtesy_of:
-  - link: URL
+courtesy_link:
   - name: Site Name
+    url: URL
 notes: <span>Write any special notes you have in HTML using the span tag.</span>
 relatives:
 - name: a relative
