@@ -7,7 +7,8 @@ root_language: Ancient Greek
 root_name: thorax
 title: thorax
 type: free
-note: <span>See also the related base &LT;<a href="https://swi.storyhouracademy.com/bases/6-letters/thorace-thorax/">thorace</a>&GT;.</span>
+relatives:
+- relative: [thorace](https://swi.storyhouracademy.com/bases/6-letters/thorace-thorax/)
 word_sums:
 - respelling: prothorax
   sum: pro + Thorax
