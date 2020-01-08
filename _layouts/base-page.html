@@ -23,9 +23,9 @@ layout: page
   {% if page.wiktionary_root_link %}
   <li><a href="{{page.wiktionary_root_link}}">Wiktionary Root Page</a></li>
   {% endif %}
-  {% if page.courtesy_link %}
-  <li><a href="{{page.courtesy_link.url}}">Courtesy of {{page.courtesy_link.name}}</a></li>
-  {% endif %}
+  {% for courtesy_link in page.courtesy_link %}
+  <li><a href="{{courtesy_link.url}}">Courtesy of {{courtesy_link.name}}</a></li>
+  {% endfor %}
 </ul>
 
 <h3>Word sums:</h3>
