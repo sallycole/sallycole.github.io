@@ -367,9 +367,10 @@ word_sums:
 - respelling: trichopterygids
   sum: Trich + o + Pter + yg + id + s
 word_matrix: /assets/p/pter-pteron.png
-relatives:
+related_bases:
 - name: copter
-- name: copters
+  url: /bases/6-letters/copter-helicopter/
+other_relatives:
 - name: pteryla
 - name: pterylas
 - name: pterylae

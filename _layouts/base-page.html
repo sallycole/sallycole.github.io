@@ -48,13 +48,23 @@ layout: page
 <p><img src="{{page.word_matrix}}"></p>
 {% endif %}
 
-{% if page.relatives %}
-<h3>Relatives:</h3>
+{% if page.related_bases %}
+<h3>Relatived Bases:</h3>
 {% endif %}
 
 <ul>
-{% for relatives in page.relatives %}
-  <li><a href="{{relatives.internal_url}}">{{relatives.name}}</a></li>
+{% for related_bases in page.related_bases %}
+  <li><a href="https://swi.storyhouracademy.com{{related_bases.url}}">{{related_bases.name}}</a></li>
+{% endfor %}
+</ul>
+
+{% if page.other_relatives %}
+<h3>Other relatives:</h3>
+{% endif %}
+
+<ul>
+{% for other_relatives in page.other_relatives %}
+  <li>{{other_relatives.name}}</li>
 {% endfor %}
 </ul>
 

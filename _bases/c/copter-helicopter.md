@@ -15,7 +15,7 @@ word_sums:
   sum: Copter + ing
 - respelling: coptered
   sum: Copter + ed
-relatives:
+related_bases:
 - name: pter
   url: /bases/4-letters/pter-pteron/
 ---

@@ -104,13 +104,13 @@ word_sums:
 - sum: e + Vide + ent + ly
   respelling: evidently
 word_matrix: /assets/letter/base-root.png
-relatives:
+related_bases:
 - name: a relative
-  url: internal link to related base if it exists
+  url: /bases/#-letters/base-root/
 - name: a relative
-  url: internal link to related base if it exists
+  url: /bases/#-letters/base-root/
 other_images:
-- image: /assets/t/thorax_grasshopper.jpeg
+- image: /assets/letter/base_identifier.jpeg
 ---
 ```
 
