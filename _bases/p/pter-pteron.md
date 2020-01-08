@@ -13,9 +13,9 @@ courtesy_link:
   url: https://parentingpatch.com/word-matrix-pter/
 word_sums:
 - respelling: pteridine
-  sum: Pter + ide + ine
+  sum: Pter + id + ine
 - respelling: pteridines
-  sum: Pter + ide + ine + s
+  sum: Pter + id + ine + s
 - respelling: pterin
   sum: Pter + in
 - respelling: pterine
@@ -31,23 +31,23 @@ word_sums:
 - respelling: pterodactyls
   sum: Pter + o + Dactyl + s
 - respelling: pteridology
-  sum: Pter + ide + o + Log + y
+  sum: Pter + id + o + Loge + y
 - respelling: pteridologies
-  sum: Pter + ide + o + Log + y + es
+  sum: Pter + id + o + Loge + y + es
 - respelling: pteridological
-  sum: Pter + ide + o + Log + ic + al
+  sum: Pter + id + o + Loge + ic + al
 - respelling: pteridologist
-  sum: Pter + ide + o + Log + ist
+  sum: Pter + id + o + Loge + ist
 - respelling: pteridologists
-  sum: Pter + ide + o + Log + ist + s
+  sum: Pter + id + o + Loge + ist + s
 - respelling: pteridosperm
-  sum: Pter + ide + o + Sperm
+  sum: Pter + id + o + Sperm
 - respelling: pteridosperms
-  sum: Pter + ide + o + Sperm + s
+  sum: Pter + id + o + Sperm + s
 - respelling: pteridophyte
-  sum: Pter + ide + o + Phyte
+  sum: Pter + id + o + Phyte
 - respelling: pteridophytes
-  sum: Pter + ide + o + Phyte + s
+  sum: Pter + id + o + Phyte + s
 - respelling: pterophyte
   sum: Pter + o + Phyte
 - respelling: pterophytes
@@ -61,41 +61,41 @@ word_sums:
 - respelling: pterosaurs
   sum: Pter + o + Saur + s
 - respelling: pterygium
-  sum: Pter + yg + i + um
+  sum: Pter + yg + ium
 - respelling: pterygiums
-  sum: Pter + yg + i + um + s
+  sum: Pter + yg + ium + s
 - respelling: pterygia
-  sum: Pter + yg + i + a
+  sum: Pter + yg + ia
 - respelling: pterygial
-  sum: Pter + yg + i + al
+  sum: Pter + yg + ial
 - respelling: pterygoid
-  sum: Pter + yg + o + id'
+  sum: Pter + yg + oid
 - respelling: pterygoids
-  sum: Pter + yg + o + ide + s
+  sum: Pter + yg + oid + s
 - respelling: pterygoidal
-  sum: Pter + yg + o + ide + al
+  sum: Pter + yg + oid + al
 - respelling: pterygiate
   sum: Pter + yg + i + ate
 - respelling: epipterygoid
-  sum: ep + i + Pter + yg + o + id
+  sum: ep + i + Pter + yg + oid
 - respelling: epipterygoids
-  sum: ep + i + Pter + yg + o + id + s
+  sum: ep + i + Pter + yg + oid + s
 - respelling: interpterygoid
-  sum: inter + Pter + yg + o + id
+  sum: inter + Pter + yg + oid
 - respelling: palatopterygoid
-  sum: Palate + o + Pter + yg + o + id
+  sum: Palate + o + Pter + yg + oid
 - respelling: ectopterygoid
-  sum: ect + o + Pter + yg + o + id
+  sum: ect + o + Pter + yg + oid
 - respelling: ectopterygoids
-  sum: ect + o + Pter + yg + o + id + s
+  sum: ect + o + Pter + yg + oid + s
 - respelling: entopterygoid
-  sum: ent + o + Pter + yg + o + id
+  sum: ent + o + Pter + yg + oid
 - respelling: entopterygoids
-  sum: ent + o + Pter + yg + o + id + s
+  sum: ent + o + Pter + yg + oid + s
 - respelling: metapterygoid
-  sum: meta + o + Pter + yg + o + id
+  sum: meta + o + Pter + yg + oid
 - respelling: metapterygoids
-  sum: meta + o + Pter + yg + o + id + s
+  sum: meta + o + Pter + yg + oid + s
 - respelling: apteral
   sum: a + Pter + al
 - respelling: aptera
@@ -107,9 +107,9 @@ word_sums:
 - respelling: apterous
   sum: a + Pter + ous
 - respelling: apterium
-  sum: a + Pter + i + um
+  sum: a + Pter + ium
 - respelling: apteria
-  sum: a + Pter + i + a
+  sum: a + Pter + ia
 - respelling: apteryx
   sum: a + Pter + yx
 - respelling: apteryxes
@@ -118,10 +118,6 @@ word_sums:
   sum: Arche + o + Pter + yx
 - respelling: archeopteryxes
   sum: Arche + o + Pter + yx + es
-- respelling: archaeopteryx
-  sum: Archae + o + Pter + yx
-- respelling: archaeopteryxes
-  sum: Archae + o + Pter + yx + es
 - respelling: brachyptera
   sum: Brachy + Pter + a
 - respelling: brachypterous
@@ -203,17 +199,17 @@ word_sums:
 - respelling: eurypterida
   sum: Eury + Pter + id + a
 - respelling: eurypteroid
-  sum: Eury + Pter + o + id
+  sum: Eury + Pter + oid
 - respelling: eurypteroidea
-  sum: Eury + Pter + o + ide + ea
+  sum: Eury + Pter + oid + ea
 - respelling: eurypterus
   sum: Eury + Pter + us
 - respelling: eurypterygia
-  sum: Eury + Pter + yg + i + a
+  sum: Eury + Pter + yg + ia
 - respelling: eurypterygian
-  sum: Eury + Pter + yg + i + an
+  sum: Eury + Pter + yg + ian
 - respelling: eurypterygians
-  sum: Eury + Pter + yg + i + an + s
+  sum: Eury + Pter + yg + ian + s
 - respelling: helicopter
   sum: Helic + o + Pter
 - respelling: helicopters
@@ -273,13 +269,17 @@ word_sums:
 - respelling: lepidopterous
   sum: Lepide + o + Pter + ous
 - respelling: lepidopterology
-  sum: Lepide + o + Pter + o + Log + y
+  sum: Lepide + o + Pter + o + Loge + y
 - respelling: lepidopterological
-  sum: Lepide + o + Pter + o + Log + ic + al
+  sum: Lepide + o + Pter + o + Loge + ic + al
+- respelling: lepidopterologist
+  sum: Lepide + o + Pter + o + Loge + ist
+- respelling: lepidopterologists
+  sum: Lepide + o + Pter + o + Loge + ist + s
 - respelling: lepidopterist
-  sum: Lepide + o + Pter + o + Log + ist
+  sum: Lepide + o + Pter + ist
 - respelling: lepidopterists
-  sum: Lepide + o + Pter + o + Log + ist + s
+  sum: Lepide + o + Pter + ist + s
 - respelling: lepidoptery
   sum: Lepide + o + Pter + y
 - respelling: macropteran
