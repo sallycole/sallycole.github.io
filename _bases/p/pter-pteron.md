@@ -1,6 +1,6 @@
 ---
 category: 4-letters
-denotation: wing
+denotation: feather, wing
 name: pter
 root_language: Greek
 root_name: pteron
@@ -372,4 +372,5 @@ word_sums:
   sum: Trich + o + Pter + yg + id
 - respelling: trichopterygids
   sum: Trich + o + Pter + yg + id + s
+word_matrix: /assets/p/pter-pteron.png
 ---
