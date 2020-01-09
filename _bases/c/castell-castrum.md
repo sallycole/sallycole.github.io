@@ -1,6 +1,6 @@
 ---
 category: 7-letters
-denotation: small fort
+denotation: small fortification
 name: castell
 root_language: Latin
 root_name: castrum
@@ -49,6 +49,7 @@ word_sums:
   sum: in + Castell + ate + ed
 - respelling: incastellates
   sum: in + Castell + ate + s
+word_matrix: /assets/c/castell-castrum.png
 related_bases:
 - name: castle
   url: /bases/6-letters/castle-castrum/

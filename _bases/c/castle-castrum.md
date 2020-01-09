@@ -1,6 +1,6 @@
 ---
 category: 5-letters
-denotation: fort
+denotation: fortification
 name: castle
 root_language: Latin
 root_name: castrum
@@ -32,6 +32,7 @@ word_sums:
   sum: Castle + ing
 - respelling: castles
   sum: Castle + s
+word_matrix: /assets/c/castle-castrum.png
 related_bases:
 - name: castell
   url: /bases/7-letters/castell-castrum/
