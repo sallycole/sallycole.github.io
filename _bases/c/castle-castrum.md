@@ -1,5 +1,5 @@
 ---
-category: 5-letters
+category: 6-letters
 denotation: fortification
 name: castle
 root_language: Latin
