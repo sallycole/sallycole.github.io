@@ -36,7 +36,8 @@ word_matrix: /assets/c/castle-castrum.png
 related_bases:
 - name: castell
   url: /bases/7-letters/castell-castrum/
-other_relatives:
 - name: chateau
+  url: /bases/7-letters/chateau-castrum/
+other_relatives:
 - name: chatelaine
 ---
