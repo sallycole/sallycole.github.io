@@ -65,6 +65,5 @@ other_relatives:
 - name: peninsula
 - name: insulinemic
 - name: isolated
-- name: isle
 - name: peninsular
 ---
