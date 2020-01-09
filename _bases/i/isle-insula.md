@@ -2,7 +2,6 @@
 category: 4-letters
 denotation: island
 name: isle
-reference_link: https://www.etymonline.com/word/isle
 root_language: Latin
 root_name: insula
 title: isle
@@ -34,6 +33,7 @@ word_sums:
   sum: Isle + ing
 - respelling: isleless
   sum: Isle + less
+word_matrix: /assets/i/isle-insula.png
 related_bases:
 - name: insule
   url: /bases/6-letters/insule-insula/
