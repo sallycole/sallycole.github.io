@@ -359,6 +359,7 @@ word_sums:
   sum: Struct + ure + ing
 - respelling: structure
   sum: Struct + ure
+word_matrix: /assets/s/struct-struere.png
 other_relatives:
 - name: construe
 - name: destroy
