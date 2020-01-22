@@ -42,10 +42,4 @@ word_sums:
   sum: en + Able + er
 - respelling: enablers
   sum: en + Able + er + s
-- respelling: adduceable
-  sum: ad + Duce + Able
-- respelling: produceable
-  sum: pro + Duce + Able
-word-matrix: /assets/a/able-habere.png
-
 ---
