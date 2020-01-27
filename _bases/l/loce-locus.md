@@ -9,6 +9,10 @@ type: bound
 etymonline_root_search_link: https://www.etymonline.com/search?q=locus
 wiktionary_root_link: https://en.wiktionary.org/wiki/locus#Latin
 word_sums:
+- respelling: locomotiveness
+  sum: Loce + o + Mote + ive + ness
+- respelling: locomotively
+  sum: Loce + o + Mote + ive + ly
 - respelling: loculed
   sum: Loce + ule + ed
 - respelling: loculi

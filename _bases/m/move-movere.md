@@ -2,11 +2,14 @@
 category: 4-letters
 denotation: move, set in motion; remove; disturb
 name: move
-reference_link: https://www.etymonline.com/word/move
 root_language: Latin
 root_name: moveo, movere, movi, motum
 title: move
 type: free
+etymonline_root_search_link: https://www.etymonline.com/search?q=movere
+etymonline_base_link: https://www.etymonline.com/word/move
+wiktionary_base_link: https://en.wiktionary.org/wiki/move
+wiktionary_root_link: https://en.wiktionary.org/wiki/moveo#Latin
 word_sums:
 - respelling: amove
   sum: a + Move
@@ -66,4 +69,14 @@ word_sums:
   sum: re + Move + able
 - respelling: removably
   sum: re + Move + able + y
+related_bases:
+- name: mote
+  url: /bases/4-letters/mote-movere/
+other_relatives:
+- name: motif
+- name: move
+- name: mutiny
+- name: mobile
+- name: moment
+- name: emote
 ---
