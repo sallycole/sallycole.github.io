@@ -1,6 +1,6 @@
 ---
 category: 4-letters
-denotation: speak, say, indicate
+denotation: speak, say
 name: dict
 root_language: Latin
 root_name: dico, dicere, dixi, dictum
