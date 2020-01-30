@@ -193,6 +193,7 @@ word_sums:
   sum: Dict + ion + ary + es
 - respelling: dictionary
   sum: Dict + ion + ary
+word_matrix: /assets/d/dict-dicere.png
 related_bases:
 - name: judice
   url: /bases/6-letters/judice-iudex/
