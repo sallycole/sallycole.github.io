@@ -139,7 +139,7 @@ word_sums:
   sum: Prin + Cip(e) + le
 related_bases:
 - name: ceive
-  url: /bases/5-letters/ceive-capere/
+  url: /bases/5-letters/ceive-cipere/
 - name: cept
   url: /bases/4-letters/cept-capere/
 - name: capt
