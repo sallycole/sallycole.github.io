@@ -3,7 +3,7 @@ category: 4-letters
 denotation: take, take part
 name: cipe
 root_language: Latin
-root_name: -cipere, combining form of capere (capio, capere, cepi, captum)
+root_name: -cipere (-cipio, -cipere, -cepi, -ceptum), combining form of capere (capio, capere, cepi, captum)
 title: cipe
 type: bound
 etymonline_root_search_link: https://www.etymonline.com/search?q=capere
@@ -141,7 +141,7 @@ related_bases:
 - name: ceive
   url: /bases/5-letters/ceive-cipere/
 - name: cept
-  url: /bases/4-letters/cept-capere/
+  url: /bases/4-letters/cept-cipere/
 - name: capt
   url: /bases/4-letters/capt-capere/
 - name: cape
