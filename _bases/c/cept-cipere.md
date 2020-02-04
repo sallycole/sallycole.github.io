@@ -309,7 +309,7 @@ related_bases:
 - name: cipe
   url: /bases/4-letters/cipe-cipere/
 - name: ceive
-  url: /bases/5-letters/ceeive-cipere/
+  url: /bases/5-letters/ceive-cipere/
 - name: capt
   url: /bases/4-letters/capt-capere/
 - name: cape
@@ -321,6 +321,8 @@ related_bases:
 - name: prince
   url: /bases/6-letters/prince-principal/
 other_relatives:
+- name: cassette
+- name: capias
 - name: capstan
 - name: capiche
 - name: chase

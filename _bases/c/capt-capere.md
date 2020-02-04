@@ -105,6 +105,8 @@ related_bases:
 - name: prince
   url: /bases/6-letters/prince-principal/
 other_relatives:
+- name: cassette
+- name: capias
 - name: capstan
 - name: capiche
 - name: chase
