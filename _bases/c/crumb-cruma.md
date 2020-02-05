@@ -41,6 +41,7 @@ word_sums:
   sum: Crumb + y
 - respelling: crumble
   sum: Crumb + le
+word_matrix: /assets/c/crumb-cruma.png
 other_relatives:
 - name: crummy
 ---
