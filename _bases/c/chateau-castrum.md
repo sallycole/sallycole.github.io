@@ -12,7 +12,7 @@ wiktionary_root_link: https://en.wiktionary.org/wiki/castrum#Latin
 word_sums:
 - respelling: chateaux
   sum: Chateau + x
-- respelling: chateaux
+- respelling: chateaus
   sum: Chateau + s
 word_matrix: /assets/c/chateau-castrum.png
 related_bases:
