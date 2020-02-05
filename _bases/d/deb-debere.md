@@ -9,6 +9,12 @@ type: bound
 etymonline_root_search_link: https://www.etymonline.com/search?q=debere
 wiktionary_root_link: https://en.wiktionary.org/wiki/debeo#Latin
 word_sums:
+- respelling: debentured
+  sum: Deb + ent + ure + ed
+- respelling: debentures
+  sum: Deb + ent + ure + s
+- respelling: debenture
+  sum: Deb + ent + ure
 - respelling: debitors
   sum: Deb + it + or + s
 - respelling: debitor
