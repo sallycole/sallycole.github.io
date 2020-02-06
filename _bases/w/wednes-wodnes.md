@@ -9,7 +9,7 @@ type: bound
 etymonline_root_search_link: https://www.etymonline.com/search?q=wodnesd%C3%A6g
 wiktionary_root_link: https://en.wiktionary.org/wiki/wodnes#Old_English
 word_sums:
-- respelling: WednesField
+- respelling: Wednesfield
   sum: Wednes + Field
 - respelling: Wednesbury
   sum: Wednes + Bury
