@@ -93,4 +93,5 @@ word_sums:
   sum: Web + y
 - respelling: webs
   sum: Web + s
+word_matrix: /assets/w/web-webb.png
 ---
