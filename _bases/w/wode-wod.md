@@ -13,9 +13,13 @@ word_sums:
   sum: Wode + est
 - respelling: woder
   sum: Wode + er
+word_matrix: /assets/w/wode-wod.png
 related_bases:
 - name: wednes
   url: /bases/6-letters/wednes-wodnes/
 - name: wood
   url: /bases/4-letters/wood-wod/
+other_relatives:
+- name: Woden
+- name: Odin
 ---
