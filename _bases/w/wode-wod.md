@@ -18,7 +18,4 @@ related_bases:
   url: /bases/6-letters/wednes-wodnes/
 - name: wood
   url: /bases/4-letters/wood-wod/
-other_relatives:
-- name: Woden
-- name: Odin
 ---
