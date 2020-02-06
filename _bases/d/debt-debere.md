@@ -11,6 +11,18 @@ etymonline_base_link: https://www.etymonline.com/word/debt
 wiktionary_base_link: https://en.wiktionary.org/wiki/debt
 wiktionary_root_link: https://en.wiktionary.org/wiki/debeo#Latin
 word_sums:
+- respelling: debtholders
+  sum: Debt + Hold + er + s
+- respelling: debtholder
+  sum: Debt + Hold + er
+- respelling: debtees
+  sum: Debt + ee + s
+- respelling: debtee
+  sum: Debt + ee
+- respelling: indebtednesses
+  sum: in + Debt + ed + ness + es
+- respelling: indebtedness
+  sum: in + Debt + ed + ness
 - respelling: indebted
   sum: in + Debt + ed
 - respelling: debtless
