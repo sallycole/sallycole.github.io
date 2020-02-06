@@ -33,6 +33,7 @@ word_sums:
   sum: Debt + s
 - respelling: debtor
   sum: Debt + or
+word_matrix: /assets/d/debt-debere.png
 related_bases:
 - name: deb
   url: /bases/3-letters/deb-debere/

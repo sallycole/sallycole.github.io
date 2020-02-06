@@ -27,6 +27,7 @@ word_sums:
   sum: Deb + it + ing
 - respelling: debit
   sum: Deb + it
+word_matrix: /assets/d/deb-debere.png
 related_bases:
 - name: debt
   url: /bases/4-letters/debt-debere/
