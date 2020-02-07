@@ -1,6 +1,6 @@
 ---
 category: 3-letters
-denotation: moist, soft earth
+denotation: moist earth
 name: mud
 root_language: Middle English
 root_name: mudde
@@ -130,4 +130,5 @@ word_sums:
   sum: Mud + s
 - respelling: muds
   sum: Mud + s
+word_matrix: /assets/m/mud-mudde.png
 ---

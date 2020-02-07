@@ -10,6 +10,14 @@ etymonline_root_search_link: https://www.etymonline.com/search?q=moddelen
 etymonline_base_link: https://www.etymonline.com/word/muddle
 wiktionary_base_link: https://en.wiktionary.org/wiki/muddle#English
 word_sums:
+- respelling: remuddled
+  sum: re + Muddle + ed
+- respelling: remuddling
+  sum: re + Muddle + ing
+- respelling: remuddles
+  sum: re + Muddle + s
+- respelling: remuddle
+  sum: re + Muddle
 - respelling: muddleheadedly
   sum: Muddle + Head + ed + ly
 - respelling: muddleheaded
