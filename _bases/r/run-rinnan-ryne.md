@@ -1,13 +1,13 @@
 ---
 category: 3-letters
-denotation: run, flow, run together; ride, run to, reach, gain by running; a flowing, a course, a watercourse
+denotation: run, flow; course
 name: run
 root_language: Old English
-root_name: rinnan, irnan; ærnan, earnan; ryne
+root_name: rinnan, ryne
 title: run
 type: free
-etymonline_root_search_link: https://www.etymonline.com/search?q=rinnan
-etymonline_base_link: https://www.etymonline.com/search?q=run
+etymonline_root_search_link: https://www.etymonline.com/word/run
+etymonline_base_link: https://www.etymonline.com/search?q=rinnan
 wiktionary_base_link: https://en.wiktionary.org/wiki/run#English
 wiktionary_root_link: https://en.wiktionary.org/wiki/rinnan#Old_English
 word_sums:
@@ -90,11 +90,11 @@ word_sums:
 - respelling: rerunning
   sum: re + Run + ing
 - respelling: overrun
-  sum: over + Run
+  sum: Over + Run
 - respelling: overruns
-  sum: over + Run + s
+  sum: Over + Run + s
 - respelling: overrunning
-  sum: over + Run + ing
+  sum: Over + Run + ing
 - respelling: gunrunner
   sum: Gun + Run + er
 - respelling: gunrunners
@@ -157,6 +157,8 @@ word_sums:
   sum: Run + a + Round
 - respelling: runarounds
   sum: Run + a + Round + s
-other_relatives:
+word_matrix: /assets/letter/run-rinnan-ryne.png
+related_bases:
 - name: ran
+  url: /bases/r/ran-rinnan/
 ---
