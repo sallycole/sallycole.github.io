@@ -63,6 +63,7 @@ word_sums:
   sum: ac + Quire + s
 - respelling: acquire
   sum: ac + Quire
+word_matrix: /assets/q/quire-quaerere.png
 related_bases:
 - name: quest
   url: /bases/q/quest-quaerere/

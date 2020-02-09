@@ -49,6 +49,7 @@ word_sums:
   sum: Quest + ing
 - respelling: quests
   sum: Quest + s
+word_matrix: /assets/q/quest-quaerere.png
 related_bases:
 - name: quire
   url: /bases/q/quire-quaerere/
