@@ -21,9 +21,8 @@ word_sums:
   sum: Over + Ran
 - respelling: foreran
   sum: fore + Ran
+word_matrix: /assets/r/ran-rinnan.png
 related_bases:
 - name: run
   url: /bases/r/run-rinnan-ryne/
-other_relatives:
-- name: ran
 ---

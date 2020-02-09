@@ -157,7 +157,7 @@ word_sums:
   sum: Run + a + Round
 - respelling: runarounds
   sum: Run + a + Round + s
-word_matrix: /assets/letter/run-rinnan-ryne.png
+word_matrix: /assets/r/run-rinnan-ryne.png
 related_bases:
 - name: ran
   url: /bases/r/ran-rinnan/
