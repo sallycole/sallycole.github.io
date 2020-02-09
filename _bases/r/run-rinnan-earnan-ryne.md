@@ -1,9 +1,9 @@
 ---
 category: 3-letters
-denotation: run, flow, run together
+denotation: run, flow, run together; ride, run to, reach, gain by running; a flowing, a course, a watercourse
 name: run
 root_language: Old English
-root_name: rinnan, irnan, rynel; ærnan, earnan
+root_name: rinnan, irnan; ærnan, earnan; ryne
 title: run
 type: free
 etymonline_root_search_link: https://www.etymonline.com/search?q=rinnan
