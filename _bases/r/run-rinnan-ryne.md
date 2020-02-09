@@ -6,8 +6,8 @@ root_language: Old English
 root_name: rinnan, ryne
 title: run
 type: free
-etymonline_root_search_link: https://www.etymonline.com/word/run
-etymonline_base_link: https://www.etymonline.com/search?q=rinnan
+etymonline_root_search_link: https://www.etymonline.com/search?q=rinnan
+etymonline_base_link: https://www.etymonline.com/word/run
 wiktionary_base_link: https://en.wiktionary.org/wiki/run#English
 wiktionary_root_link: https://en.wiktionary.org/wiki/rinnan#Old_English
 word_sums:
