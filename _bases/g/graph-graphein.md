@@ -222,7 +222,7 @@ word_sums:
 - respelling: serigrapher
   sum: Seri + Graph + er
 - respelling: serigraphies
-  sum: Seri + Graph + y + s
+  sum: Seri + Graph + y + es
 - respelling: serigraphy
   sum: Seri + Graph + y
 - respelling: serigraphs
@@ -480,11 +480,11 @@ word_sums:
 - respelling: cardiography
   sum: Card + y + o + Graph + y
 - respelling: electrocardiographically
-  sum: Electr + o + Cardi + o + Graph + ic + al + ly
+  sum: Electr + o + Card + y + o + Graph + ic + al + ly
 - respelling: electrocardiography
   sum: Electr + o + Card + y + o + Graph + y
 - respelling: electrocardiographic
-  sum: Electr + o + Card + y + + Graph + ic
+  sum: Electr + o + Card + y + o + Graph + ic
 - respelling: electrocardiographs
   sum: Electr + o + Card + y + o + Graph + s
 - respelling: electrocardiograph
@@ -1430,7 +1430,7 @@ word_sums:
 - respelling: biograph
   sum: Bi + o + Graph
 - respelling: oroheliographs
-  sum: Or + o + Heli + o + Graphs
+  sum: Or + o + Heli + o + Graph + s
 - respelling: oroheliograph
   sum: Or + o + Heli + o + Graph
 - respelling: orographs
