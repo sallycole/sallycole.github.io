@@ -9,7 +9,7 @@ title: cycle
 type: free
 word_sums:
 - respelling: epicycle
-  sum: ep + i + Cycle
+  sum: epi + Cycle
 - respelling: unicycle
   sum: uni + Cycle
 - respelling: bicycle

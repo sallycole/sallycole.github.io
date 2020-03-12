@@ -239,7 +239,7 @@ word_sums:
 - respelling: paygrades
   sum: Pay + Grade + s
 - respelling: photodegradable
-  sum: Phot + o + de + Grade + able
+  sum: Phote + o + de + Grade + able
 - respelling: prograde
   sum: pro + Grade
 - respelling: progradation

@@ -551,9 +551,9 @@ word_sums:
 - respelling: extraditable
   sum: ex + tra + D + ite + able
 - respelling: deodand
-  sum: De + o + D + a + nd
+  sum: De + o + D + and
 - respelling: deodands
-  sum: De + o + D + a + nd + s
+  sum: De + o + D + and + s
 - respelling: perdition
   sum: per + D + it + ion
 - respelling: perditions

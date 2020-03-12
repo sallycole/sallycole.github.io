@@ -66,9 +66,9 @@ word_sums:
 - respelling: conceptional
   sum: con + Cept + ion + al
 - respelling: conceptacles
-  sum: con + Cept + a + cle + s
+  sum: con + Cept + ac + le + s
 - respelling: conceptacle
-  sum: con + Cept + a + cle
+  sum: con + Cept + ac + le
 - respelling: conceptions
   sum: con + Cept + ion + s
 - respelling: conceptuses

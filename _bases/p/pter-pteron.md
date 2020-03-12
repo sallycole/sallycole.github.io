@@ -77,9 +77,9 @@ word_sums:
 - respelling: pterygiate
   sum: Pter + yg + i + ate
 - respelling: epipterygoid
-  sum: ep + i + Pter + yg + oid
+  sum: epi + Pter + yg + oid
 - respelling: epipterygoids
-  sum: ep + i + Pter + yg + oid + s
+  sum: epi + Pter + yg + oid + s
 - respelling: interpterygoid
   sum: inter + Pter + yg + oid
 - respelling: palatopterygoid
@@ -283,9 +283,9 @@ word_sums:
 - respelling: lepidoptery
   sum: Lepide + o + Pter + y
 - respelling: macropteran
-  sum: macr + o + Pter + an
+  sum: Macr + o + Pter + an
 - respelling: macropterous
-  sum: macr + o + Pter + ous
+  sum: Macr + o + Pter + ous
 - respelling: neuropter
   sum: Neur + o + Pter
 - respelling: neuropters

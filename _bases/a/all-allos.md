@@ -11,7 +11,7 @@ word_sums:
 - respelling: allergy
   sum: All + Erg + y
 - respelling: allonym
-  sum: All + o + Nym
+  sum: All + Onym
 - respelling: allogenic
   sum: All + o + Gene + ic
 - respelling: allotropy

@@ -27,11 +27,11 @@ word_sums:
 - respelling: dissimilitude
   sum: dis + Sim + il + it + ude
 - respelling: simulacra
-  sum: Sim + ul + a + cr + a
+  sum: Sim + ul + Acr + a
 - respelling: simulacrum
-  sum: Sim + ul + a + cr + um
+  sum: Sim + ul + Acr + um
 - respelling: simulacrums
-  sum: Sim + ul + a + cr + um + s
+  sum: Sim + ul + Acr + um + s
 - respelling: simular
   sum: Sim + ul + ar
 - respelling: simulate
