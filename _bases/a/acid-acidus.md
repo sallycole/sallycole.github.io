@@ -33,13 +33,13 @@ word_sums:
 - respelling: biacid
   sum: bi + Acid
 - respelling: acidify
-  sum: Acid + i + fy
+  sum: Acid + i + Fy
 - respelling: acidification
-  sum: Acid + i + fication
+  sum: Acid + i + Fice + ate + ion
 - respelling: deacidify
-  sum: de + Acid + i + fy
+  sum: de + Acid + i + Fy
 - respelling: acidification
-  sum: de + Acid + i + fication
+  sum: de + Acid + i + Fice + ate + ion
 - respelling: acidosis
   sum: Acid + osis
 - respelling: acidemia

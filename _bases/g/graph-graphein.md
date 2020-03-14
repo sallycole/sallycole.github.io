@@ -30,17 +30,17 @@ word_sums:
 - respelling: ultrasonography
   sum: ultra + Sone + o + Graph + y
 - respelling: biostratigraphers
-  sum: Bi + o + Strate + y + Graph + er + s
+  sum: Bi + o + Strate + i + Graph + er + s
 - respelling: biostratigrapher
-  sum: Bi + o + Strate + y + Graph + er
+  sum: Bi + o + Strate + i + Graph + er
 - respelling: biostratigraphically
-  sum: Bi + o + Strate + y + Graph + ic + al + ly
+  sum: Bi + o + Strate + i + Graph + ic + al + ly
 - respelling: biostratigraphical
-  sum: Bi + o + Strate + y + Graph + ic + al
+  sum: Bi + o + Strate + i + Graph + ic + al
 - respelling: biostratigraphic
-  sum: Bi + o + Strate + y + Graph + ic
+  sum: Bi + o + Strate + i + Graph + ic
 - respelling: biostratigraphy
-  sum: Bi + o + Strate + y + Graph + y
+  sum: Bi + o + Strate + i + Graph + y
 - respelling: encephalographically
   sum: en + Cephale + o + Graph + ic + al + ly
 - respelling: encephalographic
@@ -328,23 +328,23 @@ word_sums:
 - respelling: supergraphic
   sum: Super + Graph + ic
 - respelling: stratigraphists
-  sum: Strate + y + Graph + ist + s
+  sum: Strate + i + Graph + ist + s
 - respelling: stratigraphist
-  sum: Strate + y + Graph + ist
+  sum: Strate + i + Graph + ist
 - respelling: stratigraphically
-  sum: Strate + y + Graph + ic + al + ly
+  sum: Strate + i + Graph + ic + al + ly
 - respelling: stratigraphical
-  sum: Strate + y + Graph + ic + al
+  sum: Strate + i + Graph + ic + al
 - respelling: stratigraphic
-  sum: Strate + y + Graph + ic
+  sum: Strate + i + Graph + ic
 - respelling: stratigraphers
-  sum: Strate + y + Graph + er + s
+  sum: Strate + i + Graph + er + s
 - respelling: stratigrapher
-  sum: Strate + y + Graph + er
+  sum: Strate + i + Graph + er
 - respelling: stratigraphies
-  sum: Strate + y + Graph + y + es
+  sum: Strate + i + Graph + y + es
 - respelling: stratigraphy
-  sum: Strate + y + Graph + y
+  sum: Strate + i + Graph + y
 - respelling: thermographically
   sum: Therm + o + Graph + ic + al + ly
 - respelling: thermographic
@@ -444,19 +444,19 @@ word_sums:
 - respelling: lymphography
   sum: Lymph + o + Graph + y
 - respelling: bibliographically
-  sum: Bible + y + o + Graph + ic + al + ly
+  sum: Bible + i + o + Graph + ic + al + ly
 - respelling: bibliographical
-  sum: Bible + y + o + Graph + ic + al
+  sum: Bible + i + o + Graph + ic + al
 - respelling: bibliographies
-  sum: Bible + y + o + Graph + y + es
+  sum: Bible + i + o + Graph + y + es
 - respelling: bibliographers
-  sum: Bible + y + o + Graph + er + s
+  sum: Bible + i + o + Graph + er + s
 - respelling: bibliographer
-  sum: Bible + y + o + Graph + er
+  sum: Bible + i + o + Graph + er
 - respelling: bibliographic
-  sum: Bible + y + o + Graph + ic
+  sum: Bible + i + o + Graph + ic
 - respelling: bibliography
-  sum: Bible + y + o + Graph + y
+  sum: Bible + i + o + Graph + y
 - respelling: cacographical
   sum: Cac + o + Graph + ic + al
 - respelling: cacographies
@@ -470,29 +470,29 @@ word_sums:
 - respelling: cacography
   sum: Cac + o + Graph + y
 - respelling: cardiographic
-  sum: Card + y + o + Graph + ic
+  sum: Card + i + o + Graph + ic
 - respelling: cardiographists
-  sum: Card + y + o + Graph + ist + s
+  sum: Card + i + o + Graph + ist + s
 - respelling: cardiographist
-  sum: Card + y + o + Graph + ist
+  sum: Card + i + o + Graph + ist
 - respelling: cardiographies
-  sum: Card + y + o + Graph + y + es
+  sum: Card + i + o + Graph + y + es
 - respelling: cardiography
-  sum: Card + y + o + Graph + y
+  sum: Card + i + o + Graph + y
 - respelling: electrocardiographically
-  sum: Electr + o + Card + y + o + Graph + ic + al + ly
+  sum: Electr + o + Card + i + o + Graph + ic + al + ly
 - respelling: electrocardiography
-  sum: Electr + o + Card + y + o + Graph + y
+  sum: Electr + o + Card + i + o + Graph + y
 - respelling: electrocardiographic
-  sum: Electr + o + Card + y + o + Graph + ic
+  sum: Electr + o + Card + i + o + Graph + ic
 - respelling: electrocardiographs
-  sum: Electr + o + Card + y + o + Graph + s
+  sum: Electr + o + Card + i + o + Graph + s
 - respelling: electrocardiograph
-  sum: Electr + o + Card + y + o + Graph
+  sum: Electr + o + Card + i + o + Graph
 - respelling: cardiographs
-  sum: Card + y + o + Graph + s
+  sum: Card + i + o + Graph + s
 - respelling: cardiograph
-  sum: Card + y + o + Graph
+  sum: Card + i + o + Graph
 - respelling: autofluorography
   sum: Aut + o + Flu + or + o + Graph + y
 - respelling: cinefluorographically
