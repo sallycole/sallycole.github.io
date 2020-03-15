@@ -1787,6 +1787,7 @@ word_sums:
   sum: Graph + ic + al
 - respelling: graphic
   sum: Graph + ic
+word_matrix: /assets/g/graph-graphein.png
 other_relatives:
 - name: reprography
 - name: reprographies
