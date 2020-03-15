@@ -226,7 +226,7 @@ word_sums:
 - respelling: serigraphy
   sum: Seri + Graph + y
 - respelling: serigraphs
-  sum: Seri + Graphs
+  sum: Seri + Graph + s
 - respelling: serigraph
   sum: Seri + Graph
 - respelling: radiochromatography
