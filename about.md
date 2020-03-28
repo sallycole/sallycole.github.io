@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hello and welcome to [swi.storyhouracademy.com](https://swi.storyhouracademy.com).
+Hello and welcome to [wordsums.info](https://wordsums.info).
 
 This is an open source project designed to collect word sums for all free and bound bases in Present-Day English.
 
@@ -123,7 +123,7 @@ If you've made a .md file and are not yet familiar enough with GitHub to check i
 
 You can create a word matrix out of any group of word sums that you copy from this site. Just follow these steps.
 
-1. Browse or search for a morphological base at [swi.storyhouracademy.com](https://swi.storyhouracademy.com).
+1. Browse or search for a morphological base at [wordsums.info](https://wordsums.info).
 2. Open the page for a base that interests you.
 2. On the base's page, copy the bulleted list of word sums.
 3. In another browser window, go to [Neil Ramsden's Mini Matrix-Maker](http://www.neilramsden.co.uk/spelling/matrix/temp/index.html).
