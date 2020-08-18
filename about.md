@@ -77,7 +77,7 @@ When you make a new .md file, mimic the format below while replacing the data va
 
 ```YAML
 ---
-name: vide
+category: 4-letters
 title: vide
 type: free
 reference_link: https://www.etymonline.com/word/vide#etymonline_v_7775
