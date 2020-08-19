@@ -1,8 +1,8 @@
 ---
-category: 3-letters
 name: dim
 title: dim
 type: free
+category: 3-letters
 root_name: dimm
 root_language: Old English
 denotation: dark, gloomy, obscure; not clearly seen, indistinct

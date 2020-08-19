@@ -1,8 +1,8 @@
 ---
-category: 3-letters
 name: two
 title: two
 type: free
+category: 3-letters
 root_name: twa, neuter of twegen
 root_language: Old English
 denotation: two
