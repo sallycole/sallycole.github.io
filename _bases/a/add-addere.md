@@ -7,7 +7,7 @@ root_language: Latin
 root_name: addere from ad + dare (do, dare, dedi, datus)
 title: add
 type: stem
-note: <span>&LT;add&GT; is typically treated as a free base element, but it can arguably be analyzed into &LT;ad&GT; + &LT;<a href="/bases/1-letter/d-dare/">D</a>&GT;, where &LT;D&GT; is the base element.</span>
+note: <span>&LT;add&GT; is typically treated as a free base element, but it can arguably be analyzed into &LT;ad&GT; + &LT;<a href="/bases/1-letter/d-dere-dare-do/">D</a>&GT;, where &LT;D&GT; is the base element.</span>
 word_sums:
 - respelling: add
   sum: ad + D
