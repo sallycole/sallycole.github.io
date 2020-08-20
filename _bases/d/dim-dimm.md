@@ -1,11 +1,11 @@
 ---
+category: 3-letters
+denotation: dark, gloomy, obscure; not clearly seen, indistinct
 name: dim
 title: dim
 type: free
-category: 3-letters
 root_name: dimm
 root_language: Old English
-denotation: dark, gloomy, obscure; not clearly seen, indistinct
 etymonline_root_search_link: https://www.etymonline.com/search?q=dimm
 etymonline_base_link: https://www.etymonline.com/word/dim
 wiktionary_base_link: https://en.wiktionary.org/wiki/dim
