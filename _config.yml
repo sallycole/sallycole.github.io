@@ -34,7 +34,7 @@ plugins:
 collections:
   bases:
     output: true
-    permalink: /bases/:categories/:name/
+    permalink: /bases/:categories/:name-:root_name/
 
 defaults:
   - scope:
