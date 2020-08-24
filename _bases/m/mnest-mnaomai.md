@@ -1,13 +1,14 @@
 ---
 category: 5-letters
-denotation: memory, remembrance
+denotation: to remember
 name: mnest
 title: mnest
 type: bound
-root_name: mnestis, mnaomai
+root_name: mnaomai
 root_language: Ancient Greek
-etymonline_root_search_link: https://www.etymonline.com/search?q=mnestis
-wiktionary_root_link: https://en.wiktionary.org/wiki/%E1%BC%80%CE%BC%CE%BD%CE%B7%CF%83%CF%84%CE%AF%CE%B1#Ancient_Greek
+etymonline_root_search_link: https://www.etymonline.com/search?q=mnaomai
+wiktionary_root_link: https://en.wiktionary.org/wiki/%CE%BC%CE%BD%CE%AC%CE%BF%CE%BC%CE%B1%CE%B9#Ancient_Greek
+notes: <span>The root listed here is from Greek <i>mnestis</i> and ultimately from Greek <i>mnaomai</i>. Thus <i>mnaomai</i> is the oldest attested root for this word. This root is written in Greek as μνάομαι.</span>
 word_sums:
 - respelling: mnestic
   sum: Mnest + ic

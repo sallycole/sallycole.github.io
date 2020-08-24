@@ -1,13 +1,14 @@
 ---
 category: 5-letters
-denotation: remembering, to recall, remember
+denotation: to remember
 name: mnese
 title: mnese
 type: bound
-root_name: mnesi, mnasthai
+root_name: mnaomai
 root_language: Ancient Greek
-etymonline_root_search_link: https://www.etymonline.com/search?q=mnasthai
+etymonline_root_search_link: https://www.etymonline.com/search?q=mnesi
 wiktionary_root_link: https://en.wiktionary.org/wiki/%CE%BC%CE%BD%CE%AC%CE%BF%CE%BC%CE%B1%CE%B9#Ancient_Greek
+notes: <span>The root listed here is from Greek <mnesi>, from Greek <i>mnasthai</i>, which according to Wiktionary is the present mediopassive infinitive of <i>mnaomai</i>. Thus <i>mnaomai</i> is the oldest attested root for this word. This root is written in Greek as μνάομαι.</span>
 word_sums:
 - respelling: amnesic
   sum: a + Mnese + ic
