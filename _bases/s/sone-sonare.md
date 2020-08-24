@@ -91,8 +91,14 @@ word_sums:
   sum: Sone + or + ous
 - respelling: dissonance
   sum: dis + Sone + ance
+- respelling: sonances
+  sum: Sone + ance + s
 - respelling: sonance
   sum: Sone + ance
+- respelling: sonantal
+  sum: Sone + ant + al
+- respelling: sonantic
+  sum: Sone + ant + ic
 - respelling: sonants
   sum: Sone + ant + s
 - respelling: sonant
