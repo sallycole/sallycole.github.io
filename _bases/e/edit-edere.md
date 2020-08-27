@@ -7,7 +7,7 @@ root_language: Latin
 root_name: edere from ex + dere the combining form of dare (do, dare, dedi, datus)
 title: edit
 type: stem
-note: <span>&LT;edit&GT; is typically treated as a free base element, but it can arguably be analyzed into &LT;e&GT; + &LT;<a href="https://swi.storyhouracademy.com/bases/1-letter/d-dare/">D</a>&GT; + &LT;it&GT;, where &LT;D&GT; is the base element.</span>
+note: <span>&LT;edit&GT; is typically treated as a free base element, but it can arguably be analyzed into &LT;e&GT; + &LT;<a href="https://wordsums.info/bases/1-letter/d-dere-dare-do/">D</a>&GT; + &LT;it&GT;, where &LT;D&GT; is the base element.</span>
 word_sums:
 - respelling: edit
   sum: e + D + it

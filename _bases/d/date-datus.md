@@ -7,7 +7,7 @@ root_language: Latin
 root_name: datus (do, dare, dedi, datus)
 title: date
 type: stem
-note: <span>&LT;date&GT; is typically treated as a free base element, but it can arguably be analyzed into &LT;<a href="https://swi.storyhouracademy.com/bases/1-letter/d-dare/">D</a>&GT; + ate, where &LT;D&GT; is the base element.</span>
+note: <span>&LT;date&GT; is typically treated as a free base element, but it can arguably be analyzed into &LT;<a href="https://wordsums.info/bases/1-letter/d-dere-dare-do/">D</a>&GT; + ate, where &LT;D&GT; is the base element.</span>
 word_sums:
 - respelling: date
   sum: D + ate

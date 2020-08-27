@@ -7,7 +7,7 @@ root_language: Latin
 root_name: reddere from red + dere the combining form of dare (do, dare, dedi, datus)
 title: edit
 type: stem
-note: <span>&LT;rend&GT; works like a bound base element, but it can arguably be analyzed into &LT;ren&GT; + &LT;<a href="https://swi.storyhouracademy.com/bases/1-letter/d-dare/">D</a>&GT;, where &LT;D&GT; is the base element.</span>
+note: <span>&LT;rend&GT; works like a bound base element, but it can arguably be analyzed into &LT;ren&GT; + &LT;<a href="https://wordsums.info/bases/1-letter/d-dere-dare-do/">D</a>&GT;, where &LT;D&GT; is the base element.</span>
 word_sums:
 - respelling: rendition
   sum: ren + D + ite + ion

@@ -11,7 +11,7 @@ etymonline_base_link: https://www.etymonline.com/word/thorax
 wiktionary_base_link: https://en.wiktionary.org/wiki/thorax
 relatives:
 - name: thorace
-  url: https://swi.storyhouracademy.com/bases/6-letters/thorace-thorax/
+  url: https://wordsums.info/bases/6-letters/thorace-thorax/
 word_sums:
 - respelling: prothorax
   sum: pro + Thorax

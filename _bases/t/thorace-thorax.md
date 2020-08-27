@@ -9,7 +9,7 @@ type: bound
 etymonline_root_search_link: https://www.etymonline.com/search?q=thorax
 relatives:
 - name: thorax
-  internal_url: https://swi.storyhouracademy.com/bases/6-letters/thorax-thorax/
+  internal_url: https://wordsums.info/bases/6-letters/thorax-thorax/
 word_sums:
 - respelling: thoracically
   sum: Thorace + ic + al + ly

@@ -7,7 +7,7 @@ root_language: Late Latin
 root_name: solidus
 title: sold
 type: bound
-note: <span>This bound base, &LT;sold&GT;, is related to the free base &LT;<a href="https://swi.storyhouracademy.com/bases/5-letters/solid-solidus/">solid</a>&GT;.</span>
+note: <span>This bound base, &LT;sold&GT;, is related to the free base &LT;<a href="https://wordsums.info/bases/5-letters/solid-solidus/">solid</a>&GT;.</span>
 word_sums:
 - respelling: soldo
   sum: Sold + o

@@ -7,7 +7,7 @@ root_language: Latin
 root_name: duco, ducere, duxi, ductus
 title: duce
 type: free
-note: <span>The base &LT;duce&GT; is related to the base &LT;<a href="https://swi.storyhouracademy.com/bases/4-letters/duct-ducere/">duct</a>&GT;.</span>
+note: <span>The base &LT;duce&GT; is related to the base &LT;<a href="https://wordsums.info/bases/4-letters/duct-ducere/">duct</a>&GT;.</span>
 word_sums:
 - respelling: reeducative
   sum: re + e + Duce + ate + ive
