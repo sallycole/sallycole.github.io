@@ -8,7 +8,7 @@ root_name: mnaomai
 root_language: Ancient Greek
 etymonline_root_search_link: https://www.etymonline.com/search?q=mnaomai
 wiktionary_root_link: https://en.wiktionary.org/wiki/%CE%BC%CE%BD%CE%AC%CE%BF%CE%BC%CE%B1%CE%B9#Ancient_Greek
-notes: <span>The Greek root <i>mnaomai</i>, which is written in Greek as μνάομαι, is the oldest attested root for all the words in this word matrix. For example, the root for &LT;amnesty&GT; is from Greek <i>mnestis</i> and ultimately from Greek <i>mnaomai</i>. The roots for &LT;mnemonic&GT; and &LT;amnesia&GT; trace back to Greek <i>mnasthai</i>, which according to Wiktionary is the present mediopassive infinitive of <i>mnaomai</i>.</span>
+note: <span>The Greek root <i>mnaomai</i>, which is written in Greek as μνάομαι, is the oldest attested root for all the words in this word matrix. For example, the root for &LT;amnesty&GT; is from Greek <i>mnestis</i> and ultimately from Greek <i>mnaomai</i>. The roots for &LT;mnemonic&GT; and &LT;amnesia&GT; trace back to Greek <i>mnasthai</i>, which according to Wiktionary is the present mediopassive infinitive of <i>mnaomai</i>.</span>
 word_sums:
 - respelling: amnesic
   sum: a + Mn + ese + ic
