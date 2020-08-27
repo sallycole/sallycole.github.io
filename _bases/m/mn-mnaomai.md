@@ -11,47 +11,47 @@ wiktionary_root_link: https://en.wiktionary.org/wiki/%CE%BC%CE%BD%CE%AC%CE%BF%CE
 notes: <span>The Greek root <i>mnaomai</i>, which is written in Greek as μνάομαι, is the oldest attested root for all the words in this word matrix. For example, the root for <amnesty> is from Greek <i>mnestis</i> and ultimately from Greek <i>mnaomai</i>. The roots for <mnemonic> and <amnesia> trace back to Greek <i>mnasthai</i>, which according to Wiktionary is the present mediopassive infinitive of <i>mnaomai</i>.</span>
 word_sums:
 - respelling: amnesic
-  sum: a + Mnese + ic
+  sum: a + Mn + ese + ic
 - respelling: nonamnesic
-  sum: non + a + Mnese + ic
+  sum: non + a + Mn + ese + ic
 - respelling: amnesia
-  sum: a + Mnese + ia
+  sum: a + Mn + ese + ia
 - respelling: amnesias
-  sum: a + Mnese + ia + s
+  sum: a + Mn + ese + ia + s
 - respelling: anamnesis
-  sum: ana + Mnese + is
+  sum: ana + Mn + ese + is
 - respelling: anamneses
-  sum: ana + Mnese + es
+  sum: ana + Mn + ese + es
 - respelling: mnemonic
-  sum: Mneme + on + ic
+  sum: Mn + eme + on + ic
 - respelling: antimnemonic
-  sum: anti + Mneme + on + ic
+  sum: anti + Mn + eme + on + ic
 - respelling: mnemonics
-  sum: Mneme + on + ic + s
+  sum: Mn + eme + on + ic + s
 - respelling: mnemonize
-  sum: Mneme + on + ize
+  sum: Mn + eme + on + ize
 - respelling: mnemonizes
-  sum: Mneme + on + ize + s
+  sum: Mn + eme + on + ize + s
 - respelling: mnemonizing
-  sum: Mneme + on + ize + ing
+  sum: Mn + eme + on + ize + ing
 - respelling: mnemonized
-  sum: Mneme + on + ize + ed
+  sum: Mn + eme + on + ize + ed
 - respelling: Mnemosyne
-  sum: Mneme + o + syne
+  sum: Mn + eme + o + syne
 - respelling: mnestic
-  sum: Mnest + ic
+  sum: Mn + est + ic
 - respelling: amnestic
-  sum: a + Mnest + ic
+  sum: a + Mn + est + ic
 - respelling: amnestics
-  sum: a + Mnest + ic + s
+  sum: a + Mn + est + ic + s
 - respelling: amnestically
-  sum: a + Mnest + ic + al + ly
+  sum: a + Mn + est + ic + al + ly
 - respelling: amnesty
-  sum: a + Mnest + y
+  sum: a + Mn + est + y
 - respelling: amnestying
-  sum: a + Mnest + y + ing
+  sum: a + Mn + est + y + ing
 - respelling: amnestied
-  sum: a + Mnest + y + ed
+  sum: a + Mn + est + y + ed
 - respelling: amnesties
-  sum: a + Mnest + y + es
+  sum: a + Mn + est + y + es
 ---

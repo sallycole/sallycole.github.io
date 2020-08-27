@@ -1,5 +1,5 @@
 ---
-category: 2-letters
+category: 3-letters
 denotation: friend, lover
 name: ami
 reference_link: https://www.etymonline.com/word/ami
