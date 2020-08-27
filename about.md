@@ -92,7 +92,7 @@ wiktionary_root_link: URL
 courtesy_link:
 - name: Site Name
   url: URL
-notes: <span>Write any special notes you have in HTML using the span tag.</span>
+note: <span>Write any special notes you have in HTML using the span tag.</span>
 word_sums:
 - sum: e + Vide + ence
   respelling: evidence
