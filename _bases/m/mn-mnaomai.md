@@ -54,4 +54,5 @@ word_sums:
   sum: a + Mn + est + y + ed
 - respelling: amnesties
   sum: a + Mn + est + y + es
+word_matrix: /assets/m/mn-mnaomai.png
 ---
