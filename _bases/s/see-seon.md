@@ -68,21 +68,21 @@ word_sums:
 - respelling: inseen
   sum: In + See + en
 - respelling: forsee
-  sum: For + See
+  sum: for + See
 - respelling: forsees
-  sum: For + See + s
+  sum: for + See + s
 - respelling: forseeing
-  sum: For + See + ing
+  sum: for + See + ing
 - respelling: forseen
-  sum: For + See + en
+  sum: for + See + en
 - respelling: foresee
-  sum: Fore + See
+  sum: fore + See
 - respelling: foresees
-  sum: Fore + See + s
+  sum: fore + See + s
 - respelling: foreseeing
-  sum: Fore + See + ing
+  sum: fore + See + ing
 - respelling: foreseen
-  sum: Fore + See + en
+  sum: fore + See + en
 - respelling: besee
   sum: Be + See
 - respelling: besee
@@ -105,6 +105,7 @@ word_sums:
   sum: See + ing
 - respelling: seen
   sum: See + en
+word_matrix: /assets/s/see-seon.png
 related_bases:
 - name: saw
   url: /bases/3-letters/saw-seon/

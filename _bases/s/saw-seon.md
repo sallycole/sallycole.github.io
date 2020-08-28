@@ -17,7 +17,7 @@ word_sums:
 - respelling: Besaw
   sum: Be + Saw
 - respelling: foresaw
-  sum: Fore + Saw
+  sum: fore + Saw
 - respelling: forsaw
   sum: for + Saw
 - respelling: insaw
@@ -32,7 +32,8 @@ word_sums:
   sum: Under + Saw
 - respelling: unsaw
   sum: un + Saw
+word_matrix: /assets/s/saw-seon.png
 related_bases:
-- name: a relative
+- name: see
   url: /bases/3-letters/see-seon/
 ---
