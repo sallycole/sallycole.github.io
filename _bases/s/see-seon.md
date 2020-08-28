@@ -75,8 +75,6 @@ word_sums:
   sum: For + See + ing
 - respelling: forseen
   sum: For + See + en
-- respelling: oversee
-  sum: Over + See
 - respelling: foresee
   sum: Fore + See
 - respelling: foresees
@@ -107,6 +105,7 @@ word_sums:
   sum: See + ing
 - respelling: seen
   sum: See + en
-other_relatives:
-  - name: saw
+related_bases:
+- name: saw
+  url: /bases/3-letters/saw-seon/
 ---
