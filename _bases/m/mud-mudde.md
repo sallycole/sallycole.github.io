@@ -120,6 +120,8 @@ word_sums:
   sum: Mud + Cap
 - respelling: mudcat
   sum: Mud + Cat
+- respelling: mudden
+  sum: Mud + en
 - respelling: mudded
   sum: Mud + ed
 - respelling: mudhen

@@ -6,7 +6,6 @@ category: 3-letters
 denotation: "to see, look, behold"
 root_language: Old English
 root_name: seon
-category: 3-letters
 etymonline_root_search_link: https://www.etymonline.com/search?q=seon
 etymonline_base_link: https://www.etymonline.com/word/saw
 wiktionary_base_link: https://en.wiktionary.org/wiki/saw
