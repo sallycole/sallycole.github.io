@@ -81,10 +81,9 @@ name: vide
 title: vide
 type: free
 category: 4-letters
-reference_link: https://www.etymonline.com/word/vide#etymonline_v_7775
+denotation: "see"
 root_name: videre
 root_language: Latin
-denotation: "see"
 etymonline_root_search_link: URL
 etymonline_base_link: URL
 wiktionary_base_link: URL
