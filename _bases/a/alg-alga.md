@@ -23,7 +23,7 @@ word_sums:
 - respelling: algology
   sum: Alg + o + Loge + y
 - respelling: algicide
-  sum: Alg + i + cide
+  sum: Alg + i + Cide
 - respelling: algin
   sum: Alg + in
 - respelling: algins
