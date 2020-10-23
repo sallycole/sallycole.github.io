@@ -1,13 +1,16 @@
 ---
-category: 1-letter
-denotation: one
 name: a
-reference_link: https://www.etymonline.com/word/a
-root_language: Old English
-root_name: an
 title: a
 type: free
+category: 1-letter
+denotation: "one"
+root_name: an
+root_language: Old English
+etymonline_root_search_link: https://www.etymonline.com/search?q=an
+etymonline_base_link: https://www.etymonline.com/word/a
+wiktionary_base_link: https://en.wiktionary.org/wiki/a
+wiktionary_root_link: https://en.wiktionary.org/wiki/an#Old_English
 word_sums:
-- respelling: awhile
-  sum: A + While
+- sum: A
+  respelling: a
 ---
