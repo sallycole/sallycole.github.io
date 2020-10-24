@@ -138,13 +138,13 @@ word_sums:
 - respelling: filmography
   sum: Film + o + Graph + y
 - respelling: stratographically
-  sum: Strat + o + Graph + ic + al + ly
+  sum: Strate + o + Graph + ic + al + ly
 - respelling: stratographical
-  sum: Strat + o + Graph + ic + al
+  sum: Strate + o + Graph + ic + al
 - respelling: stratographic
-  sum: Strat + o + Graph + ic
+  sum: Strate + o + Graph + ic
 - respelling: stratography
-  sum: Strat + o + Graph + y
+  sum: Strate + o + Graph + y
 - respelling: uranographists
   sum: Urane + o + Graph + ist + s
 - respelling: uranographist

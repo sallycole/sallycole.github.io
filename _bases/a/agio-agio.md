@@ -1,6 +1,6 @@
 ---
 category: 4-letters
-denotation: ease
+denotation: "ease"
 name: agio
 reference_link: https://www.thefreedictionary.com/agio
 root_language: Italian

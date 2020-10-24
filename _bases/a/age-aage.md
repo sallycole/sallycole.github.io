@@ -9,7 +9,7 @@ title: age
 type: free
 word_sums:
 - respelling: ages
-  sum: Age + s
+  sum: Age + es
 - respelling: aged
   sum: Age + ed
 - respelling: aging
@@ -19,7 +19,7 @@ word_sums:
 - respelling: agist
   sum: Age + ist
 - respelling: ageless
-  sum: Age + less
+  sum: Age + Less
 - respelling: teenage
   sum: Teen + Age
 - respelling: teenager

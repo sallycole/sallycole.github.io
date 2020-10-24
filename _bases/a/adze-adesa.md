@@ -7,6 +7,7 @@ root_language: Old English
 root_name: adesa
 title: adze
 type: free
+note: <span>Adz and adze are alternative spellings.</span>
 word_sums:
 - respelling: adzes
   sum: Adze + es
@@ -14,4 +15,7 @@ word_sums:
   sum: Adze + ing
 - respelling: adzed
   sum: Adze + ed
+related_bases:
+- name: adz
+  url: /bases/3-letters/adz-adesa/
 ---

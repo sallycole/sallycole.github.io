@@ -18,9 +18,9 @@ A word sum is a hypothesis about the morphemic structure of a word. One way this
 
 1) With the **consonant doubling convention**, you must double the consonant letter of a base element if the following conditions are met:
 
-  * There is a suffix being added to the base element that begins with a vowel letter.
-  * The base element is either a single monosyllabic form or the stressed part of a polysyllabic form.
-  * The base element ends with a vowel letter grapheme followed by a consonant letter grapheme, but not \<w\> or \<x\>.  
+  * There is a suffix that begins with a vowel letter being added to a base element.
+  * The base element is a single, monosyllabic form. Or, the base element is a polysyllabic form that ends with a stressed syllable.
+  * The base element ends with a vowel letter grapheme followed by a consonant letter grapheme, but not \<w\> or \<x\>.
 
   Examples:  
   cut + ing -> cutting  
@@ -29,6 +29,8 @@ A word sum is a hypothesis about the morphemic structure of a word. One way this
   box + ing -> boxing
 
   Note that a consonant at the end of a prefix or suffix will never double. Only a consonant at the end of a base element may double.
+
+  Also note that only a vowel suffix can force consonant doubling. A connecting vowel letter can not force consonant doubling.
 
 2) With the **final e convention**, you must replace the final \<e\> in the morpheme on the left side of a join between two morphemes if the following conditions are met:
 

@@ -12,4 +12,9 @@ word_sums:
   sum: Acne + s
 - respelling: acned
   sum: Acne + ed
+related_bases:
+- name: acme
+  url: /bases/4-letters/acme-akme/
+- name: acm
+  url: /bases/3-letters/acm-akme/
 ---
