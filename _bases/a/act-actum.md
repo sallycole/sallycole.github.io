@@ -90,4 +90,11 @@ word_sums:
   sum: Over + Act + ive
 - respelling: overactivity
   sum: Over + Act + ive + ity
+related_bases:
+- name: age
+  url: /bases/3-letters/age-agere/
+- name: ige
+  url: /bases/3-letters/ige-agere/
+- name: age
+  url: /bases/3-letters/age-agein/
 ---

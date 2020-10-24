@@ -25,7 +25,7 @@ word_sums:
 - respelling: mnemonic
   sum: Mn + eme + on + ic
 - respelling: antimnemonic
-  sum: anti + Mn + eme + on + ic
+  sum: ant + i + Mn + eme + on + ic
 - respelling: mnemonics
   sum: Mn + eme + on + ic + s
 - respelling: mnemonize

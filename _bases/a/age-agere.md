@@ -40,4 +40,11 @@ word_sums:
   sum: Age + ile
 - respelling: agility
   sum: Age + ile + ity
+related_bases:
+- name: ige
+  url: /bases/3-letters/ige-agere/
+- name: act
+  url: /bases/3-letters/act-actum/
+- name: age
+  url: /bases/3-letters/age-agein/
 ---

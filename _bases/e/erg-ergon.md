@@ -45,9 +45,9 @@ word_sums:
 - respelling: allergists
   sum: All + Erg + ist + s
 - respelling: antiallergenic
-  sum: anti + All + Erg + en + ic
+  sum: ant + i + All + Erg + en + ic
 - respelling: antiallergenics
-  sum: anti + All + Erg + en + ic + s
+  sum: ant + i + All + Erg + en + ic + s
 - respelling: synergy
   sum: syn + Erg + y
 - respelling: ergometer
