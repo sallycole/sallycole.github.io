@@ -19,14 +19,16 @@ A word sum is a hypothesis about the morphemic structure of a word. One way this
 1) With the **consonant doubling convention**, you must double the consonant letter of a base element if the following conditions are met:
 
   * There is a suffix that begins with a vowel letter being added to a base element.
-  * The base element is a single, monosyllabic form. Or, the base element is a polysyllabic form that ends with a stressed syllable.
+  * The base element is a single, monosyllabic form. Or, it is a polysyllabic form whereby the final syllable of the base element is a stressed syllable in the word being built.
   * The base element ends with a vowel letter grapheme followed by a consonant letter grapheme, but not \<w\> or \<x\>.
 
   Examples:  
   cut + ing -> cutting  
   per + mit + ed -> permitted
+  trepan + ing -> trepanning
   sew + ing -> sewing
   box + ing -> boxing
+  orphan + ed -> orphaned
 
   Note that a consonant at the end of a prefix or suffix will never double. Only a consonant at the end of a base element may double.
 
