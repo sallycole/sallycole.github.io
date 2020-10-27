@@ -108,5 +108,5 @@ word_sums:
   sum: Chrone + o + Graph + s
 - respelling: chronograph
   sum: Chrone + o + Graph
-word_matrix: /assets/letter/base-root.png
+word_matrix: /assets/c/chrone-khronos.png
 ---
