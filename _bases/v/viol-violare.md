@@ -44,5 +44,5 @@ word_sums:
   respelling: inviolably
 - sum: in + Viol + ate
   respelling: inviolate
-word_matrix: /assets/letter/base-root.png
+word_matrix: /assets/v/viol-violare.png
 ---
