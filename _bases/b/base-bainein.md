@@ -32,15 +32,4 @@ word_sums:
   respelling: baseball
 - sum: Base + al
   respelling: basal
-word_matrix: /assets/letter/base-root.png
-related_bases:
-- name: a relative
-  url: /bases/#-letters/base-root/
-- name: a relative
-  url: /bases/#-letters/base-root/
-other_relatives:
-- name: name
-- name: name
-other_images:
-- image: /assets/letter/base_identifier.jpeg
 ---
