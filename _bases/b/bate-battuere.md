@@ -8,6 +8,10 @@ root_name: battuere
 title: bate
 type: bound
 word_sums:
+- respelling: abatis
+  sum: a + Bate + is
+- respelling: abatement
+  sum: a + Bate + ment
 - respelling: abate
   sum: a + Bate
 - respelling: abating
@@ -28,6 +32,8 @@ word_sums:
   sum: un + a + Bate + ing + ly
 - respelling: debate
   sum: de + Bate
+- respelling: debatable
+  sum: de + Bate + able
 - respelling: debated
   sum: de + Bate + ed
 - respelling: debating

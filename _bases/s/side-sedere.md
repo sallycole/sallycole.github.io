@@ -130,4 +130,7 @@ word_sums:
   sum: pre + Side + ing
 - respelling: presider
   sum: pre + Side + er
+related_bases:
+- name: sede
+  url: /bases/4-letters/sede-sedere/
 ---

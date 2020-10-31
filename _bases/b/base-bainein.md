@@ -10,6 +10,8 @@ etymonline_root_search_link: https://www.etymonline.com/search?q=bainein
 etymonline_base_link: https://www.etymonline.com/word/base
 wiktionary_base_link: https://en.wiktionary.org/wiki/base
 word_sums:
+- sum: Base + is
+  respelling: basis
 - sum: Base + ed
   respelling: based
 - sum: Base + ing
