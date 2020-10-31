@@ -9,6 +9,38 @@ root_language: Latin
 etymonline_root_search_link: https://www.etymonline.com/search?q=ferre
 wiktionary_root_link: https://en.wiktionary.org/wiki/ferre#Latin
 word_sums:
+- sum: in + trans + Late + able
+  respelling: intranslatable
+- sum: trans + Late + able
+  respelling: translatable
+- sum: mis + trans + Late
+  respelling: mistranslate
+- sum: trans + Late + s
+  respelling: translates
+- sum: trans + Late + ing
+  respelling: translating
+- sum: trans + Late + ed
+  respelling: translated
+- sum: trans + Late + ion
+  respelling: translation
+- sum: trans + Late
+  respelling: translate
+- sum: inter + re + Late
+  respelling: interrelate
+- sum: inter + re + Late + ed
+  respelling: interrelated
+- sum: un + re + Late + ed
+  respelling: unrelated
+- sum: re + Late + ion
+  respelling: relation
+- sum: re + Late + ed
+  respelling: related
+- sum: re + Late + ing
+  respelling: relating
+- sum: re + Late + or
+  respelling: relator
+- sum: re + Late
+  respelling: relate
 - sum: e + Late + ing
   respelling: elating
 - sum: e + Late + s

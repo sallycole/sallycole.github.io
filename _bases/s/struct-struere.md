@@ -24,11 +24,11 @@ word_sums:
 - respelling: unconstructed
   sum: un + con + Struct + ed
 - respelling: superstructures
-  sum: super + Struct + ure + s
+  sum: Super + Struct + ure + s
 - respelling: superstructure
-  sum: super + Struct + ure
+  sum: Super + Struct + ure
 - respelling: superstructural
-  sum: super + Struct + ure + al
+  sum: Super + Struct + ure + al
 - respelling: substructures
   sum: sub + Struct + ure + s
 - respelling: substructure
