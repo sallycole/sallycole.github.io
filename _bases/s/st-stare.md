@@ -8,7 +8,28 @@ root_name: sto, stare, steti, statum
 root_language: Latin
 etymonline_root_search_link: https://www.etymonline.com/search?q=stare
 wiktionary_root_link: https://en.wiktionary.org/wiki/sto#Latin
+courtesy_link:
+- name: Linguist Educator Exchange
+  url: https://linguisteducatorexchange.com/2012/06/24/at-a-standstill/
 word_sums:
+- sum: St + age
+  respelling: stage
+- sum: re + St
+  respelling: rest
+- sum: co + St
+  respelling: cost
+- sum: Arm + i + St + ice
+  respelling: armistice
+- sum: Sol + St + ice
+  respelling: solstice
+- sum: in + St + ite + ute
+  respelling: institute
+- sum: in + St + ite + ute + ion
+  respelling: institution
+- sum: anti + dis + e + St + able + ish + ment + ary + an + ism
+  respelling: antidisestablishmentarianism
+- sum: St + ate + ion
+  respelling: station
 - sum: St + ate + ion
   respelling: station
 - sum: St + ate + ist + ic + i + an
@@ -21,9 +42,9 @@ word_sums:
   respelling: statistic
 - sum: in + St + ant
   respelling: instant
-- sum: ob + St + a + cle + s
+- sum: ob + St + acle + s
   respelling: obstacles
-- sum: ob + St + a + cle
+- sum: ob + St + acle
   respelling: obstacle
 - sum: Hap + en + St + ance
   respelling: happenstance
@@ -127,6 +148,8 @@ word_sums:
   respelling: stat
 - sum: St + ate + us
   respelling: status
+- sum: mis + St + ate
+  respelling: misstate
 - sum: St + ate
   respelling: state
 related_bases:
