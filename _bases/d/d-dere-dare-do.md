@@ -1,6 +1,6 @@
 ---
 category: 1-letter
-denotation: give
+denotation: put, place, give
 name: d
 reference_link: https://parentingpatch.com/word-matrix-d/
 root_language: Latin
@@ -580,6 +580,14 @@ word_sums:
   sum: ren + D + er + er + s
 - respelling: renderable
   sum: ren + D + er + able
+- respelling: remaindering
+  sum: re + Main + D + er + ing
+- respelling: remaindered
+  sum: re + Main + D + er + ed
+- respelling: remainders
+  sum: re + Main + D + er + s
+- respelling: remainder
+  sum: re + Main + D + er
 - respelling: surrender
   sum: sur + ren + D + er
 - respelling: surrenders

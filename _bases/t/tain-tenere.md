@@ -21,10 +21,29 @@ word_sums:
   sum: de + Tain
 - respelling: pertain
   sum: per + Tain
+- respelling: maintainability
+  sum: Main + Tain + ability
+- respelling: maintainable
+  sum: Main + Tain + able
+- respelling: maintaining
+  sum: Main + Tain + ing
+- respelling: maintained
+  sum: Main + Tain + ed
+- respelling: maintainers
+  sum: Main + Tain + er + s
+- respelling: maintainer
+  sum: Main + Tain + er
+- respelling: maintains
+  sum: Main + Tain + s
 - respelling: maintain
   sum: Main + Tain
 - respelling: contain
   sum: con + Tain
 - respelling: retain
   sum: re + Tain
+related_bases:
+- name: tene
+  url: /bases/4-letters/tene-tenere/
+- name: tent
+  url: /bases/4-letters/tent-tenere/
 ---
