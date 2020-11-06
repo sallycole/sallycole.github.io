@@ -35,8 +35,13 @@ word_sums:
   respelling: decree
 - sum: ex + Cr + ete
   respelling: excrete
-- sum: ex + Cr + e + ment
+- sum: ex + Cr + eme + ent
   respelling: excrement
-- sum: re + Cr + e + ment
+- sum: re + Cr + eme + ent
   respelling: recrement
+related_bases:
+- name: cr
+  url: /bases/2-letters/cr-cernere/
+- name: creet
+  url: /bases/5-letters/creet-cernere/
 ---
