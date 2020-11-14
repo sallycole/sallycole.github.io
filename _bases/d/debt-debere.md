@@ -36,7 +36,7 @@ word_sums:
 word_matrix: /assets/d/debt-debere.png
 related_bases:
 - name: deb
-  url: /bases/3-letters/deb-debere/
+  url: /bases/4-letters/debe-debere/
 other_relatives:
 - name: endeavor
 - name: duty

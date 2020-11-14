@@ -9,9 +9,9 @@ root_language: Latin
 etymonline_root_search_link: https://www.etymonline.com/search?q=latere
 wiktionary_root_link: https://en.wiktionary.org/wiki/latere#Latin
 word_sums:
-- sum: Late + escence
+- sum: Late + esce + ence
   respelling: latescence
-- sum: Late + escent
+- sum: Late + esce + ent
   respelling: latescent
 - sum: Late + ence + y
   respelling: latency

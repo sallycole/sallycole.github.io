@@ -10,4 +10,6 @@ type: bound
 word_sums:
 - respelling: again
   sum: a + Gain
+- respelling: gainsay
+  sum: Gain + Say
 ---

@@ -1,33 +1,32 @@
 ---
-category: 3-letters
-denotation: owe
-name: deb
-root_language: Latin
-root_name: debere (debeo, debere, debui, debitum)
-title: deb
+name: debe
+title: debe
 type: bound
+category: 4-letters
+denotation: "owe"
+root_name: debeo, debere, debui, debitum
+root_language: Latin
 etymonline_root_search_link: https://www.etymonline.com/search?q=debere
 wiktionary_root_link: https://en.wiktionary.org/wiki/debeo#Latin
 word_sums:
 - respelling: debentured
-  sum: Deb + ent + ure + ed
+  sum: Debe + ent + ure + ed
 - respelling: debentures
-  sum: Deb + ent + ure + s
+  sum: Debe + ent + ure + s
 - respelling: debenture
-  sum: Deb + ent + ure
+  sum: Debe + ent + ure
 - respelling: debitors
-  sum: Deb + it + or + s
+  sum: Debe + it + or + s
 - respelling: debitor
-  sum: Deb + it + or
+  sum: Debe + it + or
 - respelling: debits
-  sum: Deb + it + s
+  sum: Debe + it + s
 - respelling: debited
-  sum: Deb + it + ed
+  sum: Debe + it + ed
 - respelling: debiting
-  sum: Deb + it + ing
+  sum: Debe + it + ing
 - respelling: debit
-  sum: Deb + it
-word_matrix: /assets/d/deb-debere.png
+  sum: Debe + it
 related_bases:
 - name: debt
   url: /bases/4-letters/debt-debere/
