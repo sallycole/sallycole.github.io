@@ -8,6 +8,8 @@ root_name: ofer
 title: over
 type: free
 word_sums:
+- respelling: overage
+  sum: Over + age
 - respelling: leftover
   sum: Left + Over
 ---

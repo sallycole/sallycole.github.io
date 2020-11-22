@@ -9,7 +9,7 @@ title: spire
 type: bound
 word_sums:
 - respelling: conspiratorial
-  sum: con + Spire + ate + or + ial
+  sum: con + Spire + ate + or + i + al
 - respelling: coconspirators
   sum: co + con + Spire + ate + or + s
 - respelling: conspirational

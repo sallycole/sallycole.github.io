@@ -30,4 +30,8 @@ related_bases:
   url: /bases/3-letters/act-actum/
 - name: age
   url: /bases/3-letters/age-agere/
+- name: essay
+  url: /bases/5-letters/essay-agere/
+- name: assay
+  url: /bases/5-letters/assay-agere/
 ---

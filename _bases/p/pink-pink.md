@@ -82,8 +82,6 @@ word_sums:
   sum: Pink + Ville
 - respelling: pinkvilles
   sum: Pink + Ville + s
-- respelling: pinkerrific
-  sum: Pink + er + rific
 - respelling: pinkatastic
   sum: Pink + a + tastic
 - respelling: pinkititis

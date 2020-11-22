@@ -97,4 +97,8 @@ related_bases:
   url: /bases/3-letters/ige-agere/
 - name: age
   url: /bases/3-letters/age-agein/
+- name: essay
+  url: /bases/5-letters/essay-agere/
+- name: assay
+  url: /bases/5-letters/assay-agere/
 ---

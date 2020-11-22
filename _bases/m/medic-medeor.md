@@ -34,7 +34,7 @@ word_sums:
 - respelling: medicine
   sum: Mede + ic + ine
 - respelling: remedial
-  sum: re + Mede + ial
+  sum: re + Mede + y + al
 - respelling: remediable
   sum: re + Mede + y + able
 - respelling: remedying

@@ -1,6 +1,6 @@
 ---
 category: 4-letters
-denotation: feather, wing
+denotation: feather, wing, wing-like object, fern
 name: pter
 root_language: Greek
 root_name: pteron
@@ -11,7 +11,6 @@ wiktionary_root_link: https://en.wiktionary.org/wiki/%CF%80%CF%84%CE%B5%CF%81%CF
 courtesy_link:
 - name: The Parenting Patch
   url: https://parentingpatch.com/word-matrix-pter/
-note: <span>It is odd that the &LT;r&GT; is not doubled in words like pterin, pterine, and pteridine. The word sums for these words all meet the conditions of doubling, and yet the &LT;r&GT; remains a single &LT;r&GT;. There is a possibility that the base is not &LT;pter&GT;. Instead, the base could be &LT;pt&GT; followed by an &LT;-er&GT; suffix. This would explain why the &LT;r&GT; is not doubling in the words pterin, pterine, and pteridine. In addition, a &LT;pt&GT; base would not be the only Greek base of just two letters. There is an &LT;mn&GT; base from the Greek word mnaomai.</span>
 word_sums:
 - respelling: pteridine
   sum: Pter + id + ine
@@ -68,7 +67,7 @@ word_sums:
 - respelling: pterygia
   sum: Pter + yg + ia
 - respelling: pterygial
-  sum: Pter + yg + ial
+  sum: Pter + yg + i + al
 - respelling: pterygoid
   sum: Pter + yg + oid
 - respelling: pterygoids
