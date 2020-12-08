@@ -11,14 +11,46 @@ wiktionary_root_link: https://en.wiktionary.org/wiki/fero#Latin
 word_sums:
 - respelling: circumference
   sum: Circ + um + Fer + ence
+- respelling: suffered
+  sum: suf + Fer + ed
+- respelling: suffering
+  sum: suf + Fer + ing
 - respelling: suffer
   sum: suf + Fer
+- respelling: coniferous
+  sum: Cone + i + Fer + ous
+- respelling: conifered
+  sum: Cone + i + Fer + ed
 - respelling: conifer
   sum: Cone + i + Fer
+- respelling: aquiferous
+  sum: Aqu + i + Fer + ous
 - respelling: aquifer
   sum: Aqu + i + Fer
+- respelling: transferred
+  sum: trans + Fer + ed
+- respelling: transferring
+  sum: trans + Fer + ing
+- respelling: transferors
+  sum: trans + Fer + or + s
+- respelling: transferor
+  sum: trans + Fer + or
+- respelling: transferees
+  sum: trans + Fer + ee + s
+- respelling: transferee
+  sum: trans + Fer + ee
 - respelling: transfer
   sum: trans + Fer
+- respelling: reference
+  sum: re + Fer + ence
+- respelling: referrals
+  sum: re + Fer + al + s
+- respelling: referral
+  sum: re + Fer + al
+- respelling: referred
+  sum: re + Fer + ed
+- respelling: referring
+  sum: re + Fer + ing
 - respelling: refer
   sum: re + Fer
 - respelling: preferring
@@ -37,10 +69,32 @@ word_sums:
   sum: pre + Fer + Able
 - respelling: prefer
   sum: pre + Fer
+- respelling: offered
+  sum: of + Fer + ed
+- respelling: offerings
+  sum: of + Fer + ing + s
+- respelling: offering
+  sum: of + Fer + ing
 - respelling: offer
   sum: of + Fer
+- respelling: difference
+  sum: dif + Fer + ence
+- respelling: differed
+  sum: dif + Fer + ed
+- respelling: differing
+  sum: dif + Fer + ing
 - respelling: differ
   sum: dif + Fer
+- respelling: conferred
+  sum: con + Fer + ed
+- respelling: conferring
+  sum: con + Fer + ing
+- respelling: conferrable
+  sum: con + Fer + able
+- respelling: conferral
+  sum: con + Fer + al
+- respelling: conference
+  sum: con + Fer + ence
 - respelling: confer
   sum: con + Fer
 - respelling: deferable

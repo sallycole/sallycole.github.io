@@ -28,4 +28,9 @@ word_sums:
   sum: inter + View + er
 - respelling: reviewer
   sum: re + View + er
+related_bases:
+- name: vise
+  url: /bases/4-letters/vise-videre/
+- name: vide
+  url: /bases/4-letters/vide-videre/
 ---

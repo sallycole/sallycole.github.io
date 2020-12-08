@@ -18,4 +18,9 @@ word_sums:
   sum: e + Vide + ent
 - respelling: evidently
   sum: e + Vide + ent + ly
+related_bases:
+- name: view
+  url: /bases/4-letters/view-videre/
+- name: vise
+  url: /bases/4-letters/vise-videre/
 ---
