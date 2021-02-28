@@ -29,11 +29,15 @@ word_sums:
 - respelling: conspire
   sum: con + Spire
 - respelling: spiracular
-  sum: Spire + ac + ular
+  sum: Spire + a + cule + ar
 - respelling: spiracles
-  sum: Spire + ac + le + s
+  sum: Spire + a + cle + s
+- respelling: spiracula
+  sum: Spire + a + cule + a
+- respelling: spiraculum
+  sum: Spire + a + cule + um
 - respelling: spiracle
-  sum: Spire + ac + le
+  sum: Spire + a + cle
 - respelling: respire
   sum: re + Spire
 ---
