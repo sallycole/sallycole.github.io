@@ -8,10 +8,16 @@ root_name: kyklos
 title: cycle
 type: free
 word_sums:
+- respelling: cycloaddition
+  sum: Cycle + o + ad + D + it + ion
+- respelling: cycloadditions
+  sum: Cycle + o + ad + D + it + ion + s
+- respelling: cyclic
+  sum: Cycle + ic
 - respelling: epicycle
   sum: epi + Cycle
 - respelling: unicycle
   sum: uni + Cycle
 - respelling: bicycle
-  sum: bi + cycle
+  sum: bi + Cycle
 ---
