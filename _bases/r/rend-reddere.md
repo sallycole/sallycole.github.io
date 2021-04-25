@@ -10,9 +10,9 @@ type: stem
 note: <span>&LT;rend&GT; works like a bound base element, but it can arguably be analyzed into &LT;ren&GT; + &LT;<a href="https://wordsums.info/bases/1-letter/d-dere-dare-do/">D</a>&GT;, where &LT;D&GT; is the base element.</span>
 word_sums:
 - respelling: rendition
-  sum: ren + D + ite + ion
+  sum: ren + D + it + ion
 - respelling: renditions
-  sum: ren + D + ite + ion + s
+  sum: ren + D + it + ion + s
 - respelling: render
   sum: ren + D + er
 - respelling: renders

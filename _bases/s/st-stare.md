@@ -22,9 +22,9 @@ word_sums:
   respelling: armistice
 - sum: Sol + St + ice
   respelling: solstice
-- sum: in + St + ite + ute
+- sum: in + St + it + ute
   respelling: institute
-- sum: in + St + ite + ute + ion
+- sum: in + St + it + ute + ion
   respelling: institution
 - sum: anti + dis + e + St + able + ish + ment + ary + an + ism
   respelling: antidisestablishmentarianism
@@ -56,9 +56,9 @@ word_sums:
   respelling: circumstances
 - sum: Circ + um + St + ance
   respelling: circumstance
-- sum: Super + St + ite + i + ous
+- sum: Super + St + it + i + ous
   respelling: superstitious
-- sum: Super + St + ite + ion
+- sum: Super + St + it + ion
   respelling: superstition
 - sum: contra + St + ing + ly
   respelling: contrastingly

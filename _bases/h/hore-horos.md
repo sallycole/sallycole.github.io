@@ -15,7 +15,7 @@ word_sums:
 - respelling: horizontally
   sum: Hore + ize + ont + al + ly
 - respelling: horizontality
-  sum: Hore + ize + ont + al + ite + y
+  sum: Hore + ize + ont + al + ity
 - respelling: horizontalness
   sum: Hore + ize + ont + al + ness
 - respelling: aphorism

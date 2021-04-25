@@ -13,11 +13,11 @@ word_sums:
 - respelling: copyedits
   sum: Copy + e + D + it + s
 - respelling: copyedited
-  sum: Copy + e + D + ite + ed
+  sum: Copy + e + D + it + ed
 - respelling: copyediting
-  sum: Copy + e + D + ite + ing
+  sum: Copy + e + D + it + ing
 - respelling: copyeditor
-  sum: Copy + e + D + ite + or
+  sum: Copy + e + D + it + or
 - respelling: copyeditors
-  sum: Copy + e + D + ite + or + s\
+  sum: Copy + e + D + it + or + s\
 ---

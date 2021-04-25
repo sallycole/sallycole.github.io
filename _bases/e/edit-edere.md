@@ -14,51 +14,51 @@ word_sums:
 - respelling: edits
   sum: e + D + it + s
 - respelling: edited
-  sum: e + D + ite + ed
+  sum: e + D + it + ed
 - respelling: editing
-  sum: e + D + ite + ing
+  sum: e + D + it + ing
 - respelling: editable
-  sum: e + D + ite + able
+  sum: e + D + it + able
 - respelling: unedited
-  sum: un + e + D + ite + ed
+  sum: un + e + D + it + ed
 - respelling: edition
-  sum: e + D + ite + ion
+  sum: e + D + it + ion
 - respelling: editions
-  sum: e + D + ite + ion + s
+  sum: e + D + it + ion + s
 - respelling: editor
-  sum: e + D + ite + or
+  sum: e + D + it + or
 - respelling: editors
-  sum: e + D + ite + or + s
+  sum: e + D + it + or + s
 - respelling: editorial
-  sum: e + D + ite + or + i + al
+  sum: e + D + it + or + i + al
 - respelling: editorials
-  sum: e + D + ite + or + i + al + s
+  sum: e + D + it + or + i + al + s
 - respelling: editorialist
-  sum: e + D + ite + or + i + al + ist
+  sum: e + D + it + or + i + al + ist
 - respelling: editorialists
-  sum: e + D + ite + or + i + al + ist + s
+  sum: e + D + it + or + i + al + ist + s
 - respelling: editorialize
-  sum: e + D + ite + or + i + al + ize
+  sum: e + D + it + or + i + al + ize
 - respelling: editorializes
-  sum: e + D + ite + or + i + al + ize + s
+  sum: e + D + it + or + i + al + ize + s
 - respelling: editorialized
-  sum: e + D + ite + or + i + al + ize + ed
+  sum: e + D + it + or + i + al + ize + ed
 - respelling: editorializing
-  sum: e + D + ite + or + i + al + ize + ing
+  sum: e + D + it + or + i + al + ize + ing
 - respelling: editorializer
-  sum: e + D + ite + or + i + al + ize + er
+  sum: e + D + it + or + i + al + ize + er
 - respelling: editorializers
-  sum: e + D + ite + or + i + al + ize + er + s
+  sum: e + D + it + or + i + al + ize + er + s
 - respelling: editorialization
-  sum: e + D + ite + or + i + al + ize + ate + ion
+  sum: e + D + it + or + i + al + ize + ate + ion
 - respelling: editorializations
-  sum: e + D + ite + or + i + al + ize + ate + ion + s
+  sum: e + D + it + or + i + al + ize + ate + ion + s
 - respelling: editorially
-  sum: e + D + ite + or + i + al + ly
+  sum: e + D + it + or + i + al + ly
 - respelling: editorship
-  sum: e + D + ite + or + Ship
+  sum: e + D + it + or + Ship
 - respelling: editorships
-  sum: e + D + ite + or + Ship + s
+  sum: e + D + it + or + Ship + s
 - respelling: editrix
   sum: e + D + it + r + ix
 - respelling: editrixes
@@ -76,37 +76,37 @@ word_sums:
 - respelling: copyedited
   sum: Copy + e + D + ite + ed
 - respelling: copyediting
-  sum: Copy + e + D + ite + ing
+  sum: Copy + e + D + it + ing
 - respelling: copyeditor
-  sum: Copy + e + D + ite + or
+  sum: Copy + e + D + it + or
 - respelling: copyeditors
-  sum: Copy + e + D + ite + or + s
+  sum: Copy + e + D + it + or + s
 - respelling: misedit
   sum: mis + e + D + it
 - respelling: misedits
   sum: mis + e + D + it + s
 - respelling: misedited
-  sum: mis + e + D + ite + ed
+  sum: mis + e + D + it + ed
 - respelling: misediting
-  sum: mis + e + D + ite + ing
+  sum: mis + e + D + it + ing
 - respelling: overedit
   sum: Over + e + D + it
 - respelling: overedits
   sum: Over + e + D + it + s
 - respelling: overedited
-  sum: Over + e + D + ite + ed
+  sum: Over + e + D + it + ed
 - respelling: overediting
-  sum: Over + e + D + ite + ing
+  sum: Over + e + D + it + ing
 - respelling: subedit
   sum: sub + e + D + it
 - respelling: subedits
   sum: sub + e + D + it + s
 - respelling: subedited
-  sum: sub + e + D + ite + ed
+  sum: sub + e + D + it + ed
 - respelling: subediting
-  sum: sub + e + D + ite + ing
+  sum: sub + e + D + it + ing
 - respelling: subeditor
-  sum: sub + e + D + ite + or
+  sum: sub + e + D + it + or
 - respelling: subeditors
-  sum: sub + e + D + ite + or + s
+  sum: sub + e + D + it + or + s
 ---

@@ -9,31 +9,31 @@ title: grave
 type: free
 word_sums:
 - respelling: gravity
-  sum: Grave + ite + y
+  sum: Grave + ity
 - respelling: gravities
-  sum: Grave + ite + y + es
+  sum: Grave + ity + es
 - respelling: gravitate
-  sum: Grave + ite + ate
+  sum: Grave + it + ate
 - respelling: gravitating
-  sum: Grave + ite + ate + ing
+  sum: Grave + it + ate + ing
 - respelling: gravitated
-  sum: Grave + ite + ate + ed
+  sum: Grave + it + ate + ed
 - respelling: gravitates
-  sum: Grave + ite + ate + s
+  sum: Grave + it + ate + s
 - respelling: gravitater
-  sum: Grave + ite + ate + er
+  sum: Grave + it + ate + er
 - respelling: gravitation
-  sum: Grave + ite + ate + ion
+  sum: Grave + it + ate + ion
 - respelling: gravitational
-  sum: Grave + ite + ate + ion + al
+  sum: Grave + it + ate + ion + al
 - respelling: gravitationally
-  sum: Grave + ite + ate + ion + al + ly
+  sum: Grave + it + ate + ion + al + ly
 - respelling: gravitative
-  sum: Grave + ite + ate + ive
+  sum: Grave + it + ate + ive
 - respelling: gravid
   sum: Grave + id
 - respelling: gravidity
-  sum: Grave + id + ite + y
+  sum: Grave + id + ity
 - respelling: gravidness
   sum: Grave + id + ness
 - respelling: gravidly

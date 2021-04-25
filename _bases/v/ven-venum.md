@@ -45,7 +45,7 @@ word_sums:
 - respelling: vendibilities
   sum: Ven + D + ibility + es
 - respelling: vendition
-  sum: Ven + D + ite + ion
+  sum: Ven + D + it + ion
 - respelling: venditions
-  sum: Ven + D + ite + ion + s
+  sum: Ven + D + it + ion + s
 ---

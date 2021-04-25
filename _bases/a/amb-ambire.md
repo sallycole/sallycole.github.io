@@ -13,5 +13,5 @@ word_sums:
 - respelling: ambits
   sum: Amb + it + s
 - respelling: ambition
-  sum: Amb + ite + ion
+  sum: Amb + it + ion
 ---

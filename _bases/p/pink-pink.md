@@ -85,7 +85,7 @@ word_sums:
 - respelling: pinkatastic
   sum: Pink + a + tastic
 - respelling: pinkititis
-  sum: Pink + ite + itis
+  sum: Pink + it + itis
 - respelling: pinkadoodle
   sum: Pink + a + Doodle
 - respelling: pinkadoodles

@@ -72,45 +72,45 @@ word_sums:
 - respelling: addenda
   sum: ad + D + e + nd + a
 - respelling: addition
-  sum: ad + D + ite + ion
+  sum: ad + D + it + ion
 - respelling: additions
-  sum: ad + D + ite + ion + s
+  sum: ad + D + it + ion + s
 - respelling: additional
-  sum: ad + D + ite + ion + al
+  sum: ad + D + it + ion + al
 - respelling: additionally
-  sum: ad + D + ite + ion + al + ly
+  sum: ad + D + it + ion + al + ly
 - respelling: cycloaddition
-  sum: Cycl + o + ad + D + it(e) + ion
+  sum: Cycl + o + ad + D + it + ion
 - respelling: cycloadditions
-  sum: Cycl + o + ad + D + it(e) + ion + s
+  sum: Cycl + o + ad + D + it + ion + s
 - respelling: superaddition
-  sum: Super + ad + D + it(e) + ion
+  sum: Super + ad + D + it + ion
 - respelling: superadditions
-  sum: Super + ad + D + it(e) + ion + s
+  sum: Super + ad + D + it + ion + s
 - respelling: additive
-  sum: ad + D + ite + ive
+  sum: ad + D + it + ive
 - respelling: additives
-  sum: ad + D + ite + ive + s
+  sum: ad + D + it + ive + s
 - respelling: additively
-  sum: ad + D + ite + ive + ly
+  sum: ad + D + it + ive + ly
 - respelling: additivity
-  sum: ad + D + ite + ive + ity
+  sum: ad + D + it + ive + ity
 - respelling: additivities
-  sum: ad + D + ite + ive + ity + es
+  sum: ad + D + it + ive + ity + es
 - respelling: additament
-  sum: ad + D + ite + a + ment
+  sum: ad + D + it + a + ment
 - respelling: additaments
-  sum: ad + D + ite + a + ment + s
+  sum: ad + D + it + a + ment + s
 - respelling: nonadditive
-  sum: non + ad + D + ite + ive
+  sum: non + ad + D + it + ive
 - respelling: nonadditivity
-  sum: non + ad + D + ite + ive + ity
+  sum: non + ad + D + it + ive + ity
 - respelling: nonadditivities
-  sum: non + ad + D + ite + ive + ity + es
+  sum: non + ad + D + it + ive + ity + es
 - respelling: additory
-  sum: ad + D + ite + or + y
+  sum: ad + D + it + or + y
 - respelling: additament
-  sum: ad + D + ite + a + ment
+  sum: ad + D + it + a + ment
 - respelling: additaments
-  sum: ad + D + ite + a + ment + s
+  sum: ad + D + it + a + ment + s
 ---
