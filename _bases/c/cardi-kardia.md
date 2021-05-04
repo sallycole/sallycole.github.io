@@ -14,7 +14,7 @@ word_sums:
 - respelling: pericarditis
   sum: peri + Card + itis
 - respelling: megalocardia
-  sum: megal + o + Cardi + a
+  sum: megalo + Cardi + a
 - respelling: dexiocardia
   sum: Dexi + o + Cardi + a
 - respelling: cardiac
