@@ -127,7 +127,7 @@ If you've made a .md file and are not yet familiar enough with GitHub to check i
 
 You can create a word matrix out of any group of word sums that you copy from this site. Just follow these steps.
 
-1. Browse or search for a morphological base at [wordsums.info](https://wordsums.info).
+1. Browse or search for a morphological base at [https://sallycole.github.io/](https://sallycole.github.io/).
 2. Open the page for a base that interests you.
 2. On the base's page, copy the bulleted list of word sums.
 3. In another browser window, go to [Neil Ramsden's Mini Matrix-Maker](http://www.neilramsden.co.uk/spelling/matrix/temp/index.html).
@@ -139,13 +139,9 @@ If you want to learn more about word sums, you'll want to explore the topics of 
 
 * [Peter Bowers and the WordWorks Literacy Center](http://wordworkskingston.com/WordWorks/Home.html) - Start with [this article](http://www.wordworkskingston.com/WordWorks/Structured_Word_Inquiry.html).
 * [SWI Classes from See the Beauty of Dyslexia](https://www.seethebeautyindyslexia.com/swi-classes.html)
-* [Real Spelling Spellinars](http://www.realspelling.fr/Welcome_to_Real_Spelling/Spellinars.html)
 * [SWI Classes with Mary Beth Stevens](http://mbsteven.edublogs.org/swi-class/)
 * [SWI Coaching with Rebecca Loveless](http://rebeccaloveless.com/)
-* [Gina Cooke and Linguist-Educator Exchange](https://linguisteducatorexchange.com/) - Start with the archive of [posts about bases](https://linguisteducatorexchange.com/category/linguistic-evidence/morphology/bases/).
 * [Word Nerdery by Ann Whiting](https://wordinquiry.wordpress.com/) - Start with [this article](https://wordinquiry.wordpress.com/2017/08/03/finding-our-way-in-the-world/).
 * [Learning About Spelling by Sue Hegland](https://learningaboutspelling.com/) - Start with [this article](https://learningaboutspelling.com/2018/11/06/comprehending-spelling/).
-* [Structured Word Inquiry in the Classroom on Facebook](https://www.facebook.com/groups/107360163171766/)
-* [Structured Word Inquiry on Facebook](https://www.facebook.com/groups/StructuredWordInquiry/)
 
 Enjoy!
